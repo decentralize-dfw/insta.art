@@ -4,18 +4,8 @@
   "camera": "static",
   "shots": [
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_9_charizard angora\\PROCESS\\FRAMED\\0.png",
-      "note": "Genuine making stage 1 (A1554)",
-      "dur": 0.5,
-      "from": {
-        "cx": 0.5,
-        "cy": 0.5,
-        "fit": true
-      }
-    },
-    {
       "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_9_charizard angora\\PROCESS\\FRAMED\\1.png",
-      "note": "Genuine making stage 2 (A1555)",
+      "note": "Genuine painted making stage 1",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -25,7 +15,7 @@
     },
     {
       "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_9_charizard angora\\PROCESS\\FRAMED\\2.png",
-      "note": "Genuine making stage 3 (A1560)",
+      "note": "Genuine painted making stage 2",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -35,7 +25,7 @@
     },
     {
       "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_9_charizard angora\\PROCESS\\FRAMED\\3.png",
-      "note": "Genuine making stage 4 (A1561)",
+      "note": "Genuine painted making stage 3",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -45,7 +35,7 @@
     },
     {
       "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_9_charizard angora\\PROCESS\\FRAMED\\4.png",
-      "note": "Genuine making stage 5 (A1562)",
+      "note": "Genuine painted making stage 4",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -55,7 +45,7 @@
     },
     {
       "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_9_charizard angora\\PROCESS\\FRAMED\\5.png",
-      "note": "Genuine making stage 6 (A1563)",
+      "note": "Genuine painted making stage 5",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -65,7 +55,7 @@
     },
     {
       "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_9_charizard angora\\PROCESS\\FRAMED\\6.png",
-      "note": "Genuine making stage 7 (A1564)",
+      "note": "Genuine painted making stage 6",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -75,7 +65,7 @@
     },
     {
       "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_9_charizard angora\\PROCESS\\FRAMED\\7.png",
-      "note": "Genuine making stage 8 (A1565)",
+      "note": "Genuine painted making stage 7",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -85,7 +75,7 @@
     },
     {
       "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_9_charizard angora\\PROCESS\\FRAMED\\8.png",
-      "note": "Genuine making stage 9 (A1566)",
+      "note": "Genuine painted making stage 8",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -95,7 +85,7 @@
     },
     {
       "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_9_charizard angora\\PROCESS\\FRAMED\\9.png",
-      "note": "Genuine making stage 10 (A1567)",
+      "note": "Genuine painted making stage 9",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -105,7 +95,7 @@
     },
     {
       "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_9_charizard angora\\PROCESS\\FRAMED\\10.png",
-      "note": "Genuine making stage 11 (A1556)",
+      "note": "Genuine painted making stage 10",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -115,7 +105,7 @@
     },
     {
       "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_9_charizard angora\\PROCESS\\FRAMED\\12.png",
-      "note": "Genuine making stage 12 (A1557)",
+      "note": "Genuine painted making stage 11",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -125,7 +115,7 @@
     },
     {
       "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_9_charizard angora\\PROCESS\\FRAMED\\13.png",
-      "note": "Genuine making stage 13 (A1558)",
+      "note": "Genuine painted making stage 12",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -135,7 +125,7 @@
     },
     {
       "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_9_charizard angora\\PROCESS\\FRAMED\\14.png",
-      "note": "Genuine making stage 14 (A1559)",
+      "note": "Genuine painted making stage 13",
       "dur": 0.5,
       "from": {
         "cx": 0.5,

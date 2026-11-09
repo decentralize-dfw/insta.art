@@ -10,7 +10,7 @@ The camera remains completely static. Each genuine stage is shown once for 0.5 s
 
 ## Excluded files and eligibility
 
-IN ORDER- FRAMED/0.png (A0427) is a Leonardo reference painting, definitively excluded. DETAYLAR2 drawings and digital-artwork are source references, not stages or finished-painted details. COLOR and COLOR-EDITED variants, MERGE mosaics and v2 alternate exports excluded. RESOLUTION without COLOR is used as the highest normal whole export; no enhancement performed here. The two initial drawing exports depict the same setup; only 2.png, with the clearer actual drawing, is retained, followed by the ten painted stages. 1.png is conservatively omitted as a redundant initial drawing. The two initial drawing exports depict the same setup; only 2.png, with the clearer actual drawing, is retained, followed by the ten painted stages. 1.png is conservatively omitted as a redundant initial drawing.
+IN ORDER- FRAMED/0.png (A0427) is a Leonardo reference painting, definitively excluded. DETAYLAR2 drawings and digital-artwork are source references, not stages or finished-painted details. COLOR and COLOR-EDITED variants, MERGE mosaics and v2 alternate exports excluded. RESOLUTION without COLOR is used as the highest normal whole export; no enhancement performed here. The two initial drawing exports depict the same setup; only 2.png, with the clearer actual drawing, is retained, followed by the ten painted stages. 1.png is conservatively omitted as a redundant initial drawing.
 
 ## Sources
 

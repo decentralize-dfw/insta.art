@@ -1,6 +1,6 @@
 # Angora Mergvs · process
 
-9 s · 1080 × 1920 · 30 fps · H.264 · no audio stream · no on-screen text. No publishing date assigned.
+8.5 s · 1080 × 1920 · 30 fps · H.264 · no audio stream · no on-screen text. No publishing date assigned.
 
 Catalog: `decentralize-dfw/yigit/v3/content/works.json`, blob `3c643323bffb2153bef1adedc4ac80977e24aa09`. Both description and artist note were read before selecting the composition route.
 
@@ -10,11 +10,10 @@ The camera remains completely static. Each genuine stage is shown once for 0.5 s
 
 ## Excluded files and eligibility
 
-All remix/MIX files, synthetic reference renders and process collages excluded. FRAMED has no 11.png; no missing stage invented. 0.png is the initial canvas drawing, visually followed by underpainting and painted stages. Approved detail MP4 preserved without rendering.
+All remix/MIX files, synthetic reference renders and process collages excluded. FRAMED has no 11.png; no missing stage invented. A1554 / FRAMED/0.png is a cleaned black-on-white line-art export: native pixels do not establish it as a photographed making stage, so it is conservatively excluded. The video begins with 1.png, whose canvas surface and initial yellow underpainting are visible. Approved detail MP4 preserved without rendering.
 
 ## Sources
 
-- `C:\Users\yigit\Desktop\RESSAMS\RESİMLER DETAY\KOPSTAL\kopstal_9_charizard angora\PROCESS\FRAMED\0.png`
 - `C:\Users\yigit\Desktop\RESSAMS\RESİMLER DETAY\KOPSTAL\kopstal_9_charizard angora\PROCESS\FRAMED\1.png`
 - `C:\Users\yigit\Desktop\RESSAMS\RESİMLER DETAY\KOPSTAL\kopstal_9_charizard angora\PROCESS\FRAMED\2.png`
 - `C:\Users\yigit\Desktop\RESSAMS\RESİMLER DETAY\KOPSTAL\kopstal_9_charizard angora\PROCESS\FRAMED\3.png`
@@ -44,14 +43,14 @@ Music is selected and added by Yiğit in Instagram; no audio has been embedded.
 {
   "slug": "angora-mergvs",
   "type": "process",
-  "duration": 9.0,
-  "frames": 270,
+  "duration": 8.5,
+  "frames": 255,
   "video_only": true,
   "h264_1080x1920_30fps": true,
   "full_decode": true,
   "approved_preserved": false,
-  "distinct_frames": 15,
-  "expected_distinct_frames": 15,
+  "distinct_frames": 14,
+  "expected_distinct_frames": 14,
   "distinct_count_matches": true
 }
 ```

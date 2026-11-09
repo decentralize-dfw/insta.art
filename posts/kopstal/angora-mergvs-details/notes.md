@@ -41,7 +41,7 @@ Intermediate shots keep a constant scale and move on a single axis until the cut
 
 ## Excluded files and eligibility
 
-All remix/MIX files, synthetic reference renders and process collages excluded. FRAMED has no 11.png; no missing stage invented. 0.png is the initial canvas drawing, visually followed by underpainting and painted stages. Approved detail MP4 preserved without rendering.
+All remix/MIX files, synthetic reference renders and process collages excluded. FRAMED has no 11.png; no missing stage invented. A1554 / FRAMED/0.png is a cleaned black-on-white line-art export: native pixels do not establish it as a photographed making stage, so it is conservatively excluded. The video begins with 1.png, whose canvas surface and initial yellow underpainting are visible. Approved detail MP4 preserved without rendering.
 
 ## Sources
 
