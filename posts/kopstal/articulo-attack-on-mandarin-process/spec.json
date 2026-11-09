@@ -1,0 +1,71 @@
+{
+  "type": "reel",
+  "work": "articulo-attack-on-mandarin",
+  "camera": "static",
+  "shots": [
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_2_mandarin articulo odisey\\PROCES-SFRAMED\\1.png",
+      "note": "Genuine making stage 1 (A0212)",
+      "dur": 0.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_2_mandarin articulo odisey\\PROCES-SFRAMED\\2.png",
+      "note": "Genuine making stage 2 (A0213)",
+      "dur": 0.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_2_mandarin articulo odisey\\PROCES-SFRAMED\\3.png",
+      "note": "Genuine making stage 3 (A0214)",
+      "dur": 0.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_2_mandarin articulo odisey\\PROCES-SFRAMED\\4.png",
+      "note": "Genuine making stage 4 (A0215)",
+      "dur": 0.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_2_mandarin articulo odisey\\PROCES-SFRAMED\\5.png",
+      "note": "Genuine making stage 5 (A0216)",
+      "dur": 0.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\INSTAGRAM\\_sources\\mandarin-full-photo-rectified.png",
+      "note": "Finished whole painting on white",
+      "dur": 2.0,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    }
+  ],
+  "cover": {
+    "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\INSTAGRAM\\_sources\\mandarin-full-photo-rectified.png",
+    "fit": true
+  }
+}

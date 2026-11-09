@@ -1,0 +1,123 @@
+{
+  "type": "reel",
+  "work": "sept-neuf",
+  "shots": [
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_7_nine-eleven\\SEPT-NEUF-HIGHRES.png",
+      "note": "Cigarette hand toward the face and two different eyes",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.51,
+        "cy": 0.3,
+        "cover": 2.2
+      },
+      "to": {
+        "cx": 0.27,
+        "cy": 0.3,
+        "cover": 2.2
+      },
+      "ease": "linear"
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_7_nine-eleven\\SEPT-NEUF-HIGHRES.png",
+      "note": "Yellow dress line down to red chest squares",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.36,
+        "cy": 0.35,
+        "cover": 2.2
+      },
+      "to": {
+        "cx": 0.36,
+        "cy": 0.57,
+        "cover": 2.2
+      },
+      "ease": "linear"
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_7_nine-eleven\\SEPT-NEUF-HIGHRES.png",
+      "note": "White nails on the chair arm toward the mint coils",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.22,
+        "cy": 0.55,
+        "cover": 2.2
+      },
+      "to": {
+        "cx": 0.22,
+        "cy": 0.76,
+        "cover": 2.2
+      },
+      "ease": "linear"
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_7_nine-eleven\\SEPT-NEUF-HIGHRES.png",
+      "note": "Crossed legs down to white shoes",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.48,
+        "cy": 0.66,
+        "cover": 2.2
+      },
+      "to": {
+        "cx": 0.48,
+        "cy": 0.7727272727272727,
+        "cover": 2.2
+      },
+      "ease": "linear"
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_7_nine-eleven\\SEPT-NEUF-HIGHRES.png",
+      "note": "Chair edge across to black table structure",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.65,
+        "cy": 0.55,
+        "cover": 2.2
+      },
+      "to": {
+        "cx": 0.8256553858318406,
+        "cy": 0.55,
+        "cover": 2.2
+      },
+      "ease": "linear"
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_7_nine-eleven\\SEPT-NEUF-HIGHRES.png",
+      "note": "Table top up through the pale bird to its turned head",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.77,
+        "cy": 0.59,
+        "cover": 2.2
+      },
+      "to": {
+        "cx": 0.77,
+        "cy": 0.35,
+        "cover": 2.2
+      },
+      "ease": "linear"
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_7_nine-eleven\\SEPT-NEUF-HIGHRES.png",
+      "note": "Centre-locked reveal of the entire painting, then two seconds on white",
+      "dur": 6.0,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "cover": 1.3
+      },
+      "to": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      },
+      "hold": 2.0,
+      "ease": "out"
+    }
+  ],
+  "cover": {
+    "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_7_nine-eleven\\SEPT-NEUF-HIGHRES.png",
+    "fit": true
+  }
+}

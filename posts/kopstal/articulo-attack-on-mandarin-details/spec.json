@@ -1,0 +1,123 @@
+{
+  "type": "reel",
+  "work": "articulo-attack-on-mandarin",
+  "shots": [
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_2_mandarin articulo odisey\\detay\\arcitul0_detail_1.png",
+      "note": "Upper blue bird: streaked wing to long beak",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.32,
+        "cy": 0.5,
+        "cover": 1.0
+      },
+      "to": {
+        "cx": 0.71,
+        "cy": 0.5,
+        "cover": 1.0
+      },
+      "ease": "linear"
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_2_mandarin articulo odisey\\detay\\arcitul0_detail_2.png",
+      "note": "Next group: connected blue-white birds across the flock",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.7,
+        "cy": 0.5,
+        "cover": 1.0
+      },
+      "to": {
+        "cx": 0.29,
+        "cy": 0.5,
+        "cover": 1.0
+      },
+      "ease": "linear"
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_2_mandarin articulo odisey\\detay\\arcitul0_detail_6.png",
+      "note": "Thin figure from face down through the hands on the pole",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.55,
+        "cy": 0.27,
+        "cover": 1.9
+      },
+      "to": {
+        "cx": 0.55,
+        "cy": 0.72,
+        "cover": 1.9
+      },
+      "ease": "linear"
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_2_mandarin articulo odisey\\detay\\arcitul0_detail_5.png",
+      "note": "Boat: stacked round figures with X eyes",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.26,
+        "cy": 0.5,
+        "cover": 1.0
+      },
+      "to": {
+        "cx": 0.74,
+        "cy": 0.5,
+        "cover": 1.0
+      },
+      "ease": "linear"
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\INSTAGRAM\\_sources\\mandarin-full-photo-rectified.png",
+      "note": "Boat side toward the painted STUGOTZ letters",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.68,
+        "cy": 0.6875,
+        "cover": 1.6
+      },
+      "to": {
+        "cx": 0.34,
+        "cy": 0.6875,
+        "cover": 1.6
+      },
+      "ease": "linear"
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\INSTAGRAM\\_sources\\mandarin-full-photo-rectified.png",
+      "note": "Lower-left bird and chain down to the two anchors",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.24,
+        "cy": 0.62,
+        "cover": 2.2
+      },
+      "to": {
+        "cx": 0.24,
+        "cy": 0.77,
+        "cover": 2.2
+      },
+      "ease": "linear"
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\INSTAGRAM\\_sources\\mandarin-full-photo-rectified.png",
+      "note": "Centre-locked reveal of the entire painting, then two seconds on white",
+      "dur": 6.0,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "cover": 1.3
+      },
+      "to": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      },
+      "hold": 2.0,
+      "ease": "out"
+    }
+  ],
+  "cover": {
+    "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\INSTAGRAM\\_sources\\mandarin-full-photo-rectified.png",
+    "fit": true
+  }
+}

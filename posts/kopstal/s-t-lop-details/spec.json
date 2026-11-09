@@ -1,0 +1,123 @@
+{
+  "type": "reel",
+  "work": "s-t-lop",
+  "shots": [
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_1_stlop\\Stlop-full.png",
+      "note": "Rounded head across the tapering beak",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.25,
+        "cy": 0.24,
+        "cover": 2.2
+      },
+      "to": {
+        "cx": 0.56,
+        "cy": 0.24,
+        "cover": 2.2
+      },
+      "ease": "linear"
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_1_stlop\\Stlop-full.png",
+      "note": "Open mouth across the row of red notches",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.52,
+        "cy": 0.4,
+        "cover": 2.2
+      },
+      "to": {
+        "cx": 0.77,
+        "cy": 0.4,
+        "cover": 2.2
+      },
+      "ease": "linear"
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_1_stlop\\Stlop-full.png",
+      "note": "Curved wing strokes into the lower body",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.32,
+        "cy": 0.48,
+        "cover": 2.2
+      },
+      "to": {
+        "cx": 0.32,
+        "cy": 0.72,
+        "cover": 2.2
+      },
+      "ease": "linear"
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_1_stlop\\Stlop-full.png",
+      "note": "Narrow legs toward the bottom edge",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.29,
+        "cy": 0.72,
+        "cover": 2.2
+      },
+      "to": {
+        "cx": 0.29,
+        "cy": 0.7727272727272727,
+        "cover": 2.2
+      },
+      "ease": "linear"
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_1_stlop\\Stlop-full.png",
+      "note": "Purple bars in the upper rectangular panel",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.77,
+        "cy": 0.22727272727272724,
+        "cover": 2.2
+      },
+      "to": {
+        "cx": 0.77,
+        "cy": 0.48,
+        "cover": 2.2
+      },
+      "ease": "linear"
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_1_stlop\\Stlop-full.png",
+      "note": "Lower yellow rectangle down to the boxed white head",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.73,
+        "cy": 0.53,
+        "cover": 2.2
+      },
+      "to": {
+        "cx": 0.73,
+        "cy": 0.72,
+        "cover": 2.2
+      },
+      "ease": "linear"
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_1_stlop\\Stlop-full.png",
+      "note": "Centre-locked reveal of the entire painting, then two seconds on white",
+      "dur": 6.0,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "cover": 1.3
+      },
+      "to": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      },
+      "hold": 2.0,
+      "ease": "out"
+    }
+  ],
+  "cover": {
+    "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_1_stlop\\Stlop-full.png",
+    "fit": true
+  }
+}

@@ -75,8 +75,10 @@ def resolve(src):
 
 def load(src):
     if src not in _cache:
-        im = Image.open(resolve(src))
-        im = ImageOps.exif_transpose(im).convert("RGB")
+        # Large local originals must not accumulate across every process stage.
+        _cache.clear()
+        with Image.open(resolve(src)) as source:
+            im = ImageOps.exif_transpose(source).convert("RGB")
         _cache[src] = im
     return _cache[src]
 
@@ -173,7 +175,7 @@ def reel(spec, outdir):
     pad = spec.get("pad", PAD)
     cmd = ["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24",
            "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-", "-an", "-c:v", "libx264",
-           "-preset", "slow", "-crf", "17", "-pix_fmt", "yuv420p",
+           "-preset", "slow", "-crf", "17", "-threads", "4", "-pix_fmt", "yuv420p",
            "-movflags", "+faststart", path]
     plan = []
     for i, shot in enumerate(shots):
@@ -192,19 +194,23 @@ def reel(spec, outdir):
             if speed < MIN_SPEED:
                 sys.exit(f"shot {i + 1}: moves {speed:.0f} px/s on screen; needs at least "
                          f"{MIN_SPEED}. Raise 'cover' or widen the pan.")
-        plan.append((im, sa, sb, ax, ay, bx, by, dur, hold, shot.get("ease", "linear")))
+        plan.append((shot["src"], sa, sb, ax, ay, bx, by, dur, hold, shot.get("ease", "linear")))
     proc = subprocess.Popen(cmd, stdin=subprocess.PIPE)
     total = 0
-    for im, sa, sb, ax, ay, bx, by, dur, hold, kind in plan:
+    for src, sa, sb, ax, ay, bx, by, dur, hold, kind in plan:
+        im = load(src)
         n = round(dur * FPS)
         nm = max(1, n - round(hold * FPS))
+        static_frame = draw(im, sa, ax, ay).tobytes() if static else None
         for k in range(n):
             # k / nm, not k / (nm - 1): the last frame before a cut is still moving
-            t = ease(min(1.0, (k + 1) / nm if hold else k / nm), kind)
+            # The first held frame is k == nm. Advancing by one here would
+            # reach the target a frame early and make a 2 s hold last 61 frames.
+            t = ease(min(1.0, k / nm), kind)
             s = math.exp(math.log(sa) + (math.log(sb) - math.log(sa)) * t)
             cx = ax + (bx - ax) * t
             cy = ay + (by - ay) * t
-            proc.stdin.write(draw(im, s, cx, cy).tobytes())
+            proc.stdin.write(static_frame if static_frame is not None else draw(im, s, cx, cy).tobytes())
         total += n
     proc.stdin.close()
     if proc.wait():

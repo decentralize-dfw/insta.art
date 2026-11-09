@@ -1,0 +1,135 @@
+{
+  "type": "reel",
+  "work": "gary-grills-cooper",
+  "reel_type": "R3 process: static camera, stages only (details are a separate post)",
+  "tempo": "one stage per 0.5 s (120 BPM); camera does not move",
+  "note": "process/01 (reference press photo) is left out on purpose",
+  "shots": [
+    {
+      "note": "stage 02",
+      "src": "yigit:img/full/process/gary-grills-cooper-02.jpg",
+      "dur": 0.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    },
+    {
+      "note": "stage 03",
+      "src": "yigit:img/full/process/gary-grills-cooper-03.jpg",
+      "dur": 0.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    },
+    {
+      "note": "stage 04",
+      "src": "yigit:img/full/process/gary-grills-cooper-04.jpg",
+      "dur": 0.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    },
+    {
+      "note": "stage 05",
+      "src": "yigit:img/full/process/gary-grills-cooper-05.jpg",
+      "dur": 0.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    },
+    {
+      "note": "stage 06",
+      "src": "yigit:img/full/process/gary-grills-cooper-06.jpg",
+      "dur": 0.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    },
+    {
+      "note": "stage 07",
+      "src": "yigit:img/full/process/gary-grills-cooper-07.jpg",
+      "dur": 0.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    },
+    {
+      "note": "stage 08",
+      "src": "yigit:img/full/process/gary-grills-cooper-08.jpg",
+      "dur": 0.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    },
+    {
+      "note": "stage 09",
+      "src": "yigit:img/full/process/gary-grills-cooper-09.jpg",
+      "dur": 0.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    },
+    {
+      "note": "stage 10",
+      "src": "yigit:img/full/process/gary-grills-cooper-10.jpg",
+      "dur": 0.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    },
+    {
+      "note": "stage 11",
+      "src": "yigit:img/full/process/gary-grills-cooper-11.jpg",
+      "dur": 0.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    },
+    {
+      "note": "stage 12",
+      "src": "yigit:img/full/process/gary-grills-cooper-12.jpg",
+      "dur": 0.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    },
+    {
+      "note": "finished painting on white, 2 s",
+      "src": "yigit:img/full/gary-grills-cooper.jpg",
+      "dur": 2.0,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    }
+  ],
+  "cover": {
+    "src": "yigit:img/full/gary-grills-cooper.jpg",
+    "fit": true
+  },
+  "camera": "static",
+  "preserved_from": "posts/2026-11-14-gary-grills-cooper/reel.mp4; no regeneration; historical source aliases retained"
+}

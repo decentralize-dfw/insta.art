@@ -1,0 +1,71 @@
+{
+  "type": "reel",
+  "work": "walls-of-perception",
+  "camera": "static",
+  "shots": [
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_3_wall of perception\\process\\1.png",
+      "note": "Genuine making stage 1 (A0260)",
+      "dur": 0.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_3_wall of perception\\process\\2.png",
+      "note": "Genuine making stage 2 (A0261)",
+      "dur": 0.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_3_wall of perception\\process\\3.png",
+      "note": "Genuine making stage 3 (A0262)",
+      "dur": 0.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_3_wall of perception\\process\\4.png",
+      "note": "Genuine making stage 4 (A0263)",
+      "dur": 0.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_3_wall of perception\\process\\5.png",
+      "note": "Genuine making stage 5 (A0264)",
+      "dur": 0.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    },
+    {
+      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_3_wall of perception\\Walls-of-perception-HIGHRES.png",
+      "note": "Finished whole painting on white",
+      "dur": 2.0,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    }
+  ],
+  "cover": {
+    "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_3_wall of perception\\Walls-of-perception-HIGHRES.png",
+    "fit": true
+  }
+}
