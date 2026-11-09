@@ -2,10 +2,12 @@
   "type": "reel",
   "work": "walls-of-perception",
   "camera": "static",
+  "reel_type": "process: stages only, static camera, every image fits on white",
+  "tempo": "one stage per 0.5 s (120 BPM)",
   "shots": [
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_3_wall of perception\\process\\1.png",
-      "note": "Genuine making stage 1 (A0260)",
+      "note": "stage 1",
+      "src": "details:wallsofperception/process/1.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -14,8 +16,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_3_wall of perception\\process\\2.png",
-      "note": "Genuine making stage 2 (A0261)",
+      "note": "stage 2",
+      "src": "details:wallsofperception/process/2.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -24,8 +26,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_3_wall of perception\\process\\3.png",
-      "note": "Genuine making stage 3 (A0262)",
+      "note": "stage 3",
+      "src": "details:wallsofperception/process/3.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -34,8 +36,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_3_wall of perception\\process\\4.png",
-      "note": "Genuine making stage 4 (A0263)",
+      "note": "stage 4",
+      "src": "details:wallsofperception/process/4.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -44,8 +46,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_3_wall of perception\\process\\5.png",
-      "note": "Genuine making stage 5 (A0264)",
+      "note": "stage 5",
+      "src": "details:wallsofperception/process/5.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -54,8 +56,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_3_wall of perception\\Walls-of-perception-HIGHRES.png",
-      "note": "Finished whole painting on white",
+      "note": "finished painting on white, 2 s",
+      "src": "yigit:img/full/walls-of-perception.jpg",
       "dur": 2.0,
       "from": {
         "cx": 0.5,
@@ -65,7 +67,7 @@
     }
   ],
   "cover": {
-    "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_3_wall of perception\\Walls-of-perception-HIGHRES.png",
+    "src": "yigit:img/full/walls-of-perception.jpg",
     "fit": true
   }
 }

@@ -2,10 +2,12 @@
   "type": "reel",
   "work": "7-fam-board-game",
   "camera": "static",
+  "reel_type": "process: stages only, static camera, every image fits on white",
+  "tempo": "one stage per 0.5 s (120 BPM)",
   "shots": [
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_6_7thsela\\İPHONE PROCESS\\FRAMED\\1.png",
-      "note": "Genuine making stage 1 (A0663)",
+      "note": "stage 1",
+      "src": "details:7famboardgame/process/1.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -14,8 +16,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_6_7thsela\\İPHONE PROCESS\\FRAMED\\2.png",
-      "note": "Genuine making stage 2 (A0669)",
+      "note": "stage 2",
+      "src": "details:7famboardgame/process/2.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -24,8 +26,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_6_7thsela\\İPHONE PROCESS\\FRAMED\\3.png",
-      "note": "Genuine making stage 3 (A0670)",
+      "note": "stage 3",
+      "src": "details:7famboardgame/process/3.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -34,8 +36,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_6_7thsela\\İPHONE PROCESS\\FRAMED\\4.png",
-      "note": "Genuine making stage 4 (A0671)",
+      "note": "stage 4",
+      "src": "details:7famboardgame/process/4.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -44,8 +46,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_6_7thsela\\İPHONE PROCESS\\FRAMED\\5.png",
-      "note": "Genuine making stage 5 (A0672)",
+      "note": "stage 5",
+      "src": "details:7famboardgame/process/5.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -54,8 +56,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_6_7thsela\\İPHONE PROCESS\\FRAMED\\6.png",
-      "note": "Genuine making stage 6 (A0673)",
+      "note": "stage 6",
+      "src": "details:7famboardgame/process/6.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -64,8 +66,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_6_7thsela\\İPHONE PROCESS\\FRAMED\\7.png",
-      "note": "Genuine making stage 7 (A0674)",
+      "note": "stage 7",
+      "src": "details:7famboardgame/process/7.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -74,8 +76,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_6_7thsela\\İPHONE PROCESS\\FRAMED\\8.png",
-      "note": "Genuine making stage 8 (A0675)",
+      "note": "stage 8",
+      "src": "details:7famboardgame/process/8.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -84,8 +86,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_6_7thsela\\İPHONE PROCESS\\FRAMED\\9.png",
-      "note": "Genuine making stage 9 (A0676)",
+      "note": "stage 9",
+      "src": "details:7famboardgame/process/9.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -94,8 +96,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_6_7thsela\\İPHONE PROCESS\\FRAMED\\10.png",
-      "note": "Genuine making stage 10 (A0664)",
+      "note": "stage 10",
+      "src": "details:7famboardgame/process/10.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -104,8 +106,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_6_7thsela\\İPHONE PROCESS\\FRAMED\\11.png",
-      "note": "Genuine making stage 11 (A0665)",
+      "note": "stage 11",
+      "src": "details:7famboardgame/process/11.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -114,8 +116,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_6_7thsela\\İPHONE PROCESS\\FRAMED\\12.png",
-      "note": "Genuine making stage 12 (A0666)",
+      "note": "stage 12",
+      "src": "details:7famboardgame/process/12.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -124,8 +126,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_6_7thsela\\İPHONE PROCESS\\FRAMED\\13.png",
-      "note": "Genuine making stage 13 (A0667)",
+      "note": "stage 13",
+      "src": "details:7famboardgame/process/13.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -134,8 +136,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_6_7thsela\\İPHONE PROCESS\\FRAMED\\14.png",
-      "note": "Genuine making stage 14 (A0668)",
+      "note": "stage 14",
+      "src": "details:7famboardgame/process/14.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -144,8 +146,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_6_7thsela\\7fam-board-game-FULLSIZE.png",
-      "note": "Finished whole painting on white",
+      "note": "finished painting on white, 2 s",
+      "src": "details:7famboardgame/7fam-board-game.png",
       "dur": 2.0,
       "from": {
         "cx": 0.5,
@@ -155,7 +157,7 @@
     }
   ],
   "cover": {
-    "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_6_7thsela\\7fam-board-game-FULLSIZE.png",
+    "src": "details:7famboardgame/7fam-board-game.png",
     "fit": true
   }
 }

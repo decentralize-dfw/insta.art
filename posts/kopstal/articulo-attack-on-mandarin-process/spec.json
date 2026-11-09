@@ -2,10 +2,12 @@
   "type": "reel",
   "work": "articulo-attack-on-mandarin",
   "camera": "static",
+  "reel_type": "process: stages only, static camera, every image fits on white",
+  "tempo": "one stage per 0.5 s (120 BPM)",
   "shots": [
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_2_mandarin articulo odisey\\PROCES-SFRAMED\\1.png",
-      "note": "Genuine making stage 1 (A0212)",
+      "note": "stage 1",
+      "src": "details:articuloattackonmandarin/process/0.png",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -14,8 +16,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_2_mandarin articulo odisey\\PROCES-SFRAMED\\2.png",
-      "note": "Genuine making stage 2 (A0213)",
+      "note": "stage 2",
+      "src": "details:articuloattackonmandarin/process/1.png",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -24,8 +26,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_2_mandarin articulo odisey\\PROCES-SFRAMED\\3.png",
-      "note": "Genuine making stage 3 (A0214)",
+      "note": "stage 3",
+      "src": "details:articuloattackonmandarin/process/2.png",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -34,8 +36,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_2_mandarin articulo odisey\\PROCES-SFRAMED\\4.png",
-      "note": "Genuine making stage 4 (A0215)",
+      "note": "stage 4",
+      "src": "details:articuloattackonmandarin/process/3.png",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -44,8 +46,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_2_mandarin articulo odisey\\PROCES-SFRAMED\\5.png",
-      "note": "Genuine making stage 5 (A0216)",
+      "note": "stage 5",
+      "src": "details:articuloattackonmandarin/process/4.png",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -54,8 +56,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\INSTAGRAM\\_sources\\mandarin-full-photo-rectified.png",
-      "note": "Finished whole painting on white",
+      "note": "finished painting on white, 2 s",
+      "src": "yigit:img/full/articulo-attack-on-mandarin.jpg",
       "dur": 2.0,
       "from": {
         "cx": 0.5,
@@ -65,7 +67,7 @@
     }
   ],
   "cover": {
-    "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\INSTAGRAM\\_sources\\mandarin-full-photo-rectified.png",
+    "src": "yigit:img/full/articulo-attack-on-mandarin.jpg",
     "fit": true
   }
 }

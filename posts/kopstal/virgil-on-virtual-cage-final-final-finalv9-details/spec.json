@@ -1,123 +1,149 @@
 {
   "type": "reel",
   "work": "virgil-on-virtual-cage-final-final-finalv9",
+  "reel_type": "details: close shots, one axis per shot, always moving, centre zoom-out ending",
+  "tempo": "cuts on a 0.5 s grid (120 BPM)",
   "shots": [
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_5_virginonrocks\\virgil-on-virtual-cage-RESOLUTION.png",
-      "note": "White wig down to the hand resting at the cheek",
+      "note": "the white wig down to the face",
+      "src": "details:masters/virgil-on-virtual-cage-RESOLUTION.png",
       "dur": 2.5,
       "from": {
-        "cx": 0.49,
-        "cy": 0.24,
-        "cover": 2.1
+        "cx": 0.47,
+        "cy": 0.22,
+        "cover": 3.0
       },
       "to": {
-        "cx": 0.49,
-        "cy": 0.47,
-        "cover": 2.1
-      },
-      "ease": "linear"
+        "cx": 0.47,
+        "cy": 0.36,
+        "cover": 3.0
+      }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_5_virginonrocks\\virgil-on-virtual-cage-RESOLUTION.png",
-      "note": "Grey ceiling and thin white cage line",
+      "note": "along the drawn ceiling",
+      "src": "details:masters/virgil-on-virtual-cage-RESOLUTION.png",
       "dur": 2.5,
       "from": {
-        "cx": 0.22,
-        "cy": 0.23809523809523808,
-        "cover": 2.1
+        "cx": 0.3,
+        "cy": 0.07,
+        "cover": 3.0
+      },
+      "to": {
+        "cx": 0.7,
+        "cy": 0.07,
+        "cover": 3.0
+      }
+    },
+    {
+      "note": "down the right upright to where it stops",
+      "src": "details:masters/virgil-on-virtual-cage-RESOLUTION.png",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.78,
+        "cy": 0.17,
+        "cover": 3.0
       },
       "to": {
         "cx": 0.78,
-        "cy": 0.23809523809523808,
-        "cover": 2.1
-      },
-      "ease": "linear"
+        "cy": 0.45,
+        "cover": 3.0
+      }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_5_virginonrocks\\virgil-on-virtual-cage-RESOLUTION.png",
-      "note": "Left upright down to where the drawn line stops",
+      "note": "the pink panel with the outlined chair",
+      "src": "details:virgilonvirtualcage/virgilonvirtualcage_detail_5.png",
       "dur": 2.5,
       "from": {
-        "cx": 0.22,
-        "cy": 0.26,
-        "cover": 2.2
+        "cx": 0.3,
+        "cy": 0.5,
+        "cover": 1.0
       },
       "to": {
-        "cx": 0.22,
-        "cy": 0.46,
-        "cover": 2.2
-      },
-      "ease": "linear"
+        "cx": 0.7,
+        "cy": 0.5,
+        "cover": 1.0
+      }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_5_virginonrocks\\virgil-on-virtual-cage-RESOLUTION.png",
-      "note": "Small curly figure toward the central drapery",
+      "note": "the small curly-haired figure at left",
+      "src": "details:virgilonvirtualcage/virgilonvirtualcage_detail_4.png",
       "dur": 2.5,
       "from": {
-        "cx": 0.23,
-        "cy": 0.56,
-        "cover": 2.2
+        "cx": 0.7,
+        "cy": 0.5,
+        "cover": 1.0
       },
       "to": {
-        "cx": 0.38,
-        "cy": 0.56,
-        "cover": 2.2
-      },
-      "ease": "linear"
+        "cx": 0.3,
+        "cy": 0.5,
+        "cover": 1.0
+      }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_5_virginonrocks\\virgil-on-virtual-cage-RESOLUTION.png",
-      "note": "Central arm toward the blonde inward-facing figure and wing",
+      "note": "the blonde figure to its pink wing",
+      "src": "details:virgilonvirtualcage/virgilonvirtualcage_detail_1.png",
       "dur": 2.5,
       "from": {
-        "cx": 0.64,
-        "cy": 0.51,
-        "cover": 2.2
+        "cx": 0.35,
+        "cy": 0.5,
+        "cover": 1.0
       },
       "to": {
-        "cx": 0.83,
-        "cy": 0.51,
-        "cover": 2.2
-      },
-      "ease": "linear"
+        "cx": 0.7,
+        "cy": 0.5,
+        "cover": 1.0
+      }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_5_virginonrocks\\virgil-on-virtual-cage-RESOLUTION.png",
-      "note": "Reclining grey-haired figure and raised legs into coral paint",
+      "note": "the grey-haired figure lying back, legs raised",
+      "src": "details:virgilonvirtualcage/virgilonvirtualcage_detail_6.png",
       "dur": 2.5,
       "from": {
-        "cx": 0.65,
-        "cy": 0.69,
-        "cover": 2.2
+        "cx": 0.7,
+        "cy": 0.5,
+        "cover": 1.0
       },
       "to": {
-        "cx": 0.65,
-        "cy": 0.7727272727272727,
-        "cover": 2.2
-      },
-      "ease": "linear"
+        "cx": 0.3,
+        "cy": 0.5,
+        "cover": 1.0
+      }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_5_virginonrocks\\virgil-on-virtual-cage-RESOLUTION.png",
-      "note": "Centre-locked reveal of the entire painting, then two seconds on white",
+      "note": "the bed of coral strokes",
+      "src": "details:masters/virgil-on-virtual-cage-RESOLUTION.png",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.2,
+        "cy": 0.88,
+        "cover": 3.0
+      },
+      "to": {
+        "cx": 0.6,
+        "cy": 0.88,
+        "cover": 3.0
+      }
+    },
+    {
+      "note": "close at the centre, zoom out until the painting sits on white, hold 2 s",
+      "src": "details:masters/virgil-on-virtual-cage-RESOLUTION.png",
       "dur": 6.0,
+      "hold": 2.0,
+      "ease": "out",
       "from": {
         "cx": 0.5,
         "cy": 0.5,
-        "cover": 1.3
+        "cover": 3.0
       },
       "to": {
         "cx": 0.5,
         "cy": 0.5,
         "fit": true
-      },
-      "hold": 2.0,
-      "ease": "out"
+      }
     }
   ],
   "cover": {
-    "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_5_virginonrocks\\virgil-on-virtual-cage-RESOLUTION.png",
+    "src": "details:masters/virgil-on-virtual-cage-RESOLUTION.png",
     "fit": true
   }
 }

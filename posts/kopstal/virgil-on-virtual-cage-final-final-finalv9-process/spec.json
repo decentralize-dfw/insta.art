@@ -2,10 +2,12 @@
   "type": "reel",
   "work": "virgil-on-virtual-cage-final-final-finalv9",
   "camera": "static",
+  "reel_type": "process: stages only, static camera, every image fits on white",
+  "tempo": "one stage per 0.5 s (120 BPM)",
   "shots": [
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_5_virginonrocks\\İPHONE PROCESS\\IN ORDER- FRAMED\\2.png",
-      "note": "Genuine making stage 1 (A0432)",
+      "note": "stage 1",
+      "src": "details:virgilonvirtualcage/process/1.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -14,8 +16,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_5_virginonrocks\\İPHONE PROCESS\\IN ORDER- FRAMED\\3.png",
-      "note": "Genuine making stage 2 (A0433)",
+      "note": "stage 2",
+      "src": "details:virgilonvirtualcage/process/2.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -24,8 +26,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_5_virginonrocks\\İPHONE PROCESS\\IN ORDER- FRAMED\\4.png",
-      "note": "Genuine making stage 3 (A0434)",
+      "note": "stage 3",
+      "src": "details:virgilonvirtualcage/process/3.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -34,8 +36,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_5_virginonrocks\\İPHONE PROCESS\\IN ORDER- FRAMED\\5.png",
-      "note": "Genuine making stage 4 (A0435)",
+      "note": "stage 4",
+      "src": "details:virgilonvirtualcage/process/4.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -44,8 +46,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_5_virginonrocks\\İPHONE PROCESS\\IN ORDER- FRAMED\\6.png",
-      "note": "Genuine making stage 5 (A0436)",
+      "note": "stage 5",
+      "src": "details:virgilonvirtualcage/process/5.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -54,8 +56,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_5_virginonrocks\\İPHONE PROCESS\\IN ORDER- FRAMED\\7.png",
-      "note": "Genuine making stage 6 (A0437)",
+      "note": "stage 6",
+      "src": "details:virgilonvirtualcage/process/6.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -64,8 +66,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_5_virginonrocks\\İPHONE PROCESS\\IN ORDER- FRAMED\\8.png",
-      "note": "Genuine making stage 7 (A0438)",
+      "note": "stage 7",
+      "src": "details:virgilonvirtualcage/process/7.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -74,8 +76,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_5_virginonrocks\\İPHONE PROCESS\\IN ORDER- FRAMED\\9.png",
-      "note": "Genuine making stage 8 (A0439)",
+      "note": "stage 8",
+      "src": "details:virgilonvirtualcage/process/8.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -84,8 +86,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_5_virginonrocks\\İPHONE PROCESS\\IN ORDER- FRAMED\\10.png",
-      "note": "Genuine making stage 9 (A0429)",
+      "note": "stage 9",
+      "src": "details:virgilonvirtualcage/process/9.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -94,8 +96,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_5_virginonrocks\\İPHONE PROCESS\\IN ORDER- FRAMED\\11.png",
-      "note": "Genuine making stage 10 (A0430)",
+      "note": "stage 10",
+      "src": "details:virgilonvirtualcage/process/10.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -104,8 +106,8 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_5_virginonrocks\\İPHONE PROCESS\\IN ORDER- FRAMED\\12.png",
-      "note": "Genuine making stage 11 (A0431)",
+      "note": "stage 11",
+      "src": "details:virgilonvirtualcage/process/11.jpg",
       "dur": 0.5,
       "from": {
         "cx": 0.5,
@@ -114,8 +116,18 @@
       }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_5_virginonrocks\\virgil-on-virtual-cage-RESOLUTION.png",
-      "note": "Finished whole painting on white",
+      "note": "stage 12",
+      "src": "details:virgilonvirtualcage/process/12.jpg",
+      "dur": 0.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    },
+    {
+      "note": "finished painting on white, 2 s",
+      "src": "details:masters/virgil-on-virtual-cage-RESOLUTION.png",
       "dur": 2.0,
       "from": {
         "cx": 0.5,
@@ -125,7 +137,10 @@
     }
   ],
   "cover": {
-    "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_5_virginonrocks\\virgil-on-virtual-cage-RESOLUTION.png",
+    "src": "details:masters/virgil-on-virtual-cage-RESOLUTION.png",
     "fit": true
-  }
+  },
+  "excluded": [
+    "process/00.jpg: Leonardo's Virgin of the Rocks, the reference image, not a stage"
+  ]
 }

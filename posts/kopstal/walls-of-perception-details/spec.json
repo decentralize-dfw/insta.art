@@ -1,107 +1,104 @@
 {
   "type": "reel",
   "work": "walls-of-perception",
+  "reel_type": "details: close shots, one axis per shot, always moving, centre zoom-out ending",
+  "tempo": "cuts on a 0.5 s grid (120 BPM)",
   "shots": [
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_3_wall of perception\\Walls-of-perception-HIGHRES.png",
-      "note": "Cream brim across the purple hat band",
-      "dur": 3.0,
+      "note": "the hat brim and its band",
+      "src": "details:wallsofperception/wallofperception_detail_1.png",
+      "dur": 2.5,
       "from": {
-        "cx": 0.27,
-        "cy": 0.23,
-        "cover": 2.2
+        "cx": 0.3,
+        "cy": 0.5,
+        "cover": 1.0
       },
       "to": {
-        "cx": 0.73,
-        "cy": 0.23,
-        "cover": 2.2
-      },
-      "ease": "linear"
+        "cx": 0.7,
+        "cy": 0.5,
+        "cover": 1.0
+      }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_3_wall of perception\\Walls-of-perception-HIGHRES.png",
-      "note": "Dark mouth and blue triangle into the yellow grain column",
-      "dur": 3.0,
+      "note": "from under the brim, down the column of grains",
+      "src": "yigit:img/full/walls-of-perception.jpg",
+      "dur": 2.5,
       "from": {
-        "cx": 0.46,
-        "cy": 0.31,
-        "cover": 2.2
+        "cx": 0.5,
+        "cy": 0.4,
+        "cover": 1.25
       },
       "to": {
-        "cx": 0.46,
-        "cy": 0.54,
-        "cover": 2.2
-      },
-      "ease": "linear"
+        "cx": 0.5,
+        "cy": 0.6,
+        "cover": 1.25
+      }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_3_wall of perception\\Walls-of-perception-HIGHRES.png",
-      "note": "Grain column continues down into the bowl",
-      "dur": 3.0,
+      "note": "the grains falling",
+      "src": "details:wallsofperception/wallofperception_detail_4.png",
+      "dur": 2.5,
       "from": {
-        "cx": 0.49,
-        "cy": 0.54,
-        "cover": 2.2
+        "cx": 0.7,
+        "cy": 0.5,
+        "cover": 1.0
       },
       "to": {
-        "cx": 0.49,
-        "cy": 0.77,
-        "cover": 2.2
-      },
-      "ease": "linear"
+        "cx": 0.4,
+        "cy": 0.5,
+        "cover": 1.0
+      }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_3_wall of perception\\Walls-of-perception-HIGHRES.png",
-      "note": "Bowl and red octagonal cloth across toward the utensil",
-      "dur": 3.0,
+      "note": "the bowl to the beaded utensil",
+      "src": "details:wallsofperception/wallofperception_detail_2.png",
+      "dur": 2.5,
       "from": {
-        "cx": 0.36,
-        "cy": 0.7619047619047619,
-        "cover": 2.1
+        "cx": 0.3,
+        "cy": 0.5,
+        "cover": 1.0
       },
       "to": {
-        "cx": 0.69,
-        "cy": 0.7619047619047619,
-        "cover": 2.1
-      },
-      "ease": "linear"
+        "cx": 0.7,
+        "cy": 0.5,
+        "cover": 1.0
+      }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_3_wall of perception\\Walls-of-perception-HIGHRES.png",
-      "note": "Grey beaded utensil up toward the lavender flower",
-      "dur": 3.0,
+      "note": "the lavender flower",
+      "src": "details:wallsofperception/wallofperception_detail_3.png",
+      "dur": 2.5,
       "from": {
-        "cx": 0.76,
-        "cy": 0.76,
-        "cover": 2.2
+        "cx": 0.7,
+        "cy": 0.5,
+        "cover": 1.0
       },
       "to": {
-        "cx": 0.76,
-        "cy": 0.51,
-        "cover": 2.2
-      },
-      "ease": "linear"
+        "cx": 0.4,
+        "cy": 0.5,
+        "cover": 1.0
+      }
     },
     {
-      "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_3_wall of perception\\Walls-of-perception-HIGHRES.png",
-      "note": "Centre-locked reveal of the entire painting, then two seconds on white",
+      "note": "close at the centre, zoom out until the painting sits on white, hold 2 s",
+      "src": "yigit:img/full/walls-of-perception.jpg",
       "dur": 6.0,
+      "hold": 2.0,
+      "ease": "out",
       "from": {
         "cx": 0.5,
         "cy": 0.5,
-        "cover": 1.3
+        "cover": 1.25
       },
       "to": {
         "cx": 0.5,
         "cy": 0.5,
         "fit": true
-      },
-      "hold": 2.0,
-      "ease": "out"
+      }
     }
   ],
   "cover": {
-    "src": "C:\\Users\\yigit\\Desktop\\RESSAMS\\RESİMLER DETAY\\KOPSTAL\\kopstal_3_wall of perception\\Walls-of-perception-HIGHRES.png",
+    "src": "yigit:img/full/walls-of-perception.jpg",
     "fit": true
   }
 }
