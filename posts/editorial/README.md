@@ -7,8 +7,8 @@ kelimelik tema ve sayfa sırasıyla eser adları. Üretim: `python3 tools/render
 | klasör | tema | sayfa |
 | --- | --- | --- |
 | `crossed-eyes/` | çarpı gözler | 6 (guarding, good people, 7 fam, wings of abyss, victim, baby rights) |
-| `chairs/` | mobilya | 6 (victim, Virgil, caprocorn, sept neuf, walls, guarding) |
-| `birds/` | kuşlar | 5 (sept neuf, wings of abyss, mandarin, wings of abyss, mandarin) |
+| `chairs/` | mobilya | 9 (guarding: ters sarkan sandalye ve lamba, victim, sept neuf: koltuk ve sehpa, Virgil, caprocorn: sandık, crow: divan, walls: masa) |
+| `birds/` | kuşlar | 9 (sept neuf, wings of abyss: üç gaga, crow: iki detay, mandarin: üç kuş) |
 
 Önerilen sonraki temalar: gözler, dişler ve ağızlar, eller, ayaklar ve pençeler, beden
 baloncukları, asılı ve ters figürler, nesneler, kanatlar, saçlar, resimdeki yazılar, imzalar,

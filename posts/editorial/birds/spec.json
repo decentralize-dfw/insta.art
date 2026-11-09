@@ -16,7 +16,15 @@
       "cy": 0.5,
       "cover": 1.2,
       "work": "wings-of-abyss",
-      "note": "one of three beaks"
+      "note": "the first beak"
+    },
+    {
+      "src": "details2:the-assassination-of-the-crow/the-assassination-of-the-crow-detail-04.jpg",
+      "cx": 0.7,
+      "cy": 0.45,
+      "cover": 1.0,
+      "work": "the-assassination-of-the-crow",
+      "note": "the crow's head, a yellow eye"
     },
     {
       "src": "details:articuloattackonmandarin/arcitul0_detail_1.png",
@@ -25,6 +33,30 @@
       "cover": 1.0,
       "work": "articulo-attack-on-mandarin",
       "note": "a bird of the flock"
+    },
+    {
+      "src": "details2:wings-of-abyss/wings-of-abyss-detail-09.jpg",
+      "cx": 0.5,
+      "cy": 0.5,
+      "cover": 1.2,
+      "work": "wings-of-abyss",
+      "note": "the second beak"
+    },
+    {
+      "src": "details2:the-assassination-of-the-crow/the-assassination-of-the-crow-detail-10.jpg",
+      "cx": 0.45,
+      "cy": 0.5,
+      "cover": 1.0,
+      "work": "the-assassination-of-the-crow",
+      "note": "the crow, bent"
+    },
+    {
+      "src": "details:articuloattackonmandarin/arcitul0_detail_4.png",
+      "cx": 0.48,
+      "cy": 0.5,
+      "cover": 1.0,
+      "work": "articulo-attack-on-mandarin",
+      "note": "wings swept down"
     },
     {
       "src": "details2:wings-of-abyss/wings-of-abyss-detail-10.jpg",
@@ -40,7 +72,7 @@
       "cy": 0.5,
       "cover": 1.0,
       "work": "articulo-attack-on-mandarin",
-      "note": "another, wings swept back"
+      "note": "another, wings back"
     }
   ]
 }
