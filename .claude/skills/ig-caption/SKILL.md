@@ -12,7 +12,7 @@ description: >-
 
 ## Account voice for this repository
 
-Before writing, read `.claude/instagram/voice.md` from the repository root. Use that project file before any home-directory voice profile. Preserve its evidence limits and exact quotations; missing facts stay marked instead of becoming invented claims. The user's current explicit instruction takes precedence.
+Before writing, read `.claude/instagram/voice.md` from the repository root. Use that project file before any home-directory voice profile. Preserve its evidence limits and exact quotations; missing facts stay marked instead of becoming invented claims. Where voice.md conflicts with the defaults in this skill (CTAs, keyword DMs, hashtag counts, voiceover, spoken scripts, selling), voice.md wins. The user's current explicit instruction takes precedence over both.
 
 
 One tool lives in this folder and it runs:
