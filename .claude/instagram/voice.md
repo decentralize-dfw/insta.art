@@ -137,6 +137,8 @@ kullanılabilir. Örnek:
 
 ### Reel (sessiz, müziği Yiğit ekler)
 
+Üretim aracı: `python3 tools/render.py posts/<klasör>/spec.json`. Tempo, kadraj ve sıra `spec.json` içinde.
+
 - 1080×1920, 30 fps, H.264, **ses kanalı yok**.
 - Uzunluk 7-15 saniye. Süreç videosu en fazla yaklaşık 20 saniye.
 - İlk kare zaten güçlü bir görüntü olmalı: siyah ekranla, fade-in ile ya da logoyla açılmaz.
@@ -212,6 +214,8 @@ Yiğit'in bu hesap için verdiği kararlar:
 | Detay fotoğrafları (125) | `yigit` → `img/full/detail/` | Angora, board game, gary, gxd, rompipalle, painstaking, sept neuf, s(t)lop, virgil, walls ve diğerleri. |
 | Aşama fotoğrafları (49) | `yigit` → `img/full/process/` | board game (14), virgil (13), gary (12), mandarin (5), walls (5). |
 | Etütler | `yigit` → `img/full/study/` | |
+| Orijinal çözünürlükler | `decentralize-dfw/yigitozen-painting-details` → eser klasörleri (`angora-mergvs/`, `garygrillscooper/` ...) | Zoom için ilk tercih. Ör. Angora tamamı 4724×5669, detaylar 5184×3456. `editor/full/` ve `masters/` de var. |
+| Ek detaylar | `decentralize-dfw/yigitozen-painting-details-2` | |
 | Filmler | `yigit` → `v3/content/videos.json` | Sitede eserlerle gösterilen filmler, CDN'de (HLS). Bu ortamın ağından erişilemeyebilir. |
 | Arşiv fotoğrafları ve süreç videoları (A#### kimlikleri) | **Yiğit'in bilgisayarı** | `gpt-plan/` bunları kimlikleriyle anar ama dosyaların kendisi repoda yok. `gpt-plan/assets/art/` içinde 2160 piksellik web kopyaları, `assets/video-sheets/` içinde kare önizlemeleri var. Gerekirse kimliğiyle Yiğit'ten iste. |
 | Site | `https://yigitozen.art/` | Aynı içerik. Bu bulut ortamının ağında kapalı. |

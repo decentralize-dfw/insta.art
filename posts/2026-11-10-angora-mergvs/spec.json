@@ -1,0 +1,19 @@
+{
+  "type": "reel",
+  "work": "angora-mergvs",
+  "reel_type": "R1 detail to whole",
+  "tempo": "cuts on a 0.5 s grid (120 BPM)",
+  "shots": [
+    {"src": "details:angora-mergvs/angora-mergvs-detail-6.jpg", "dur": 2.0, "ease": "linear",
+     "from": {"cx": 0.47, "cy": 0.62, "cover": 1.0}, "to": {"cx": 0.47, "cy": 0.62, "cover": 1.18}},
+    {"src": "details:angora-mergvs/angora-mergvs-detail-5.jpg", "dur": 1.5, "ease": "linear",
+     "from": {"cx": 0.25, "cy": 0.5, "cover": 1.05}, "to": {"cx": 0.75, "cy": 0.5, "cover": 1.05}},
+    {"src": "details:angora-mergvs/angora-mergvs-detail-9.jpg", "dur": 1.5, "ease": "linear",
+     "from": {"cx": 0.45, "cy": 0.35, "cover": 1.3}, "to": {"cx": 0.45, "cy": 0.4, "cover": 1.05}},
+    {"src": "details:angora-mergvs/angora-mergvs-detail-1.jpg", "dur": 1.5, "ease": "linear",
+     "from": {"cx": 0.55, "cy": 0.65, "cover": 1.2}, "to": {"cx": 0.55, "cy": 0.35, "cover": 1.2}},
+    {"src": "details:angora-mergvs/angora-mergvs-10mb.jpg", "dur": 5.5, "hold": 1.0, "ease": "inout",
+     "from": {"cx": 0.6, "cy": 0.2, "cover": 2.4}, "to": {"cx": 0.5, "cy": 0.5, "fit": true}}
+  ],
+  "cover": {"src": "details:angora-mergvs/angora-mergvs-10mb.jpg", "fit": true}
+}
