@@ -8,8 +8,10 @@ Usage
 The spec decides everything: sources, shots, timing, framing. See any
 posts/*/spec.json for a working example.
 
-Sources are written as "<repo>:<path>", where <repo> is one of the keys in
-ROOTS below. The repos are expected next to this one (../yigit etc.).
+Sources are either "<repo>:<path>" (a key of ROOTS below; those repos sit next
+to this one, ../yigit etc.) or a plain file path: absolute, or relative to the
+folder of the spec.json. On a computer with a local archive, plain paths are
+the normal case.
 
 Camera model (reel shots)
   Each shot moves on ONE axis only: a horizontal pan (cx changes), a vertical
@@ -59,10 +61,21 @@ WHITE = (255, 255, 255)
 _cache = {}
 
 
+SPEC_DIR = REPO
+
+
+def resolve(src):
+    """'<repo>:<path>' for the known repos, otherwise a normal file path
+    (absolute, or relative to the spec.json folder)."""
+    repo, sep, path = src.partition(":")
+    if sep and repo in ROOTS:
+        return os.path.join(ROOTS[repo], path)
+    return src if os.path.isabs(src) else os.path.join(SPEC_DIR, src)
+
+
 def load(src):
     if src not in _cache:
-        repo, path = src.split(":", 1)
-        im = Image.open(os.path.join(ROOTS[repo], path))
+        im = Image.open(resolve(src))
         im = ImageOps.exif_transpose(im).convert("RGB")
         _cache[src] = im
     return _cache[src]
@@ -212,8 +225,10 @@ def still(item, size, pad):
 
 
 def main():
+    global SPEC_DIR
     spec_path = sys.argv[1]
     outdir = os.path.dirname(os.path.abspath(spec_path))
+    SPEC_DIR = outdir
     spec = json.load(open(spec_path, encoding="utf-8"))
     pad = spec.get("pad", PAD)
     if spec["type"] == "reel":
