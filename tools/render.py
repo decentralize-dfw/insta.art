@@ -78,7 +78,12 @@ def load(src):
         # Large local originals must not accumulate across every process stage.
         _cache.clear()
         with Image.open(resolve(src)) as source:
-            im = ImageOps.exif_transpose(source).convert("RGB")
+            im = ImageOps.exif_transpose(source)
+            if im.mode in ("RGBA", "LA") or (im.mode == "P" and "transparency" in im.info):
+                # transparent areas sit on white, never on black
+                im = im.convert("RGBA")
+                im = Image.alpha_composite(Image.new("RGBA", im.size, WHITE + (255,)), im)
+            im = im.convert("RGB")
         _cache[src] = im
     return _cache[src]
 

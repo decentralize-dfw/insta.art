@@ -65,18 +65,18 @@
       }
     },
     {
-      "note": "along the boat to the anchors and chain",
-      "src": "yigit:img/full/articulo-attack-on-mandarin.jpg",
+      "note": "the boat: the row of figures under the flock",
+      "src": "details:articuloattackonmandarin/arcitul0_detail_7.png",
       "dur": 2.5,
       "from": {
-        "cx": 0.75,
-        "cy": 0.6,
-        "cover": 1.25
+        "cx": 0.7,
+        "cy": 0.5,
+        "cover": 1.0
       },
       "to": {
-        "cx": 0.25,
-        "cy": 0.6,
-        "cover": 1.25
+        "cx": 0.3,
+        "cy": 0.5,
+        "cover": 1.0
       }
     },
     {

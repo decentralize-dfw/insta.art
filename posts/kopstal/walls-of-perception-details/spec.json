@@ -20,21 +20,6 @@
       }
     },
     {
-      "note": "from under the brim, down the column of grains",
-      "src": "yigit:img/full/walls-of-perception.jpg",
-      "dur": 2.5,
-      "from": {
-        "cx": 0.5,
-        "cy": 0.4,
-        "cover": 1.25
-      },
-      "to": {
-        "cx": 0.5,
-        "cy": 0.6,
-        "cover": 1.25
-      }
-    },
-    {
       "note": "the grains falling",
       "src": "details:wallsofperception/wallofperception_detail_4.png",
       "dur": 2.5,

@@ -81,7 +81,7 @@
     },
     {
       "note": "close at the centre, zoom out until the painting sits on white, hold 2 s",
-      "src": "details:painstaking/painstaking-triptic.png",
+      "src": "details:painstaking/painstaking-triptic-transparent.png",
       "dur": 6.0,
       "hold": 2.0,
       "ease": "out",
@@ -98,7 +98,7 @@
     }
   ],
   "cover": {
-    "src": "details:painstaking/painstaking-triptic.png",
+    "src": "details:painstaking/painstaking-triptic-transparent.png",
     "fit": true
   }
 }
