@@ -1,0 +1,46 @@
+{
+  "type": "carousel",
+  "theme": "birds",
+  "slides": [
+    {
+      "src": "details:sept-neuf/IMG_6691.JPG",
+      "cx": 0.42,
+      "cy": 0.3,
+      "cover": 1.3,
+      "work": "sept-neuf",
+      "note": "the pale bird on the side table"
+    },
+    {
+      "src": "details2:wings-of-abyss/wings-of-abyss-detail-08.jpg",
+      "cx": 0.45,
+      "cy": 0.5,
+      "cover": 1.2,
+      "work": "wings-of-abyss",
+      "note": "one of three beaks"
+    },
+    {
+      "src": "details:articuloattackonmandarin/arcitul0_detail_1.png",
+      "cx": 0.5,
+      "cy": 0.5,
+      "cover": 1.0,
+      "work": "articulo-attack-on-mandarin",
+      "note": "a bird of the flock"
+    },
+    {
+      "src": "details2:wings-of-abyss/wings-of-abyss-detail-10.jpg",
+      "cx": 0.45,
+      "cy": 0.5,
+      "cover": 1.2,
+      "work": "wings-of-abyss",
+      "note": "the third beak"
+    },
+    {
+      "src": "details:articuloattackonmandarin/arcitul0_detail_2.png",
+      "cx": 0.32,
+      "cy": 0.5,
+      "cover": 1.0,
+      "work": "articulo-attack-on-mandarin",
+      "note": "another, wings swept back"
+    }
+  ]
+}

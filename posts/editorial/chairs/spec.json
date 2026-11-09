@@ -1,0 +1,54 @@
+{
+  "type": "carousel",
+  "theme": "chairs",
+  "slides": [
+    {
+      "src": "details2:victim-psycho-logique-ii-the-peachy-pharaoh-connects-with-the-chair/victim-psycho-logique-ii-the-peachy-pharaoh-connects-with-the-chair-detail-04.jpg",
+      "cx": 0.42,
+      "cy": 0.5,
+      "cover": 1.0,
+      "work": "victim-psycho-logique-ii-the-peachy-pharaoh-connects-with-the-chair",
+      "note": "a chair drawn in white lines"
+    },
+    {
+      "src": "details:virgilonvirtualcage/virgilonvirtualcage_detail_5.png",
+      "cx": 0.45,
+      "cy": 0.5,
+      "cover": 1.2,
+      "work": "virgil-on-virtual-cage-final-final-finalv9",
+      "note": "an outlined chair on a pink panel"
+    },
+    {
+      "src": "details2:caprocorn-sister-war-plague-earthquake/caprocorn-sister-war-plague-earthquake-detail-03.jpg",
+      "cx": 0.5,
+      "cy": 0.5,
+      "cover": 1.0,
+      "work": "caprocorn-sister-war-plague-earthquake",
+      "note": "a hand resting on the stool"
+    },
+    {
+      "src": "details:sept-neuf/IMG_6658.JPG",
+      "cx": 0.3,
+      "cy": 0.5,
+      "cover": 1.2,
+      "work": "sept-neuf",
+      "note": "the coiled mint base of the armchair"
+    },
+    {
+      "src": "details:wallsofperception/wallofperception_detail_2.png",
+      "cx": 0.5,
+      "cy": 0.5,
+      "cover": 1.0,
+      "work": "walls-of-perception",
+      "note": "the bowl on the red octagonal table"
+    },
+    {
+      "src": "details2:guarding-holy-mountains-from-malice/guarding-holy-mountains-from-malice-detail-10.jpg",
+      "cx": 0.5,
+      "cy": 0.5,
+      "cover": 1.0,
+      "work": "guarding-holy-mountains-from-malice",
+      "note": "a stand on the yellow floor"
+    }
+  ]
+}
