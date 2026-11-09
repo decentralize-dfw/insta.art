@@ -14,7 +14,10 @@ ROOTS below. The repos are expected next to this one (../yigit etc.).
 Camera model (reel shots)
   Each shot moves on ONE axis only: a horizontal pan (cx changes), a vertical
   pan (cy changes) or a centre-locked zoom (scale changes, cx = cy = 0.5).
-  Anything diagonal is refused.
+  Anything diagonal is refused. Every shot keeps moving until the cut (no
+  shot may stand still, no easing into a stop); only the last shot may hold,
+  for at most 2 s, once the painting sits on white. Pan targets are clamped to
+  what the frame can really show, so a pan never stalls against an edge.
   Each shot has a source image and two keyframes, "from" and "to".
   A keyframe is {"cx": 0-1, "cy": 0-1, "fit": true} or {"cx", "cy", "cover": k}.
     cover: k  -> the image fills the 9:16 frame, k times closer (1 = just fills)
@@ -121,32 +124,66 @@ def check_motion(shot, i):
         sys.exit(f"shot {i + 1}: a zoom must be centre-locked (cx = cy = 0.5)")
 
 
+def clamp_center(im, s, cx, cy, fw=W, fh=H):
+    """The centre the frame will really show at scale s (edges never slide in)."""
+    iw, ih = im.size
+    dw, dh = iw * s, ih * s
+    if dw > fw:
+        m = fw / (2 * dw)
+        cx = min(1 - m, max(m, cx))
+    if dh > fh:
+        m = fh / (2 * dh)
+        cy = min(1 - m, max(m, cy))
+    return cx, cy
+
+
+MIN_SPEED = 40   # px per second on screen; every shot keeps moving
+MAX_HOLD = 2.0   # only the last shot may hold, for at most this long
+
+
 def reel(spec, outdir):
-    for i, shot in enumerate(spec["shots"]):
+    shots = spec["shots"]
+    for i, shot in enumerate(shots):
         check_motion(shot, i)
+        if shot.get("hold") and i != len(shots) - 1:
+            sys.exit(f"shot {i + 1}: only the last shot may hold")
+        if float(shot.get("hold", 0)) > MAX_HOLD:
+            sys.exit(f"shot {i + 1}: hold is at most {MAX_HOLD} s")
     path = os.path.join(outdir, spec.get("out", "reel.mp4"))
     pad = spec.get("pad", PAD)
     cmd = ["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24",
            "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-", "-an", "-c:v", "libx264",
            "-preset", "slow", "-crf", "17", "-pix_fmt", "yuv420p",
            "-movflags", "+faststart", path]
-    proc = subprocess.Popen(cmd, stdin=subprocess.PIPE)
-    total = 0
-    for shot in spec["shots"]:
+    plan = []
+    for i, shot in enumerate(shots):
         im = load(shot["src"])
         a = shot["from"]
         b = shot.get("to", a)
         sa = scale_for(im, a, W, H, pad)
         sb = scale_for(im, b, W, H, pad)
+        ax, ay = clamp_center(im, sa, a["cx"], a["cy"])
+        bx, by = clamp_center(im, sb, b["cx"], b["cy"])
+        dur = float(shot["dur"])
         hold = float(shot.get("hold", 0))
-        n = round(float(shot["dur"]) * FPS)
-        nh = round(hold * FPS)
-        nm = max(1, n - nh)
-        for i in range(n):
-            t = ease(min(1.0, i / max(1, nm - 1)), shot.get("ease", "inout"))
+        if sa == sb:
+            travel = abs(bx - ax) * im.size[0] * sa + abs(by - ay) * im.size[1] * sa
+            speed = travel / max(1e-6, dur - hold)
+            if speed < MIN_SPEED:
+                sys.exit(f"shot {i + 1}: moves {speed:.0f} px/s on screen; needs at least "
+                         f"{MIN_SPEED}. Raise 'cover' or widen the pan.")
+        plan.append((im, sa, sb, ax, ay, bx, by, dur, hold, shot.get("ease", "linear")))
+    proc = subprocess.Popen(cmd, stdin=subprocess.PIPE)
+    total = 0
+    for im, sa, sb, ax, ay, bx, by, dur, hold, kind in plan:
+        n = round(dur * FPS)
+        nm = max(1, n - round(hold * FPS))
+        for k in range(n):
+            # k / nm, not k / (nm - 1): the last frame before a cut is still moving
+            t = ease(min(1.0, (k + 1) / nm if hold else k / nm), kind)
             s = math.exp(math.log(sa) + (math.log(sb) - math.log(sa)) * t)
-            cx = a["cx"] + (b["cx"] - a["cx"]) * t
-            cy = a["cy"] + (b["cy"] - a["cy"]) * t
+            cx = ax + (bx - ax) * t
+            cy = ay + (by - ay) * t
             proc.stdin.write(draw(im, s, cx, cy).tobytes())
         total += n
     proc.stdin.close()

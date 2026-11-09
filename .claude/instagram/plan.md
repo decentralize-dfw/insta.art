@@ -9,7 +9,7 @@ Kurallar: `.claude/instagram/voice.md`. Saatler Europe/Paris.
 | Çar 11 | - | - | - | Story isteğe bağlı: Angora'dan tek detay, yazısız | - |
 | Per 12 | 19:00 | Carousel | il sbagliato di rompipalle (2019, arşiv) | tamamı + 6 detay | `posts/2026-11-12-il-sbagliato-di-rompipalle/` |
 | Cum 13 | - | - | - | yalnızca etkileşim | - |
-| Cmt 14 | 19:00 | Reel | gary grills cooper (2026) | R3 aşamalar | `posts/2026-11-14-gary-grills-cooper/` |
+| Cmt 14 | 19:00 | Reel | gary grills cooper (2026) | R3 yalnızca süreç | `posts/2026-11-14-gary-grills-cooper/` |
 | Paz 15 | - | - | - | 72. saat istatistiklerini topla | - |
 
 Neden bu sıra: hafta en güçlü görsel açılışla (Angora'daki ejderhanın yüzü) başlıyor. Ortada
@@ -19,3 +19,9 @@ renk dünyasında (mavi, yeşil, turuncu), böylece grid'de yan yana tekrar etmi
 Saat hakkında: saat, ilk iki saniye kadar önemli değil. İlk dört hafta 19:00 sabit kalıyor.
 
 Etkileşim: günde 15-20 dakika, Yiğit kendisi yapar. Ajan yorum göndermez.
+
+## Sonraki hafta (önden hazır)
+
+| gün | saat | format | eser | tip | klasör |
+| --- | --- | --- | --- | --- | --- |
+| Cmt 21 | 19:00 | Reel | gary grills cooper (2026) | R1 detaylar (süreçten ayrı gönderi) | `posts/2026-11-21-gary-grills-cooper-details/` |

@@ -145,7 +145,9 @@ kullanılabilir. Örnek:
     yok. Kaydırma ile zoom aynı planda yok. "Yamuk yumuk" hareket yok.
   - Ara planların hepsi **yakın plan**. Resmin tamamı arada gösterilmez.
   - **Son plan:** yakından başlar, **merkez sabit zoom-out** ile eser beyaz boş alana sığar
-    ve 1 saniye sabit kalır. Zoom yalnızca bu planda kullanılır.
+    ve en fazla 2 saniye sabit kalır. Zoom yalnızca bu planda kullanılır.
+  - **Kamera hiç durmaz.** Her plan kesmeye kadar hareket eder, hareketsiz plan ya da
+    yavaşlayıp duran hareket yok. Sabit kalan tek an, sondaki en fazla 2 saniye.
   - `tools/render.py` bu kurala uymayan bir `spec.json`'ı reddeder.
 - Uzunluk: tek eser için 15-30 saniye. Plan başına yaklaşık 2-3 saniye, aşama fotoğrafları
   0,5 saniye. Referanslar: `references/bacon-analiz-30sn-format.md`.
@@ -195,6 +197,9 @@ Reel tipleri:
 - Arşiv (2019-2023 işleri, etütler) haftada en az bir kez yer alır. Arşiv dolgu değildir.
 - Başlangıç saati 19:00 Europe/Paris. İlk dört hafta sabit tutulur. Saat, hook kadar önemli
   değil.
+- **Bir eserin içeriği tek videoda harcanmaz.** Süreç (aşamalar) ve detaylar ayrı
+  gönderilerdir, aralarında en az bir hafta olur. Aynı şekilde carousel ve Reel aynı
+  detayları tekrar kullanmaz.
 - Aynı eser iki hafta içinde tekrar gelmez. Gelecekse yeni bir görsel bilgiyle gelir (yeni
   detay, aşama, ölçek).
 - Her gönderi tek başına anlaşılır. "Part 2" yok, önceki gönderiye gönderme yok.

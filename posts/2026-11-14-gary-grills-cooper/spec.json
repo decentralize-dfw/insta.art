@@ -1,163 +1,181 @@
 {
   "type": "reel",
   "work": "gary-grills-cooper",
-  "reel_type": "R3 stages close, close detail, centre zoom-out to the whole at the end",
-  "tempo": "one stage per 0.5 s (120 BPM)",
+  "reel_type": "R3 stages only (details are a separate post)",
+  "tempo": "one stage per 0.5 s (120 BPM); one continuous left-to-right pan across all stages",
   "note": "process/01 (reference press photo) is left out on purpose",
   "shots": [
     {
+      "note": "stage 02",
       "src": "yigit:img/full/process/gary-grills-cooper-02.jpg",
       "dur": 0.5,
       "from": {
-        "cx": 0.5,
+        "cx": 0.39,
+        "cy": 0.5,
+        "cover": 1.0
+      },
+      "to": {
+        "cx": 0.41,
         "cy": 0.5,
         "cover": 1.0
       }
     },
     {
+      "note": "stage 03",
       "src": "yigit:img/full/process/gary-grills-cooper-03.jpg",
       "dur": 0.5,
       "from": {
-        "cx": 0.5,
+        "cx": 0.41,
+        "cy": 0.5,
+        "cover": 1.0
+      },
+      "to": {
+        "cx": 0.43,
         "cy": 0.5,
         "cover": 1.0
       }
     },
     {
+      "note": "stage 04",
       "src": "yigit:img/full/process/gary-grills-cooper-04.jpg",
       "dur": 0.5,
       "from": {
-        "cx": 0.5,
+        "cx": 0.43,
+        "cy": 0.5,
+        "cover": 1.0
+      },
+      "to": {
+        "cx": 0.45,
         "cy": 0.5,
         "cover": 1.0
       }
     },
     {
+      "note": "stage 05",
       "src": "yigit:img/full/process/gary-grills-cooper-05.jpg",
       "dur": 0.5,
       "from": {
-        "cx": 0.5,
+        "cx": 0.45,
+        "cy": 0.5,
+        "cover": 1.0
+      },
+      "to": {
+        "cx": 0.47,
         "cy": 0.5,
         "cover": 1.0
       }
     },
     {
+      "note": "stage 06",
       "src": "yigit:img/full/process/gary-grills-cooper-06.jpg",
       "dur": 0.5,
       "from": {
-        "cx": 0.5,
+        "cx": 0.47,
+        "cy": 0.5,
+        "cover": 1.0
+      },
+      "to": {
+        "cx": 0.49,
         "cy": 0.5,
         "cover": 1.0
       }
     },
     {
+      "note": "stage 07",
       "src": "yigit:img/full/process/gary-grills-cooper-07.jpg",
       "dur": 0.5,
       "from": {
-        "cx": 0.5,
+        "cx": 0.49,
+        "cy": 0.5,
+        "cover": 1.0
+      },
+      "to": {
+        "cx": 0.51,
         "cy": 0.5,
         "cover": 1.0
       }
     },
     {
+      "note": "stage 08",
       "src": "yigit:img/full/process/gary-grills-cooper-08.jpg",
       "dur": 0.5,
       "from": {
-        "cx": 0.5,
+        "cx": 0.51,
+        "cy": 0.5,
+        "cover": 1.0
+      },
+      "to": {
+        "cx": 0.53,
         "cy": 0.5,
         "cover": 1.0
       }
     },
     {
+      "note": "stage 09",
       "src": "yigit:img/full/process/gary-grills-cooper-09.jpg",
       "dur": 0.5,
       "from": {
-        "cx": 0.5,
+        "cx": 0.53,
+        "cy": 0.5,
+        "cover": 1.0
+      },
+      "to": {
+        "cx": 0.55,
         "cy": 0.5,
         "cover": 1.0
       }
     },
     {
+      "note": "stage 10",
       "src": "yigit:img/full/process/gary-grills-cooper-10.jpg",
       "dur": 0.5,
       "from": {
-        "cx": 0.5,
+        "cx": 0.55,
+        "cy": 0.5,
+        "cover": 1.0
+      },
+      "to": {
+        "cx": 0.57,
         "cy": 0.5,
         "cover": 1.0
       }
     },
     {
+      "note": "stage 11",
       "src": "yigit:img/full/process/gary-grills-cooper-11.jpg",
       "dur": 0.5,
       "from": {
-        "cx": 0.5,
+        "cx": 0.57,
+        "cy": 0.5,
+        "cover": 1.0
+      },
+      "to": {
+        "cx": 0.59,
         "cy": 0.5,
         "cover": 1.0
       }
     },
     {
+      "note": "stage 12",
       "src": "yigit:img/full/process/gary-grills-cooper-12.jpg",
       "dur": 0.5,
       "from": {
-        "cx": 0.5,
+        "cx": 0.59,
+        "cy": 0.5,
+        "cover": 1.0
+      },
+      "to": {
+        "cx": 0.61,
         "cy": 0.5,
         "cover": 1.0
       }
     },
     {
-      "note": "face: hair down to the cigar (pan-y)",
-      "src": "details:garygrillscooper/garlgrillscooper_detail_2.png",
-      "dur": 2.5,
-      "ease": "linear",
-      "from": {
-        "cx": 0.5,
-        "cy": 0.3,
-        "cover": 1.25
-      },
-      "to": {
-        "cx": 0.5,
-        "cy": 0.7,
-        "cover": 1.25
-      }
-    },
-    {
-      "note": "the grill (pan-x)",
-      "src": "details:garygrillscooper/garlgrillscooper_detail_6.png",
-      "dur": 2.5,
-      "ease": "linear",
-      "from": {
-        "cx": 0.3,
-        "cy": 0.5,
-        "cover": 1.1
-      },
-      "to": {
-        "cx": 0.7,
-        "cy": 0.5,
-        "cover": 1.1
-      }
-    },
-    {
-      "note": "hands and the match (pan-x)",
-      "src": "details:garygrillscooper/garlgrillscooper_detail_9.png",
-      "dur": 2.5,
-      "ease": "linear",
-      "from": {
-        "cx": 0.3,
-        "cy": 0.5,
-        "cover": 1.1
-      },
-      "to": {
-        "cx": 0.7,
-        "cy": 0.5,
-        "cover": 1.1
-      }
-    },
-    {
-      "note": "close at the centre, zoom out until the painting sits on white",
+      "note": "close at the centre, zoom out until the painting sits on white, hold 2 s",
       "src": "yigit:img/full/gary-grills-cooper.jpg",
-      "dur": 4.5,
-      "hold": 1.0,
-      "ease": "inout",
+      "dur": 6.0,
+      "hold": 2.0,
+      "ease": "out",
       "from": {
         "cx": 0.5,
         "cy": 0.5,
