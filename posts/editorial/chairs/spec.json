@@ -1,16 +1,16 @@
 {
   "type": "carousel",
   "theme": "chairs",
-  "method": "whole object visible; detail photo when it holds the whole object, else the main painting",
+  "method": "the object alone, centred, 5% white margin; detail photo when it holds the whole object, else the main painting",
   "slides": [
     {
       "work": "guarding-holy-mountains-from-malice",
       "src": "details2:guarding-holy-mountains-from-malice/guarding-holy-mountains-from-malice-detail-06.jpg",
       "box": [
-        0.3,
-        0.05,
-        0.62,
-        0.95
+        0.31,
+        0.02,
+        0.63,
+        0.88
       ],
       "note": "the chair hanging upside down from the ceiling"
     },
@@ -18,10 +18,10 @@
       "work": "articulo-attack-on-mandarin",
       "src": "yigit:img/full/articulo-attack-on-mandarin.jpg",
       "box": [
-        0.06,
+        0.11,
         0.0,
-        0.24,
-        0.17
+        0.215,
+        0.18
       ],
       "note": "a chair hanging upside down"
     },
@@ -30,9 +30,9 @@
       "src": "details2:victim-psycho-logique-ii-the-peachy-pharaoh-connects-with-the-chair/victim-psycho-logique-ii-the-peachy-pharaoh-connects-with-the-chair.png",
       "box": [
         0.6,
-        0.29,
-        0.99,
-        0.97
+        0.33,
+        0.97,
+        0.92
       ],
       "note": "the chair drawn in white lines"
     },
@@ -40,10 +40,10 @@
       "work": "virgil-on-virtual-cage-final-final-finalv9",
       "src": "details:virgilonvirtualcage/virgilonvirtualcage_detail_5.png",
       "box": [
-        0.3,
-        0.05,
-        0.62,
-        0.95
+        0.33,
+        0.06,
+        0.58,
+        0.94
       ],
       "note": "the outlined chair on the pink panel"
     },
@@ -51,10 +51,10 @@
       "work": "sept-neuf",
       "src": "details:sept-neuf/inverted-silvia--7-9.png",
       "box": [
-        0.08,
-        0.3,
+        0.12,
+        0.36,
         0.62,
-        0.97
+        0.81
       ],
       "note": "the mint armchair"
     },
@@ -62,10 +62,10 @@
       "work": "guarding-holy-mountains-from-malice",
       "src": "details2:guarding-holy-mountains-from-malice/guarding-holy-mountains-from-malice.jpg",
       "box": [
-        0.17,
-        0.55,
-        0.4,
-        0.98
+        0.19,
+        0.67,
+        0.345,
+        0.96
       ],
       "note": "the stand"
     }

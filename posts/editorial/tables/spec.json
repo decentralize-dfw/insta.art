@@ -1,16 +1,16 @@
 {
   "type": "carousel",
   "theme": "tables and beds",
-  "method": "whole object visible; detail photo when it holds the whole object, else the main painting",
+  "method": "the object alone, centred, 5% white margin; detail photo when it holds the whole object, else the main painting",
   "slides": [
     {
       "work": "walls-of-perception",
       "src": "yigit:img/full/walls-of-perception.jpg",
       "box": [
-        0.02,
-        0.58,
-        0.98,
-        0.97
+        0.12,
+        0.61,
+        0.87,
+        0.99
       ],
       "note": "the red octagonal table"
     },
@@ -18,10 +18,10 @@
       "work": "sept-neuf",
       "src": "details:sept-neuf/inverted-silvia--7-9.png",
       "box": [
-        0.6,
-        0.36,
-        0.97,
-        0.8
+        0.645,
+        0.42,
+        0.95,
+        0.82
       ],
       "note": "the side table"
     },
@@ -29,10 +29,10 @@
       "work": "the-assassination-of-the-crow",
       "src": "details2:the-assassination-of-the-crow/the-assassination-of-the-crow.png",
       "box": [
-        0.02,
-        0.1,
-        0.47,
-        0.96
+        0.12,
+        0.2,
+        0.48,
+        0.89
       ],
       "note": "the blue divan"
     },
@@ -40,20 +40,9 @@
       "work": "caprocorn-sister-war-plague-earthquake",
       "src": "details2:caprocorn-sister-war-plague-earthquake/caprocorn-sister-war-plague-earthquake.png",
       "box": [
-        0.08,
-        0.2,
-        0.33,
-        0.76
-      ],
-      "note": "the stool"
-    },
-    {
-      "work": "caprocorn-sister-war-plague-earthquake",
-      "src": "details2:caprocorn-sister-war-plague-earthquake/caprocorn-sister-war-plague-earthquake.png",
-      "box": [
-        0.28,
-        0.47,
-        0.68,
+        0.38,
+        0.54,
+        0.65,
         0.86
       ],
       "note": "the dark green chest"
