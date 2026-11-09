@@ -7,10 +7,10 @@
       "work": "guarding-holy-mountains-from-malice",
       "src": "details2:guarding-holy-mountains-from-malice/guarding-holy-mountains-from-malice-detail-06.jpg",
       "box": [
-        0.29,
-        0.02,
-        0.79,
-        0.89
+        0.25,
+        0.0,
+        0.83,
+        0.93
       ],
       "note": "the chair hanging upside down from the ceiling"
     },
@@ -18,10 +18,10 @@
       "work": "articulo-attack-on-mandarin",
       "src": "yigit:img/full/articulo-attack-on-mandarin.jpg",
       "box": [
-        0.11,
+        0.08,
         0.0,
-        0.215,
-        0.18
+        0.25,
+        0.2
       ],
       "note": "a chair hanging upside down"
     },
@@ -29,10 +29,10 @@
       "work": "victim-psycho-logique-ii-the-peachy-pharaoh-connects-with-the-chair",
       "src": "details2:victim-psycho-logique-ii-the-peachy-pharaoh-connects-with-the-chair/victim-psycho-logique-ii-the-peachy-pharaoh-connects-with-the-chair.png",
       "box": [
-        0.6,
-        0.32,
-        0.97,
-        0.94
+        0.57,
+        0.28,
+        0.995,
+        0.98
       ],
       "note": "the chair drawn in white lines"
     },
@@ -41,9 +41,9 @@
       "src": "details:masters/virgil-on-virtual-cage-RESOLUTION.png",
       "box": [
         0.11,
-        0.18,
-        0.19,
-        0.345
+        0.17,
+        0.27,
+        0.35
       ],
       "note": "the outlined chair on the pink panel"
     },
@@ -51,10 +51,10 @@
       "work": "sept-neuf",
       "src": "details:sept-neuf/inverted-silvia--7-9.png",
       "box": [
-        0.12,
-        0.36,
-        0.62,
-        0.81
+        0.08,
+        0.33,
+        0.66,
+        0.86
       ],
       "note": "the mint armchair"
     },
@@ -62,10 +62,10 @@
       "work": "guarding-holy-mountains-from-malice",
       "src": "details2:guarding-holy-mountains-from-malice/guarding-holy-mountains-from-malice.jpg",
       "box": [
-        0.17,
-        0.66,
-        0.345,
-        0.98
+        0.13,
+        0.63,
+        0.41,
+        0.995
       ],
       "note": "the stand"
     }

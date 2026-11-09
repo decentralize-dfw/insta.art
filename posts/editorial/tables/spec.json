@@ -7,10 +7,10 @@
       "work": "walls-of-perception",
       "src": "yigit:img/full/walls-of-perception.jpg",
       "box": [
-        0.12,
-        0.61,
-        0.87,
-        0.99
+        0.07,
+        0.57,
+        0.93,
+        1.0
       ],
       "note": "the red octagonal table"
     },
@@ -18,10 +18,10 @@
       "work": "sept-neuf",
       "src": "details:sept-neuf/inverted-silvia--7-9.png",
       "box": [
-        0.645,
-        0.42,
-        0.95,
-        0.82
+        0.63,
+        0.38,
+        0.97,
+        0.83
       ],
       "note": "the side table"
     },
@@ -29,10 +29,10 @@
       "work": "the-assassination-of-the-crow",
       "src": "details2:the-assassination-of-the-crow/the-assassination-of-the-crow.png",
       "box": [
-        0.105,
-        0.165,
-        0.49,
-        0.93
+        0.05,
+        0.12,
+        0.53,
+        0.97
       ],
       "note": "the blue divan"
     },
@@ -40,10 +40,10 @@
       "work": "caprocorn-sister-war-plague-earthquake",
       "src": "details2:caprocorn-sister-war-plague-earthquake/caprocorn-sister-war-plague-earthquake.png",
       "box": [
-        0.27,
-        0.53,
-        0.67,
-        0.88
+        0.22,
+        0.47,
+        0.75,
+        0.93
       ],
       "note": "the dark green chest"
     }
