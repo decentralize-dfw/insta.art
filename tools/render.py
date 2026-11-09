@@ -17,7 +17,8 @@ Camera model (reel shots)
   Anything diagonal is refused. Every shot keeps moving until the cut (no
   shot may stand still, no easing into a stop); only the last shot may hold,
   for at most 2 s, once the painting sits on white.
-  Process videos set "camera": "static": nothing moves, only the stages change. Pan targets are clamped to
+  Process videos set "camera": "static": nothing moves, only the stages change,
+  and every image fits whole on white (nothing cropped). Pan targets are clamped to
   what the frame can really show, so a pan never stalls against an edge.
   Each shot has a source image and two keyframes, "from" and "to".
   A keyframe is {"cx": 0-1, "cy": 0-1, "fit": true} or {"cx", "cy", "cover": k}.
@@ -149,6 +150,8 @@ def reel(spec, outdir):
         check_motion(shot, i)
         if static and shot.get("to", shot["from"]) != shot["from"]:
             sys.exit(f"shot {i + 1}: camera is static in this spec, so 'to' must equal 'from'")
+        if static and not shot["from"].get("fit"):
+            sys.exit(f"shot {i + 1}: in a static (process) reel every image must fit whole on white")
         if shot.get("hold") and i != len(shots) - 1:
             sys.exit(f"shot {i + 1}: only the last shot may hold")
         if float(shot.get("hold", 0)) > MAX_HOLD:

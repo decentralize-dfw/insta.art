@@ -150,8 +150,11 @@ kullanılabilir. Örnek:
     hareketsiz plan ya da yavaşlayıp duran hareket yok. Sabit kalan tek an, sondaki en
     fazla 2 saniye.
   - **Süreç (aşama) videolarında kamera hiç hareket etmez.** Yalnızca aşama fotoğrafları
-    değişir (her biri 0,5 sn, aynı kadraj). Sonda bitmiş resim önce aynı kadrajda, sonra
-    beyaz alanda 2 saniye. `spec.json` içinde `"camera": "static"`.
+    değişir (her biri 0,5 sn). **Her aşama fotoğrafı ve bitmiş resim beyaz alana tamamen
+    sığar, hiçbir kenarı kesilmez.** Sonda bitmiş resim beyaz alanda 2 saniye.
+    `spec.json` içinde `"camera": "static"`.
+  - **Eserin ya da aşamanın tamamı gösteriliyorsa her zaman tam sığar** (beyaz alanda, kendi
+    oranında, kesilmeden). Kırpma yalnızca bilerek seçilmiş yakın detay planlarında olur.
   - `tools/render.py` bu kurala uymayan bir `spec.json`'ı reddeder.
 - Uzunluk: tek eser için 15-30 saniye. Plan başına yaklaşık 2-3 saniye, aşama fotoğrafları
   0,5 saniye. Referanslar: `references/bacon-analiz-30sn-format.md`.
