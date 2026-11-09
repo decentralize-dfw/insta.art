@@ -10,6 +10,11 @@ description: >-
 
 # ig-repurpose
 
+## Account voice for this repository
+
+Before writing, read `.claude/instagram/voice.md` from the repository root. Use that project file before any home-directory voice profile. Preserve its evidence limits and exact quotations; missing facts stay marked instead of becoming invented claims. The user's current explicit instruction takes precedence.
+
+
 One good long asset contains four to six posts. Most people extract one and
 throw the rest away.
 

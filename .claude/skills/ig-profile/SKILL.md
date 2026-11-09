@@ -10,6 +10,11 @@ description: >-
 
 # ig-profile
 
+## Account voice for this repository
+
+Before writing, read `.claude/instagram/voice.md` from the repository root. Use that project file before any home-directory voice profile. Preserve its evidence limits and exact quotations; missing facts stay marked instead of becoming invented claims. The user's current explicit instruction takes precedence.
+
+
 Almost everybody optimises the wrong thing here. The profile is not a
 storefront people browse. It is a **decision screen**, arrived at from one
 reel, and it gets about three seconds to answer one question: is there more of

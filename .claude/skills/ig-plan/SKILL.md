@@ -9,12 +9,17 @@ description: >-
 
 # ig-plan
 
+## Account voice for this repository
+
+Before writing, read `.claude/instagram/voice.md` from the repository root. Use that project file before any home-directory voice profile. Preserve its evidence limits and exact quotations; missing facts stay marked instead of becoming invented claims. The user's current explicit instruction takes precedence.
+
+
 The control room. Everything else in this pack executes; this decides what gets
 executed. Run it once a week, on the same day.
 
 ## Input
 
-If `~/.claude/instagram/voice.md`, `swipe.md` and `log.md` exist, read them.
+If `.claude/instagram/voice.md`, `swipe.md` and `log.md` exist, read them.
 The swipe file is the user's own evidence from `/ig-viral` about which formulas
 are landing in their niche right now, and it outranks anything in this file.
 The log stops the plan repeating a theme from the last fortnight.

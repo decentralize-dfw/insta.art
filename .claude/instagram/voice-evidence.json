@@ -1,0 +1,37 @@
+{
+  "updated_on": "2026-11-09",
+  "scope": "Pointers to the sources voice.md relies on. No private messages are stored here.",
+  "catalogue": {
+    "repo": "decentralize-dfw/yigit",
+    "path": "v3/content/works.json",
+    "note": "Single source of truth for title, year, medium, size, panels and description."
+  },
+  "images": {
+    "full": "decentralize-dfw/yigit: img/full/<slug>.(jpg|png)",
+    "detail": "decentralize-dfw/yigit: img/full/detail/",
+    "process": "decentralize-dfw/yigit: img/full/process/",
+    "study": "decentralize-dfw/yigit: img/full/study/",
+    "archive_web_copies": "gpt-plan/assets/art/ (max 2160 px)",
+    "archive_originals": "On Yiğit's computer, referenced by A#### ids in gpt-plan/"
+  },
+  "videos": {
+    "site_films": "decentralize-dfw/yigit: v3/content/videos.json (CDN, HLS)",
+    "process_footage": "On Yiğit's computer; frame previews in gpt-plan/assets/video-sheets/"
+  },
+  "decisions": {
+    "voiceover": false,
+    "music": "added by Yiğit in the Instagram app; agent exports silent video",
+    "caption_default": "title + year · medium · size; at most one optional short line",
+    "emoji": false,
+    "hashtags_max": 1,
+    "sales": false,
+    "agent_publishes_to_instagram": false,
+    "goal_phase_1": "active organic followers",
+    "later_phases": ["artists", "galleries and curators"]
+  },
+  "superseded": [
+    "gpt-plan caption_en, voice_en, subtitles and cover_en texts",
+    "gpt-plan narration and music-none policy",
+    "previous voice.md private-message quotes and AI narrator plan"
+  ]
+}

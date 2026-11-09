@@ -9,6 +9,11 @@ description: >-
 
 # ig-carousel
 
+## Account voice for this repository
+
+Before writing, read `.claude/instagram/voice.md` from the repository root. Use that project file before any home-directory voice profile. Preserve its evidence limits and exact quotations; missing facts stay marked instead of becoming invented claims. The user's current explicit instruction takes precedence.
+
+
 Carousels are the highest-dwell format on the grid, because a swipe is an
 interaction and a scroll is not. They also get a second chance: Instagram can
 show a carousel again starting from a later slide to someone who did not engage

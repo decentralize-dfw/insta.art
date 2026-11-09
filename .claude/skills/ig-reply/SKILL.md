@@ -9,6 +9,11 @@ description: >-
 
 # ig-reply
 
+## Account voice for this repository
+
+Before writing, read `.claude/instagram/voice.md` from the repository root. Use that project file before any home-directory voice profile. Preserve its evidence limits and exact quotations; missing facts stay marked instead of becoming invented claims. The user's current explicit instruction takes precedence.
+
+
 The comment thread under your own post is where reach is decided. Every reply
 is another interaction on the post, replies arriving in the first hour do most
 of the work, and on Instagram a reply can also be a Reel, which is the single

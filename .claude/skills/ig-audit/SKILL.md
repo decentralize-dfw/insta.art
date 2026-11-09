@@ -10,6 +10,11 @@ description: >-
 
 # ig-audit
 
+## Account voice for this repository
+
+Before writing, read `.claude/instagram/voice.md` from the repository root. Use that project file before any home-directory voice profile. Preserve its evidence limits and exact quotations; missing facts stay marked instead of becoming invented claims. The user's current explicit instruction takes precedence.
+
+
 The only honest source of what works for an account is that account. Every
 rule in every Instagram guide, including the ones in this pack, is a prior.
 The user's own last 30 posts are the evidence.

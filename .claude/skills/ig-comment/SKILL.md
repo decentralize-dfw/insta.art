@@ -9,6 +9,11 @@ description: >-
 
 # ig-comment
 
+## Account voice for this repository
+
+Before writing, read `.claude/instagram/voice.md` from the repository root. Use that project file before any home-directory voice profile. Preserve its evidence limits and exact quotations; missing facts stay marked instead of becoming invented claims. The user's current explicit instruction takes precedence.
+
+
 Commenting is the highest-leverage twenty minutes on Instagram and the easiest
 to do badly. A comment near the top of a reel with 40,000 views is seen by more
 people than most accounts' own posts, and it is the one place where a stranger

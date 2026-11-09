@@ -11,6 +11,11 @@ description: >-
 
 # ig-reel
 
+## Account voice for this repository
+
+Before writing, read `.claude/instagram/voice.md` from the repository root. Use that project file before any home-directory voice profile. Preserve its evidence limits and exact quotations; missing facts stay marked instead of becoming invented claims. The user's current explicit instruction takes precedence.
+
+
 Turns one raw idea into a Reel that somebody finishes.
 
 Two tools live in this folder and they both actually run. Use them. Do not
@@ -24,7 +29,7 @@ python3 beats.py script.txt --target 30     # timed beat sheet before you shoot
 
 ## Before you write
 
-1. Read `~/.claude/instagram/voice.md` if it exists. That is the user's voice
+1. Read `.claude/instagram/voice.md` if it exists. That is the user's voice
    profile: how they talk on camera, what they never say, who they are talking
    to. If it does not exist, ask for **three of their own reels**, transcribe or
    read them, infer the voice, and write the file. A script in the wrong voice
