@@ -1,0 +1,104 @@
+{
+  "type": "reel",
+  "work": "good-people-helping-bad-ones-thats-why-theyre-bad-too",
+  "reel_type": "details: close shots, one axis per shot, slow, always moving, centre zoom-out ending",
+  "tempo": "3 s shots, cuts on a 0.5 s grid (120 BPM)",
+  "shots": [
+    {
+      "note": "the white heap, limbs that cannot be counted",
+      "src": "details2:good-people-helping-bad-ones-thats-why-theyre-bad-too/good-people-helping-bad-ones-thats-why-theyre-bad-too-detail-03.jpg",
+      "dur": 3.0,
+      "from": {
+        "cx": 0.38,
+        "cy": 0.5,
+        "cover": 1.15
+      },
+      "to": {
+        "cx": 0.62,
+        "cy": 0.5,
+        "cover": 1.15
+      }
+    },
+    {
+      "note": "an arm rising out of it",
+      "src": "details2:good-people-helping-bad-ones-thats-why-theyre-bad-too/good-people-helping-bad-ones-thats-why-theyre-bad-too-detail-07.jpg",
+      "dur": 3.0,
+      "from": {
+        "cx": 0.62,
+        "cy": 0.5,
+        "cover": 1.15
+      },
+      "to": {
+        "cx": 0.38,
+        "cy": 0.5,
+        "cover": 1.15
+      }
+    },
+    {
+      "note": "two rounds overlapping in the middle",
+      "src": "details2:good-people-helping-bad-ones-thats-why-theyre-bad-too/good-people-helping-bad-ones-thats-why-theyre-bad-too-detail-04.jpg",
+      "dur": 3.0,
+      "from": {
+        "cx": 0.38,
+        "cy": 0.5,
+        "cover": 1.15
+      },
+      "to": {
+        "cx": 0.62,
+        "cy": 0.5,
+        "cover": 1.15
+      }
+    },
+    {
+      "note": "the row of small red figures with crossed eyes",
+      "src": "details2:good-people-helping-bad-ones-thats-why-theyre-bad-too/good-people-helping-bad-ones-thats-why-theyre-bad-too-detail-02.jpg",
+      "dur": 3.0,
+      "from": {
+        "cx": 0.62,
+        "cy": 0.5,
+        "cover": 1.15
+      },
+      "to": {
+        "cx": 0.38,
+        "cy": 0.5,
+        "cover": 1.15
+      }
+    },
+    {
+      "note": "one of them, down from the eyes",
+      "src": "details2:good-people-helping-bad-ones-thats-why-theyre-bad-too/good-people-helping-bad-ones-thats-why-theyre-bad-too-detail-08.jpg",
+      "dur": 3.0,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.38,
+        "cover": 1.6
+      },
+      "to": {
+        "cx": 0.5,
+        "cy": 0.62,
+        "cover": 1.6
+      }
+    },
+    {
+      "note": "close at the centre, zoom out until the painting sits on white, hold 2 s",
+      "src": "details2:good-people-helping-bad-ones-thats-why-theyre-bad-too/good-people-helping-bad-ones-thats-why-theyre-bad-too.png",
+      "dur": 6.0,
+      "hold": 2.0,
+      "ease": "out",
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "cover": 1.3
+      },
+      "to": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    }
+  ],
+  "cover": {
+    "src": "details2:good-people-helping-bad-ones-thats-why-theyre-bad-too/good-people-helping-bad-ones-thats-why-theyre-bad-too.png",
+    "fit": true
+  }
+}

@@ -13,5 +13,5 @@
 | 2 | 3.0 | yatay | the arm reaching right, the hand not quite a fist | `when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire/when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire-detail-10.jpg` |
 | 3 | 3.0 | yatay | the body of rounded pink masses | `when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire/when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire-detail-03.jpg` |
 | 4 | 3.0 | yatay | the legs | `when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire/when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire-detail-05.jpg` |
-| 5 | 3.0 | yatay | the foot on the dark ground | `when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire/when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire-detail-13.jpg` |
+| 5 | 3.0 | yatay | the foot on the dark ground | `when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire/when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire-detail-14.jpg` |
 | 6 | 6.0 | zoom-out | close at the centre, zoom out until the painting sits on white, hold 2 s | `when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire/when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire.png` |
