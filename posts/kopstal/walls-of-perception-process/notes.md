@@ -1,7 +1,7 @@
 # walls of perception · süreç · Reel
 
 - **Tür:** süreç videosu, kamera sabit, her görsel beyaz alana tam sığıyor
-- **Süre:** 4.5 sn, sessiz
+- **Süre:** 5.5 sn (son 1 sn bitiş ekranı: beyaz, ortada küçük kuş-sandalye logosu), sessiz
 - **Dosyalar:** `reel.mp4`, `cover.jpg`, `caption.txt`, `alt.txt`, `review.jpg`
 - **Müzik önerisi:** ritmik, her aşama bir vuruşa denk gelsin (120 BPM)
 

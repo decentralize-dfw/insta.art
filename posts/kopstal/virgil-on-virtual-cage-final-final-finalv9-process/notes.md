@@ -1,7 +1,7 @@
 # Virgil on Virtual Cage (final_final-finalV9) · süreç · Reel
 
 - **Tür:** süreç videosu, kamera sabit, her görsel beyaz alana tam sığıyor
-- **Süre:** 8 sn, sessiz
+- **Süre:** 9 sn (son 1 sn bitiş ekranı: beyaz, ortada küçük kuş-sandalye logosu), sessiz
 - **Dosyalar:** `reel.mp4`, `cover.jpg`, `caption.txt`, `alt.txt`, `review.jpg`
 - **Müzik önerisi:** ritmik, her aşama bir vuruşa denk gelsin (120 BPM)
 - Çıkarıldı: process/00.jpg: Leonardo's Virgin of the Rocks, the reference image, not a stage

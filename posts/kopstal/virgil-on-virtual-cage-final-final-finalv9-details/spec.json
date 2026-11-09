@@ -5,123 +5,123 @@
   "tempo": "cuts on a 0.5 s grid (120 BPM)",
   "shots": [
     {
-      "note": "the white wig down to the face",
+      "note": "across the white wig and the face",
       "src": "details:masters/virgil-on-virtual-cage-RESOLUTION.png",
       "dur": 2.5,
       "from": {
-        "cx": 0.47,
-        "cy": 0.22,
-        "cover": 3.0
+        "cx": 0.4,
+        "cy": 0.27,
+        "cover": 4.5
       },
       "to": {
-        "cx": 0.47,
-        "cy": 0.36,
-        "cover": 3.0
+        "cx": 0.55,
+        "cy": 0.27,
+        "cover": 4.5
       }
     },
     {
-      "note": "along the drawn ceiling",
+      "note": "the pink panel and its outlined chair",
       "src": "details:masters/virgil-on-virtual-cage-RESOLUTION.png",
       "dur": 2.5,
       "from": {
-        "cx": 0.3,
-        "cy": 0.07,
-        "cover": 3.0
+        "cx": 0.28,
+        "cy": 0.25,
+        "cover": 4.5
       },
       "to": {
-        "cx": 0.7,
-        "cy": 0.07,
-        "cover": 3.0
+        "cx": 0.12,
+        "cy": 0.25,
+        "cover": 4.5
       }
     },
     {
-      "note": "down the right upright to where it stops",
+      "note": "the blonde figure turning inward, to the pink wing",
       "src": "details:masters/virgil-on-virtual-cage-RESOLUTION.png",
       "dur": 2.5,
       "from": {
-        "cx": 0.78,
-        "cy": 0.17,
-        "cover": 3.0
-      },
-      "to": {
-        "cx": 0.78,
+        "cx": 0.68,
         "cy": 0.45,
-        "cover": 3.0
-      }
-    },
-    {
-      "note": "the pink panel with the outlined chair",
-      "src": "details:virgilonvirtualcage/virgilonvirtualcage_detail_5.png",
-      "dur": 2.5,
-      "from": {
-        "cx": 0.3,
-        "cy": 0.5,
-        "cover": 1.0
+        "cover": 4.5
       },
       "to": {
-        "cx": 0.7,
-        "cy": 0.5,
-        "cover": 1.0
+        "cx": 0.88,
+        "cy": 0.45,
+        "cover": 4.5
       }
     },
     {
-      "note": "the small curly-haired figure at left",
-      "src": "details:virgilonvirtualcage/virgilonvirtualcage_detail_4.png",
-      "dur": 2.5,
-      "from": {
-        "cx": 0.7,
-        "cy": 0.5,
-        "cover": 1.0
-      },
-      "to": {
-        "cx": 0.3,
-        "cy": 0.5,
-        "cover": 1.0
-      }
-    },
-    {
-      "note": "the blonde figure to its pink wing",
-      "src": "details:virgilonvirtualcage/virgilonvirtualcage_detail_1.png",
-      "dur": 2.5,
-      "from": {
-        "cx": 0.35,
-        "cy": 0.5,
-        "cover": 1.0
-      },
-      "to": {
-        "cx": 0.7,
-        "cy": 0.5,
-        "cover": 1.0
-      }
-    },
-    {
-      "note": "the grey-haired figure lying back, legs raised",
-      "src": "details:virgilonvirtualcage/virgilonvirtualcage_detail_6.png",
-      "dur": 2.5,
-      "from": {
-        "cx": 0.7,
-        "cy": 0.5,
-        "cover": 1.0
-      },
-      "to": {
-        "cx": 0.3,
-        "cy": 0.5,
-        "cover": 1.0
-      }
-    },
-    {
-      "note": "the bed of coral strokes",
+      "note": "the raised white hand above the drapery",
       "src": "details:masters/virgil-on-virtual-cage-RESOLUTION.png",
       "dur": 2.5,
       "from": {
-        "cx": 0.2,
-        "cy": 0.88,
-        "cover": 3.0
+        "cx": 0.66,
+        "cy": 0.48,
+        "cover": 4.5
       },
       "to": {
-        "cx": 0.6,
-        "cy": 0.88,
-        "cover": 3.0
+        "cx": 0.54,
+        "cy": 0.48,
+        "cover": 4.5
+      }
+    },
+    {
+      "note": "the small curly-haired figure in lavender and cream",
+      "src": "details:masters/virgil-on-virtual-cage-RESOLUTION.png",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.3,
+        "cy": 0.52,
+        "cover": 4.5
+      },
+      "to": {
+        "cx": 0.14,
+        "cy": 0.52,
+        "cover": 4.5
+      }
+    },
+    {
+      "note": "the grey-haired figure lying back",
+      "src": "details:masters/virgil-on-virtual-cage-RESOLUTION.png",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.52,
+        "cy": 0.64,
+        "cover": 4.5
+      },
+      "to": {
+        "cx": 0.7,
+        "cy": 0.64,
+        "cover": 4.5
+      }
+    },
+    {
+      "note": "its raised legs and feet in the coral",
+      "src": "details:masters/virgil-on-virtual-cage-RESOLUTION.png",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.68,
+        "cy": 0.84,
+        "cover": 4.5
+      },
+      "to": {
+        "cx": 0.52,
+        "cy": 0.84,
+        "cover": 4.5
+      }
+    },
+    {
+      "note": "the bed of coral strokes, pressed from the tube",
+      "src": "details:masters/virgil-on-virtual-cage-RESOLUTION.png",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.36,
+        "cy": 0.86,
+        "cover": 4.5
+      },
+      "to": {
+        "cx": 0.1,
+        "cy": 0.86,
+        "cover": 4.5
       }
     },
     {
@@ -133,7 +133,7 @@
       "from": {
         "cx": 0.5,
         "cy": 0.5,
-        "cover": 3.0
+        "cover": 4.5
       },
       "to": {
         "cx": 0.5,

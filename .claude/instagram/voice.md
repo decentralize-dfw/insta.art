@@ -172,6 +172,12 @@ kullanılabilir. Örnek:
   çözünürlüklü detayı kullan.
 - Analiz belgesinin 7. bölümü (İngilizce seslendirme, ortada kelime altyazısı) bu hesapta
   **uygulanmaz**. Ses ve yazı yok.
+- **Her videonun sonunda 1 saniyelik bitiş ekranı:** beyaz zemin, ortada küçük, siyah
+  kuş-sandalye logosu (sitenin logosu, `assets/logo-birdchair.png`, 200 px yükseklik).
+  `tools/render.py` bunu her videoya otomatik ekler. Başka yazı ya da logo yok.
+- Detay videolarında yakınlık: kaynak izin verdiği kadar yakın; her plan resmin farklı
+  bir yerini göstermeli. Aynı bölgeye ikinci kez dönülmez. Yukarı-aşağı planlar art
+  arda dizilmez; ağırlık yatay planlarda olur.
 - Ekranda yazı varsayılan olarak yok. İstenirse yalnızca son 1-2 saniyede, küçük ve sade:
   başlık ve yıl. Cümle ya da soru asla.
 

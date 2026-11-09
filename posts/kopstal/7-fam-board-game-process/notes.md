@@ -1,7 +1,7 @@
 # 7 fam board game · süreç · Reel
 
 - **Tür:** süreç videosu, kamera sabit, her görsel beyaz alana tam sığıyor
-- **Süre:** 9 sn, sessiz
+- **Süre:** 10 sn (son 1 sn bitiş ekranı: beyaz, ortada küçük kuş-sandalye logosu), sessiz
 - **Dosyalar:** `reel.mp4`, `cover.jpg`, `caption.txt`, `alt.txt`, `review.jpg`
 - **Müzik önerisi:** ritmik, her aşama bir vuruşa denk gelsin (120 BPM)
 

@@ -7,7 +7,7 @@ Usage
 
 Writes <folder>/review.jpg (15 evenly spaced frames, true 9:16 aspect) and
 prints the checks: duration, audio streams, frozen stretches (detail reels
-must only freeze in the final 2 s), and distinct frames (process reels with a
+must only freeze in the final 2 s hold and the 1 s end card), and distinct frames (process reels with a
 static camera must show exactly one image per stage).
 """
 
@@ -50,12 +50,12 @@ def main():
                               "-f", "null", "-"], capture_output=True, text=True).stderr
         frames = re.findall(r"frame=\s*(\d+)", out)
         lines.append(f"distinct images: {frames[-1] if frames else '?'} "
-                     f"(stages + final = {len(spec['shots'])})")
+                     f"(stages + final + end card = {len(spec['shots']) + 1})")
     else:
         out = subprocess.run(["ffmpeg", "-i", reel, "-vf", "freezedetect=n=0.0005:d=0.15",
                               "-map", "0:v", "-f", "null", "-"], capture_output=True, text=True).stderr
         starts = [float(x) for x in re.findall(r"freeze_start: ([\d.]+)", out)]
-        mid = [s for s in starts if s < dur - 2.6]
+        mid = [s for s in starts if s < dur - 3.6]  # final 2 s hold + 1 s end card
         lines.append("frozen stretches before the final hold: " +
                      (", ".join(f"{s:.2f}s" for s in mid) if mid else "none"))
     print("\n".join(lines))

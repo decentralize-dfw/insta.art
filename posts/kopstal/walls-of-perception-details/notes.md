@@ -1,7 +1,7 @@
 # walls of perception · detaylar · Reel
 
 - **Tür:** detay videosu, her plan tek eksende ve kesintisiz hareketli, sonda merkezden zoom-out
-- **Süre:** 16 sn, sessiz
+- **Süre:** 17 sn (son 1 sn bitiş ekranı: beyaz, ortada küçük kuş-sandalye logosu), sessiz
 - **Dosyalar:** `reel.mp4`, `cover.jpg`, `caption.txt`, `alt.txt`, `review.jpg`
 - **Müzik önerisi:** yavaş, 120 BPM ızgarasına oturan; kesmeler 0,5 sn katlarında
 

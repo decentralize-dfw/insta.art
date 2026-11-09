@@ -5,63 +5,108 @@
   "tempo": "cuts on a 0.5 s grid (120 BPM)",
   "shots": [
     {
-      "note": "the large head: lobes down to the pale tube",
+      "note": "the small player: dark red cap down through the glare to the mouth",
       "src": "details:7famboardgame/7fam-board-game.png",
       "dur": 2.5,
       "from": {
-        "cx": 0.28,
-        "cy": 0.23,
-        "cover": 2.2
-      },
-      "to": {
-        "cx": 0.28,
-        "cy": 0.5,
-        "cover": 2.2
-      }
-    },
-    {
-      "note": "across the board from the faceless head to the scowling one",
-      "src": "details:7famboardgame/7fam-board-game.png",
-      "dur": 2.5,
-      "from": {
-        "cx": 0.3,
-        "cy": 0.4,
-        "cover": 1.8
+        "cx": 0.64,
+        "cy": 0.3,
+        "cover": 2.3
       },
       "to": {
         "cx": 0.64,
-        "cy": 0.4,
-        "cover": 1.8
+        "cy": 0.48,
+        "cover": 2.3
       }
     },
     {
-      "note": "the scowl down the white cords into the pieces",
+      "note": "the large head: rose and coral lobes, the white and yellow rings",
       "src": "details:7famboardgame/7fam-board-game.png",
       "dur": 2.5,
       "from": {
-        "cx": 0.67,
-        "cy": 0.4,
-        "cover": 2.0
+        "cx": 0.12,
+        "cy": 0.2,
+        "cover": 2.3
       },
       "to": {
-        "cx": 0.67,
-        "cy": 0.72,
-        "cover": 2.0
+        "cx": 0.38,
+        "cy": 0.2,
+        "cover": 2.3
       }
     },
     {
-      "note": "the board: eared clump, stacked blue heads, wrapped pink cones",
+      "note": "the pale tube under the faceless head, down to the jacket and the gold wedge",
       "src": "details:7famboardgame/7fam-board-game.png",
-      "dur": 3.0,
+      "dur": 2.5,
       "from": {
-        "cx": 0.8,
-        "cy": 0.72,
-        "cover": 2.0
+        "cx": 0.18,
+        "cy": 0.42,
+        "cover": 2.3
       },
       "to": {
-        "cx": 0.3,
-        "cy": 0.72,
-        "cover": 2.0
+        "cx": 0.18,
+        "cy": 0.7,
+        "cover": 2.3
+      }
+    },
+    {
+      "note": "the pink cones, each in its own wrapping",
+      "src": "details:7famboardgame/7fam-board-game.png",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.45,
+        "cy": 0.8,
+        "cover": 2.3
+      },
+      "to": {
+        "cx": 0.25,
+        "cy": 0.8,
+        "cover": 2.3
+      }
+    },
+    {
+      "note": "the two white cords from the collar into the pieces",
+      "src": "details:7famboardgame/7fam-board-game.png",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.68,
+        "cy": 0.7,
+        "cover": 2.3
+      },
+      "to": {
+        "cx": 0.68,
+        "cy": 0.78,
+        "cover": 2.3
+      }
+    },
+    {
+      "note": "pale blue heads stacked two and three high, crossed eyes",
+      "src": "details:7famboardgame/7fam-board-game.png",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.48,
+        "cy": 0.76,
+        "cover": 2.3
+      },
+      "to": {
+        "cx": 0.64,
+        "cy": 0.76,
+        "cover": 2.3
+      }
+    },
+    {
+      "note": "the densest clump, with pointed ears, at the edge of the board",
+      "src": "details:7famboardgame/7fam-board-game.png",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.72,
+        "cy": 0.78,
+        "cover": 2.3
+      },
+      "to": {
+        "cx": 0.86,
+        "cy": 0.78,
+        "cover": 2.3
       }
     },
     {
@@ -73,7 +118,7 @@
       "from": {
         "cx": 0.5,
         "cy": 0.5,
-        "cover": 1.8
+        "cover": 2.3
       },
       "to": {
         "cx": 0.5,

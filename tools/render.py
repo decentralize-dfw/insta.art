@@ -30,6 +30,9 @@ Camera model (reel shots)
   larger than the frame the view is clamped to the image, so no empty edge
   ever slides into view while zoomed in.
 
+Every reel ends with a 1 s end card: white, the bird-on-chair logo small and
+black in the centre (assets/logo-birdchair.png).
+
 Output is H.264, 30 fps, 1080x1920, no audio track. Music is added in the
 Instagram app.
 """
@@ -57,6 +60,21 @@ ROOTS = {
 W, H, FPS = 1080, 1920, 30
 PAD = 40
 WHITE = (255, 255, 255)
+
+# Every reel ends on this: 1 s of white with the site's bird-on-chair logo,
+# black and small, in the centre.
+ENDCARD_DUR = 1.0
+ENDCARD_LOGO = os.path.join(REPO, "assets", "logo-birdchair.png")
+ENDCARD_LOGO_H = 200
+
+
+def endcard():
+    frame = Image.new("RGB", (W, H), WHITE)
+    logo = Image.open(ENDCARD_LOGO).convert("RGBA")
+    logo = logo.resize((round(logo.width * ENDCARD_LOGO_H / logo.height), ENDCARD_LOGO_H),
+                       Image.LANCZOS)
+    frame.paste(logo, ((W - logo.width) // 2, (H - logo.height) // 2), logo)
+    return frame
 
 _cache = {}
 
@@ -217,6 +235,10 @@ def reel(spec, outdir):
             cy = ay + (by - ay) * t
             proc.stdin.write(static_frame if static_frame is not None else draw(im, s, cx, cy).tobytes())
         total += n
+    card = endcard().tobytes()
+    for _ in range(round(ENDCARD_DUR * FPS)):
+        proc.stdin.write(card)
+    total += round(ENDCARD_DUR * FPS)
     proc.stdin.close()
     if proc.wait():
         sys.exit("ffmpeg failed")
