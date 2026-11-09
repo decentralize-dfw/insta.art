@@ -140,23 +140,41 @@ kullanılabilir. Örnek:
 Üretim aracı: `python3 tools/render.py posts/<klasör>/spec.json`. Tempo, kadraj ve sıra `spec.json` içinde.
 
 - 1080×1920, 30 fps, H.264, **ses kanalı yok**.
-- Uzunluk 7-15 saniye. Süreç videosu en fazla yaklaşık 20 saniye.
+- İki uzunluk var:
+  - **Kısa montaj (12-15 sn):** yaklaşık 1 saniyelik planlar, farklı ölçekler (bütün,
+    beden, yüz, mekân). Planlar içinde çok küçük hareket (%1-3). Referans A.
+  - **Detay incelemesi (yaklaşık 30 sn):** tek eser, 8-11 anlamlı plan. Hızlı detay girişi
+    → resmin tamamı → hedefli detaylar → detayın yerini gösteren orta kadraj → ikinci detay
+    → ilişki → geniş kadraj → resmin tamamı, sabit. Referans B ve
+    `references/bacon-analiz-30sn-format.md` §5.
 - İlk kare zaten güçlü bir görüntü olmalı: siyah ekranla, fade-in ile ya da logoyla açılmaz.
-- Sonu başına bağlanacak şekilde kurgula (loop), böylece video tekrar izlenir.
+  İlk planda hareket hemen başlar.
 - Kesmeler 0,5 saniyelik ızgaraya otursun (120 BPM). Böylece Yiğit hangi müziği eklerse
   eklesin ritim tutar.
-- Hareket yavaş ve sabit olmalı. Ani zoom, sallanma, geçiş efekti yok.
+- Her kesme yeni bir şey gösterir. Aynı fotoğrafa başka merkezden tekrar zoom yapmak yeni
+  plan sayılmaz.
+- Detaya yaklaşma: hedef (göz, ağız, pençe, çatı kenarı) ilk karede zaten görünür. 2,5-3,5
+  saniyede %10-20 büyüme. Hedef kadrajdan çıkmaz.
+- Kaydırma (pan): bir başlangıç ve bir varış nesnesi olur, tek yön. Sırf hareket olsun diye
+  dolaşılmaz.
+- Bütüne dönüş varsayılan olarak kesmeyle olur. Uzun, sürekli zoom-out yalnızca yeni bir
+  ilişki açıyorsa kullanılır.
+- Geçiş efekti, sallanma, ani zoom, renk efekti yok. Varsayılan doğrudan kesme.
+- Eser esnetilmez, rengi değiştirilmez. Resmin tamamı en az bir kez, kesilmeden ve kendi
+  oranında görünür.
+- Çözünürlük: yakınlaşılan pencere son karede kaynakta en az 1080×1920 piksel içermeli.
+  Yetmiyorsa yakınlaşmayı azalt ya da `yigitozen-painting-details` reposundaki orijinal
+  çözünürlüklü detayı kullan.
+- Analiz belgesinin 7. bölümü (İngilizce seslendirme, ortada kelime altyazısı) bu hesapta
+  **uygulanmaz**. Ses ve yazı yok.
 - Ekranda yazı varsayılan olarak yok. İstenirse yalnızca son 1-2 saniyede, küçük ve sade:
   başlık ve yıl. Cümle ya da soru asla.
-- Düşük çözünürlüklü görselde derin zoom yapma. Yakınlaşılan alan kaynakta en az
-  1080 piksel genişlik içermeli. Yetmiyorsa `img/full/detail/` içindeki detay
-  fotoğrafını kullan.
 
 Reel tipleri:
 
 | kod | ad | ne | kaynak |
 | --- | --- | --- | --- |
-| R1 | Detaydan bütüne | Fırça izinin ya da dokunun yakın planıyla açıl, yavaşça eserin tamamına çekil. Hesabın ana formatı. | `img/full/<slug>`, `img/full/detail/` |
+| R1 | Detaydan bütüne | Detayla açıl, hedefli detaylarla ilerle, sonunda eserin tamamına dön (kesmeyle; zoom-out yalnızca yeni ilişki açıyorsa). Hesabın ana formatı. Kısa montaj ya da 30 sn detay incelemesi. | `img/full/<slug>`, `img/full/detail/` |
 | R2 | Yüzeyde gezinme | Tek bir detay şeridi boyunca yavaş kaydırma. | `img/full/detail/` |
 | R3 | Aşamalar | Aynı eserin aşama fotoğrafları sırayla, sonunda bitmiş eser. Fotoğraf dizisi kesintisiz canlı çekim gibi sunulmaz. | `img/full/process/` |
 | R4 | Gerçek süreç videosu | Gerçek fırça kaydından kısa kesitler, sonunda bitmiş eser. En değerli format. | Yiğit'in bilgisayarı, `videos.json` |
