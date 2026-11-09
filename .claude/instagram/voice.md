@@ -140,29 +140,25 @@ kullanılabilir. Örnek:
 Üretim aracı: `python3 tools/render.py posts/<klasör>/spec.json`. Tempo, kadraj ve sıra `spec.json` içinde.
 
 - 1080×1920, 30 fps, H.264, **ses kanalı yok**.
-- İki uzunluk var:
-  - **Kısa montaj (12-15 sn):** yaklaşık 1 saniyelik planlar, farklı ölçekler (bütün,
-    beden, yüz, mekân). Planlar içinde çok küçük hareket (%1-3). Referans A.
-  - **Detay incelemesi (yaklaşık 30 sn):** tek eser, 8-11 anlamlı plan. Hızlı detay girişi
-    → resmin tamamı → hedefli detaylar → detayın yerini gösteren orta kadraj → ikinci detay
-    → ilişki → geniş kadraj → resmin tamamı, sabit. Referans B ve
-    `references/bacon-analiz-30sn-format.md` §5.
-- İlk kare zaten güçlü bir görüntü olmalı: siyah ekranla, fade-in ile ya da logoyla açılmaz.
+- **Kamera kuralı (Yiğit'in açık talimatı, istisnasız):**
+  - Her plan **tek eksende** hareket eder: ya **yatay** (x) ya **dikey** (y). Çapraz kayma
+    yok. Kaydırma ile zoom aynı planda yok. "Yamuk yumuk" hareket yok.
+  - Ara planların hepsi **yakın plan**. Resmin tamamı arada gösterilmez.
+  - **Son plan:** yakından başlar, **merkez sabit zoom-out** ile eser beyaz boş alana sığar
+    ve 1 saniye sabit kalır. Zoom yalnızca bu planda kullanılır.
+  - `tools/render.py` bu kurala uymayan bir `spec.json`'ı reddeder.
+- Uzunluk: tek eser için 15-30 saniye. Plan başına yaklaşık 2-3 saniye, aşama fotoğrafları
+  0,5 saniye. Referanslar: `references/bacon-analiz-30sn-format.md`.
+- İlk kare zaten güçlü bir yakın plan: siyah ekranla, fade-in ile ya da logoyla açılmaz.
   İlk planda hareket hemen başlar.
 - Kesmeler 0,5 saniyelik ızgaraya otursun (120 BPM). Böylece Yiğit hangi müziği eklerse
   eklesin ritim tutar.
-- Her kesme yeni bir şey gösterir. Aynı fotoğrafa başka merkezden tekrar zoom yapmak yeni
-  plan sayılmaz.
-- Detaya yaklaşma: hedef (göz, ağız, pençe, çatı kenarı) ilk karede zaten görünür. 2,5-3,5
-  saniyede %10-20 büyüme. Hedef kadrajdan çıkmaz.
-- Kaydırma (pan): bir başlangıç ve bir varış nesnesi olur, tek yön. Sırf hareket olsun diye
-  dolaşılmaz.
-- Bütüne dönüş varsayılan olarak kesmeyle olur. Uzun, sürekli zoom-out yalnızca yeni bir
-  ilişki açıyorsa kullanılır.
-- Geçiş efekti, sallanma, ani zoom, renk efekti yok. Varsayılan doğrudan kesme.
+- Her kesme yeni bir şey gösterir. Kaydırmanın bir başlangıç ve bir varış noktası olur
+  (ör. gözden dişlere, bir pençeden ötekine).
+- Geçiş efekti, sallanma, renk efekti yok. Varsayılan doğrudan kesme.
 - Eser esnetilmez, rengi değiştirilmez. Resmin tamamı en az bir kez, kesilmeden ve kendi
   oranında görünür.
-- Çözünürlük: yakınlaşılan pencere son karede kaynakta en az 1080×1920 piksel içermeli.
+- Çözünürlük: yakın plan penceresi kaynakta mümkünse en az 1080×1920 piksel içermeli.
   Yetmiyorsa yakınlaşmayı azalt ya da `yigitozen-painting-details` reposundaki orijinal
   çözünürlüklü detayı kullan.
 - Analiz belgesinin 7. bölümü (İngilizce seslendirme, ortada kelime altyazısı) bu hesapta
@@ -174,9 +170,9 @@ Reel tipleri:
 
 | kod | ad | ne | kaynak |
 | --- | --- | --- | --- |
-| R1 | Detaydan bütüne | Detayla açıl, hedefli detaylarla ilerle, sonunda eserin tamamına dön (kesmeyle; zoom-out yalnızca yeni ilişki açıyorsa). Hesabın ana formatı. Kısa montaj ya da 30 sn detay incelemesi. | `img/full/<slug>`, `img/full/detail/` |
+| R1 | Detaydan bütüne | Yakın detaylar, her biri tek eksende kaydırma; sonda merkezden zoom-out ile eser beyaz alana sığar. Hesabın ana formatı. | `img/full/<slug>`, `img/full/detail/` |
 | R2 | Yüzeyde gezinme | Tek bir detay şeridi boyunca yavaş kaydırma. | `img/full/detail/` |
-| R3 | Aşamalar | Aynı eserin aşama fotoğrafları sırayla, sonunda bitmiş eser. Fotoğraf dizisi kesintisiz canlı çekim gibi sunulmaz. | `img/full/process/` |
+| R3 | Aşamalar | Aynı eserin aşama fotoğrafları sırayla (yakın, sabit), ardından bitmiş eserden yakın detaylar, sonda zoom-out. Fotoğraf dizisi kesintisiz canlı çekim gibi sunulmaz. | `img/full/process/` |
 | R4 | Gerçek süreç videosu | Gerçek fırça kaydından kısa kesitler, sonunda bitmiş eser. En değerli format. | Yiğit'in bilgisayarı, `videos.json` |
 | R5 | Ölçek ve atölye | Eserin duvarda, odada, bir insanın yanında görünmesi. | Yiğit'in yeni çekimi gerekir |
 

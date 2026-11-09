@@ -12,6 +12,9 @@ Sources are written as "<repo>:<path>", where <repo> is one of the keys in
 ROOTS below. The repos are expected next to this one (../yigit etc.).
 
 Camera model (reel shots)
+  Each shot moves on ONE axis only: a horizontal pan (cx changes), a vertical
+  pan (cy changes) or a centre-locked zoom (scale changes, cx = cy = 0.5).
+  Anything diagonal is refused.
   Each shot has a source image and two keyframes, "from" and "to".
   A keyframe is {"cx": 0-1, "cy": 0-1, "fit": true} or {"cx", "cy", "cover": k}.
     cover: k  -> the image fills the 9:16 frame, k times closer (1 = just fills)
@@ -104,7 +107,23 @@ def draw(im, s, cx, cy, fw=W, fh=H):
     return frame
 
 
+def check_motion(shot, i):
+    """One axis per shot: pan-x, pan-y, or a centre-locked zoom. Nothing diagonal."""
+    a = shot["from"]
+    b = shot.get("to", a)
+    moved_x = abs(a["cx"] - b["cx"]) > 1e-9
+    moved_y = abs(a["cy"] - b["cy"]) > 1e-9
+    zoomed = bool(a.get("fit")) != bool(b.get("fit")) or \
+        abs(float(a.get("cover", 1)) - float(b.get("cover", 1))) > 1e-9
+    if moved_x + moved_y + zoomed > 1:
+        sys.exit(f"shot {i + 1}: only one axis per shot (pan-x, pan-y or zoom)")
+    if zoomed and not (a["cx"] == b["cx"] == 0.5 and a["cy"] == b["cy"] == 0.5):
+        sys.exit(f"shot {i + 1}: a zoom must be centre-locked (cx = cy = 0.5)")
+
+
 def reel(spec, outdir):
+    for i, shot in enumerate(spec["shots"]):
+        check_motion(shot, i)
     path = os.path.join(outdir, spec.get("out", "reel.mp4"))
     pad = spec.get("pad", PAD)
     cmd = ["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24",
