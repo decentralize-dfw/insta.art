@@ -16,7 +16,8 @@ Camera model (reel shots)
   pan (cy changes) or a centre-locked zoom (scale changes, cx = cy = 0.5).
   Anything diagonal is refused. Every shot keeps moving until the cut (no
   shot may stand still, no easing into a stop); only the last shot may hold,
-  for at most 2 s, once the painting sits on white. Pan targets are clamped to
+  for at most 2 s, once the painting sits on white.
+  Process videos set "camera": "static": nothing moves, only the stages change. Pan targets are clamped to
   what the frame can really show, so a pan never stalls against an edge.
   Each shot has a source image and two keyframes, "from" and "to".
   A keyframe is {"cx": 0-1, "cy": 0-1, "fit": true} or {"cx", "cy", "cover": k}.
@@ -143,8 +144,11 @@ MAX_HOLD = 2.0   # only the last shot may hold, for at most this long
 
 def reel(spec, outdir):
     shots = spec["shots"]
+    static = spec.get("camera") == "static"
     for i, shot in enumerate(shots):
         check_motion(shot, i)
+        if static and shot.get("to", shot["from"]) != shot["from"]:
+            sys.exit(f"shot {i + 1}: camera is static in this spec, so 'to' must equal 'from'")
         if shot.get("hold") and i != len(shots) - 1:
             sys.exit(f"shot {i + 1}: only the last shot may hold")
         if float(shot.get("hold", 0)) > MAX_HOLD:
@@ -166,7 +170,7 @@ def reel(spec, outdir):
         bx, by = clamp_center(im, sb, b["cx"], b["cy"])
         dur = float(shot["dur"])
         hold = float(shot.get("hold", 0))
-        if sa == sb:
+        if sa == sb and not static:
             travel = abs(bx - ax) * im.size[0] * sa + abs(by - ay) * im.size[1] * sa
             speed = travel / max(1e-6, dur - hold)
             if speed < MIN_SPEED:

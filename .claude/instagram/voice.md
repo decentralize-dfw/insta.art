@@ -146,8 +146,12 @@ kullanılabilir. Örnek:
   - Ara planların hepsi **yakın plan**. Resmin tamamı arada gösterilmez.
   - **Son plan:** yakından başlar, **merkez sabit zoom-out** ile eser beyaz boş alana sığar
     ve en fazla 2 saniye sabit kalır. Zoom yalnızca bu planda kullanılır.
-  - **Kamera hiç durmaz.** Her plan kesmeye kadar hareket eder, hareketsiz plan ya da
-    yavaşlayıp duran hareket yok. Sabit kalan tek an, sondaki en fazla 2 saniye.
+  - **Detay videolarında kamera hiç durmaz.** Her plan kesmeye kadar hareket eder,
+    hareketsiz plan ya da yavaşlayıp duran hareket yok. Sabit kalan tek an, sondaki en
+    fazla 2 saniye.
+  - **Süreç (aşama) videolarında kamera hiç hareket etmez.** Yalnızca aşama fotoğrafları
+    değişir (her biri 0,5 sn, aynı kadraj). Sonda bitmiş resim önce aynı kadrajda, sonra
+    beyaz alanda 2 saniye. `spec.json` içinde `"camera": "static"`.
   - `tools/render.py` bu kurala uymayan bir `spec.json`'ı reddeder.
 - Uzunluk: tek eser için 15-30 saniye. Plan başına yaklaşık 2-3 saniye, aşama fotoğrafları
   0,5 saniye. Referanslar: `references/bacon-analiz-30sn-format.md`.
@@ -174,7 +178,7 @@ Reel tipleri:
 | --- | --- | --- | --- |
 | R1 | Detaydan bütüne | Yakın detaylar, her biri tek eksende kaydırma; sonda merkezden zoom-out ile eser beyaz alana sığar. Hesabın ana formatı. | `img/full/<slug>`, `img/full/detail/` |
 | R2 | Yüzeyde gezinme | Tek bir detay şeridi boyunca yavaş kaydırma. | `img/full/detail/` |
-| R3 | Aşamalar | Aynı eserin aşama fotoğrafları sırayla (yakın, sabit), ardından bitmiş eserden yakın detaylar, sonda zoom-out. Fotoğraf dizisi kesintisiz canlı çekim gibi sunulmaz. | `img/full/process/` |
+| R3 | Aşamalar | Aynı eserin aşama fotoğrafları sırayla, kamera tamamen sabit; sonda bitmiş resim beyaz alanda. Detaylar bu videoya girmez. Fotoğraf dizisi kesintisiz canlı çekim gibi sunulmaz. | `img/full/process/` |
 | R4 | Gerçek süreç videosu | Gerçek fırça kaydından kısa kesitler, sonunda bitmiş eser. En değerli format. | Yiğit'in bilgisayarı, `videos.json` |
 | R5 | Ölçek ve atölye | Eserin duvarda, odada, bir insanın yanında görünmesi. | Yiğit'in yeni çekimi gerekir |
 
