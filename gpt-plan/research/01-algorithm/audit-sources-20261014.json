@@ -1,0 +1,1406 @@
+{
+  "schema": "instagram-source-audit-v1",
+  "date": "2026-10-14",
+  "sources": [
+    {
+      "id": "S001",
+      "url": "https://about.fb.com/news/2026/05/new-supervision-tools-parents-insights-teens-algorithm/",
+      "original_documents": [
+        "algorithm-q1-follow-like.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "2026-05-12",
+      "data_period": "Ürün duyurusu; deney veri dönemi yok",
+      "status": "T",
+      "access": "İlgili tam metin ve yöntem okundu; ham veri bağımsız denetlenmedi.",
+      "title": "Meta, Your Algorithm",
+      "disposition": "İzleyicinin öneri tercihleri; üreticinin kendi beğenilerine erişim ödülü kanıtı değil."
+    },
+    {
+      "id": "S002",
+      "url": "https://transparency.meta.com/features/explaining-ranking/ig-feed-recommendations/",
+      "original_documents": [
+        "algorithm-q1-follow-like.md",
+        "algorithm-2026-v1.md",
+        "alg-q6-viral.md",
+        "algorithm-q2-old-audience.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "E",
+      "access": "429",
+      "title": "https://transparency.meta.com/features/explaining-ranking/ig-feed-recommendations/",
+      "disposition": "Tam içerik doğrulanamadı; ayrıntılı mekanizma, eşik veya güncelleme tarihi için kanıt yapılmadı."
+    },
+    {
+      "id": "S003",
+      "url": "https://transparency.meta.com/features/explaining-ranking/ig-explore/",
+      "original_documents": [
+        "algorithm-q1-follow-like.md",
+        "algorithm-2026-v1.md",
+        "alg-q6-viral.md",
+        "algorithm-q2-old-audience.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "E",
+      "access": "429",
+      "title": "https://transparency.meta.com/features/explaining-ranking/ig-explore/",
+      "disposition": "Tam içerik doğrulanamadı; ayrıntılı mekanizma, eşik veya güncelleme tarihi için kanıt yapılmadı."
+    },
+    {
+      "id": "S004",
+      "url": "https://www.socialmediatoday.com/news/instagram-chief-mosseri-says-edits-reach-boost-engagement-myths/757268/",
+      "original_documents": [
+        "algorithm-q1-follow-like.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.socialmediatoday.com/news/instagram-chief-mosseri-says-edits-reach-boost-engagement-myths/757268/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S005",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1rc7m16/personal_branding_in_2026/",
+      "original_documents": [
+        "algorithm-q1-follow-like.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.reddit.com/r/InstagramMarketing/comments/1rc7m16/personal_branding_in_2026/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S006",
+      "url": "https://sproutsocial.com/insights/best-times-to-post-on-instagram/",
+      "original_documents": [
+        "algorithm-q4-hooks.md",
+        "algorithm-q3-posting-times.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "2026-03-31",
+      "data_period": "2025-11-27–2026-02-27",
+      "status": "T",
+      "access": "İlgili tam metin ve yöntem okundu; ham veri bağımsız denetlenmedi.",
+      "title": "Sprout paylaşım saatleri",
+      "disposition": "307 bin profil/2 milyar etkileşim altı platform toplamı; IG alt örneklemi ayrı verilmedi; yoğunluk ölçümü."
+    },
+    {
+      "id": "S007",
+      "url": "https://about.fb.com/news/2025/04/introducing-edits-streamlined-video-creation-app/amp/",
+      "original_documents": [
+        "algorithm-q4-hooks.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://about.fb.com/news/2025/04/introducing-edits-streamlined-video-creation-app/amp/",
+      "disposition": "AMP bağlantısı S050 ile aynı Edits içeriğinin alternatif adresi; bağımsız teyit değil. Kanonik S050 kullanıldı."
+    },
+    {
+      "id": "S008",
+      "url": "https://about.fb.com/news/2026/04/one-year-of-edits-built-for-and-with-creators/",
+      "original_documents": [
+        "algorithm-q4-hooks.md",
+        "alg-q7-diagnosis.md",
+        "alg-q4-hook-completion.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Sayfa açıldı; ürün devamlılığı dışında ayrıntılı bulgu bu düzeltmede kullanılmadı.",
+      "title": "https://about.fb.com/news/2026/04/one-year-of-edits-built-for-and-with-creators/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S009",
+      "url": "https://www.trndr.app/blog/reels-hook-performance-study-2026",
+      "original_documents": [
+        "algorithm-q4-hooks.md",
+        "algorithm-q4-general-deep.md",
+        "alg-q4-hook-completion.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "2026-09-18",
+      "data_period": "2025-08-14–2026-08-14; çekim 2026-08-14",
+      "status": "T",
+      "access": "İlgili tam metin ve yöntem okundu; ham veri bağımsız denetlenmedi.",
+      "title": "Trender hook araştırması",
+      "disposition": "231.626 Reel/2.439 hesap; model sınıflandırması; hesap medyanı normalizasyonu deney değil; aile 1,18, teknik 1,29."
+    },
+    {
+      "id": "S010",
+      "url": "https://creators.instagram.com/create-engaging-content",
+      "original_documents": [
+        "algorithm-q4-hooks.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://creators.instagram.com/create-engaging-content",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S011",
+      "url": "https://transparency.meta.com/features/explaining-ranking/ig-feed/",
+      "original_documents": [
+        "algorithm-2026-v1.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://transparency.meta.com/features/explaining-ranking/ig-feed/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S012",
+      "url": "https://transparency.meta.com/features/explaining-ranking/ig-search/",
+      "original_documents": [
+        "algorithm-2026-v1.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://transparency.meta.com/features/explaining-ranking/ig-search/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S013",
+      "url": "https://about.fb.com/news/2026/01/2026-ai-drives-performance/",
+      "original_documents": [
+        "algorithm-2026-v1.md",
+        "alg-q6-viral.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "28–29 Ocak 2026",
+      "data_period": "Q4 2025; ilgili Instagram payı ABD",
+      "status": "T",
+      "access": "Devam turunda ilgili tam metin okundu.",
+      "title": "https://about.fb.com/news/2026/01/2026-ai-drives-performance/",
+      "disposition": "ST12 ile aynı kaynak. Özgün öneri payı %75; Avrupa/yeni hesap sonucu değil."
+    },
+    {
+      "id": "S014",
+      "url": "https://www.digitalcameraworld.com/tech/social-media/two-years-later-instagram-is-finally-giving-photographers-the-same-protection-as-videographers-with-this-key-change",
+      "original_documents": [
+        "algorithm-2026-v1.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.digitalcameraworld.com/tech/social-media/two-years-later-instagram-is-finally-giving-photographers-the-same-protection-as-videographers-with-this-key-change",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S015",
+      "url": "https://creators.instagram.com/blog/rewarding-original-creators-on-instagram",
+      "original_documents": [
+        "algorithm-2026-v1.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "2026-04-30 resmî indeks",
+      "data_period": "Politika/ürün duyurusu",
+      "status": "I",
+      "access": "Devam turunda resmî indeks parçaları doğrulandı; tam sayfa 429.",
+      "title": "https://creators.instagram.com/blog/rewarding-original-creators-on-instagram",
+      "disposition": "F16: fotoğraf/carousel özgünlük kapsamı ve ağırlıklı özgün olmayan hesapların öneri görünürlüğü. Tam yönerge/eşikler okunmuş sayılmaz."
+    },
+    {
+      "id": "S016",
+      "url": "https://blog.hootsuite.com/instagram-algorithm/",
+      "original_documents": [
+        "algorithm-2026-v1.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://blog.hootsuite.com/instagram-algorithm/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S017",
+      "url": "https://www.instagram.com/reel/DFFyRp-pINJ/",
+      "original_documents": [
+        "algorithm-2026-v1.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.instagram.com/reel/DFFyRp-pINJ/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S018",
+      "url": "https://www.instagram.com/p/DQrPklCAXb1/",
+      "original_documents": [
+        "algorithm-2026-v1.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.instagram.com/p/DQrPklCAXb1/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S019",
+      "url": "https://www.socialmediatoday.com/news/instagram-allows-creators-to-schedule-trial-reels/816549/",
+      "original_documents": [
+        "algorithm-2026-v1.md",
+        "algorithm-q2-old-audience.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.socialmediatoday.com/news/instagram-allows-creators-to-schedule-trial-reels/816549/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S020",
+      "url": "https://www.instagram.com/p/DWooFXuADXR/",
+      "original_documents": [
+        "algorithm-2026-v1.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.instagram.com/p/DWooFXuADXR/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S021",
+      "url": "https://help.instagram.com/",
+      "original_documents": [
+        "algorithm-2026-v1.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://help.instagram.com/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S022",
+      "url": "https://transparency.meta.com/policies/community-standards/spam/",
+      "original_documents": [
+        "algorithm-2026-v1.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://transparency.meta.com/policies/community-standards/spam/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S023",
+      "url": "https://about.fb.com/news/2026/06/new-13-plus-content-settings-for-teen-accounts-expanding-globally-on-instagram-facebook-messenger/",
+      "original_documents": [
+        "algorithm-2026-v1.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://about.fb.com/news/2026/06/new-13-plus-content-settings-for-teen-accounts-expanding-globally-on-instagram-facebook-messenger/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S024",
+      "url": "https://buffer.com/resources/state-of-social-media-engagement-2026/",
+      "original_documents": [
+        "algorithm-2026-v1.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://buffer.com/resources/state-of-social-media-engagement-2026/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S025",
+      "url": "https://www.socialinsider.io/social-media-benchmarks/instagram",
+      "original_documents": [
+        "algorithm-2026-v1.md",
+        "alg-q8-formats.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "2026-02-20 ana sayfa; Q2 eki",
+      "data_period": "Ana örneklem Ocak–Aralık 2025; ayrıca Q2 2026 tablosu",
+      "status": "T",
+      "access": "İlgili tam metin ve yöntem okundu; ham veri bağımsız denetlenmedi.",
+      "title": "Socialinsider Instagram benchmark",
+      "disposition": "35M/447.613 ana örneklem; ayrı Q2 n açıklanmıyor; takipçi paydası; uzman format oranı optimum deney değil."
+    },
+    {
+      "id": "S026",
+      "url": "https://artuk.qi-cms.com/media/_file/social-media-successfully-promote-your-collections-art-uk-toolkit-1.pdf",
+      "original_documents": [
+        "algorithm-2026-v1.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "K",
+      "access": "Bu algoritma denetiminde yeniden incelenmedi.",
+      "title": "https://artuk.qi-cms.com/media/_file/social-media-successfully-promote-your-collections-art-uk-toolkit-1.pdf",
+      "disposition": "Piyasa/örnek sanat kaynağı. 1–11 algoritma sonucu için kullanılmıyor; Ayak 2 ayrı denetler."
+    },
+    {
+      "id": "S027",
+      "url": "https://ashydigitals.com/work/studio-hassnain",
+      "original_documents": [
+        "algorithm-2026-v1.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "K",
+      "access": "Bu algoritma denetiminde yeniden incelenmedi.",
+      "title": "https://ashydigitals.com/work/studio-hassnain",
+      "disposition": "Piyasa/örnek sanat kaynağı. 1–11 algoritma sonucu için kullanılmıyor; Ayak 2 ayrı denetler."
+    },
+    {
+      "id": "S028",
+      "url": "https://www.larryslist.com/artmarket/features/out-now-the-art-collector-instagram-attention-report/",
+      "original_documents": [
+        "algorithm-2026-v1.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "K",
+      "access": "Bu algoritma denetiminde yeniden incelenmedi.",
+      "title": "https://www.larryslist.com/artmarket/features/out-now-the-art-collector-instagram-attention-report/",
+      "disposition": "Piyasa/örnek sanat kaynağı. 1–11 algoritma sonucu için kullanılmıyor; Ayak 2 ayrı denetler."
+    },
+    {
+      "id": "S029",
+      "url": "https://www.artsy.net/article/artsy-editorial-meet-8-tech-leaders-building-impressive-art-collections",
+      "original_documents": [
+        "algorithm-2026-v1.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "K",
+      "access": "Bu algoritma denetiminde yeniden incelenmedi.",
+      "title": "https://www.artsy.net/article/artsy-editorial-meet-8-tech-leaders-building-impressive-art-collections",
+      "disposition": "Piyasa/örnek sanat kaynağı. 1–11 algoritma sonucu için kullanılmıyor; Ayak 2 ayrı denetler."
+    },
+    {
+      "id": "S030",
+      "url": "https://www.climagallery.com/exhibition/a-body-for-your-thoughts/",
+      "original_documents": [
+        "algorithm-2026-v1.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "K",
+      "access": "Bu algoritma denetiminde yeniden incelenmedi.",
+      "title": "https://www.climagallery.com/exhibition/a-body-for-your-thoughts/",
+      "disposition": "Piyasa/örnek sanat kaynağı. 1–11 algoritma sonucu için kullanılmıyor; Ayak 2 ayrı denetler."
+    },
+    {
+      "id": "S031",
+      "url": "https://avantarte.com/artists/george-condo",
+      "original_documents": [
+        "algorithm-2026-v1.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "K",
+      "access": "Bu algoritma denetiminde yeniden incelenmedi.",
+      "title": "https://avantarte.com/artists/george-condo",
+      "disposition": "Piyasa/örnek sanat kaynağı. 1–11 algoritma sonucu için kullanılmıyor; Ayak 2 ayrı denetler."
+    },
+    {
+      "id": "S032",
+      "url": "https://buffer.com/resources/when-is-the-best-time-to-post-on-instagram/",
+      "original_documents": [
+        "algorithm-q3-posting-times.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Eylül 2026 güncellemesi",
+      "data_period": "Ocak 2024–Aralık 2025",
+      "status": "T",
+      "access": "İlgili tam metin ve yöntem okundu; ham veri bağımsız denetlenmedi.",
+      "title": "Buffer paylaşım saatleri",
+      "disposition": "9,6M Instagram postu; medyan etkileşim/takipçi; 2026 başlığı 2026 verisi demek değil."
+    },
+    {
+      "id": "S033",
+      "url": "https://sociality.io/blog/best-time-to-post-on-instagram/",
+      "original_documents": [
+        "algorithm-q3-posting-times.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "2026-10-02; güncelleme 2026-10-06",
+      "data_period": "2025-08-01–2026-07-31; analiz Eylül 2026",
+      "status": "T",
+      "access": "İlgili tam metin ve yöntem okundu; ham veri bağımsız denetlenmedi.",
+      "title": "Sociality paylaşım saatleri",
+      "disposition": "476.719 taranan; 335.210 organik; 205.217 performans altkümesi. Takım zaman dilimi; eşik tutarsızlığı ve çoklu pencere seçimi."
+    },
+    {
+      "id": "S034",
+      "url": "https://www.facebook.com/business/help/355670007911605",
+      "original_documents": [
+        "alg-q9-ads-system.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "İ",
+      "access": "Resmî arama indeks parçası; tam sayfa 429/giriş duvarı.",
+      "title": "355670007911605",
+      "disposition": "Performans hedefleri indeksinde Instagram profil ziyareti seçeneği; tam menü/hesap erişimi doğrulanmadı."
+    },
+    {
+      "id": "S035",
+      "url": "https://www.facebook.com/business/help/826346204558416",
+      "original_documents": [
+        "alg-q9-ads-system.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.facebook.com/business/help/826346204558416",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S036",
+      "url": "https://about.fb.com/wp-content/uploads/2023/01/Toward_fairness_in_personalized_ads.pdf",
+      "original_documents": [
+        "alg-q9-ads-system.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://about.fb.com/wp-content/uploads/2023/01/Toward_fairness_in_personalized_ads.pdf",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S037",
+      "url": "https://www.facebook.com/business/help/430291176997542",
+      "original_documents": [
+        "alg-q9-ads-system.md",
+        "algorithm-questions-20261014.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.facebook.com/business/help/430291176997542",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S038",
+      "url": "https://www.facebook.com/business/ads/ad-auction",
+      "original_documents": [
+        "alg-q9-ads-system.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.facebook.com/business/ads/ad-auction",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S039",
+      "url": "https://www.facebook.com/business/help/112167992830700",
+      "original_documents": [
+        "alg-q9-ads-system.md",
+        "alg-q11-rotation.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "İ",
+      "access": "Resmî arama indeks parçası; tam sayfa 429/giriş duvarı.",
+      "title": "112167992830700",
+      "disposition": "Öğrenme dönemi tanımı; güncel sayısal eşik doğrulanmadı."
+    },
+    {
+      "id": "S040",
+      "url": "https://www.facebook.com/business/help/190490051321426",
+      "original_documents": [
+        "alg-q9-ads-system.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "E",
+      "access": "Giriş/temporary blocked",
+      "title": "https://www.facebook.com/business/help/190490051321426",
+      "disposition": "Tam içerik doğrulanamadı; ayrıntılı mekanizma, eşik veya güncelleme tarihi için kanıt yapılmadı."
+    },
+    {
+      "id": "S041",
+      "url": "https://www.facebook.com/business/help/316478108955072",
+      "original_documents": [
+        "alg-q9-ads-system.md",
+        "alg-q11-rotation.md",
+        "algorithm-questions-20261014.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "İ",
+      "access": "Resmî arama indeks parçası; tam sayfa 429/giriş duvarı.",
+      "title": "316478108955072",
+      "disposition": "Düzenlemelerin dağıtım/öğrenmeyle ilişkisi; tüm reset koşulları okunmadı."
+    },
+    {
+      "id": "S042",
+      "url": "https://www.facebook.com/business/ads/pricing",
+      "original_documents": [
+        "alg-q9-ads-system.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.facebook.com/business/ads/pricing",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S043",
+      "url": "https://metricool.com/press-release-metricool-social-ads-report-2026/",
+      "original_documents": [
+        "alg-q9-ads-system.md",
+        "alg-q10-audience.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "2026-09-21",
+      "data_period": "Ocak–Haziran 2025 ve Ocak–Haziran 2026",
+      "status": "T",
+      "access": "İlgili tam metin ve yöntem okundu; ham veri bağımsız denetlenmedi.",
+      "title": "Metricool Social Ads basın açıklaması",
+      "disposition": "44.355 reklamveren/628.969 Meta+TikTok kampanyası. Bileşim değişimi; harcama–ROAS ilişkisi nedensellik değil."
+    },
+    {
+      "id": "S044",
+      "url": "https://metricool.com/social-media-advertising-trends/",
+      "original_documents": [
+        "alg-q9-ads-system.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://metricool.com/social-media-advertising-trends/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S045",
+      "url": "https://www.facebook.com/business/help/1738164643098669",
+      "original_documents": [
+        "alg-q9-ads-system.md",
+        "alg-q8-formats.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.facebook.com/business/help/1738164643098669",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S046",
+      "url": "https://www.reddit.com/r/FacebookAds/comments/1t00cgh/can_i_set_up_a_meta_ad_with_facebook_instagram/",
+      "original_documents": [
+        "alg-q9-ads-system.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.reddit.com/r/FacebookAds/comments/1t00cgh/can_i_set_up_a_meta_ad_with_facebook_instagram/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S047",
+      "url": "https://www.facebook.com/help/instagram/653964212890722",
+      "original_documents": [
+        "alg-q7-diagnosis.md",
+        "algorithm-q2-old-audience.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "E",
+      "access": "Giriş/temporary blocked",
+      "title": "https://www.facebook.com/help/instagram/653964212890722",
+      "disposition": "Tam içerik doğrulanamadı; ayrıntılı mekanizma, eşik veya güncelleme tarihi için kanıt yapılmadı."
+    },
+    {
+      "id": "S048",
+      "url": "https://www.facebook.com/help/instagram/202865988324236",
+      "original_documents": [
+        "alg-q7-diagnosis.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "E",
+      "access": "Giriş/temporary blocked",
+      "title": "https://www.facebook.com/help/instagram/202865988324236",
+      "disposition": "Tam içerik doğrulanamadı; ayrıntılı mekanizma, eşik veya güncelleme tarihi için kanıt yapılmadı."
+    },
+    {
+      "id": "S049",
+      "url": "https://about.fb.com/news/2023/04/instagram-reels-trending-audio-and-gifts-updates/",
+      "original_documents": [
+        "alg-q7-diagnosis.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://about.fb.com/news/2023/04/instagram-reels-trending-audio-and-gifts-updates/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S050",
+      "url": "https://about.fb.com/news/2025/04/introducing-edits-streamlined-video-creation-app/",
+      "original_documents": [
+        "alg-q7-diagnosis.md",
+        "alg-q4-hook-completion.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "2025-04-22; güncelleme 2025-12-17",
+      "data_period": "Ürün duyurusu",
+      "status": "T",
+      "access": "İlgili tam metin ve yöntem okundu; ham veri bağımsız denetlenmedi.",
+      "title": "Meta Edits",
+      "disposition": "Skip rate dağıtımı etkileyebilecek faktör örneği; eşik/ağırlık ve her hesapta metrik garantisi yok."
+    },
+    {
+      "id": "S051",
+      "url": "https://www.facebook.com/business/help/1346816142327858",
+      "original_documents": [
+        "alg-q11-rotation.md",
+        "algorithm-questions-20261014.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "E",
+      "access": "Giriş/temporary blocked",
+      "title": "https://www.facebook.com/business/help/1346816142327858",
+      "disposition": "Tam içerik doğrulanamadı; ayrıntılı mekanizma, eşik veya güncelleme tarihi için kanıt yapılmadı."
+    },
+    {
+      "id": "S052",
+      "url": "https://www.facebook.com/business/help/950694752295474",
+      "original_documents": [
+        "alg-q11-rotation.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.facebook.com/business/help/950694752295474",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S053",
+      "url": "https://www.facebook.com/business/help/1546570362238584",
+      "original_documents": [
+        "alg-q11-rotation.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "E",
+      "access": "Giriş/temporary blocked",
+      "title": "https://www.facebook.com/business/help/1546570362238584",
+      "disposition": "Tam içerik doğrulanamadı; ayrıntılı mekanizma, eşik veya güncelleme tarihi için kanıt yapılmadı."
+    },
+    {
+      "id": "S054",
+      "url": "https://www.facebook.com/business/help/679920066114741",
+      "original_documents": [
+        "alg-q11-rotation.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.facebook.com/business/help/679920066114741",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S055",
+      "url": "https://www.facebook.com/business/help/1461336133922536",
+      "original_documents": [
+        "alg-q11-rotation.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.facebook.com/business/help/1461336133922536",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S056",
+      "url": "https://www.theinterconnections.com/benchmarks/meta-creative-fatigue",
+      "original_documents": [
+        "alg-q11-rotation.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "2026 benchmark; kesin yayın günü kullanılmıyor",
+      "data_period": "2026-04-08–2026-08-11",
+      "status": "T",
+      "access": "İlgili tam metin ve yöntem okundu; ham veri bağımsız denetlenmedi.",
+      "title": "Interconnections creative fatigue",
+      "disposition": "368 reklam/15 DTC marka; eğri 57 reklam. Reach yok; frekans ölçülmüyor; yüksek gösterim seçilimi ve işletmeci kapatma kararı."
+    },
+    {
+      "id": "S057",
+      "url": "https://www.reddit.com/r/FacebookAds/comments/1vw3zer/creative_fatigue_is_killing_our_roas_we_need_20/",
+      "original_documents": [
+        "alg-q11-rotation.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.reddit.com/r/FacebookAds/comments/1vw3zer/creative_fatigue_is_killing_our_roas_we_need_20/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S058",
+      "url": "https://www.reddit.com/r/FacebookAds/comments/1r0jju1/ad_fatigue_and_frequency/",
+      "original_documents": [
+        "alg-q11-rotation.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.reddit.com/r/FacebookAds/comments/1r0jju1/ad_fatigue_and_frequency/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S059",
+      "url": "https://engineering.fb.com/2023/08/09/ml-applications/scaling-instagram-explore-recommendations-system/",
+      "original_documents": [
+        "alg-q6-viral.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "2023-08-09",
+      "data_period": "Tarihsel sistem açıklaması",
+      "status": "T",
+      "access": "İlgili tam metin ve yöntem okundu; ham veri bağımsız denetlenmedi.",
+      "title": "Meta Engineering Explore",
+      "disposition": "Aday bulma/sıralama/yeniden sıralama. Güncel sabit eşik veya kapalı kodun eksiksiz dökümü değil."
+    },
+    {
+      "id": "S060",
+      "url": "https://about.fb.com/ltam/news/2024/05/ayudando-a-los-creadores-a-encontrar-nuevas-audiencias/",
+      "original_documents": [
+        "alg-q6-viral.md",
+        "alg-q5-cta.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "2024-05-02",
+      "data_period": "Tarihsel ürün/politika açıklaması",
+      "status": "T",
+      "access": "İlgili tam metin ve yöntem okundu; ham veri bağımsız denetlenmedi.",
+      "title": "Meta özgün yaratıcılar",
+      "disposition": "Küçük ilgili kitleye sunum; izin verilen ile önerilebilir içerik ayrımı. 2024 tüm politika kategorileri 2026 kuralı diye taşınmadı."
+    },
+    {
+      "id": "S061",
+      "url": "https://www.sociable.how/blog/how-long-does-it-take-for-a-reel-to-go-viral",
+      "original_documents": [
+        "alg-q6-viral.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "2026-09-30",
+      "data_period": "Mart 2025–Mayıs 2026",
+      "status": "T",
+      "access": "İlgili tam metin ve yöntem okundu; ham veri bağımsız denetlenmedi.",
+      "title": "Sociable viral zaman araştırması",
+      "disposition": "4.724 trending Reel; en az iki hafta izlenen 2.016 içinden 206 başarılı. Seçilmiş ve başarıya koşullu örneklem."
+    },
+    {
+      "id": "S062",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1vsgxme/can_reels_become_viral_later_weeks_or_even_month/",
+      "original_documents": [
+        "alg-q6-viral.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.reddit.com/r/InstagramMarketing/comments/1vsgxme/can_reels_become_viral_later_weeks_or_even_month/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S063",
+      "url": "https://about.fb.com/news/2024/12/trial-reels-try-content-non-followers-first-see-what-perfoms-best/",
+      "original_documents": [
+        "alg-q6-viral.md",
+        "algorithm-q2-old-audience.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "2024-12-10; güncelleme 2025-06-26",
+      "data_period": "Ürün duyurusu",
+      "status": "T",
+      "access": "İlgili tam metin ve yöntem okundu; ham veri bağımsız denetlenmedi.",
+      "title": "Meta Trial Reels",
+      "disposition": "Önce nonfollowers; dolaylı follower maruziyeti; yaklaşık 24h metrik, isteğe bağlı 72h paylaşım. Random deney değil."
+    },
+    {
+      "id": "S064",
+      "url": "https://www.facebook.com/business/ads/ad-objectives",
+      "original_documents": [
+        "algorithm-questions-20261014.md",
+        "alg-q8-formats.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.facebook.com/business/ads/ad-objectives",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S065",
+      "url": "https://business.facebook.com/business/help/316478108955072",
+      "original_documents": [
+        "algorithm-questions-20261014.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://business.facebook.com/business/help/316478108955072",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S066",
+      "url": "https://www.reddit.com/r/ArtistLounge/comments/1qr6pdc/is_instagram_dead_for_artists_now/",
+      "original_documents": [
+        "algorithm-questions-20261014.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.reddit.com/r/ArtistLounge/comments/1qr6pdc/is_instagram_dead_for_artists_now/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S067",
+      "url": "https://www.bazzaal.com/blog/instagram-algorithm-2026-mosseri",
+      "original_documents": [
+        "algorithm-close-v1.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.bazzaal.com/blog/instagram-algorithm-2026-mosseri",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S068",
+      "url": "https://www.socialmediatoday.com/news/instagram-updates-algorithm-to-benefit-original-creators/819016/",
+      "original_documents": [
+        "algorithm-close-v1.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.socialmediatoday.com/news/instagram-updates-algorithm-to-benefit-original-creators/819016/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S069",
+      "url": "https://www.socialmediatoday.com/news/instagram-advice-switching-content-approach-impacts/748315/",
+      "original_documents": [
+        "algorithm-q2-old-audience.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.socialmediatoday.com/news/instagram-advice-switching-content-approach-impacts/748315/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S070",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1wndywf/i_was_a_fulltime_influencer_disappeared_for_2/",
+      "original_documents": [
+        "algorithm-q2-old-audience.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.reddit.com/r/InstagramMarketing/comments/1wndywf/i_was_a_fulltime_influencer_disappeared_for_2/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S071",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1uboasi/built_15k_followers_and_16m_reach_then_switched/",
+      "original_documents": [
+        "algorithm-q2-old-audience.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.reddit.com/r/InstagramMarketing/comments/1uboasi/built_15k_followers_and_16m_reach_then_switched/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S072",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1uf7c8o/use_old_ac_with_70k_followers_or_a_new_account/",
+      "original_documents": [
+        "algorithm-q2-old-audience.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.reddit.com/r/InstagramMarketing/comments/1uf7c8o/use_old_ac_with_70k_followers_or_a_new_account/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S073",
+      "url": "https://www.facebook.com/business/help/938372127764391",
+      "original_documents": [
+        "alg-q10-audience.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "E",
+      "access": "Giriş/temporary blocked",
+      "title": "https://www.facebook.com/business/help/938372127764391",
+      "disposition": "Tam içerik doğrulanamadı; ayrıntılı mekanizma, eşik veya güncelleme tarihi için kanıt yapılmadı."
+    },
+    {
+      "id": "S074",
+      "url": "https://www.facebook.com/business/help/440167386536513",
+      "original_documents": [
+        "alg-q10-audience.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "İ",
+      "access": "Resmî arama indeks parçası; tam sayfa 429/giriş duvarı.",
+      "title": "440167386536513",
+      "disposition": "Ayrıntılı hedeflemede ek kontrol seçimi indeks parçasında; bütün hedeflerin varsayılanı çıkarılamaz."
+    },
+    {
+      "id": "S075",
+      "url": "https://www.facebook.com/business/help/202297959811696",
+      "original_documents": [
+        "alg-q10-audience.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "E",
+      "access": "Giriş/temporary blocked",
+      "title": "https://www.facebook.com/business/help/202297959811696",
+      "disposition": "Tam içerik doğrulanamadı; ayrıntılı mekanizma, eşik veya güncelleme tarihi için kanıt yapılmadı."
+    },
+    {
+      "id": "S076",
+      "url": "https://www.facebook.com/business/help/726389026372510",
+      "original_documents": [
+        "alg-q10-audience.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "İ",
+      "access": "Resmî arama indeks parçası; tam sayfa 429/giriş duvarı.",
+      "title": "726389026372510",
+      "disposition": "Şehirle ilgilenenlere genişleme indeks parçasında; bu hesabın seçili durumu bilinmiyor."
+    },
+    {
+      "id": "S077",
+      "url": "https://www.facebook.com/business/help/214981095688584",
+      "original_documents": [
+        "alg-q10-audience.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "E",
+      "access": "Giriş/temporary blocked",
+      "title": "https://www.facebook.com/business/help/214981095688584",
+      "disposition": "Tam içerik doğrulanamadı; ayrıntılı mekanizma, eşik veya güncelleme tarihi için kanıt yapılmadı."
+    },
+    {
+      "id": "S078",
+      "url": "https://www.facebook.com/business/help/1090330204367211",
+      "original_documents": [
+        "alg-q10-audience.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.facebook.com/business/help/1090330204367211",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S079",
+      "url": "https://www.facebook.com/business/help/1099865760056389",
+      "original_documents": [
+        "alg-q10-audience.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.facebook.com/business/help/1099865760056389",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S080",
+      "url": "https://www.facebook.com/business/help/572787736078838",
+      "original_documents": [
+        "alg-q10-audience.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "E",
+      "access": "Giriş/temporary blocked",
+      "title": "https://www.facebook.com/business/help/572787736078838",
+      "disposition": "Tam içerik doğrulanamadı; ayrıntılı mekanizma, eşik veya güncelleme tarihi için kanıt yapılmadı."
+    },
+    {
+      "id": "S081",
+      "url": "https://www.reddit.com/r/FacebookAds/comments/1su250o/just_figured_out_how_to_turn_advantage_audience/",
+      "original_documents": [
+        "alg-q10-audience.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.reddit.com/r/FacebookAds/comments/1su250o/just_figured_out_how_to_turn_advantage_audience/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S082",
+      "url": "https://creators.instagram.com/",
+      "original_documents": [
+        "algorithm-q4-general-deep.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://creators.instagram.com/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S083",
+      "url": "https://www.facebook.com/business/help/188534925073536",
+      "original_documents": [
+        "algorithm-q4-general-deep.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.facebook.com/business/help/188534925073536",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S084",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39762307/",
+      "original_documents": [
+        "algorithm-q4-general-deep.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "E",
+      "access": "İçeriksiz tek satır; abstract okunamadı",
+      "title": "https://pubmed.ncbi.nlm.nih.gov/39762307/",
+      "disposition": "Tam içerik doğrulanamadı; ayrıntılı mekanizma, eşik veya güncelleme tarihi için kanıt yapılmadı."
+    },
+    {
+      "id": "S085",
+      "url": "https://www.nature.com/articles/s41598-024-81575-9",
+      "original_documents": [
+        "algorithm-q4-general-deep.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "E",
+      "access": "Fetch hatası",
+      "title": "https://www.nature.com/articles/s41598-024-81575-9",
+      "disposition": "Tam içerik doğrulanamadı; ayrıntılı mekanizma, eşik veya güncelleme tarihi için kanıt yapılmadı."
+    },
+    {
+      "id": "S086",
+      "url": "https://transparency.meta.com/enforcement/taking-action/lowering-distribution-of-problematic-content/",
+      "original_documents": [
+        "algorithm-q4-general-deep.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://transparency.meta.com/enforcement/taking-action/lowering-distribution-of-problematic-content/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S087",
+      "url": "https://metricool.com/press-release-instagram-study-2026/",
+      "original_documents": [
+        "alg-q8-formats.md",
+        "alg-q5-cta.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "2026-06-16",
+      "data_period": "Ocak–Şubat 2025/2026",
+      "status": "T",
+      "access": "İlgili tam metin ve yöntem okundu; ham veri bağımsız denetlenmedi.",
+      "title": "Metricool Instagram basın açıklaması",
+      "disposition": "24.364.803 post/375.118 hesap. S088 ile aynı araştırma; nedensel CTA/format deneyi değil."
+    },
+    {
+      "id": "S088",
+      "url": "https://metricool.com/instagram-trends/",
+      "original_documents": [
+        "alg-q8-formats.md",
+        "alg-q5-cta.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "2026-06-16",
+      "data_period": "Ocak–Şubat 2025/2026",
+      "status": "T",
+      "access": "İlgili tam metin ve yöntem okundu; ham veri bağımsız denetlenmedi.",
+      "title": "Metricool Instagram trends",
+      "disposition": "S087 ile aynı veri. Hashtag karşılaştırma tabanı iki özette tutarsız; 72h dağıtım son tarihi değil."
+    },
+    {
+      "id": "S089",
+      "url": "https://www.socialinsider.io/social-media-benchmarks/instagram-engagement-report",
+      "original_documents": [
+        "alg-q8-formats.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "2026-05-25",
+      "data_period": "Ekim 2025–Mart 2026",
+      "status": "T",
+      "access": "İlgili tam metin ve yöntem okundu; ham veri bağımsız denetlenmedi.",
+      "title": "Socialinsider engagement raporu",
+      "disposition": "15M post/417.130 sayfa; follower paydalı save/share oranları. Diğer raporla olası hesap örtüşmesi bilinmiyor."
+    },
+    {
+      "id": "S090",
+      "url": "https://www.facebook.com/business/help/1597318281091985",
+      "original_documents": [
+        "alg-q8-formats.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.facebook.com/business/help/1597318281091985",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S091",
+      "url": "https://www.facebook.com/business/measurement/ab-testing",
+      "original_documents": [
+        "alg-q8-formats.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.facebook.com/business/measurement/ab-testing",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S092",
+      "url": "https://metricool.com/instagram-research-study/",
+      "original_documents": [
+        "alg-q5-cta.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://metricool.com/instagram-research-study/",
+      "disposition": "Tam rapor/form adresi; veri özetleri S087–S088 üzerinden incelendi. Tam rapor indirildi/okundu denmiyor."
+    },
+    {
+      "id": "S093",
+      "url": "https://help.instagram.com/313829416281232",
+      "original_documents": [
+        "alg-q5-cta.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://help.instagram.com/313829416281232",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S094",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1s49bie/why_the_link_in_bio_cta_is_killing_your/",
+      "original_documents": [
+        "alg-q5-cta.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "Ç",
+      "access": "Bu düzeltmede yeniden doğrulanmış kanıt olarak kullanılmadı.",
+      "title": "https://www.reddit.com/r/InstagramMarketing/comments/1s49bie/why_the_link_in_bio_cta_is_killing_your/",
+      "disposition": "Önceki kayıtta bağlantı vardı; güncel 1–11 sonuçlarından çıkarıldı. Yanlış olduğu veya sayfanın bulunmadığı iddia edilmiyor."
+    },
+    {
+      "id": "S095",
+      "url": "https://transparency.meta.com/policies/community-standards/adult-nudity-sexual-activity/",
+      "original_documents": [
+        "policy-boundaries-20261014.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "İ",
+      "access": "Resmî arama indeks parçası; tam sayfa 429/giriş duvarı.",
+      "title": "https://transparency.meta.com/policies/community-standards/adult-nudity-sexual-activity/",
+      "disposition": "Gerçek fiziksel sanatın fotoğraflarında nü istisnası indeks parçasında; tam koşullar okunmadı."
+    },
+    {
+      "id": "S096",
+      "url": "https://transparency.meta.com/policies/ad-standards/objectionable-content/adult-nudity-and-sexual-activity/",
+      "original_documents": [
+        "policy-boundaries-20261014.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "İ",
+      "access": "Resmî arama indeks parçası; tam sayfa 429/giriş duvarı.",
+      "title": "https://transparency.meta.com/policies/ad-standards/objectionable-content/adult-nudity-and-sexual-activity/",
+      "disposition": "Reklamlarda çıplaklık/cinsel içerik yasağı indeks parçasında; tüm istisnalar okunmadı."
+    },
+    {
+      "id": "S097",
+      "url": "https://www.facebook.com/business/help/402084904469945",
+      "original_documents": [
+        "policy-boundaries-20261014.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "İ",
+      "access": "Resmî arama indeks parçası; tam sayfa 429/giriş duvarı.",
+      "title": "402084904469945",
+      "disposition": "Instagram müzik kütüphanesi/Sound Collection indeks parçası; tüm lisans/yerleşim kapsamı okunmadı."
+    },
+    {
+      "id": "S098",
+      "url": "https://www.facebook.com/business/news/instagram/boost-instagram-reels",
+      "original_documents": [
+        "policy-boundaries-20261014.md"
+      ],
+      "checked_at": "2026-10-14",
+      "publication": "Doğrulanmadı / kullanılmıyor",
+      "data_period": "Doğrulanmadı / kullanılmıyor",
+      "status": "İ",
+      "access": "Resmî arama indeks parçası; tam sayfa 429/giriş duvarı.",
+      "title": "boost-instagram-reels",
+      "disposition": "Boost Reels duyurusunda üçüncü taraf IP kısıtı indeks parçası; tam metin ve güncel hesap koşulları okunmadı."
+    }
+  ]
+}

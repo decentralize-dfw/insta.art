@@ -1,0 +1,368 @@
+[
+  {
+    "n": 1,
+    "layout": "question",
+    "hero_ids": [
+      "A1378"
+    ],
+    "headline_en": "My childhood home",
+    "why_visual_tr": "İlk 14 günün kilitli kaynak seçimi",
+    "grid_role_tr": "İlk altı",
+    "must_preserve_tr": "Bütün kaynak",
+    "first_frame_tr": "Ayrı kurgu",
+    "render_risk_tr": "Mobil önizleme henüz yok",
+    "render": {
+      "width": 1080,
+      "height": 1920,
+      "font_size": 104,
+      "lines": [
+        "My childhood",
+        "home"
+      ],
+      "arrangement": "single",
+      "art_rects": [
+        {
+          "asset_id": "A1378",
+          "rect": [
+            152.114,
+            350.0,
+            927.886,
+            1280.96
+          ],
+          "source_ratio": 0.8333039336743694,
+          "rendered_ratio": 0.8333039336743694,
+          "upscale_factor": 0.16421943905450698,
+          "crop": "none; complete selected source image"
+        }
+      ],
+      "text_rects": [
+        [
+          90,
+          1314.2534375,
+          764.375,
+          1452.5815625
+        ],
+        [
+          90,
+          1431.7734375,
+          367.72265625,
+          1570.1015625
+        ]
+      ],
+      "grid_crop_rect": [
+        0.0,
+        240.0,
+        1080.0,
+        1680.0
+      ],
+      "grid_crop_ok": true,
+      "reel_feed_crop_ok": true,
+      "square_stress_crop_ok": false,
+      "title_size_at_120px_tile": 11.6,
+      "platform_preview_checked": false,
+      "cover_png": "exports/P001.webp",
+      "cover_svg": "exports/P001.svg",
+      "profile_tile": "tiles/P001.webp",
+      "square_stress_preview": "crops/P001-square.webp",
+      "source_upscaled": false,
+      "status": "local_cover_rendered_not_uploaded"
+    }
+  },
+  {
+    "n": 2,
+    "layout": "gallery",
+    "hero_ids": [
+      "A0298"
+    ],
+    "headline_en": "",
+    "why_visual_tr": "İlk 14 günün kilitli kaynak seçimi",
+    "grid_role_tr": "İlk altı",
+    "must_preserve_tr": "Bütün kaynak",
+    "first_frame_tr": "Ayrı kurgu",
+    "render_risk_tr": "Mobil önizleme henüz yok",
+    "render": {
+      "width": 1080,
+      "height": 1350,
+      "font_size": null,
+      "lines": [],
+      "arrangement": "single",
+      "art_rects": [
+        {
+          "asset_id": "A0298",
+          "rect": [
+            92.657,
+            65.0,
+            987.343,
+            1285.0
+          ],
+          "source_ratio": 0.7333483856400993,
+          "rendered_ratio": 0.7333483856400994,
+          "upscale_factor": 0.13772860690900882,
+          "crop": "none; complete selected source image"
+        }
+      ],
+      "text_rects": [],
+      "grid_crop_rect": [
+        33.75,
+        0.0,
+        1046.25,
+        1350.0
+      ],
+      "grid_crop_ok": true,
+      "reel_feed_crop_ok": true,
+      "square_stress_crop_ok": false,
+      "title_size_at_120px_tile": null,
+      "platform_preview_checked": false,
+      "cover_png": "exports/P002.webp",
+      "cover_svg": "exports/P002.svg",
+      "profile_tile": "tiles/P002.webp",
+      "square_stress_preview": "crops/P002-square.webp",
+      "source_upscaled": false,
+      "status": "local_cover_rendered_not_uploaded"
+    }
+  },
+  {
+    "n": 3,
+    "layout": "gallery",
+    "hero_ids": [
+      "A1862"
+    ],
+    "headline_en": "",
+    "why_visual_tr": "İlk 14 günün kilitli kaynak seçimi",
+    "grid_role_tr": "İlk altı",
+    "must_preserve_tr": "Bütün kaynak",
+    "first_frame_tr": "Ayrı kurgu",
+    "render_risk_tr": "Mobil önizleme henüz yok",
+    "render": {
+      "width": 1080,
+      "height": 1350,
+      "font_size": null,
+      "lines": [],
+      "arrangement": "single",
+      "art_rects": [
+        {
+          "asset_id": "A1862",
+          "rect": [
+            60.0,
+            98.98,
+            1020.0,
+            1251.02
+          ],
+          "source_ratio": 0.8333039336743694,
+          "rendered_ratio": 0.8333039336743694,
+          "upscale_factor": 0.20321761219305673,
+          "crop": "none; complete selected source image"
+        }
+      ],
+      "text_rects": [],
+      "grid_crop_rect": [
+        33.75,
+        0.0,
+        1046.25,
+        1350.0
+      ],
+      "grid_crop_ok": true,
+      "reel_feed_crop_ok": true,
+      "square_stress_crop_ok": false,
+      "title_size_at_120px_tile": null,
+      "platform_preview_checked": false,
+      "cover_png": "exports/P003.webp",
+      "cover_svg": "exports/P003.svg",
+      "profile_tile": "tiles/P003.webp",
+      "square_stress_preview": "crops/P003-square.webp",
+      "source_upscaled": false,
+      "status": "local_cover_rendered_not_uploaded"
+    }
+  },
+  {
+    "n": 4,
+    "layout": "question",
+    "hero_ids": [
+      "A0947"
+    ],
+    "headline_en": "The body changed colour",
+    "why_visual_tr": "İlk 14 günün kilitli kaynak seçimi",
+    "grid_role_tr": "İlk altı",
+    "must_preserve_tr": "Bütün kaynak",
+    "first_frame_tr": "Ayrı kurgu",
+    "render_risk_tr": "Mobil önizleme henüz yok",
+    "render": {
+      "width": 1080,
+      "height": 1920,
+      "font_size": 104,
+      "lines": [
+        "The body",
+        "changed colour"
+      ],
+      "arrangement": "single",
+      "art_rects": [
+        {
+          "asset_id": "A0947",
+          "rect": [
+            198.718,
+            350.0,
+            881.282,
+            1280.96
+          ],
+          "source_ratio": 0.7331828442437923,
+          "rendered_ratio": 0.7331828442437924,
+          "upscale_factor": 0.21014898419864564,
+          "crop": "none; complete selected source image"
+        }
+      ],
+      "text_rects": [
+        [
+          90,
+          1314.2534375,
+          546.9296875,
+          1452.5815625
+        ],
+        [
+          90,
+          1431.7734375,
+          846.08203125,
+          1570.1015625
+        ]
+      ],
+      "grid_crop_rect": [
+        0.0,
+        240.0,
+        1080.0,
+        1680.0
+      ],
+      "grid_crop_ok": true,
+      "reel_feed_crop_ok": true,
+      "square_stress_crop_ok": false,
+      "title_size_at_120px_tile": 11.6,
+      "platform_preview_checked": false,
+      "cover_png": "exports/P004.webp",
+      "cover_svg": "exports/P004.svg",
+      "profile_tile": "tiles/P004.webp",
+      "square_stress_preview": "crops/P004-square.webp",
+      "source_upscaled": false,
+      "status": "local_cover_rendered_not_uploaded"
+    }
+  },
+  {
+    "n": 5,
+    "layout": "question",
+    "hero_ids": [
+      "A0025"
+    ],
+    "headline_en": "Three faces. Three balances.",
+    "why_visual_tr": "İlk 14 günün kilitli kaynak seçimi",
+    "grid_role_tr": "İlk altı",
+    "must_preserve_tr": "Bütün kaynak",
+    "first_frame_tr": "Ayrı kurgu",
+    "render_risk_tr": "Mobil önizleme henüz yok",
+    "render": {
+      "width": 1080,
+      "height": 1350,
+      "font_size": 104,
+      "lines": [
+        "Three faces.",
+        "Three balances."
+      ],
+      "arrangement": "single",
+      "art_rects": [
+        {
+          "asset_id": "A0025",
+          "rect": [
+            90.0,
+            329.105,
+            990.0,
+            731.855
+          ],
+          "source_ratio": 2.2346379647749512,
+          "rendered_ratio": 2.2346379647749512,
+          "upscale_factor": 0.0788160084070409,
+          "crop": "none; complete selected source image"
+        }
+      ],
+      "text_rects": [
+        [
+          90,
+          765.1483389799895,
+          672.10546875,
+          903.4764639799895
+        ],
+        [
+          90,
+          882.6683389799895,
+          845.16796875,
+          1020.9964639799895
+        ]
+      ],
+      "grid_crop_rect": [
+        33.75,
+        0.0,
+        1046.25,
+        1350.0
+      ],
+      "grid_crop_ok": true,
+      "reel_feed_crop_ok": true,
+      "square_stress_crop_ok": true,
+      "title_size_at_120px_tile": 12.3,
+      "platform_preview_checked": false,
+      "cover_png": "exports/P005.webp",
+      "cover_svg": "exports/P005.svg",
+      "profile_tile": "tiles/P005.webp",
+      "square_stress_preview": "crops/P005-square.webp",
+      "source_upscaled": false,
+      "status": "local_cover_rendered_not_uploaded"
+    }
+  },
+  {
+    "n": 6,
+    "layout": "gallery",
+    "hero_ids": [
+      "A1718"
+    ],
+    "headline_en": "",
+    "why_visual_tr": "İlk 14 günün kilitli kaynak seçimi",
+    "grid_role_tr": "İlk altı",
+    "must_preserve_tr": "Bütün kaynak",
+    "first_frame_tr": "Ayrı kurgu",
+    "render_risk_tr": "Mobil önizleme henüz yok",
+    "render": {
+      "width": 1080,
+      "height": 1350,
+      "font_size": null,
+      "lines": [],
+      "arrangement": "single",
+      "art_rects": [
+        {
+          "asset_id": "A1718",
+          "rect": [
+            91.325,
+            65.0,
+            988.675,
+            1285.0
+          ],
+          "source_ratio": 0.7355324074074074,
+          "rendered_ratio": 0.7355324074074073,
+          "upscale_factor": 0.7060185185185185,
+          "crop": "none; complete selected source image"
+        }
+      ],
+      "text_rects": [],
+      "grid_crop_rect": [
+        33.75,
+        0.0,
+        1046.25,
+        1350.0
+      ],
+      "grid_crop_ok": true,
+      "reel_feed_crop_ok": true,
+      "square_stress_crop_ok": false,
+      "title_size_at_120px_tile": null,
+      "platform_preview_checked": false,
+      "cover_png": "exports/P006.webp",
+      "cover_svg": "exports/P006.svg",
+      "profile_tile": "tiles/P006.webp",
+      "square_stress_preview": "crops/P006-square.webp",
+      "source_upscaled": false,
+      "status": "local_cover_rendered_not_uploaded"
+    }
+  }
+]

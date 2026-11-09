@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "A1378",
+    "original_path": "../../assets/art/A1378.webp",
+    "original_sha256": "5cb16dd84bd03472bd24e9261c731cc6c271395156c8eb8825a199670ea668dc",
+    "current_sha256": "5cb16dd84bd03472bd24e9261c731cc6c271395156c8eb8825a199670ea668dc",
+    "matches_audited_bytes": true,
+    "original_size": [
+      4724,
+      5669
+    ],
+    "oriented_size": [
+      4724,
+      5669
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1800,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A1378.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0298",
+    "original_path": "../../assets/art/A0298.webp",
+    "original_sha256": "a729ea79d4e352d9a164b98071caae3c388b0f52ad8541348a6575e297e0c285",
+    "current_sha256": "a729ea79d4e352d9a164b98071caae3c388b0f52ad8541348a6575e297e0c285",
+    "matches_audited_bytes": true,
+    "original_size": [
+      6496,
+      8858
+    ],
+    "oriented_size": [
+      6496,
+      8858
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1584,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A0298.webp",
+    "colour_action": "ICC appearance converted to sRGB: sRGB IEC61966-2.1",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1862",
+    "original_path": "../../assets/art/A1862.webp",
+    "original_sha256": "b2e764d9153255c5e5d37f5e1354bf3606b8097b2927c78b3cd18de5874b3857",
+    "current_sha256": "b2e764d9153255c5e5d37f5e1354bf3606b8097b2927c78b3cd18de5874b3857",
+    "matches_audited_bytes": true,
+    "original_size": [
+      4724,
+      5669
+    ],
+    "oriented_size": [
+      4724,
+      5669
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1800,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A1862.webp",
+    "colour_action": "ICC appearance converted to sRGB: sRGB IEC61966-2.1",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0947",
+    "original_path": "../../assets/art/A0947.webp",
+    "original_sha256": "03ee90e8257c871a59e0117dd4296d665e3cb7f50b101158fec4aa8e9f747125",
+    "current_sha256": "03ee90e8257c871a59e0117dd4296d665e3cb7f50b101158fec4aa8e9f747125",
+    "matches_audited_bytes": true,
+    "original_size": [
+      3248,
+      4430
+    ],
+    "oriented_size": [
+      3248,
+      4430
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1584,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A0947.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0025",
+    "original_path": "../../assets/art/A0025.webp",
+    "original_sha256": "f45d2ed04b636058bf51737e6945726757e524d7f85b8e805836b58f0fd65c0d",
+    "current_sha256": "f45d2ed04b636058bf51737e6945726757e524d7f85b8e805836b58f0fd65c0d",
+    "matches_audited_bytes": true,
+    "original_size": [
+      11419,
+      5110
+    ],
+    "oriented_size": [
+      11419,
+      5110
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      967
+    ],
+    "embedded_path": "../../assets/art/A0025.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1718",
+    "original_path": "../../assets/art/A1718.webp",
+    "original_sha256": "64394851a7cb59fbb067ecb5e018b9af688cf150cca7ac088f80a64381f8a11a",
+    "current_sha256": "64394851a7cb59fbb067ecb5e018b9af688cf150cca7ac088f80a64381f8a11a",
+    "matches_audited_bytes": true,
+    "original_size": [
+      1271,
+      1728
+    ],
+    "oriented_size": [
+      1271,
+      1728
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1271,
+      1728
+    ],
+    "embedded_path": "../../assets/art/A1718.webp",
+    "colour_action": "ICC appearance converted to sRGB: Display P3",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0592",
+    "original_path": "../../assets/art/A0592.webp",
+    "original_sha256": "0e08065dc30e8403e3b9410e8da9177d437f1cdcf5dc29fa55d29e6d1df7aa5c",
+    "current_sha256": "0e08065dc30e8403e3b9410e8da9177d437f1cdcf5dc29fa55d29e6d1df7aa5c",
+    "matches_audited_bytes": true,
+    "original_size": [
+      4724,
+      3780
+    ],
+    "oriented_size": [
+      4724,
+      3780
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1728
+    ],
+    "embedded_path": "../../assets/art/A0592.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0582",
+    "original_path": "../../assets/art/A0582.webp",
+    "original_sha256": "34ddd2782a70015baaaf67e5e42a6b9adb87cf5375bc574fee5e022e567aab3c",
+    "current_sha256": "34ddd2782a70015baaaf67e5e42a6b9adb87cf5375bc574fee5e022e567aab3c",
+    "matches_audited_bytes": true,
+    "original_size": [
+      2963,
+      3702
+    ],
+    "oriented_size": [
+      2963,
+      3702
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1729,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A0582.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1832",
+    "original_path": "../../assets/art/A1832.webp",
+    "original_sha256": "b48cec46210bb3eecc1dd7bb00e42ec4113249dcfb2bd5c27ca975d68361b6b3",
+    "current_sha256": "b48cec46210bb3eecc1dd7bb00e42ec4113249dcfb2bd5c27ca975d68361b6b3",
+    "matches_audited_bytes": true,
+    "original_size": [
+      3071,
+      4252
+    ],
+    "oriented_size": [
+      3071,
+      4252
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1560,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A1832.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0192",
+    "original_path": "../../assets/art/A0192.webp",
+    "original_sha256": "93176d43d96437dfbcdcfa519303bf44cef1371ce184904cffbcb90386729d93",
+    "current_sha256": "93176d43d96437dfbcdcfa519303bf44cef1371ce184904cffbcb90386729d93",
+    "matches_audited_bytes": true,
+    "original_size": [
+      1890,
+      1890
+    ],
+    "oriented_size": [
+      1890,
+      1890
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1890,
+      1890
+    ],
+    "embedded_path": "../../assets/art/A0192.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0134",
+    "original_path": "../../assets/art/A0134.webp",
+    "original_sha256": "16ca835687bb503ed1db552ce15f90464545fc89ec833ca54e87de8ce38352d5",
+    "current_sha256": "16ca835687bb503ed1db552ce15f90464545fc89ec833ca54e87de8ce38352d5",
+    "matches_audited_bytes": true,
+    "original_size": [
+      7150,
+      9758
+    ],
+    "oriented_size": [
+      7150,
+      9758
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1583,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A0134.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A2795",
+    "original_path": "../../assets/art/A2795.webp",
+    "original_sha256": "284fc81bf5a2fe860d04700cabcd38be048bedbb3df06b3058e214acbe432e12",
+    "current_sha256": "284fc81bf5a2fe860d04700cabcd38be048bedbb3df06b3058e214acbe432e12",
+    "matches_audited_bytes": true,
+    "original_size": [
+      1791,
+      2205
+    ],
+    "oriented_size": [
+      1791,
+      2205
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1754,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A2795.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1209",
+    "original_path": "../../assets/art/A1209.webp",
+    "original_sha256": "1059813a928bc82d9b31b641da6705be3c7ca6bd24314ad2858749a842e831cf",
+    "current_sha256": "1059813a928bc82d9b31b641da6705be3c7ca6bd24314ad2858749a842e831cf",
+    "matches_audited_bytes": true,
+    "original_size": [
+      4724,
+      6299
+    ],
+    "oriented_size": [
+      4724,
+      6299
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1620,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A1209.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0258",
+    "original_path": "../../assets/art/A0258.webp",
+    "original_sha256": "50c77708f3c6904dfe5746bd6ad33406f4a53b8beec6d53f969cb48af826c957",
+    "current_sha256": "50c77708f3c6904dfe5746bd6ad33406f4a53b8beec6d53f969cb48af826c957",
+    "matches_audited_bytes": true,
+    "original_size": [
+      4588,
+      6423
+    ],
+    "oriented_size": [
+      4588,
+      6423
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1543,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A0258.webp",
+    "colour_action": "ICC appearance converted to sRGB: sRGB IEC61966-2.1",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A2757",
+    "original_path": "../../assets/art/A2757.webp",
+    "original_sha256": "3492627fb1ca2e5ad8f9b99d2cc57456c54af70b7bbf00c633af6e1f858738be",
+    "current_sha256": "3492627fb1ca2e5ad8f9b99d2cc57456c54af70b7bbf00c633af6e1f858738be",
+    "matches_audited_bytes": true,
+    "original_size": [
+      4032,
+      3024
+    ],
+    "oriented_size": [
+      3024,
+      4032
+    ],
+    "exif_orientation": 6,
+    "embedded_size": [
+      1620,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A2757.webp",
+    "colour_action": "ICC appearance converted to sRGB: Display P3",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0018",
+    "original_path": "../../assets/art/A0018.webp",
+    "original_sha256": "b09c359c1f12b487ca55013db98c81d8eb393a10a36f0ecf5cb115871130f78d",
+    "current_sha256": "b09c359c1f12b487ca55013db98c81d8eb393a10a36f0ecf5cb115871130f78d",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A0018.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A2388",
+    "original_path": "../../assets/art/A2388.webp",
+    "original_sha256": "d5e793b098ac753f95a0332e2a67d8e5f4feff2fefd5529d97f8bfb75156b036",
+    "current_sha256": "d5e793b098ac753f95a0332e2a67d8e5f4feff2fefd5529d97f8bfb75156b036",
+    "matches_audited_bytes": true,
+    "original_size": [
+      4983,
+      6899
+    ],
+    "oriented_size": [
+      4983,
+      6899
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1560,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A2388.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0296",
+    "original_path": "../../assets/art/A0296.webp",
+    "original_sha256": "8b188bb0079111067b481508c595cd9767d81166d188c1c841094535fff9cfc1",
+    "current_sha256": "8b188bb0079111067b481508c595cd9767d81166d188c1c841094535fff9cfc1",
+    "matches_audited_bytes": true,
+    "original_size": [
+      2657,
+      1772
+    ],
+    "oriented_size": [
+      2657,
+      1772
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1441
+    ],
+    "embedded_path": "../../assets/art/A0296.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1554",
+    "original_path": "../../assets/art/A1554.webp",
+    "original_sha256": "bb5e8c0a3bdae31b962de45a0c52e39eade04f0abaf680ed85709fb01314996b",
+    "current_sha256": "bb5e8c0a3bdae31b962de45a0c52e39eade04f0abaf680ed85709fb01314996b",
+    "matches_audited_bytes": true,
+    "original_size": [
+      4724,
+      5669
+    ],
+    "oriented_size": [
+      4724,
+      5669
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1800,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A1554.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1564",
+    "original_path": "../../assets/art/A1564.webp",
+    "original_sha256": "dc0b65aeee7a1d606250d24d5dfc9c93e2932b47c67ac4476309b40dcb5785e8",
+    "current_sha256": "dc0b65aeee7a1d606250d24d5dfc9c93e2932b47c67ac4476309b40dcb5785e8",
+    "matches_audited_bytes": true,
+    "original_size": [
+      4724,
+      5669
+    ],
+    "oriented_size": [
+      4724,
+      5669
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1800,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A1564.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0004",
+    "original_path": "../../assets/art/A0004.webp",
+    "original_sha256": "88ed8487b0b1f7cbb77b6d76f0ffc2e2e977930cf745216d457cbae3765e7637",
+    "current_sha256": "88ed8487b0b1f7cbb77b6d76f0ffc2e2e977930cf745216d457cbae3765e7637",
+    "matches_audited_bytes": true,
+    "original_size": [
+      1679,
+      2148
+    ],
+    "oriented_size": [
+      1679,
+      2148
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1679,
+      2148
+    ],
+    "embedded_path": "../../assets/art/A0004.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0502",
+    "original_path": "../../assets/art/A0502.webp",
+    "original_sha256": "458f2d7b13c7bc6f28b9763fc9b4291895725153af8e618c1588d41d84436dc2",
+    "current_sha256": "458f2d7b13c7bc6f28b9763fc9b4291895725153af8e618c1588d41d84436dc2",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A0502.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A2156",
+    "original_path": "../../assets/art/A2156.webp",
+    "original_sha256": "6d314bedff8f73b81f68b9acfe7d52b2cc8b25c923e307779b56735cdfa6c898",
+    "current_sha256": "6d314bedff8f73b81f68b9acfe7d52b2cc8b25c923e307779b56735cdfa6c898",
+    "matches_audited_bytes": true,
+    "original_size": [
+      3307,
+      2362
+    ],
+    "oriented_size": [
+      3307,
+      2362
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1543
+    ],
+    "embedded_path": "../../assets/art/A2156.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0218",
+    "original_path": "../../assets/art/A0218.webp",
+    "original_sha256": "cf2931a387a20f43d3305bd4f0daa875a5cfcbba80b769e6f5ae62c858e0e6c2",
+    "current_sha256": "cf2931a387a20f43d3305bd4f0daa875a5cfcbba80b769e6f5ae62c858e0e6c2",
+    "matches_audited_bytes": true,
+    "original_size": [
+      1890,
+      1890
+    ],
+    "oriented_size": [
+      1890,
+      1890
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1890,
+      1890
+    ],
+    "embedded_path": "../../assets/art/A0218.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1809",
+    "original_path": "../../assets/art/A1809.webp",
+    "original_sha256": "fd857795b6042ae443a2776dd6735c2b945a1844c36b94c9d75d43183b491a4d",
+    "current_sha256": "fd857795b6042ae443a2776dd6735c2b945a1844c36b94c9d75d43183b491a4d",
+    "matches_audited_bytes": true,
+    "original_size": [
+      4724,
+      3307
+    ],
+    "oriented_size": [
+      4724,
+      3307
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1512
+    ],
+    "embedded_path": "../../assets/art/A1809.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0101",
+    "original_path": "../../assets/art/A0101.webp",
+    "original_sha256": "6625c42980e5790053857d5934d436a865896480e8b5ef1f35eb13d7f313b2ce",
+    "current_sha256": "6625c42980e5790053857d5934d436a865896480e8b5ef1f35eb13d7f313b2ce",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A0101.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0340",
+    "original_path": "../../assets/art/A0340.webp",
+    "original_sha256": "37555e8e5aee1caabff2dacbf200f020a6ed057d4b3c9bf38749b01e1edb9850",
+    "current_sha256": "37555e8e5aee1caabff2dacbf200f020a6ed057d4b3c9bf38749b01e1edb9850",
+    "matches_audited_bytes": true,
+    "original_size": [
+      2598,
+      3544
+    ],
+    "oriented_size": [
+      2598,
+      3544
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1583,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A0340.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0350",
+    "original_path": "../../assets/art/A0350.webp",
+    "original_sha256": "bc3af5340952510140878dc2ec00091035540c0f0345bda54d906987e43964c9",
+    "current_sha256": "bc3af5340952510140878dc2ec00091035540c0f0345bda54d906987e43964c9",
+    "matches_audited_bytes": true,
+    "original_size": [
+      2598,
+      3544
+    ],
+    "oriented_size": [
+      2598,
+      3544
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1583,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A0350.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1945",
+    "original_path": "../../assets/art/A1945.webp",
+    "original_sha256": "0e318d67ca119b1094de040515955681933b0a0e6d095bcb2968f9f10c171de4",
+    "current_sha256": "0e318d67ca119b1094de040515955681933b0a0e6d095bcb2968f9f10c171de4",
+    "matches_audited_bytes": true,
+    "original_size": [
+      3071,
+      4253
+    ],
+    "oriented_size": [
+      3071,
+      4253
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1560,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A1945.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0029",
+    "original_path": "../../assets/art/A0029.webp",
+    "original_sha256": "bc69ed9ffbcd4fbfb515a91d1db1a6127e186f7f9f717840c6ded4f3376f03f7",
+    "current_sha256": "bc69ed9ffbcd4fbfb515a91d1db1a6127e186f7f9f717840c6ded4f3376f03f7",
+    "matches_audited_bytes": true,
+    "original_size": [
+      3543,
+      4724
+    ],
+    "oriented_size": [
+      3543,
+      4724
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1620,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A0029.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0027",
+    "original_path": "../../assets/art/A0027.webp",
+    "original_sha256": "bc503e7d96a262a2cfa22ad46e77d88280d77f75178712b7bae37ec344695bac",
+    "current_sha256": "bc503e7d96a262a2cfa22ad46e77d88280d77f75178712b7bae37ec344695bac",
+    "matches_audited_bytes": true,
+    "original_size": [
+      3543,
+      4724
+    ],
+    "oriented_size": [
+      3543,
+      4724
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1620,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A0027.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A2050",
+    "original_path": "../../assets/art/A2050.webp",
+    "original_sha256": "c03096624580dc685942f9448ac639c37f9e0686b3338583d42fb27b55aa3216",
+    "current_sha256": "c03096624580dc685942f9448ac639c37f9e0686b3338583d42fb27b55aa3216",
+    "matches_audited_bytes": true,
+    "original_size": [
+      4252,
+      3071
+    ],
+    "oriented_size": [
+      4252,
+      3071
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1560
+    ],
+    "embedded_path": "../../assets/art/A2050.webp",
+    "colour_action": "ICC appearance converted to sRGB: sRGB IEC61966-2.1",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0501",
+    "original_path": "../../assets/art/A0501.webp",
+    "original_sha256": "60352e9c6381153778308600aac6d6bbcf71e76a275c731241dbe5b85e1cc13f",
+    "current_sha256": "60352e9c6381153778308600aac6d6bbcf71e76a275c731241dbe5b85e1cc13f",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A0501.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A2451",
+    "original_path": "../../assets/art/A2451.webp",
+    "original_sha256": "1093379308423f5f2eed117d0421b0d8cf39f1fff3d253e42a8ad0fc7060ce05",
+    "current_sha256": "1093379308423f5f2eed117d0421b0d8cf39f1fff3d253e42a8ad0fc7060ce05",
+    "matches_audited_bytes": true,
+    "original_size": [
+      3071,
+      4252
+    ],
+    "oriented_size": [
+      3071,
+      4252
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1560,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A2451.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0260",
+    "original_path": "../../assets/art/A0260.webp",
+    "original_sha256": "cf5157217e4a02872cbeb7aa85565e05e7539d5d3fc4f8eaff5a0798b7abd49d",
+    "current_sha256": "cf5157217e4a02872cbeb7aa85565e05e7539d5d3fc4f8eaff5a0798b7abd49d",
+    "matches_audited_bytes": true,
+    "original_size": [
+      4589,
+      6423
+    ],
+    "oriented_size": [
+      4589,
+      6423
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1543,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A0260.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1750",
+    "original_path": "../../assets/art/A1750.webp",
+    "original_sha256": "902d04ea48e0d2638255d290377efa2398e1c2aee3adb1a6fa3352e47839ba62",
+    "current_sha256": "902d04ea48e0d2638255d290377efa2398e1c2aee3adb1a6fa3352e47839ba62",
+    "matches_audited_bytes": true,
+    "original_size": [
+      3075,
+      4252
+    ],
+    "oriented_size": [
+      3075,
+      4252
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1562,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A1750.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A2014",
+    "original_path": "../../assets/art/A2014.webp",
+    "original_sha256": "a882a4f9bff9ca6ba64df266e0cf8ae9ab4e1befe5d1cade440b1ebd901a1f9f",
+    "current_sha256": "a882a4f9bff9ca6ba64df266e0cf8ae9ab4e1befe5d1cade440b1ebd901a1f9f",
+    "matches_audited_bytes": true,
+    "original_size": [
+      3307,
+      4724
+    ],
+    "oriented_size": [
+      3307,
+      4724
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1512,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A2014.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1335",
+    "original_path": "../../assets/art/A1335.webp",
+    "original_sha256": "e1cabf7198b35a91355875b50a6bd842af0feb2948629bc1078c5b8c6208e8f6",
+    "current_sha256": "e1cabf7198b35a91355875b50a6bd842af0feb2948629bc1078c5b8c6208e8f6",
+    "matches_audited_bytes": true,
+    "original_size": [
+      1411,
+      1881
+    ],
+    "oriented_size": [
+      1411,
+      1881
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1411,
+      1881
+    ],
+    "embedded_path": "../../assets/art/A1335.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0291",
+    "original_path": "../../assets/art/A0291.webp",
+    "original_sha256": "c8dfb8dfcc96b3a07d48b8aaaebab34f86a7962e7a7f628d2ca6e74ae54cb293",
+    "current_sha256": "c8dfb8dfcc96b3a07d48b8aaaebab34f86a7962e7a7f628d2ca6e74ae54cb293",
+    "matches_audited_bytes": true,
+    "original_size": [
+      2657,
+      1772
+    ],
+    "oriented_size": [
+      2657,
+      1772
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1441
+    ],
+    "embedded_path": "../../assets/art/A0291.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1772",
+    "original_path": "../../assets/art/A1772.webp",
+    "original_sha256": "bf953df5e5cc9d7e7feb5cdda99beb57f59ac2f0a633a15f8aa5221e5d3600df",
+    "current_sha256": "bf953df5e5cc9d7e7feb5cdda99beb57f59ac2f0a633a15f8aa5221e5d3600df",
+    "matches_audited_bytes": true,
+    "original_size": [
+      2362,
+      3307
+    ],
+    "oriented_size": [
+      2362,
+      3307
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1543,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A1772.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A2213",
+    "original_path": "../../assets/art/A2213.webp",
+    "original_sha256": "ac476023b8c65627c2a9bbcdb223437bd768f7ae657d02b579ce6e9ca884c840",
+    "current_sha256": "ac476023b8c65627c2a9bbcdb223437bd768f7ae657d02b579ce6e9ca884c840",
+    "matches_audited_bytes": true,
+    "original_size": [
+      4252,
+      3071
+    ],
+    "oriented_size": [
+      4252,
+      3071
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1560
+    ],
+    "embedded_path": "../../assets/art/A2213.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1409",
+    "original_path": "../../assets/art/A1409.webp",
+    "original_sha256": "d2f3b793f0d5da1f7cdca3240f228575baf198b44ff9d6a8b99615c75b2ef797",
+    "current_sha256": "d2f3b793f0d5da1f7cdca3240f228575baf198b44ff9d6a8b99615c75b2ef797",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A1409.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1903",
+    "original_path": "../../assets/art/A1903.webp",
+    "original_sha256": "58cf36d2e09dfd1995102b5b3f0465bbba571d046418619cecdc89f4663a3b65",
+    "current_sha256": "58cf36d2e09dfd1995102b5b3f0465bbba571d046418619cecdc89f4663a3b65",
+    "matches_audited_bytes": true,
+    "original_size": [
+      3071,
+      4252
+    ],
+    "oriented_size": [
+      3071,
+      4252
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1560,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A1903.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A2740",
+    "original_path": "../../assets/art/A2740.webp",
+    "original_sha256": "c8a1ef94894129e6390778a13c1c8ea30b783ccbe9da7cd0498c18a8da9a7ad3",
+    "current_sha256": "c8a1ef94894129e6390778a13c1c8ea30b783ccbe9da7cd0498c18a8da9a7ad3",
+    "matches_audited_bytes": true,
+    "original_size": [
+      3543,
+      3543
+    ],
+    "oriented_size": [
+      3543,
+      3543
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A2740.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A2741",
+    "original_path": "../../assets/art/A2741.webp",
+    "original_sha256": "d1441e217fcac2076139722d53a7b4b692cb0fd49860a51ef8968ae681260da4",
+    "current_sha256": "d1441e217fcac2076139722d53a7b4b692cb0fd49860a51ef8968ae681260da4",
+    "matches_audited_bytes": true,
+    "original_size": [
+      3543,
+      3543
+    ],
+    "oriented_size": [
+      3543,
+      3543
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A2741.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0226",
+    "original_path": "../../assets/art/A0226.webp",
+    "original_sha256": "3631e0cd89819013fada132654c9bd6b11d29c7cf0ba233956676da4f2fde7cf",
+    "current_sha256": "3631e0cd89819013fada132654c9bd6b11d29c7cf0ba233956676da4f2fde7cf",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A0226.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0194",
+    "original_path": "../../assets/art/A0194.webp",
+    "original_sha256": "954a2b4429be28f66c37e8986819c9409cbc9a66a3ba7fcd4b1fa49b5589601b",
+    "current_sha256": "954a2b4429be28f66c37e8986819c9409cbc9a66a3ba7fcd4b1fa49b5589601b",
+    "matches_audited_bytes": true,
+    "original_size": [
+      4284,
+      5712
+    ],
+    "oriented_size": [
+      4284,
+      5712
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1620,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A0194.webp",
+    "colour_action": "ICC appearance converted to sRGB: Display P3",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1696",
+    "original_path": "../../assets/art/A1696.webp",
+    "original_sha256": "ce9b286be9b4b791763ec9b69d1bb30544e090dd4b77b160f8f1d7847b93852e",
+    "current_sha256": "ce9b286be9b4b791763ec9b69d1bb30544e090dd4b77b160f8f1d7847b93852e",
+    "matches_audited_bytes": true,
+    "original_size": [
+      2213,
+      1687
+    ],
+    "oriented_size": [
+      2213,
+      1687
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1647
+    ],
+    "embedded_path": "../../assets/art/A1696.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0706",
+    "original_path": "../../assets/art/A0706.webp",
+    "original_sha256": "245016cd63e9208fc83ccdf6202057d248d7db72f86f6ea32e7cb1fb80ad75cb",
+    "current_sha256": "245016cd63e9208fc83ccdf6202057d248d7db72f86f6ea32e7cb1fb80ad75cb",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A0706.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0292",
+    "original_path": "../../assets/art/A0292.webp",
+    "original_sha256": "dc23be0ad040ede998f2e88e4eec98d4e74a0bba50088e2f34091b402ebf3f31",
+    "current_sha256": "dc23be0ad040ede998f2e88e4eec98d4e74a0bba50088e2f34091b402ebf3f31",
+    "matches_audited_bytes": true,
+    "original_size": [
+      2657,
+      1772
+    ],
+    "oriented_size": [
+      2657,
+      1772
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1441
+    ],
+    "embedded_path": "../../assets/art/A0292.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1555",
+    "original_path": "../../assets/art/A1555.webp",
+    "original_sha256": "827779350ab658a4e09552c716e4ba911a36e5a34726d1521d952a53878c1dc2",
+    "current_sha256": "827779350ab658a4e09552c716e4ba911a36e5a34726d1521d952a53878c1dc2",
+    "matches_audited_bytes": true,
+    "original_size": [
+      4724,
+      5669
+    ],
+    "oriented_size": [
+      4724,
+      5669
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1800,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A1555.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1814",
+    "original_path": "../../assets/art/A1814.webp",
+    "original_sha256": "c5458333ca171ce7fede05c82096954d5f3cad4e8a9c48c6ca9c2eaaedd996f1",
+    "current_sha256": "c5458333ca171ce7fede05c82096954d5f3cad4e8a9c48c6ca9c2eaaedd996f1",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A1814.webp",
+    "colour_action": "ICC appearance converted to sRGB: sRGB IEC61966-2.1",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1818",
+    "original_path": "../../assets/art/A1818.webp",
+    "original_sha256": "9d1068ddf0eda1bda190da38d124bcec1a8e3cbba8534151415093185c8d2b91",
+    "current_sha256": "9d1068ddf0eda1bda190da38d124bcec1a8e3cbba8534151415093185c8d2b91",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A1818.webp",
+    "colour_action": "ICC appearance converted to sRGB: sRGB IEC61966-2.1",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0096",
+    "original_path": "../../assets/art/A0096.webp",
+    "original_sha256": "6c0b62f276c3d1016946982d6a872916a6a377e23df1e8d093dacaf6be7d5cf6",
+    "current_sha256": "6c0b62f276c3d1016946982d6a872916a6a377e23df1e8d093dacaf6be7d5cf6",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A0096.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1038",
+    "original_path": "../../assets/art/A1038.webp",
+    "original_sha256": "2b106e100ae324f49dda1869d9c0d0b67b754b0f4ce2f4ac56443e35a5dafe7c",
+    "current_sha256": "2b106e100ae324f49dda1869d9c0d0b67b754b0f4ce2f4ac56443e35a5dafe7c",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A1038.webp",
+    "colour_action": "ICC appearance converted to sRGB: sRGB IEC61966-2.1",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0001",
+    "original_path": "../../assets/art/A0001.webp",
+    "original_sha256": "fc432b1dd36c60edf346b4689163cac6651cc4e73ffe557d39679c80a189179c",
+    "current_sha256": "fc432b1dd36c60edf346b4689163cac6651cc4e73ffe557d39679c80a189179c",
+    "matches_audited_bytes": true,
+    "original_size": [
+      2211,
+      1702
+    ],
+    "oriented_size": [
+      2211,
+      1702
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1663
+    ],
+    "embedded_path": "../../assets/art/A0001.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1045",
+    "original_path": "../../assets/art/A1045.webp",
+    "original_sha256": "3365da781484a9fc4f0d422c90258d905ebf26b15ea91ab1d7919db117c67b97",
+    "current_sha256": "3365da781484a9fc4f0d422c90258d905ebf26b15ea91ab1d7919db117c67b97",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A1045.webp",
+    "colour_action": "ICC appearance converted to sRGB: sRGB IEC61966-2.1",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A2182",
+    "original_path": "../../assets/art/A2182.webp",
+    "original_sha256": "bb7ec2bedc055036187e05d8eb2324d63fc46524ae6b3d9fb7cad342f6468f5d",
+    "current_sha256": "bb7ec2bedc055036187e05d8eb2324d63fc46524ae6b3d9fb7cad342f6468f5d",
+    "matches_audited_bytes": true,
+    "original_size": [
+      3367,
+      3780
+    ],
+    "oriented_size": [
+      3367,
+      3780
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1924,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A2182.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1410",
+    "original_path": "../../assets/art/A1410.webp",
+    "original_sha256": "4193932f9936f00b37b5e1886d9a0463be44dd0b59eb48e7b53163354dad202b",
+    "current_sha256": "4193932f9936f00b37b5e1886d9a0463be44dd0b59eb48e7b53163354dad202b",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A1410.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A2743",
+    "original_path": "../../assets/art/A2743.webp",
+    "original_sha256": "8333a1f830abb59a31db782bd57e1e2ff8f6aa53635f20c817a9c599d81979c8",
+    "current_sha256": "8333a1f830abb59a31db782bd57e1e2ff8f6aa53635f20c817a9c599d81979c8",
+    "matches_audited_bytes": true,
+    "original_size": [
+      3543,
+      3543
+    ],
+    "oriented_size": [
+      3543,
+      3543
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A2743.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0028",
+    "original_path": "../../assets/art/A0028.webp",
+    "original_sha256": "ab29a8148f9c6359f88dd337e0397ab5d8dde455e5f88fe560214fbb37776efb",
+    "current_sha256": "ab29a8148f9c6359f88dd337e0397ab5d8dde455e5f88fe560214fbb37776efb",
+    "matches_audited_bytes": true,
+    "original_size": [
+      3543,
+      4724
+    ],
+    "oriented_size": [
+      3543,
+      4724
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1620,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A0028.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0705",
+    "original_path": "../../assets/art/A0705.webp",
+    "original_sha256": "796410eeb826d476e07ab5d0e9027ce305707d12d5e3f7693abb6ac064c27247",
+    "current_sha256": "796410eeb826d476e07ab5d0e9027ce305707d12d5e3f7693abb6ac064c27247",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5084,
+      7190
+    ],
+    "oriented_size": [
+      5084,
+      7190
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1527,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A0705.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A2063",
+    "original_path": "../../assets/art/A2063.webp",
+    "original_sha256": "0cad73570c60e7e97aeb94400804aad3979147c9f3a919c27d90e4706f16eae8",
+    "current_sha256": "0cad73570c60e7e97aeb94400804aad3979147c9f3a919c27d90e4706f16eae8",
+    "matches_audited_bytes": true,
+    "original_size": [
+      4252,
+      3071
+    ],
+    "oriented_size": [
+      4252,
+      3071
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1560
+    ],
+    "embedded_path": "../../assets/art/A2063.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0945",
+    "original_path": "../../assets/art/A0945.webp",
+    "original_sha256": "367468db8e212cdf96218ee7aa063f6982b41bff96309d157e463ac3795da642",
+    "current_sha256": "367468db8e212cdf96218ee7aa063f6982b41bff96309d157e463ac3795da642",
+    "matches_audited_bytes": true,
+    "original_size": [
+      3248,
+      4430
+    ],
+    "oriented_size": [
+      3248,
+      4430
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1584,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A0945.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0019",
+    "original_path": "../../assets/art/A0019.webp",
+    "original_sha256": "86466e008e3f7179b84ed1ce3fe6d36a1a54c9c88f16ebbcc687ce952f6cae1d",
+    "current_sha256": "86466e008e3f7179b84ed1ce3fe6d36a1a54c9c88f16ebbcc687ce952f6cae1d",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A0019.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0289",
+    "original_path": "../../assets/art/A0289.webp",
+    "original_sha256": "841c63ccc85a39abe4b7b7ccc21fc8b7b0d07e56b428e813ce9dd9c79fed30b4",
+    "current_sha256": "841c63ccc85a39abe4b7b7ccc21fc8b7b0d07e56b428e813ce9dd9c79fed30b4",
+    "matches_audited_bytes": true,
+    "original_size": [
+      2657,
+      1772
+    ],
+    "oriented_size": [
+      2657,
+      1772
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1441
+    ],
+    "embedded_path": "../../assets/art/A0289.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0433",
+    "original_path": "../../assets/art/A0433.webp",
+    "original_sha256": "4babb3d6db69e9d2abfff12ddb0986785a3671ec3cc154bbecd5c3a07a3531b3",
+    "current_sha256": "4babb3d6db69e9d2abfff12ddb0986785a3671ec3cc154bbecd5c3a07a3531b3",
+    "matches_audited_bytes": true,
+    "original_size": [
+      2962,
+      3702
+    ],
+    "oriented_size": [
+      2962,
+      3702
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1728,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A0433.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A2311",
+    "original_path": "../../assets/art/A2311.webp",
+    "original_sha256": "71bad9f362350612833acceba0c7c1a579d4376864d0d9d2182247a350369ec8",
+    "current_sha256": "71bad9f362350612833acceba0c7c1a579d4376864d0d9d2182247a350369ec8",
+    "matches_audited_bytes": true,
+    "original_size": [
+      1600,
+      2240
+    ],
+    "oriented_size": [
+      1600,
+      2240
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1543,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A2311.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1408",
+    "original_path": "../../assets/art/A1408.webp",
+    "original_sha256": "f1b21382dfb40ee6e78b50694a19f02041e61cf68761f4e7713d302d952b5390",
+    "current_sha256": "f1b21382dfb40ee6e78b50694a19f02041e61cf68761f4e7713d302d952b5390",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A1408.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0102",
+    "original_path": "../../assets/art/A0102.webp",
+    "original_sha256": "1c52f4a666848070d511d48973b0b3d8fe3e96313551e783a376a59eff78baac",
+    "current_sha256": "1c52f4a666848070d511d48973b0b3d8fe3e96313551e783a376a59eff78baac",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A0102.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0664",
+    "original_path": "../../assets/art/A0664.webp",
+    "original_sha256": "3d55f4d28e8fc6798064b5b7b86f9e490d3be26f5fd6195eaf3e43e7466f1ec5",
+    "current_sha256": "3d55f4d28e8fc6798064b5b7b86f9e490d3be26f5fd6195eaf3e43e7466f1ec5",
+    "matches_audited_bytes": true,
+    "original_size": [
+      4724,
+      3780
+    ],
+    "oriented_size": [
+      4724,
+      3780
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1728
+    ],
+    "embedded_path": "../../assets/art/A0664.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A2422",
+    "original_path": "../../assets/art/A2422.webp",
+    "original_sha256": "8d42b676e842fedfacc9c9241776ea48388e2e60ffc867dc98d4bd79d2d3c78d",
+    "current_sha256": "8d42b676e842fedfacc9c9241776ea48388e2e60ffc867dc98d4bd79d2d3c78d",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A2422.webp",
+    "colour_action": "ICC appearance converted to sRGB: sRGB IEC61966-2.1",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1036",
+    "original_path": "../../assets/art/A1036.webp",
+    "original_sha256": "ef2d8c3a03747bcbc87b594f39706543db6ae924e4ecd07e0ba0a06e99a39fd4",
+    "current_sha256": "ef2d8c3a03747bcbc87b594f39706543db6ae924e4ecd07e0ba0a06e99a39fd4",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A1036.webp",
+    "colour_action": "ICC appearance converted to sRGB: sRGB IEC61966-2.1",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1695",
+    "original_path": "../../assets/art/A1695.webp",
+    "original_sha256": "3c41fc26f34a9f01f52705a8aef6121caea0641dc375b687f204d58dcbd9fe61",
+    "current_sha256": "3c41fc26f34a9f01f52705a8aef6121caea0641dc375b687f204d58dcbd9fe61",
+    "matches_audited_bytes": true,
+    "original_size": [
+      2480,
+      2816
+    ],
+    "oriented_size": [
+      2480,
+      2816
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1902,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A1695.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0428",
+    "original_path": "../../assets/art/A0428.webp",
+    "original_sha256": "9da6163abb3186ea5e7e6e2cf9e6cf8fea3d6b6a450f40b06d462cdec3404e31",
+    "current_sha256": "9da6163abb3186ea5e7e6e2cf9e6cf8fea3d6b6a450f40b06d462cdec3404e31",
+    "matches_audited_bytes": true,
+    "original_size": [
+      2962,
+      3702
+    ],
+    "oriented_size": [
+      2962,
+      3702
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1728,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A0428.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0294",
+    "original_path": "../../assets/art/A0294.webp",
+    "original_sha256": "c7796152bffdf8a37e87973842498e6e06ef1a4663f9b5c4e3df5104de62d509",
+    "current_sha256": "c7796152bffdf8a37e87973842498e6e06ef1a4663f9b5c4e3df5104de62d509",
+    "matches_audited_bytes": true,
+    "original_size": [
+      2657,
+      1772
+    ],
+    "oriented_size": [
+      2657,
+      1772
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1441
+    ],
+    "embedded_path": "../../assets/art/A0294.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1034",
+    "original_path": "../../assets/art/A1034.webp",
+    "original_sha256": "bdd63835c62fcbb368dea6f64fa600ce2481c58b29349833894c274513ebdf99",
+    "current_sha256": "bdd63835c62fcbb368dea6f64fa600ce2481c58b29349833894c274513ebdf99",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A1034.webp",
+    "colour_action": "ICC appearance converted to sRGB: sRGB IEC61966-2.1",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1717",
+    "original_path": "../../assets/art/A1717.webp",
+    "original_sha256": "8d506aea5fb4cf698373e1b51d09a9887eabfe29b4c70b83c34020ce6e39b4fa",
+    "current_sha256": "8d506aea5fb4cf698373e1b51d09a9887eabfe29b4c70b83c34020ce6e39b4fa",
+    "matches_audited_bytes": true,
+    "original_size": [
+      1271,
+      1728
+    ],
+    "oriented_size": [
+      1271,
+      1728
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1271,
+      1728
+    ],
+    "embedded_path": "../../assets/art/A1717.webp",
+    "colour_action": "ICC appearance converted to sRGB: Display P3",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0504",
+    "original_path": "../../assets/art/A0504.webp",
+    "original_sha256": "1726a75fa1898372eba1d83b3b6dc3358b5f59baabd0043a87a422f8d6ac4034",
+    "current_sha256": "1726a75fa1898372eba1d83b3b6dc3358b5f59baabd0043a87a422f8d6ac4034",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A0504.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0225",
+    "original_path": "../../assets/art/A0225.webp",
+    "original_sha256": "ce3637accfeba185fe4ee3e20a3f4ea158f6bf3e819d39a4a3b470872d672f66",
+    "current_sha256": "ce3637accfeba185fe4ee3e20a3f4ea158f6bf3e819d39a4a3b470872d672f66",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A0225.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0137",
+    "original_path": "../../assets/art/A0137.webp",
+    "original_sha256": "2a58524e86004022dfcb1e3428e85cf7ae6e8a6956061ad25ee7f90abdccca27",
+    "current_sha256": "2a58524e86004022dfcb1e3428e85cf7ae6e8a6956061ad25ee7f90abdccca27",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A0137.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0211",
+    "original_path": "../../assets/art/A0211.webp",
+    "original_sha256": "807976ab81f24607378d3c5727db26f2348f8ac814e3fd6d3400c12519502a0e",
+    "current_sha256": "807976ab81f24607378d3c5727db26f2348f8ac814e3fd6d3400c12519502a0e",
+    "matches_audited_bytes": true,
+    "original_size": [
+      1890,
+      1890
+    ],
+    "oriented_size": [
+      1890,
+      1890
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1890,
+      1890
+    ],
+    "embedded_path": "../../assets/art/A0211.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A2423",
+    "original_path": "../../assets/art/A2423.webp",
+    "original_sha256": "3b78de969ba9db10af88ac5fde4fe64bcf336b9ef57b32bb4dd11d6b6e6ca1be",
+    "current_sha256": "3b78de969ba9db10af88ac5fde4fe64bcf336b9ef57b32bb4dd11d6b6e6ca1be",
+    "matches_audited_bytes": true,
+    "original_size": [
+      3456,
+      4786
+    ],
+    "oriented_size": [
+      3456,
+      4786
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1560,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A2423.webp",
+    "colour_action": "ICC appearance converted to sRGB: sRGB IEC61966-2.1",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A2744",
+    "original_path": "../../assets/art/A2744.webp",
+    "original_sha256": "a6f4a02697b6d14b52e3531dbd1438007c7f9fe9d0075b42ebe725c17aec3097",
+    "current_sha256": "a6f4a02697b6d14b52e3531dbd1438007c7f9fe9d0075b42ebe725c17aec3097",
+    "matches_audited_bytes": true,
+    "original_size": [
+      2524,
+      3222
+    ],
+    "oriented_size": [
+      2524,
+      3222
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1692,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A2744.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0139",
+    "original_path": "../../assets/art/A0139.webp",
+    "original_sha256": "20ec5aae4c46b460700aca19de3c752498815b3c8f873cd3eeae0c739270f68c",
+    "current_sha256": "20ec5aae4c46b460700aca19de3c752498815b3c8f873cd3eeae0c739270f68c",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A0139.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0507",
+    "original_path": "../../assets/art/A0507.webp",
+    "original_sha256": "361f11412b5b946cd4d6a0fca10ffaede5281b2ae4789cbb6bad8c6724f515c9",
+    "current_sha256": "361f11412b5b946cd4d6a0fca10ffaede5281b2ae4789cbb6bad8c6724f515c9",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A0507.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1716",
+    "original_path": "../../assets/art/A1716.webp",
+    "original_sha256": "2ec0ee70554a49d84a7cd752c32bf4366d562e551461784bad61daee5107fc17",
+    "current_sha256": "2ec0ee70554a49d84a7cd752c32bf4366d562e551461784bad61daee5107fc17",
+    "matches_audited_bytes": true,
+    "original_size": [
+      1271,
+      1728
+    ],
+    "oriented_size": [
+      1271,
+      1728
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1271,
+      1728
+    ],
+    "embedded_path": "../../assets/art/A1716.webp",
+    "colour_action": "ICC appearance converted to sRGB: Display P3",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0262",
+    "original_path": "../../assets/art/A0262.webp",
+    "original_sha256": "412b26db773d5123f446ca6ec6f5c6cce8019570b29426a11ed6d42ff74c3ab1",
+    "current_sha256": "412b26db773d5123f446ca6ec6f5c6cce8019570b29426a11ed6d42ff74c3ab1",
+    "matches_audited_bytes": true,
+    "original_size": [
+      4589,
+      6423
+    ],
+    "oriented_size": [
+      4589,
+      6423
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      1543,
+      2160
+    ],
+    "embedded_path": "../../assets/art/A0262.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A1931",
+    "original_path": "../../assets/art/A1931.webp",
+    "original_sha256": "c83db76105d14c011ddd899bdd6c89a09e9f5b14f83167ef59ad3d6db85bad8e",
+    "current_sha256": "c83db76105d14c011ddd899bdd6c89a09e9f5b14f83167ef59ad3d6db85bad8e",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A1931.webp",
+    "colour_action": "ICC appearance converted to sRGB: sRGB IEC61966-2.1",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  },
+  {
+    "id": "A0224",
+    "original_path": "../../assets/art/A0224.webp",
+    "original_sha256": "959dc90e9f16ebda9bddd9ac480b38357eee6885f94847ae9f2c05816e08d706",
+    "current_sha256": "959dc90e9f16ebda9bddd9ac480b38357eee6885f94847ae9f2c05816e08d706",
+    "matches_audited_bytes": true,
+    "original_size": [
+      5184,
+      3456
+    ],
+    "oriented_size": [
+      5184,
+      3456
+    ],
+    "exif_orientation": 1,
+    "embedded_size": [
+      2160,
+      1440
+    ],
+    "embedded_path": "../../assets/art/A0224.webp",
+    "colour_action": "untagged; sRGB assumed for local web design",
+    "source_modified": false,
+    "source_role": "an existing archive image, including already selected details where chosen"
+  }
+]

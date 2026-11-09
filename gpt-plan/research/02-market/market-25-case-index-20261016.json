@@ -1,0 +1,487 @@
+{
+  "schema": "art-world-25-v2",
+  "review_date": "2026-10-16",
+  "classification": "Five non-ordinal comparison groups. Previous claim of five validated career levels withdrawn.",
+  "artists": [
+    {
+      "id": "N25-A01",
+      "artist": "Stephanie Man",
+      "analysis_document": "network-25-01-project-careers-20261016.md",
+      "sources": [
+        "https://stephaniemanart.substack.com/p/reflections-from-my-first-self-organised",
+        "https://www.stephaniemanart.com/",
+        "https://www.instagram.com/reel/Dca4ynhs9xb/"
+      ],
+      "study_type": "qualitative career and relationship mechanisms",
+      "private_metrics_used": false,
+      "comparison_group": 1,
+      "direct_instagram_sequence_reviewed": false,
+      "systematic_visual_comparison_completed": false,
+      "selected_visual_object_reviewed": true,
+      "selected_visual_evidence_document": "market-visual-evidence-20261016.json",
+      "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+      "career_evidence_matrix": "market-career-evidence-matrix-20261016.md"
+    },
+    {
+      "id": "N25-A02",
+      "artist": "Olmo Gasperini",
+      "analysis_document": "network-25-01-project-careers-20261016.md",
+      "sources": [
+        "https://www.artribune.com/professioni-e-professionisti/who-is-who/2026/04/intervista-giovane-artista-olmo-gasperini/",
+        "https://vonburencontemporary.com/gasperini-and-norenko-inside-out-june-26/"
+      ],
+      "study_type": "qualitative career and relationship mechanisms",
+      "private_metrics_used": false,
+      "comparison_group": 1,
+      "direct_instagram_sequence_reviewed": false,
+      "systematic_visual_comparison_completed": false,
+      "selected_visual_object_reviewed": true,
+      "selected_visual_evidence_document": "market-visual-evidence-20261016.json",
+      "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+      "career_evidence_matrix": "market-career-evidence-matrix-20261016.md"
+    },
+    {
+      "id": "N25-A03",
+      "artist": "Leila Lallali",
+      "analysis_document": "network-25-01-project-careers-20261016.md",
+      "sources": [
+        "https://www.nosbaumreding.com/en/artists/exhibitiondetails/16603/leila-lallali-good-luck?iae=404",
+        "https://gouvernement.lu/dam-assets/publications/rapport-activite/minist-culture/kulturlx/2025-ra-kulturlx.pdf",
+        "https://thewickculture.com/spotlight-artist-leila-lallali/",
+        "https://www.leilalallali.com/exhibitions"
+      ],
+      "study_type": "qualitative career and relationship mechanisms",
+      "private_metrics_used": false,
+      "comparison_group": 1,
+      "direct_instagram_sequence_reviewed": false,
+      "systematic_visual_comparison_completed": false,
+      "selected_visual_object_reviewed": true,
+      "selected_visual_evidence_document": "market-visual-evidence-20261016.json",
+      "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+      "career_evidence_matrix": "market-career-evidence-matrix-20261016.md"
+    },
+    {
+      "id": "N25-A04",
+      "artist": "Axelle Salvage",
+      "analysis_document": "network-25-01-project-careers-20261016.md",
+      "sources": [
+        "https://axellesalvage.com/about",
+        "https://axellesalvage.com/cultural-works"
+      ],
+      "study_type": "qualitative career and relationship mechanisms",
+      "private_metrics_used": false,
+      "comparison_group": 1,
+      "direct_instagram_sequence_reviewed": false,
+      "systematic_visual_comparison_completed": false,
+      "selected_visual_object_reviewed": true,
+      "selected_visual_evidence_document": "market-visual-evidence-20261016.json",
+      "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+      "career_evidence_matrix": "market-career-evidence-matrix-20261016.md"
+    },
+    {
+      "id": "N25-A05",
+      "artist": "Lara Ilaria Braconi",
+      "analysis_document": "network-25-01-project-careers-20261016.md",
+      "sources": [
+        "https://www.larailariabraconi.com/biografia/",
+        "https://www.casadegliartisti.org/residenza/antica-straniera/",
+        "https://venticento.livemuseum.it/lara-ilaria-braconi/"
+      ],
+      "study_type": "qualitative career and relationship mechanisms",
+      "private_metrics_used": false,
+      "comparison_group": 1,
+      "direct_instagram_sequence_reviewed": false,
+      "systematic_visual_comparison_completed": false,
+      "selected_visual_object_reviewed": true,
+      "selected_visual_evidence_document": "market-visual-evidence-20261016.json",
+      "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+      "career_evidence_matrix": "market-career-evidence-matrix-20261016.md"
+    },
+    {
+      "id": "N25-B01",
+      "artist": "Rae Klein",
+      "analysis_document": "network-25-02-gallery-circulation-20261016.md",
+      "sources": [
+        "https://www.raeklein.com/about",
+        "https://mepaintsme.substack.com/p/rae-klein"
+      ],
+      "study_type": "qualitative career and relationship mechanisms",
+      "private_metrics_used": false,
+      "comparison_group": 2,
+      "direct_instagram_sequence_reviewed": false,
+      "systematic_visual_comparison_completed": false,
+      "selected_visual_object_reviewed": true,
+      "selected_visual_evidence_document": "market-visual-evidence-20261016.json",
+      "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+      "career_evidence_matrix": "market-career-evidence-matrix-20261016.md"
+    },
+    {
+      "id": "N25-B02",
+      "artist": "Lee Gihun",
+      "analysis_document": "network-25-02-gallery-circulation-20261016.md",
+      "sources": [
+        "https://thehole.com/exhibitions/lee-gihun",
+        "https://www.theartnewspaper.com/2026/04/06/pressures-squeezing-gallery-sector-the-hole-new-york-los-angeles"
+      ],
+      "study_type": "qualitative career and relationship mechanisms",
+      "private_metrics_used": false,
+      "comparison_group": 2,
+      "direct_instagram_sequence_reviewed": false,
+      "systematic_visual_comparison_completed": false,
+      "selected_visual_object_reviewed": true,
+      "selected_visual_evidence_document": "market-visual-evidence-20261016.json",
+      "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+      "career_evidence_matrix": "market-career-evidence-matrix-20261016.md"
+    },
+    {
+      "id": "N25-B03",
+      "artist": "Martin Lukáč",
+      "analysis_document": "network-25-02-gallery-circulation-20261016.md",
+      "sources": [
+        "https://lukacmartin.com/",
+        "https://www.collectorsagenda.com/en/in-the-studio/martin-luk%C3%A1%C4%8D",
+        "https://duveberlin.com/Id_rather_be_with_you"
+      ],
+      "study_type": "qualitative career and relationship mechanisms",
+      "private_metrics_used": false,
+      "comparison_group": 2,
+      "direct_instagram_sequence_reviewed": false,
+      "systematic_visual_comparison_completed": false,
+      "selected_visual_object_reviewed": true,
+      "selected_visual_evidence_document": "market-visual-evidence-20261016.json",
+      "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+      "career_evidence_matrix": "market-career-evidence-matrix-20261016.md"
+    },
+    {
+      "id": "N25-B04",
+      "artist": "Nat Meade",
+      "analysis_document": "network-25-02-gallery-circulation-20261016.md",
+      "sources": [
+        "https://www.nosbaumreding.com/en/artists/exhibitiondetails/16324/nat-meade-shed-works-on-paper?iae=399",
+        "https://www.maakemagazine.com/nat-meade"
+      ],
+      "study_type": "qualitative career and relationship mechanisms",
+      "private_metrics_used": false,
+      "comparison_group": 2,
+      "direct_instagram_sequence_reviewed": false,
+      "systematic_visual_comparison_completed": false,
+      "selected_visual_object_reviewed": true,
+      "selected_visual_evidence_document": "market-visual-evidence-20261016.json",
+      "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+      "career_evidence_matrix": "market-career-evidence-matrix-20261016.md"
+    },
+    {
+      "id": "N25-B05",
+      "artist": "Nick McPhail",
+      "analysis_document": "network-25-02-gallery-circulation-20261016.md",
+      "sources": [
+        "https://nickmcphail.com/CV",
+        "https://zidoun-bossuyt.com/exhibitions/fragments-of-paradise-feipel-bechameil-lucas-georges-christian-louis-granet-nick-mcphail-brian-rochefort-and-summer-wheat/",
+        "https://hopperprize.org/nick-mcphail-interview/"
+      ],
+      "study_type": "qualitative career and relationship mechanisms",
+      "private_metrics_used": false,
+      "comparison_group": 2,
+      "direct_instagram_sequence_reviewed": false,
+      "systematic_visual_comparison_completed": false,
+      "selected_visual_object_reviewed": true,
+      "selected_visual_evidence_document": "market-visual-evidence-20261016.json",
+      "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+      "career_evidence_matrix": "market-career-evidence-matrix-20261016.md"
+    },
+    {
+      "id": "N25-C01",
+      "artist": "Robin F. Williams",
+      "analysis_document": "network-25-03-institutional-expansion-20261016.md",
+      "sources": [
+        "https://www.ppowgallery.com/artists/robin-f-williams",
+        "https://www.ppowgallery.com/exhibitions/robin-f-williams6"
+      ],
+      "study_type": "qualitative career and relationship mechanisms",
+      "private_metrics_used": false,
+      "comparison_group": 3,
+      "direct_instagram_sequence_reviewed": false,
+      "systematic_visual_comparison_completed": false,
+      "selected_visual_object_reviewed": true,
+      "selected_visual_evidence_document": "market-visual-evidence-20261016.json",
+      "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+      "career_evidence_matrix": "market-career-evidence-matrix-20261016.md"
+    },
+    {
+      "id": "N25-C02",
+      "artist": "Dana Lok",
+      "analysis_document": "network-25-03-institutional-expansion-20261016.md",
+      "sources": [
+        "https://www.climagallery.com/exhibition/a-body-for-your-thoughts/",
+        "https://www.climagallery.com/artist/dana-lok/",
+        "https://www.danalok.com/cvandcontact"
+      ],
+      "study_type": "qualitative career and relationship mechanisms",
+      "private_metrics_used": false,
+      "comparison_group": 3,
+      "direct_instagram_sequence_reviewed": false,
+      "systematic_visual_comparison_completed": false,
+      "selected_visual_object_reviewed": true,
+      "selected_visual_evidence_document": "market-visual-evidence-20261016.json",
+      "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+      "career_evidence_matrix": "market-career-evidence-matrix-20261016.md"
+    },
+    {
+      "id": "N25-C03",
+      "artist": "Danielle Mckinney",
+      "analysis_document": "network-25-03-institutional-expansion-20261016.md",
+      "sources": [
+        "https://www.norton.org/exhibitions/danielle-mckinney-shelter",
+        "https://bombmagazine.org/articles/2026/08/26/danielle-mckinney-by-salom%C3%A9-g%C3%B3mez-upegui/",
+        "https://marianneboeskygallery.com/press/631-time100-art-2026-danielle-mckinney-painter-of/"
+      ],
+      "study_type": "qualitative career and relationship mechanisms",
+      "private_metrics_used": false,
+      "comparison_group": 3,
+      "direct_instagram_sequence_reviewed": false,
+      "systematic_visual_comparison_completed": false,
+      "selected_visual_object_reviewed": true,
+      "selected_visual_evidence_document": "market-visual-evidence-20261016.json",
+      "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+      "career_evidence_matrix": "market-career-evidence-matrix-20261016.md"
+    },
+    {
+      "id": "N25-C04",
+      "artist": "Issy Wood",
+      "analysis_document": "network-25-03-institutional-expansion-20261016.md",
+      "sources": [
+        "https://www.npg.org.uk/whatson/display/2026/artist-focus-issy-wood",
+        "https://ica.art/live/issy-wood",
+        "https://www.kistefosmuseum.com/exhibitions/issy-wood"
+      ],
+      "study_type": "qualitative career and relationship mechanisms",
+      "private_metrics_used": false,
+      "comparison_group": 3,
+      "direct_instagram_sequence_reviewed": false,
+      "systematic_visual_comparison_completed": false,
+      "selected_visual_object_reviewed": true,
+      "selected_visual_evidence_document": "market-visual-evidence-20261016.json",
+      "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+      "career_evidence_matrix": "market-career-evidence-matrix-20261016.md"
+    },
+    {
+      "id": "N25-C05",
+      "artist": "Louise Giovanelli",
+      "analysis_document": "network-25-03-institutional-expansion-20261016.md",
+      "sources": [
+        "https://www.whitecube.com/artists/louise-giovanelli",
+        "https://www.wallpaper.com/art/exhibitions-shows/louise-giovanelli-at-white-cube-interview"
+      ],
+      "study_type": "qualitative career and relationship mechanisms",
+      "private_metrics_used": false,
+      "comparison_group": 3,
+      "direct_instagram_sequence_reviewed": false,
+      "systematic_visual_comparison_completed": false,
+      "selected_visual_object_reviewed": true,
+      "selected_visual_evidence_document": "market-visual-evidence-20261016.json",
+      "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+      "career_evidence_matrix": "market-career-evidence-matrix-20261016.md"
+    },
+    {
+      "id": "N25-D01",
+      "artist": "Louise Bonnet",
+      "analysis_document": "network-25-04-global-gallery-20261016.md",
+      "sources": [
+        "https://gagosian.com/artists/louise-bonnet/",
+        "https://gagosian.com/news/museum-exhibitions/in-these-times-recent-acquisitions-at-moca-la/",
+        "https://gagosian.com/quarterly/2025/04/21/interview-louise-bonnet-and-elizabeth-king/"
+      ],
+      "study_type": "qualitative career and relationship mechanisms",
+      "private_metrics_used": false,
+      "comparison_group": 4,
+      "direct_instagram_sequence_reviewed": false,
+      "systematic_visual_comparison_completed": false,
+      "selected_visual_object_reviewed": true,
+      "selected_visual_evidence_document": "market-visual-evidence-20261016.json",
+      "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+      "career_evidence_matrix": "market-career-evidence-matrix-20261016.md"
+    },
+    {
+      "id": "N25-D02",
+      "artist": "Jadé Fadojutimi",
+      "analysis_document": "network-25-04-global-gallery-20261016.md",
+      "sources": [
+        "https://gagosian.com/artists/jade-fadojutimi/",
+        "https://gagosian.com/exhibitions/2026/selections/",
+        "https://gagosianshop.com/products/jade-fadojutimi-dwelve-a-goosebump-in-memory-book"
+      ],
+      "study_type": "qualitative career and relationship mechanisms",
+      "private_metrics_used": false,
+      "comparison_group": 4,
+      "direct_instagram_sequence_reviewed": false,
+      "systematic_visual_comparison_completed": false,
+      "selected_visual_object_reviewed": true,
+      "selected_visual_evidence_document": "market-visual-evidence-20261016.json",
+      "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+      "career_evidence_matrix": "market-career-evidence-matrix-20261016.md"
+    },
+    {
+      "id": "N25-D03",
+      "artist": "Jenna Gribbon",
+      "analysis_document": "network-25-04-global-gallery-20261016.md",
+      "sources": [
+        "https://www.brandeis.edu/rose/exhibitions/2026/jenna-gribbon.html",
+        "https://massimodecarlo.com/projects/jenna-gribbon-entwined",
+        "https://davidkordanskygallery.com/artist/jenna-gribbon"
+      ],
+      "study_type": "qualitative career and relationship mechanisms",
+      "private_metrics_used": false,
+      "comparison_group": 4,
+      "direct_instagram_sequence_reviewed": false,
+      "systematic_visual_comparison_completed": false,
+      "selected_visual_object_reviewed": true,
+      "selected_visual_evidence_document": "market-visual-evidence-20261016.json",
+      "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+      "career_evidence_matrix": "market-career-evidence-matrix-20261016.md"
+    },
+    {
+      "id": "N25-D04",
+      "artist": "Julie Curtiss",
+      "analysis_document": "network-25-04-global-gallery-20261016.md",
+      "sources": [
+        "https://gagosian.com/exhibitions/2026/julie-curtiss-unreal/",
+        "https://www.whitecube.com/artists/julie-curtiss"
+      ],
+      "study_type": "qualitative career and relationship mechanisms",
+      "private_metrics_used": false,
+      "comparison_group": 4,
+      "direct_instagram_sequence_reviewed": false,
+      "systematic_visual_comparison_completed": false,
+      "selected_visual_object_reviewed": true,
+      "selected_visual_evidence_document": "market-visual-evidence-20261016.json",
+      "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+      "career_evidence_matrix": "market-career-evidence-matrix-20261016.md"
+    },
+    {
+      "id": "N25-D05",
+      "artist": "Amoako Boafo",
+      "analysis_document": "network-25-04-global-gallery-20261016.md",
+      "sources": [
+        "https://gagosian.com/artists/amoako-boafo/",
+        "https://cultura.gov.it/evento/la-prima-mostra-personale-di-amoako-boafo-in-italia-museo-di-palazzo-grimani",
+        "https://heni.com/news/article/amoako-boafo-five-things-venice-show-january-19"
+      ],
+      "study_type": "qualitative career and relationship mechanisms",
+      "private_metrics_used": false,
+      "comparison_group": 4,
+      "direct_instagram_sequence_reviewed": false,
+      "systematic_visual_comparison_completed": false,
+      "selected_visual_object_reviewed": true,
+      "selected_visual_evidence_document": "market-visual-evidence-20261016.json",
+      "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+      "career_evidence_matrix": "market-career-evidence-matrix-20261016.md"
+    },
+    {
+      "id": "N25-E01",
+      "artist": "George Condo",
+      "analysis_document": "network-25-05-museum-history-20261016.md",
+      "sources": [
+        "https://www.mam.paris.fr/fr/expositions/exposition-george-condo",
+        "https://www.hauserwirth.com/artists/26942-george-condo/",
+        "https://www.sothebys.com/en/buy/auction/2026/the-now-contemporary-evening-auction/figure-on-a-red-field?locale=en",
+        "https://help.sothebys.com/en/support/solutions/articles/44002518844-guide-for-buyers-symbol-key"
+      ],
+      "study_type": "qualitative career and relationship mechanisms",
+      "private_metrics_used": false,
+      "comparison_group": 5,
+      "direct_instagram_sequence_reviewed": false,
+      "systematic_visual_comparison_completed": false,
+      "selected_visual_object_reviewed": true,
+      "selected_visual_evidence_document": "market-visual-evidence-20261016.json",
+      "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+      "career_evidence_matrix": "market-career-evidence-matrix-20261016.md"
+    },
+    {
+      "id": "N25-E02",
+      "artist": "Cecily Brown",
+      "analysis_document": "network-25-05-museum-history-20261016.md",
+      "sources": [
+        "https://www.serpentinegalleries.org/whats-on/cecily-brown-picture-making/",
+        "https://www.serpentinegalleries.org/whats-on/2026-at-serpentine/"
+      ],
+      "study_type": "qualitative career and relationship mechanisms",
+      "private_metrics_used": false,
+      "comparison_group": 5,
+      "direct_instagram_sequence_reviewed": false,
+      "systematic_visual_comparison_completed": false,
+      "selected_visual_object_reviewed": true,
+      "selected_visual_evidence_document": "market-visual-evidence-20261016.json",
+      "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+      "career_evidence_matrix": "market-career-evidence-matrix-20261016.md"
+    },
+    {
+      "id": "N25-E03",
+      "artist": "Peter Doig",
+      "analysis_document": "network-25-05-museum-history-20261016.md",
+      "sources": [
+        "https://www.serpentinegalleries.org/whats-on/peter-doig-house-of-music/",
+        "https://www.serpentinegalleries.org/whats-on/peter-doig-house-of-music-sound-service/"
+      ],
+      "study_type": "qualitative career and relationship mechanisms",
+      "private_metrics_used": false,
+      "comparison_group": 5,
+      "direct_instagram_sequence_reviewed": false,
+      "systematic_visual_comparison_completed": false,
+      "selected_visual_object_reviewed": true,
+      "selected_visual_evidence_document": "market-visual-evidence-20261016.json",
+      "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+      "career_evidence_matrix": "market-career-evidence-matrix-20261016.md"
+    },
+    {
+      "id": "N25-E04",
+      "artist": "Marlene Dumas",
+      "analysis_document": "network-25-05-museum-history-20261016.md",
+      "sources": [
+        "https://www.marlenedumas.nl/current-exhibitions-events/",
+        "https://www.louvre.fr/decouvrir/vie-du-musee/liaisons-marlene-dumas-entre-au-louvre",
+        "https://collections.louvre.fr/en/ark%3A/53355/cl010535766"
+      ],
+      "study_type": "qualitative career and relationship mechanisms",
+      "private_metrics_used": false,
+      "comparison_group": 5,
+      "direct_instagram_sequence_reviewed": false,
+      "systematic_visual_comparison_completed": false,
+      "selected_visual_object_reviewed": true,
+      "selected_visual_evidence_document": "market-visual-evidence-20261016.json",
+      "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+      "career_evidence_matrix": "market-career-evidence-matrix-20261016.md"
+    },
+    {
+      "id": "N25-E05",
+      "artist": "Kerry James Marshall",
+      "analysis_document": "network-25-05-museum-history-20261016.md",
+      "sources": [
+        "https://www.mam.paris.fr/fr/expositions/exposition-kerry-james-marshall",
+        "https://www.ucl.ac.uk/social-historical-sciences/news/2026/jan/curating-kerry-james-marshall-event"
+      ],
+      "study_type": "qualitative career and relationship mechanisms",
+      "private_metrics_used": false,
+      "comparison_group": 5,
+      "direct_instagram_sequence_reviewed": false,
+      "systematic_visual_comparison_completed": false,
+      "selected_visual_object_reviewed": true,
+      "selected_visual_evidence_document": "market-visual-evidence-20261016.json",
+      "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+      "career_evidence_matrix": "market-career-evidence-matrix-20261016.md"
+    }
+  ],
+  "groups": {
+    "1": 5,
+    "2": 5,
+    "3": 5,
+    "4": 5,
+    "5": 5
+  },
+  "career_hierarchy_validated": false,
+  "direct_instagram_sequence_audit_completed": false,
+  "direct_instagram_scope": "excluded_at_user_request_2026-10-16",
+  "selected_visual_objects_reviewed": 25,
+  "active_career_sample": "market-career-sample-5x5-20261016.json",
+  "active_career_sample_completed": true,
+  "universal_career_hierarchy_asserted": false
+}

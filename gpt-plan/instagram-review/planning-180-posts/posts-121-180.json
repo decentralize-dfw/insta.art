@@ -1,0 +1,1839 @@
+[
+  {
+    "n": 121,
+    "phase": 5,
+    "works": [
+      "duality",
+      "materialize"
+    ],
+    "assets": [
+      "A1945",
+      "A2063"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G2",
+    "title_en": "Two faces emerge from very different fields.",
+    "caption_en": "duality of the angelic summarization places a tilted face above a loosely painted body. In How to materialize your loneliness, a large face sits inside a much denser field of drawn and painted marks. Both works are from 2019.",
+    "idea_tr": "İki2019bütünü ayrı sayfalar. Başların çevresindeki alanları koru: birinde geniş mavi/yeşil alan, diğerinde yoğun çizgi ve işaretler.",
+    "why_tr": "Zaman bölümünü aynı yıl içinde bile farklı çözümler bulunduğunu göstererek açar; eskiyi tek bir başlangıç basamağına indirgemez.",
+    "order_tr": "120 mekân seçkisinin ardından121 yüzün çevresindeki iki farklı alanı gösterir.122 bu alan ilişkisini iki güncel sahnede yukarı–aşağı düzenine taşır.",
+    "new_value_tr": "P83 Duality–Painstaking çoklu yüz karşılaştırması kaldırıldı; burada aynı2019tarihli iki yüzün çevresindeki yoğunluk farkı var.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T54",
+      "T55"
+    ],
+    "production_tr": "A1945/A2063 gerçek bütünler. Katalogdaki tam başlık ve teknik ayrı eklenir.",
+    "sound": "none",
+    "evidence": "Duality ve Materialize yerel2019kayıtları; her iki master doğrudan açıldı.",
+    "check_tr": "Yorumlar iki yüzün çevresindeki alan yoğunluğunu ayırt ediyor mu?"
+  },
+  {
+    "n": 122,
+    "phase": 5,
+    "works": [
+      "angora",
+      "mandarin"
+    ],
+    "assets": [
+      "A1378",
+      "A0192"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G3",
+    "title_en": "A figure above a house; a figure above a boat.",
+    "caption_en": "The winged figure in Angora Mergvs rises above the roofs. In articulo attack on mandarin, a suspended figure occupies the space above the boat. Height gives the two figures different relationships to the scene below.",
+    "idea_tr": "İki bitmiş bütün ve üst figürlerin aşağıdaki ev/tekneyle ilişkisi. Her crop üst ve alt katmanı beraber korur.",
+    "why_tr": "Mekânsal yerleşimin iki güncel sahnede farklı görev üstlendiğini görünür kılar.",
+    "order_tr": "121 yüzün parçalanmasını gösterdi;122 bütün sahnede yukarı–aşağı ilişkisine çıkar.123 bu dikeyliği eski kuş gövdelerinde karşılaştırır.",
+    "new_value_tr": "Angora süreç veya kapı anlatısı değil; iki güncel eserin üst figür ve alt yerleşim ilişkisi birlikte okunur.",
+    "archive": false,
+    "tactics": [
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A1378/A0192 normal masterlar. Karakteri arka plandan ayırıp yeniden yerleştirme yok.",
+    "sound": "none",
+    "evidence": "Y02 izometrik ev/kanatlı figür; Y09 asılı figür/tekne; yerel masterlar.",
+    "check_tr": "İzleyici iki üst figürün aşağıdaki sahneyle farklı ilişkisini adlandırıyor mu?"
+  },
+  {
+    "n": 123,
+    "phase": 5,
+    "works": [
+      "wings",
+      "greatfire"
+    ],
+    "assets": [
+      "A2451",
+      "A2423"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G2",
+    "title_en": "Several pointed heads; one enlarged head.",
+    "caption_en": "Several narrow heads rise from the spiralling bodies in wings of abyss. The large head in When the Darkness surrounds occupies much more of its single figure. Number and proportion make two different encounters with a face.",
+    "idea_tr": "İki arşiv bütünü ve başlarla gövdeleri birlikte koruyan karşılaştırma. Wings içindeki tüm figürleri tek canlı diye tanımlama.",
+    "why_tr": "Başın sayısı ve gövdeye oranının biçimsel karşıtlığını kurar; iki eserin yalnız yaratık benzerliğiyle eşitlenmesini önler.",
+    "order_tr": "122 üstteki figürlerin sahneyle ilişkisini açtı;123 birden çok dar başla tek büyük başı karşılaştırır.124 yakın yüzey incelemesine daralır.",
+    "new_value_tr": "P71 Wings eskiz/final tekrarı kaldırıldı; farklı iki bitmiş resimde baş sayısı ve baş–gövde oranı karşılaştırması.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A2451/A2423 normal masterlar; tarihler 2019/2020 ayrı künyelerde.",
+    "sound": "none",
+    "evidence": "Wings ve Greatfire audit; masterlar bu tur açıldı.",
+    "check_tr": "Başların sayısı/oranı üzerinden somut fark ifade ediliyor mu?"
+  },
+  {
+    "n": 124,
+    "phase": 5,
+    "works": [
+      "stlop"
+    ],
+    "assets": [
+      "A0134",
+      "A0098",
+      "A0102"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G4",
+    "title_en": "The canvas texture remains visible through the colour.",
+    "caption_en": "Close views of s(t)lop show the canvas texture beneath pale and yellow marks. Broad strokes and finer lines occupy the same painted surface.",
+    "idea_tr": "Bütünün ardından A0098 de ince dikey çizgiler ve A0102 de geniş yuvarlak boya alanı. Görüntüde gerçekten görülen dokuyu göster; pigment kalınlığı ölçüsü iddia etme.",
+    "why_tr": "Pastel figürün dijital renk yüzeyi değil fiziksel boyalı nesne olarak incelenmesini sağlar.",
+    "order_tr": "123 baş ve gövde oranını bütünlerden okuttu;124 boya yüzeyine yaklaşır.125 yeniden gerçek tuval boyutlarına çıkar.",
+    "new_value_tr": "P74 sert parça/yumuşak beden sınırı yerine iki farklı fırça izi ve altındaki görünür dokunun karşılaştırması.",
+    "archive": false,
+    "tactics": [
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A0098 ve A0102 bu tur doğrudan açıldı; fotoğraf keskinliğine yapay doku eklenmez.",
+    "sound": "none",
+    "evidence": "Yerel seçili detay A0098 ve A0102; normal bütün A0134.",
+    "check_tr": "Yüzey/malzeme veya fiziksel eser inceleme sorusu geliyor mu?"
+  },
+  {
+    "n": 125,
+    "phase": 5,
+    "works": [
+      "penguin",
+      "painstaking"
+    ],
+    "assets": [
+      "A2743",
+      "A0025",
+      "A0028",
+      "A0029",
+      "A0027"
+    ],
+    "format": "Carousel",
+    "pillar": "space",
+    "goal": "G4",
+    "title_en": "A square canvas and three smaller panels.",
+    "caption_en": "penguin is not a friend, only a sinner measures 120 × 120 cm. Each panel of Painstaking measures 40 × 30 cm. The diagram compares their canvas dimensions, not a proposed installation.",
+    "idea_tr": "Bütünlerden sonra ölçülü iki boyutlu çizelge:120cm kare ve üç ayrı40×30panel, aynı ölçek. Panel aralığı ölçüsü bilinmediği için toplam kurulum genişliği yazılmaz.",
+    "why_tr": "Telefon ekranında aynı boy görünen iki işin fiziksel yapısı ve boyutu farklıdır; bu fark gerçek inceleme için görünür olur.",
+    "order_tr": "124 dikey parçayı yakın okuttu;125 resimlerin kendilerinin ölçü ilişkisine çıkar.126 kare biçimin sahneyi nasıl taşıdığını açar.",
+    "new_value_tr": "P17 insan yanında ölçek kaydıydı; burada120cm kare ile40cm yüksek üç panelin ölçülü nesne karşılaştırması yapılır.",
+    "archive": true,
+    "tactics": [
+      "T22",
+      "T23"
+    ],
+    "production_tr": "A2743 ve Painstaking masterları. Yeni ölçü diyagramı gerekir; sahte oda veya fiziksel kurulum fotoğrafı üretilmez.",
+    "sound": "none",
+    "evidence": "Penguin 2023 120×120 katalog; Painstaking yayın kaydı her panel40×30.",
+    "check_tr": "Ölçü/çok parçalı yapı hakkında gerçek inceleme sorusu geliyor mu?"
+  },
+  {
+    "n": 126,
+    "phase": 5,
+    "works": [
+      "mandarin"
+    ],
+    "assets": [
+      "A0192"
+    ],
+    "format": "Single",
+    "pillar": "scene",
+    "goal": "G1",
+    "title_en": "A crowded scene inside a square.",
+    "caption_en": "Flying blue forms cross a mountain, a suspended figure and a boat full of small bodies. articulo attack on mandarin holds these different directions inside one square.",
+    "idea_tr": "Bütün kare resim; kapak yazısını eserin üstüne bindirme. Caption üç yönü adlandırır, izleyici görüntüde kendi başına bulabilir.",
+    "why_tr": "80×80 karede çok yönlü hareket hesabın sahne vaadine güçlü ve doğrudan giriş verir.",
+    "order_tr": "125 fiziksel kare ölçüsünü kurdu; 126 aynı biçimin daha küçük bir eserde kalabalığı nasıl taşıdığını gösterir.",
+    "new_value_tr": "Uçan form detayı yerine kare içindeki üç ayrı hareket yönünün bütünü.",
+    "archive": false,
+    "tactics": [
+      "T03",
+      "T23",
+      "T42"
+    ],
+    "production_tr": "A0192 tam eser, renk/siyah zemin korunur.",
+    "sound": "none",
+    "evidence": "Y09; mandarin audit; A0192 açıldı.",
+    "check_tr": "Takipçi dışı erişim varsa bunun yanında resimdeki belirli gruplara ilişkin soru/atfedilen takip kaydet."
+  },
+  {
+    "n": 127,
+    "phase": 5,
+    "works": [
+      "rompi",
+      "gary"
+    ],
+    "assets": [
+      "A1750",
+      "A0298"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G2",
+    "title_en": "Purple bodies, different structures.",
+    "caption_en": "Purple gathers into round masses in gary grills cooper. In il sbagliato di rompipalle, the face and torso are broken by sharper openings and turns. Colour alone does not make them the same kind of body.",
+    "idea_tr": "2019 Rompi ve2026Gary bütünleri ayrı sayfa; son sayfada gövde alanlarını eşboy resim kutularında göster, aynı fiziksel ölçü iddiası yapma.",
+    "why_tr": "Arşivdeki mor/yeşil paletin güncel kullanımla akrabalığını gösterirken görsel farkı da korur.",
+    "order_tr": "126 çoklu sahneden tek gövde yapısına geçiş; 128 tek bedenden iki kişi karşılaşmasına genişler.",
+    "new_value_tr": "Yıllar arası renk tekrarını benzerlik diye kapatmak yerine keskin açıklık/yuvarlak kütle ayrımı.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T54",
+      "T55"
+    ],
+    "production_tr": "A1750/A0298 bütünler; crop masterdan alınır, eser üzerindeki çizgiye yeni kontur eklenmez.",
+    "sound": "none",
+    "evidence": "Rompi audit ve görüntüsü; Y05 Gary.",
+    "check_tr": "Karşılaştırmaya gelen yanıt yalnız renk mi, yoksa gövde yapısındaki farkı adlandırıyor mu?"
+  },
+  {
+    "n": 128,
+    "phase": 5,
+    "works": [
+      "board"
+    ],
+    "assets": [
+      "A0664",
+      "A0676",
+      "A0592"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G3",
+    "title_en": "Two opponents emerge from the same layout.",
+    "caption_en": "An early recorded stage and the completed 7 fam board game. The table stays between the figures while their heads and bodies become more distinct.",
+    "idea_tr": "Erken fiziksel aşama, geç fiziksel aşama, temiz final üç sayfa. Masa/iki karşıt beden ilişkisini aynı kadrajda okut; aşama süresi veya boya sırası icat etme.",
+    "why_tr": "Sahnenin yalnız film referansı olmadığını, mevcut düzenin boya ile farklılaştırıldığını gösterir.",
+    "order_tr": "127 bir bedenin kuruluşunu karşılaştırdı; burada karşılaşmanın iki tarafı aynı alan içinde ayrışıyor. 129 bir figürün el hareketine yaklaşır.",
+    "new_value_tr": "Filmden resme hikâyesi yerine iki figürün erken ve geç aşamadaki ayrışması.",
+    "archive": false,
+    "tactics": [
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A0664/A0676 framed gerçek fotoğraflar, A0592 final. İlk aşama numarasını tarihe çevirme.",
+    "sound": "none",
+    "evidence": "Board audit A0663–0676 fiziksel framed set; Y04.",
+    "check_tr": "Erken–geç karşılaştırması hangi figüre özgü soru doğurdu; kaydetmelerle birlikte yaz."
+  },
+  {
+    "n": 129,
+    "phase": 5,
+    "works": [
+      "greatfire"
+    ],
+    "assets": [
+      "A2423",
+      "A2422"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G3",
+    "title_en": "The small raised hand meets a much larger head.",
+    "caption_en": "A raised hand faces the enlarged head in When the Darkness surrounds, be among those who burn the Great Fire. The closer image shows how the pale marks break up the face.",
+    "idea_tr": "Tam eserin ardından kayıtlı baş detayı A2422; bütünün el/baş oranını crop öncesi görünür tut.",
+    "why_tr": "2020 arşivinde bedenin ölçüsel dengesizliğini açık bir iki-parça ilişkisiyle inceletir.",
+    "order_tr": "128 karşılıklı iki figürden tek figürün kendi el/baş ilişkisine daralır; 130 eldeki ince çalışmanın gerçek hareketine geçer.",
+    "new_value_tr": "Baş ayrıntısını tek başına değil, küçük ele göre resimdeki büyüklüğüyle okutur.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A2423 bütün, A2422 baş detayı; gerçek ölçü katalogdan eklenir.",
+    "sound": "none",
+    "evidence": "Greatfire audit A2422 baş; A2423 doğrudan görüldü.",
+    "check_tr": "İzleyici başın yüzeyini mi el/baş oranını mı soruyor; ikisini ayrı not et."
+  },
+  {
+    "n": 130,
+    "phase": 5,
+    "works": [
+      "sept"
+    ],
+    "assets": [
+      "A0947",
+      "A1036",
+      "A1037"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G3",
+    "title_en": "Small pale marks pick out the fingers and feet.",
+    "caption_en": "Pale nails interrupt the purple hand in sept neuf. Nearby, the bird’s pale feet meet the green top of the stool. These small contact points are easy to miss in the whole painting.",
+    "idea_tr": "Bütün→A1036 el/tırnak→A1037 kuş/ayak. Çok yakındaki beyaz boya izlerini büyüt; eli ve kuşu aynı uzuv gibi eşleme.",
+    "why_tr": "Büyük figür ve kuşun genel yerleşiminden daha yakın bir boya/temas ayrıntısına geçer; gerçek seçili detay kullanılır.",
+    "order_tr": "129 büyük baş ve küçük el oranından130 çok küçük temas noktalarına;131 sandalyelerin bütün içindeki konumuna döner.",
+    "new_value_tr": "P34 açık gövde konturu veya P50 iki oturma yeri değil; parmak uçları ve kuş ayaklarındaki açık boya izleri.",
+    "archive": false,
+    "tactics": [
+      "T03",
+      "T04",
+      "T45",
+      "T46"
+    ],
+    "production_tr": "A1036 ve A1037 bu tur doğrudan açıldı; seçili fiziksel detaylar carousel olarak kullanılır.",
+    "sound": "none",
+    "evidence": "A1036 beyaz tırnaklı el; A1037 kuş ayakları ve tabure; yerel thumbnail incelemesi.",
+    "check_tr": "Tırnak/ayak boya izine ilişkin yeni fark etme veya yüzey sorusu var mı?"
+  },
+  {
+    "n": 131,
+    "phase": 5,
+    "works": [
+      "peachy",
+      "virgil"
+    ],
+    "assets": [
+      "A2156",
+      "A0582"
+    ],
+    "format": "Carousel",
+    "pillar": "space",
+    "goal": "G2",
+    "title_en": "A chair can be present without carrying the body.",
+    "caption_en": "A white outlined chair stands beside the bending figure in the 2019 painting. In Virgil on Virtual Cage, another chair hangs near the edge of the constructed room. Neither image needs a seated figure to make the chair matter.",
+    "idea_tr": "İki bütünün ardından her sandalyenin bulunduğu bölge; küçük başlıklar Beside the body / At the room’s edge. Sandalye yönünü değiştirme.",
+    "why_tr": "2019 ve 2026 arasında gerçek bir nesnenin farklı mekânsal görevi üzerinden bağ kurar.",
+    "order_tr": "130 kullanılan koltuğun çizgisinden sonra burada oturulmayan sandalyeler var; 132 çizimdeki oda/nesne planına geçer.",
+    "new_value_tr": "2019–2026 sandalye yakınlığı, doğrudan etki iddiası değil; konum ve boş kullanım farkı.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A2156/A0582 bütün; sandalyeleri kendi masterından crop, asılı sandalye detayı için A0502 eklenebilir.",
+    "sound": "none",
+    "evidence": "Peachy açılmış thumbnail; Virgil audit köşede sandalye; Y10.",
+    "check_tr": "Yanıtlarda sandalye konumu üzerinden gerçek fark kuruluyor mu; benzerlik kelimesi tek başına yeterli değil."
+  },
+  {
+    "n": 132,
+    "phase": 5,
+    "works": [
+      "lucid"
+    ],
+    "assets": [
+      "A1696",
+      "A1695"
+    ],
+    "format": "Carousel",
+    "pillar": "space",
+    "goal": "G3",
+    "title_en": "The drawing plans the room. The painting changes its weight.",
+    "caption_en": "An undated study and the 2019 painting remixed execution of lucid drowning. The room remains divided into strong planes, while the painted yellow form takes up far more attention.",
+    "idea_tr": "Eskiz ve renkli bütün; son sayfada iki kompozisyonu aynı yönde yan yana. Sarı kütlenin yerini ve duvar düzlemlerini karşılaştır.",
+    "why_tr": "Az kullanılan 2019 eseri, renk kütlesinin oda içindeki ağırlığını gösteren net bir kaynak çifti sağlıyor.",
+    "order_tr": "131 nesnenin mekândaki yerinden132 bütün oda planına genişler;133 çizimin bir figür grubunda görevine döner.",
+    "new_value_tr": "Çizimdeki renk notuyla sonuç arasındaki görsel ağırlık; ara aşama diye fotoğraf uydurma yok.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A1696 tarihsiz çalışma; A1695 2019 final. Beyaz kayıt kenarlığını kontrollü koru, sanal oda ekleme.",
+    "sound": "none",
+    "evidence": "ROOT audit A1695/A1696 farklı aşamalar; iki görüntü bu tur açıldı.",
+    "check_tr": "İzleyici sarı form/duvar düzlemi farkını belirtiyor mu; çalışma tarihini sorarsa bilinmiyor denir."
+  },
+  {
+    "n": 133,
+    "phase": 5,
+    "works": [
+      "gxd",
+      "virgil"
+    ],
+    "assets": [
+      "A1314",
+      "A0428",
+      "A1209",
+      "A0582"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G3",
+    "title_en": "Two groups are already arranged in the line drawings.",
+    "caption_en": "Line drawings from the Gxd and Virgil archives record two different group arrangements. One leans around a carried body; the other gathers beneath a central figure. The finished paintings follow for orientation.",
+    "idea_tr": "İki gerçek çizim önce ayrı sayfalarda, ardından ilgili iki final. Konturun belirlediği grup yönünü oku; taslak tarihlerini kesinleştirme.",
+    "why_tr": "Kaynak sahnelerin adı yerine resimlerin temel grup düzenini boya öncesi iki farklı gerçek kayıtla incelenebilir kılar.",
+    "order_tr": "132 çizimin oda içindeki ağırlığıyla finali karşılaştırdı;133 iki ayrı çizimin figür düzenini karşılaştırır.134 örtüşen bedenleri tek bitmiş resimde izlemeye davet eder.",
+    "new_value_tr": "P47 tek Gxd çizim/final tekrarından farklı: iki gerçek çizimde merkez etrafında toplanma ile taşınan bedene eğilme farkı.",
+    "archive": false,
+    "tactics": [
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A1314 Gxd çizimi ve A0428 Virgil çizimi bu tur doğrudan açıldı; A1209/A0582 final. Referans eser fotoğrafı fiziksel süreç gibi kullanılmaz.",
+    "sound": "none",
+    "evidence": "Yerel audit ve A1314/A0428 doğrudan görüntü kontrolü; Y03/Y10.",
+    "check_tr": "Karşılaştırmada iki çizimin grup yönü farkı anlaşılabiliyor mu?"
+  },
+  {
+    "n": 134,
+    "phase": 5,
+    "works": [
+      "baby"
+    ],
+    "assets": [
+      "A1809"
+    ],
+    "format": "Single",
+    "pillar": "body",
+    "goal": "G1",
+    "title_en": "Try following one arm all the way through.",
+    "caption_en": "Arms cross bodies and hands reappear at the edges of baby rights 101. The red lines take a different route through the same tangle.",
+    "idea_tr": "Tam yatay eser; caption tek izleme görevi verir. Cevabı saklayan dizi, crop ile kopan kol veya yarışma yok.",
+    "why_tr": "2020işinde ilk bakışta anlaşılır görsel düğüm yeni izleyiciyi doğrudan resmin içine getirir.",
+    "order_tr": "133 taşınan bedeni okunur bağlantılarla gösterdi;134 kol çizgisinin daha zor takip edildiği bir karşılık kurar. 135tek açık akışla kontrast oluşturur.",
+    "new_value_tr": "Siyah beyaz bedenler ile ince kırmızı hattın farklı güzergâhlarını birarada izleme görevi.",
+    "archive": true,
+    "tactics": [
+      "T03",
+      "T42"
+    ],
+    "production_tr": "A1809 tam eser; görsel üzerine yapay kırmızı hat ekleme.",
+    "sound": "none",
+    "evidence": "Baby audit; A1809 thumbnail doğrudan açıldı.",
+    "check_tr": "Yorumlarda belirli el/kol veya kırmızı hat sorusu var mı; takipçi dışı erişimle birlikte raporla."
+  },
+  {
+    "n": 135,
+    "phase": 5,
+    "works": [
+      "wall",
+      "mandarin"
+    ],
+    "assets": [
+      "A0258",
+      "A0192"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G1",
+    "title_en": "Repeated marks fill a plate; repeated bodies fill a boat.",
+    "caption_en": "Yellow marks gather inside the plate in walls of perception. Small repeated bodies gather along the boat in articulo attack on mandarin. Repetition makes two very different kinds of crowding.",
+    "idea_tr": "İki bütün ardından tabak ve tekne bölgeleri. Sarı parçaları insan veya belirli madde diye adlandırma; biçimsel tekrar farkını görünür tut.",
+    "why_tr": "Aynı ressamın küçük tekrarlarla doluluk kurmasını iki farklı nesne ve sahnede inceletir.",
+    "order_tr": "134 birbirine geçen bedenlerden135 tekrarlanan küçük birimlere;136 bir merkez nesnenin iki bedeni ayırmasına geçer.",
+    "new_value_tr": "P15/P57 ağızdan kaba akışın tekrarı değil; iki eserde bir alanı dolduran farklı birimlerin karşılaştırması.",
+    "archive": false,
+    "tactics": [
+      "T03",
+      "T42",
+      "T23"
+    ],
+    "production_tr": "A0258/A0192 normal masterlarından bütün ve gerekli crop. Eserler yeni kolajda birleşmez.",
+    "sound": "none",
+    "evidence": "Y13 sarı kümeler/tabak; Y09 tekne/küçük bedenler; iki master doğrudan görüldü.",
+    "check_tr": "Yanıtlarda tekrarın iki farklı görevine dair somut gözlem var mı?"
+  },
+  {
+    "n": 136,
+    "phase": 5,
+    "works": [
+      "transhumanism",
+      "virgil"
+    ],
+    "assets": [
+      "A2213",
+      "A0582"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G2",
+    "title_en": "Different devices between bodies.",
+    "caption_en": "A dark mechanical form separates pink and yellow bodies in the 2019 painting. In Virgil on Virtual Cage, white room lines surround a group instead. Objects and structures organise the encounter in different ways.",
+    "idea_tr": "2019 bütün,2026bütün; üçüncü sayfa merkez nesne ile çevreleyen çizgiyi ayrı göster. Tablo üzerindeki yazıları tarihsel eserin parçası olarak koru.",
+    "why_tr": "Arşivdeki teknoloji motifini güncel mekânın aynısı saymadan ayırır; pratiğin tek kategoriye kapanmamasını sağlar.",
+    "order_tr": "135bedeni nesneye bağladı;136nesneyle ayrılan bedenler ve çizgiyle çevrelenen grup farkı.137çizgilerin evdeki görevini açacak.",
+    "new_value_tr": "Merkezde ayıran nesne ile çevreden sınırlayan çizgi arasındaki yapısal fark.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A2213/A0582 gerçek bütün; yeni kolajda iki eseri aynı nesneymiş gibi birleştirme.",
+    "sound": "none",
+    "evidence": "Transhumanism audit ve thumbnail; Y10Virgil.",
+    "check_tr": "İzleyicinin karşılaştırmayı aynı konu yerine farklı yerleşim olarak okuyup okumadığına bak."
+  },
+  {
+    "n": 137,
+    "phase": 5,
+    "works": [
+      "angora",
+      "gary"
+    ],
+    "assets": [
+      "A1378",
+      "A0298"
+    ],
+    "format": "Carousel",
+    "pillar": "space",
+    "goal": "G3",
+    "title_en": "Warm colour moves from figure to background.",
+    "caption_en": "Angora Mergvs places a warm-coloured figure over blue architecture. gary grills cooper gives much of its warm orange colour to the surrounding field instead. The figure and its background divide colour differently.",
+    "idea_tr": "İki bütün ayrı sayfa, son sayfada sıcak alanların figürde mi zeminde mi bulunduğunu kısa iki etiketle göster. Rengi dijital değiştirme.",
+    "why_tr": "Güncel işler arasındaki ortak renk enerjisinin tek bir sabit palet dağılımına bağlı olmadığını gösterir.",
+    "order_tr": "136 merkez nesne/çevreleyen çizgi farkından137 figür/zemin renk farkına;138 yoğun işaretli2019yüzeyine geçilir.",
+    "new_value_tr": "Angora aşama/ev rotası yerine iki tamamlanmış resimde sıcak rengin görev değiştirmesi.",
+    "archive": false,
+    "tactics": [
+      "T54",
+      "T55"
+    ],
+    "production_tr": "A1378/A0298 gerçek normal bütünler; karşılaştırmada beyaz dengesi veya doygunluk oynanmaz.",
+    "sound": "none",
+    "evidence": "Y02 sıcak figür/mavi yapı;Y05 sıcak sarı-turuncu zemin/mor-yeşil gövde.",
+    "check_tr": "Rengin hangi alana verildiği üzerinden resme özgü soru veya devam ilgisi oluşuyor mu?"
+  },
+  {
+    "n": 138,
+    "phase": 5,
+    "works": [
+      "materialize"
+    ],
+    "assets": [
+      "A2063"
+    ],
+    "format": "Carousel",
+    "pillar": "space",
+    "goal": "G3",
+    "title_en": "The face has a painted border of its own.",
+    "caption_en": "A broad curved outline surrounds the large face on the left of How to materialize your loneliness. Inside it, the eyes and mouth are crossed by finer coloured lines; outside it, the marks become more densely layered.",
+    "idea_tr": "İlk sayfa bütün. Sonraki sayfada büyük sol başın geniş dış çevresi ve daha ince iç çizgiler aynı crop içinde kalır. Yeni bir çizgi overlayi ekleme.",
+    "why_tr": "2019işini genel iki yüz tanıtımından farklı olarak kalın/dar hat ayrımıyla yeniden inceletir.",
+    "order_tr": "137 iki eserde renk alanının görevini değiştirdi;138 tek yüz içinde çizgi kalınlığının farkını açar.139 giysinin gövdeye verdiği ikinci sınırı getirir.",
+    "new_value_tr": "P103 iki uçtaki yüzler yerine yalnız sol büyük yüzün kalın çevresi ve içerideki ince çizgiler arasındaki fark.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T42"
+    ],
+    "production_tr": "A2063 masterdan bir yakın crop üretilecek; yüzün dış çevresi bütünüyle korunur.",
+    "sound": "none",
+    "evidence": "A2063 doğrudan açıldı; kalın kavisli yüz çevresi ve ince renkli iç çizgiler görünür.",
+    "check_tr": "Kalın dış sınır ve ince iç çizgilere ilişkin somut gözlem var mı?"
+  },
+  {
+    "n": 139,
+    "phase": 5,
+    "works": [
+      "gary",
+      "wall"
+    ],
+    "assets": [
+      "A0298",
+      "A0258"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G3",
+    "title_en": "Clothing gives the body another outline.",
+    "caption_en": "The pale collar spreads across the shoulders in gary grills cooper. The dark jacket in walls of perception makes sharper edges around the chest. Clothing adds another shape to each painted body.",
+    "idea_tr": "İki bütün, omuz/yaka/göğüs alanlarını içeren crop. Puro, kibrit, ızgara veya ağız akışını bu kartın ana bilgisi yapma.",
+    "why_tr": "Bedeni yalnız kas veya yüz parçalarıyla değil, çevresindeki giysi geometrisiyle inceletir.",
+    "order_tr": "138 yoğun çizgili yüzlerden139 giysinin belirlediği dış sınıra;140 iki eski bedenin baş yönüne geçer.",
+    "new_value_tr": "P20/P48 el ve nesneleri yerine açık yaka ile koyu ceketin gövdeyi çerçeveleme farkı.",
+    "archive": false,
+    "tactics": [
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A0298/A0258 whole ve master crop. Giysinin markası/kişinin rolü hakkında çıkarım yok.",
+    "sound": "none",
+    "evidence": "Doğrudan açılan Gary ve Wall masterlarında açık yaka/koyu ceket görünür.",
+    "check_tr": "İzleyici giysi çizgisinin beden biçimine katkısını söylüyor mu?"
+  },
+  {
+    "n": 140,
+    "phase": 5,
+    "works": [
+      "unemployed",
+      "morbid"
+    ],
+    "assets": [
+      "A2388",
+      "A2182"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G2",
+    "title_en": "A sharp mouth and a nearly closed face.",
+    "caption_en": "The teeth of cute but unemployed cartoon figure are prominent against the red field. In morbid forebodings triggered by childish landscape, the small dark face sits above a larger rounded body. The two heads direct attention differently.",
+    "idea_tr": "2020 ve 2019 bütünler; baş–gövde oranı korunmuş yakınlıklar. Daha eskiyi daha az gelişmiş diye adlandırma.",
+    "why_tr": "İki organik bedenin benzer gövde birimlerine rağmen yüzü farklı görünür kıldığını kanıtlar.",
+    "order_tr": "139 giysi sınırından140 başın görünürlüğüne;141 boya yüzeyinin en küçük kayıt işaretine çıkar.",
+    "new_value_tr": "P19 Unemployed bütün/dişli karakter tanıtımı değil; Morbid ile başın gövdedeki görsel ağırlık farkı.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T55"
+    ],
+    "production_tr": "A2388 noeffect ve A2182 normal master. PENGUIN 2023 farklı iş; onun görseli kullanılmaz.",
+    "sound": "none",
+    "evidence": "Unemployed ve Morbid audit; her iki master bu tur açıldı.",
+    "check_tr": "Yorumlar iki başın görünürlük farkına mı, sadece canavar benzerliğine mi dayanıyor?"
+  },
+  {
+    "n": 141,
+    "phase": 5,
+    "works": [
+      "sept"
+    ],
+    "assets": [
+      "A0947",
+      "A1034"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G4",
+    "title_en": "The signed corner belongs to the painted surface.",
+    "caption_en": "The lower corner of sept neuf carries a dark painted signature over the green field. The closer image shows the marks within the texture of the surface, followed by the whole work for orientation.",
+    "idea_tr": "İmza detayı A1034 ve bütün A0947. İmzayı fontla yeniden oluşturma; görünmeyen tarih veya yazıyı kesin okuyormuş gibi ekleme.",
+    "why_tr": "Dijital görüntüyü gerçek boyalı yüzey olarak incelemeye küçük ama somut bir belge sağlar.",
+    "order_tr": "140 figürün başından141 resmin en kenardaki gerçek boya izine;142 yeniden boya aşamalarına dönülür.",
+    "new_value_tr": "P50 figür/kuş koltuk ilişkisi değil; fiziksel imza ve tuval dokusunun yakın kaydı.",
+    "archive": false,
+    "tactics": [
+      "T23",
+      "T56"
+    ],
+    "production_tr": "A1034 bu tur açıldı: yeşil yüzey ve sağ alt koyu imza. Başka bir eserin imzası değil.",
+    "sound": "none",
+    "evidence": "Sept seçili detay A1034; A0947 normal master.",
+    "check_tr": "Yüzey, imza veya fiziksel esere ilişkin gerçek soru var mı; okunamayan yazıya yorum ekleniyor mu?"
+  },
+  {
+    "n": 142,
+    "phase": 5,
+    "works": [
+      "ciao"
+    ],
+    "assets": [
+      "A1717",
+      "A1903"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G3",
+    "title_en": "Blue and white shapes keep the two bodies apart.",
+    "caption_en": "A recorded intermediate stage and the final ciao capo, sono squalo. Compare the blue and white shapes around the two figures against the red ground.",
+    "idea_tr": "İleri renkli aşamaA1717ilefinalA1903aynı yönde; değiştiği açıkça görülen mavi/beyaz sınırlarını karşılaştır, zaman aralığı söyleme.",
+    "why_tr": "2020işini bitmiş bütünün tekrarı yerine gerçek ara aşamadan inceletir.",
+    "order_tr": "141iki ayrı yükseklik verdi;142yan yana iki bedenin renklerle ayrılmasını gösterir.143panelle ayrılmış yüzlere bağlanır.",
+    "new_value_tr": "Önceki siyah konturluA1718aşamasından farklı: ileri renkli aşamada figür sınırlarının karşılaştırması.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T54",
+      "T55"
+    ],
+    "production_tr": "A1717 intermediateundated;A1903 final 2020. Aynı aşama veya aynı çekim diye sunma.",
+    "sound": "none",
+    "evidence": "Ciaoaudit eski aşamalar1716→1718→1717→final1903.",
+    "check_tr": "Aşama farkına özgü sorular veya kaydetmeler var mı; bitmiş eserin tarihiyle ara fotoğraf tarihini ayır."
+  },
+  {
+    "n": 143,
+    "phase": 5,
+    "works": [
+      "painstaking",
+      "gary"
+    ],
+    "assets": [
+      "A0025",
+      "A0298"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G2",
+    "title_en": "How much body surrounds a face?",
+    "caption_en": "Painstaking keeps the encounter close to three heads. gary grills cooper gives its face shoulders, hands and a larger body within the same painting. The amount around the face changes what can be read with it.",
+    "idea_tr": "Tam triptik ve tam Gary; başları crop yaparak eşitleme. Birinde dar yüz alanı, diğerinde bedene açılan alan görünür kalsın.",
+    "why_tr": "Hesabın yüz/beden seçkisinde aynı figür temasının farklı resim kapsamlarını açıklığa kavuşturur.",
+    "order_tr": "142 iki bedenin renk sınırlarından143 yüz çevresinde ne kadar beden gösterildiğine;144 büyük/küçük grup eskizine geçer.",
+    "new_value_tr": "P56 panel/ölçü tekrarı değil; yüz çevresindeki resim kapsamının iki eser arasındaki farkı.",
+    "archive": false,
+    "tactics": [
+      "T22",
+      "T23"
+    ],
+    "production_tr": "A0025/A0298 bütünler. Panel cropu ve ek ölçü infografiği yok.",
+    "sound": "none",
+    "evidence": "Y01 üç baş;Y05 önden gövde,eller,ızgara. Normal masterlar.",
+    "check_tr": "Karşılaştırmada izleyici yüz dışındaki beden bilgisinin farkını ifade ediyor mu?"
+  },
+  {
+    "n": 144,
+    "phase": 5,
+    "works": [
+      "good"
+    ],
+    "assets": [
+      "A0004",
+      "A2014"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G2",
+    "title_en": "The small figures survive a much larger change.",
+    "caption_en": "An undated study from the good people helping bad ones archive, followed by the 2019 painting. The small figures below remain a distinct group while the large body above takes a different form.",
+    "idea_tr": "Eskizi ve finali bütün koru; alttaki küçük grup konumunu ayrı son sayfada yan yana göster.",
+    "why_tr": "Sürekliliği bütün biçimin aynı kalması olarak değil, grup konumunun korunması üzerinden tanımlar.",
+    "order_tr": "143ayrı panellerin düzeninden144tek sahnedeki büyük/küçük ayrımına;145güncelresimde mekânın sınırını açar.",
+    "new_value_tr": "Eskiz/sonuç arasında alt grubun sabit görevi; genel eskizdenboyayadönüşüm değil.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A0004 tarihsizçizim;A2014 final 2019. Çizimi finalkünyesindenayrı kredilendir.",
+    "sound": "none",
+    "evidence": "Goodaudit; A0004 veA2014bu tur açıldı.",
+    "check_tr": "Alttakigrubun sürekliliğini farkeden yorum var mı; çizim tarihini varsayan metin yok mu?"
+  },
+  {
+    "n": 145,
+    "phase": 5,
+    "works": [
+      "virgil"
+    ],
+    "assets": [
+      "A0582",
+      "A0504",
+      "A0505"
+    ],
+    "format": "Carousel",
+    "pillar": "space",
+    "goal": "G3",
+    "title_en": "The room continues above and below the bodies.",
+    "caption_en": "Ceiling lines meet above the group in Virgil on Virtual Cage. Lower down, the floor lines continue around the figures and connect the scene back to its enclosing space.",
+    "idea_tr": "Bütün→tavan/köşe A0504→altgrup/zemin A0505. Baş yerine çizgilerin iki uçta nasıl devam ettiğini göster.",
+    "why_tr": "Geometrinin yalnız dekor değil tüm resme yayılan yapısal ilişki olduğunu inceletir.",
+    "order_tr": "144büyük/küçük beden gruplarından145onları çevreleyen mekâna;146çizgilerden arınmışorganikyüzeyegeçer.",
+    "new_value_tr": "Asılı sandalye yerine tavan–zemin devamı; aynı odayı yeni bir takip rotasıyla okutur.",
+    "archive": false,
+    "tactics": [
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A0582 vehazır A0504/A0505; detaycropunda köşelerin kesilmediğini kontrol et.",
+    "sound": "none",
+    "evidence": "Y10; VirgilseçilidetayA0504tavan,A0505 zemin/grup.",
+    "check_tr": "Soru veya kaydetme tavan/zemin bağına mı ait; figürün kaynakadına tepkiden ayır."
+  },
+  {
+    "n": 146,
+    "phase": 5,
+    "works": [
+      "morbid",
+      "stlop"
+    ],
+    "assets": [
+      "A2182",
+      "A0134"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G2",
+    "title_en": "An organic body can stand out or blend in.",
+    "caption_en": "The dark outlines in morbid forebodings triggered by childish landscape hold the rounded body against the blue and pink ground. In s(t)lop, pale marks let parts of the figure meet the surrounding field more loosely.",
+    "idea_tr": "İki bütün, ardından her işte bir gövde/zemin sınırı. Eski işi daha az gelişmiş diye sıralama.",
+    "why_tr": "2019–2026arasında konturun farklı kuvvetini göstererek zaman bölümünün ayrım hedefini karşılar.",
+    "order_tr": "145 belirgin oda çizgilerini gösterdi;146 bedenin sert ve yumuşak sınırlarına geçer.147 grup sahnelerindeki destek nesnesine döner.",
+    "new_value_tr": "Palet veya yaratık benzerliği değil; dış konturun figürü zeminden ayırma gücü.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A2182 veA0134normalmasterlar; A2182PENGUIN2023değildir.",
+    "sound": "none",
+    "evidence": "Morbid2019audit+thumbnail; Y12figürünzeminekarışması.",
+    "check_tr": "Yanıtlarda şekilbenzerliğinin yanında sınır farkı adlandırılıyor mu?"
+  },
+  {
+    "n": 147,
+    "phase": 5,
+    "works": [
+      "capricorn",
+      "board"
+    ],
+    "assets": [
+      "A1832",
+      "A0592"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G2",
+    "title_en": "A box and a board organise different groups.",
+    "caption_en": "The green box in caprocorn sister sits among three bodies. In 7 fam board game, a diagonal board separates two larger figures and holds a smaller group.",
+    "idea_tr": "2020 ve 2026 bütünleri; ardından geometrik nesnelerin konumlarını gösteren iki crop. Destek ve ayırma görevleri görüntüdeki konumlarından açıklanır.",
+    "why_tr": "Gündelik geometrik nesnenin birden fazlafigürü düzenlemedeki rolünü iki gerçek sahnede kurar.",
+    "order_tr": "146 tek bedenin sınırından147 çoklu beden ve düzenleyici nesneye;148 başka nesnelerin sahneye katkısına geçer.",
+    "new_value_tr": "Capricorn–Virgil mekân ilişkisi yerine yeşil kutu ve satranç tahtasının farklı grup düzenleri.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A1832Capricornnormalfinal;A0592Board; A1833Babyyanlışetiketkullanma.",
+    "sound": "none",
+    "evidence": "Y08yeşilkutu/beden;Y04çaprazmasa/gruplar.",
+    "check_tr": "Nesnenin gruptaki konumuna ilişkin yorum/soru var mı; yalnız ikisinin de geometrik olması düzeyinde mi?"
+  },
+  {
+    "n": 148,
+    "phase": 5,
+    "works": [
+      "wall",
+      "gary"
+    ],
+    "assets": [
+      "A0258",
+      "A0298"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G3",
+    "title_en": "The object changes what the figure seems to be doing.",
+    "caption_en": "A plate receives the yellow stream in walls of perception. A grill stands below the cigar-smoking figure in gary grills cooper. Each object gives the body a different kind of scene.",
+    "idea_tr": "İki bütün ve alt nesnelerin eşleştirmesi; aynı kişi/aynı sahne olduklarını ima etme.",
+    "why_tr": "Nesne detaylarını beden okumayla birleştirir; önceki gönderide kurulannesne ilişkisininiki2026karşılığınısunar.",
+    "order_tr": "147grupları düzenleyennesneden148tekfigürüeylemedahil edennesneye;149gerçekboyamada bizzatbedenin kurulmasına geçer.",
+    "new_value_tr": "135sarırayın,139küçükeylemlerin ayrı gözlemlerini iki eserin sahne kurma farkında birleştirir.",
+    "archive": false,
+    "tactics": [
+      "T23",
+      "T54",
+      "T55"
+    ],
+    "production_tr": "A0258/A0298 bütün, cropsmasterdan. Maddedekimyasal/psikolojik anlamicatetme.",
+    "sound": "none",
+    "evidence": "Y13masa/tabak;Y05ızgara/puro.",
+    "check_tr": "Karşılaştırma iki işten birinin yeniden incelenmesi veya seçki sorusu doğuruyor mu?"
+  },
+  {
+    "n": 149,
+    "phase": 5,
+    "works": [
+      "viperella"
+    ],
+    "assets": [
+      "A2815",
+      "A1772"
+    ],
+    "format": "Reel",
+    "pillar": "body",
+    "goal": "G1",
+    "title_en": "A painted surface becomes another figure.",
+    "caption_en": "The viperella archive records a lighter layer covering an earlier coloured surface before the pink figure develops. This is footage of that painting process, followed by the finished work.",
+    "idea_tr": "Gerçek videodaki örtme, pembe figür ve gölge ilerlemesinden bilgi taşıyan kesitler. Son altı saniyedeki arka yüz bu kurguya alınmaz; finalA1772ile gösterilir.",
+    "why_tr": "Arşivde gerçekbir fiziksel dönüşüm yeni izleyici için görünür eylem sağlar;slayt yerine görüntüde gerçekboyamavar.",
+    "order_tr": "148 nesneyle kurulan eylemden149 ressamın fiziksel boya eylemine;150 üç tarihli beden karşılaştırmasına açılır.",
+    "new_value_tr": "Final figürün yeni cropu değil; alt boyanın örtülmesi ve yeni figürün gerçek yapımı.",
+    "archive": true,
+    "tactics": [
+      "T03",
+      "T04",
+      "T45",
+      "T46"
+    ],
+    "production_tr": "A2815 gerçekişlemsüreçkurgusu; A2812 aynıaile,ikisiniyeniçekimsayma. Kesinyeniin/outkaynakizlenerek; yeniİngilizcesesgerekir.",
+    "sound": "english_voice",
+    "evidence": "VideoauditA2815eskizeminüstüneörtme/pembefigür/gölge;Viperella 2020.",
+    "check_tr": "İzlemedevamıylabirlikteörtme/yeniboya veya finalesersorusu var mı?"
+  },
+  {
+    "n": 150,
+    "phase": 5,
+    "works": [
+      "duality",
+      "penguin",
+      "stlop"
+    ],
+    "assets": [
+      "A1945",
+      "A2743",
+      "A0134"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G2",
+    "title_en": "Three dates, three different edges.",
+    "caption_en": "2019, 2023 and 2026: a blue-green figure, a grey and yellow body, and the pale marks of s(t)lop. In each painting, the edge between the figure and its ground is handled differently.",
+    "idea_tr": "Her tarihe bir bütün sayfa; kapanışta üç sınır cropu. İlerleme veya daha iyiye gidiş iddiası yok.",
+    "why_tr": "Zamanbölümünü2019dan2026ya tekstilöyküsüne indirgemeden üçsomutresim sınırıyla toplar.",
+    "order_tr": "149 tek resmin fiziksel yeniden yapımından150 üç ayrı işin sınır kararına;151 güncel beden seçkisinin kapsamına geçer.",
+    "new_value_tr": "2023 tarihini de dahil eden üç çözüm; yalnız eski/yeni ikiliği değil.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T54",
+      "T55"
+    ],
+    "production_tr": "A1945/A2743/A0134 normalbütünler; tarihlerkatalog 2019/2023/2026.",
+    "sound": "none",
+    "evidence": "Duality/Penguin/STLOPyerelkatalog+audit; açılmışthumbnail",
+    "check_tr": "İzleyiciler üç işarasında somutkontur/zeminfarkı kuruyormu; yaşvekalitesıralaması varsayımı doğuyor mu?"
+  },
+  {
+    "n": 151,
+    "phase": 6,
+    "works": [
+      "painstaking",
+      "gary",
+      "stlop"
+    ],
+    "assets": [
+      "A0025",
+      "A0298",
+      "A0134"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G4",
+    "title_en": "Three ways to build a body.",
+    "caption_en": "Separate panels, rounded masses, and a figure that meets its ground through pale marks. This selection brings together Painstaking, gary grills cooper and s(t)lop around three different ways of constructing a body.",
+    "idea_tr": "Üç bütün ayrı sayfa; başlangıçta tek açık seçki başlığı, sonda eser adları ve boyutları. Her eserin altına yalnız ayrı panel / kütle / figür-zemin farkını yaz.",
+    "why_tr": "Üç güncel işi tek tarz etiketiyle toplamadan, gerçekten incelenebilir üç farklı karar sunar; ilk küçük seçkinin kapsamı belirginleşir.",
+    "order_tr": "150 tarihli farkları gösterdi;151 güncel eserler arasında beden seçkisini kurar.152 bu seçkiye otomatik dahil olmayan arşiv örneğini yanına getirir.",
+    "new_value_tr": "Tek eseri yeniden anlatmak yerine üç eserin seçkiye alınma nedenleri ve aralarındaki farklar birlikte görünür.",
+    "archive": false,
+    "tactics": [
+      "T22",
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A0025/A0298/A0134 normal bütünler; her eserin gerçek künyesi ayrı. Ekrandaki eşboy kutular fiziksel ölçü eşitliği değildir.",
+    "sound": "none",
+    "evidence": "Y01,Y05,Y12 beden/yüz araştırma seçkisi.",
+    "check_tr": "Belirli eser veya bu üçlü seçki için portföy inceleme isteği var mı; carousel erişiminden ayrı kaydet."
+  },
+  {
+    "n": 152,
+    "phase": 6,
+    "works": [
+      "wings",
+      "ciao"
+    ],
+    "assets": [
+      "A2451",
+      "A1903"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G2",
+    "title_en": "Pointed heads do not make the same kind of figure.",
+    "caption_en": "wings of abyss builds its bodies around spirals and several pointed heads. ciao capo, sono squalo stretches two blue and white figures across a red ground. Similar sharp features sit inside very different bodies.",
+    "idea_tr": "İki arşiv bütünü, ardından başla gövdeyi beraber tutan iki crop. Yalnız diş veya gaga yakınlaştırmasıyla benzerliği abartma.",
+    "why_tr": "151 seçkisinin ortak dilini daha eski işlerde sınarken neden her benzer yüzün aynı seçki işi olmadığını gösterir.",
+    "order_tr": "151 güncel beden seçkisinden sonra152 iki arşiv bedeninin açık farkını getirir;153 mekân sütununu yeniden görünür yapar.",
+    "new_value_tr": "Wings eskiz gelişimi veya Ciao renk aşaması değil; baş biçimi ile gövde kuruluşu arasındaki iki farklı ilişki.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A2451 ve A1903 tam arşiv bütünler; tarihler 2019/2020 ayrı.",
+    "sound": "none",
+    "evidence": "Wings ve Ciao audit; iki masterın görsel özellikleri.",
+    "check_tr": "İzleyici yalnız sivri yüz benzerliğini mi, spiral ve uzun gövde farkını mı ifade ediyor?"
+  },
+  {
+    "n": 153,
+    "phase": 6,
+    "works": [
+      "mandarin"
+    ],
+    "assets": [
+      "A0192",
+      "A0137"
+    ],
+    "format": "Carousel",
+    "pillar": "space",
+    "goal": "G3",
+    "title_en": "A small branching shape stands on the mountain.",
+    "caption_en": "A pale branching form sits at the top of the mountain in articulo attack on mandarin. In the closer image, its small scale becomes clear against the broad dark field and sloping pale paint below.",
+    "idea_tr": "Bütün→A0137 dağ tepesi. Detayın bütün içindeki yeri küçük bir konum işaretiyle gösterilebilir; şekle kesin mitolojik kimlik atama.",
+    "why_tr": "Çok kalabalık sahnede önceki tekne/uçuş okumalarından uzakta kalan küçük bir gerçek ayrıntıyı keşfettirir.",
+    "order_tr": "152 birden çok sivri başı karşılaştırdı;153 çok küçük dallanan şekle yaklaşır.154 bütündeki grup düzenlerini üç eserde toplar.",
+    "new_value_tr": "P89 Angora çatı/kanat tekrarı kaldırıldı; Mandarin dağ tepesindeki küçük açık şekil ilk ayrıntı konusu.",
+    "archive": false,
+    "tactics": [
+      "T23",
+      "T54",
+      "T55"
+    ],
+    "production_tr": "A0137 bu tur doğrudan açıldı; A0192 normal bütün. A0137 de görülen şekil yeni çizimle tamamlanmaz.",
+    "sound": "none",
+    "evidence": "Mandarin seçili detay A0137 doğrudan görüntü kontrolü.",
+    "check_tr": "Detayı ilk kez fark ettiğini söyleyen resme özgü yanıt veya soru var mı?"
+  },
+  {
+    "n": 154,
+    "phase": 6,
+    "works": [
+      "gxd",
+      "board",
+      "mandarin"
+    ],
+    "assets": [
+      "A1209",
+      "A0592",
+      "A0192"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G4",
+    "title_en": "Carrying, facing, gathering.",
+    "caption_en": "A carried body, two opposing figures, and a boat filled with smaller bodies. Three paintings organise a group through different actions and positions.",
+    "idea_tr": "Üç işin bütünü: Gxd taşıma, Board karşılaşma, Mandarin tekne grubu. Kaynak sanat tarihini başlığa taşımadan kendi resimlerindeki gerçek grup düzenini okut.",
+    "why_tr": "Sahne seçkisini popüler referans adları yerine incelenebilir figür ilişkileriyle kurar.",
+    "order_tr": "153 iki farklı parçanın temasını gösterdi;154 temas/karşılaşma/toplanma üzerinden ikinci küçük seçkiyi açar.155 erken arşivin farklı grup yapısını ekler.",
+    "new_value_tr": "Üç kaynak hikâyesinin tekrarı değil; sahnenin grup düzenleme fiillerine göre seçilmiş üç bütün.",
+    "archive": false,
+    "tactics": [
+      "T22",
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A1209/A0592/A0192 kendi yerel eserleri; harici referans görseli gerekmez.",
+    "sound": "none",
+    "evidence": "Y03,Y04,Y09 sahne dönüşümü seçkisi; incelenmiş masterlar.",
+    "check_tr": "Hangi eserin veya grup ilişkisinin seçki incelemesine yol açtığını kaydet; üçü eşit ilgi görmüş sayılmaz."
+  },
+  {
+    "n": 155,
+    "phase": 6,
+    "works": [
+      "guard",
+      "virgil"
+    ],
+    "assets": [
+      "A2050",
+      "A0582"
+    ],
+    "format": "Carousel",
+    "pillar": "space",
+    "goal": "G1",
+    "title_en": "The ceiling can do more than enclose a room.",
+    "caption_en": "A thin line descends from the ceiling towards the inverted red figure in guarding holy mountains from malice. The pale ceiling of Virgil on Virtual Cage closes over the group. The upper part of the room has a different role in each painting.",
+    "idea_tr": "İki bütün ve tavanı figürle beraber tutan iki üst alan. Kırmızı figürü neden ters asılmış olduğuna ilişkin hikâye icat etme.",
+    "why_tr": "2019 ve 2026 arasında odanın yalnız renkli fon olmadığını belirli bir tavan ilişkisiyle gösterir.",
+    "order_tr": "154 grup seçkisinin ardından155 grubu çevreleyen üst yapı;156 gerçek kâğıt kılavuzla çizilen mekâna geçer.",
+    "new_value_tr": "P38 Guard bütün tanıtımı yerine eski ve güncel iki eserde tavan çizgisinin farklı işlevi.",
+    "archive": true,
+    "tactics": [
+      "T03",
+      "T23",
+      "T42"
+    ],
+    "production_tr": "A2050/A0582 gerçek bütünlerden crop. Yeni kurulum veya perspektif düzeltmesi yok.",
+    "sound": "none",
+    "evidence": "Bu tur açılan A2050 tavandanineninceçizgi ve Y10beyazçizgilikutu.",
+    "check_tr": "İki tavanın figürlerle ilişkisindeki fark hakkında yorum/soru var mı?"
+  },
+  {
+    "n": 156,
+    "phase": 6,
+    "works": [
+      "mandarin",
+      "virgil"
+    ],
+    "assets": [
+      "A0211",
+      "A0428",
+      "A0192",
+      "A0582"
+    ],
+    "format": "Carousel",
+    "pillar": "space",
+    "goal": "G3",
+    "title_en": "A colour plan and a line drawing record different decisions.",
+    "caption_en": "A colour-noted study from the mandarin archive and a line drawing from the Virgil archive. One records colour choices alongside the shapes; the other makes the group arrangement visible mainly through lines.",
+    "idea_tr": "A0211 notlu renkli çalışma ve A0428 çizim ayrı sayfa; son iki sayfa ilgili bitmiş bütünler. Arşivdeki notları sanatçının yeni açıklaması diye alıntılama.",
+    "why_tr": "Üretim bilgisinin her eserde aynı araçla kaydedilmediğini gösterir; çizimlerin gerçek bilgi görevini karşılaştırır.",
+    "order_tr": "155 tavanın iki resimdeki işlevinden156 bu tip sahnelerin kayıtlı hazırlık araçlarına geçer.157 bitmiş gövdelerin yönünü okur.",
+    "new_value_tr": "P98 kâğıt kılavuz videosu tekrarı kaldırıldı; iki eserin renk notlu çalışma/çizgisel düzen kaydı farklı bilgi sunar.",
+    "archive": false,
+    "tactics": [
+      "T23",
+      "T45",
+      "T46"
+    ],
+    "production_tr": "A0211 renk notlu sketch, A0428 fiziksel çizim; final A0192/A0582. Yeni ses/çekim gerekmez; fotoğraflar carousel kalır.",
+    "sound": "none",
+    "evidence": "Kaynak kalite incelemesinde A0211 renk notlu çalışma olarak doğrulandı; A0428 bu tur açıldı.",
+    "check_tr": "İzleyici hazırlık kaydının iki farklı bilgi türünü ayırıyor mu?"
+  },
+  {
+    "n": 157,
+    "phase": 6,
+    "works": [
+      "peachy",
+      "greatfire"
+    ],
+    "assets": [
+      "A2156",
+      "A2423"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G3",
+    "title_en": "A large torso can pull across the frame or rise through it.",
+    "caption_en": "The long body in victim psycho-logique II reaches across the horizontal painting. The pink body in When the Darkness surrounds rises through a vertical field. Their different directions organise the surrounding space.",
+    "idea_tr": "İki tam eser kendi yatay/dikey oranında. El veya sandalye detayı yerine tüm gövdenin resim alanını hangi yönde doldurduğunu göster.",
+    "why_tr": "2019/2020arşivinde bedenin kompozisyonun formatıyla ilişkisinin değiştiğini somutlaştırır.",
+    "order_tr": "156 bir gövdenin yapımındaki kılavuzdan157 tamamlanmış iki gövdenin ana yönüne;158 üç güncel mekân seçkisine geçer.",
+    "new_value_tr": "P26 bükülen beden/çizgisel sandalye değil; yatay ve dikey iki resimde gövdenin ana yönü.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T55"
+    ],
+    "production_tr": "A2156/A2423 normalbütün; formatları eşit kare cropa zorlamadan sun.",
+    "sound": "none",
+    "evidence": "Peachy yatay master ve Greatfire dikey master bu tur açıldı.",
+    "check_tr": "İzleyici yatay/dikey yönün beden okunmasına katkısını belirtiyor mu?"
+  },
+  {
+    "n": 158,
+    "phase": 6,
+    "works": [
+      "angora",
+      "virgil",
+      "sept"
+    ],
+    "assets": [
+      "A1378",
+      "A0582",
+      "A0947"
+    ],
+    "format": "Carousel",
+    "pillar": "space",
+    "goal": "G4",
+    "title_en": "A house, an enclosure, a room.",
+    "caption_en": "Angora Mergvs gives the scene a house. Virgil on Virtual Cage surrounds a group with white lines; sept neuf places a seated figure and a bird inside a green room. This selection follows three different roles for painted space.",
+    "idea_tr": "Her eser ayrı tam sayfa; kapanışta üç konum cümlesi ve künye. Mekânı tek teknik adla sınıflama; nesnenin var olan konumunu göster.",
+    "why_tr": "Üçüncü küçük seçki, mekân/bellek araştırmasının somut eser kapsamını görünür kılar.",
+    "order_tr": "157 bedenin sandalyeyi aşmasından158 onu barındıran veya çevreleyen üç mekâna genişler.159 grup bedenlere döner; mekân alanı aylarca ayrı bir blokta tutulmaz.",
+    "new_value_tr": "120Angora–Virgil–Capricorn ilişkisine karşı bu güncel üçlüde yerleşik ev / çizgisel çevre / oturma odası farkı.",
+    "archive": false,
+    "tactics": [
+      "T22",
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A1378/A0582/A0947 normal bütün; ev için kişisel hikâye gerekirse yalnız kaynaklı bilgi kullanılır.",
+    "sound": "none",
+    "evidence": "Niş araştırması Mekân/bellekY02,Y10,Y11.",
+    "check_tr": "Seçki, gerçek eser/ölçü veya portföy talebine yol açıyor mu; hangi işten geldiğini kaydet."
+  },
+  {
+    "n": 159,
+    "phase": 6,
+    "works": [
+      "baby",
+      "gxd"
+    ],
+    "assets": [
+      "A1809",
+      "A1209"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G2",
+    "title_en": "Connected bodies, different kinds of contact.",
+    "caption_en": "baby rights 101 joins bodies through overlapping limbs. Gxd is AFK, We banned it gives the group a more identifiable carrying action. Contact makes both scenes, but it does not make the same scene.",
+    "idea_tr": "2020 ve 2026 bütünler; son sayfada taşıyan kol ile çapraz uzuv bölgesini görüntüde açıkça göster. Büyük soyut temalar yerine görülen temas farkına sadık kal.",
+    "why_tr": "Beden karışıklığının tüm işleri aynı okunur hikâyeye dönüştürmediğini açıklar; arşiv/güncel bağını farkıyla kurar.",
+    "order_tr": "158 mekânın çevrelediği gruptan159 grubun kendi bağlarına dönülür.160 tek figürün yüzünü tanımaya indirger.",
+    "new_value_tr": "133 çizim bağlantısı ve134 tek kol izleme görevinden farklı: iki bitmiş sahnede temasın okunabilirlik farkı.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A1809/A1209 tam eser; temas cropunun hangi bütüne ait olduğu her sayfada açık.",
+    "sound": "none",
+    "evidence": "Baby audit;Y03 taşıyan/taşınan figür.",
+    "check_tr": "Yanıtta iki resmin temas farkı anlaşılıyor mu; karmaşıklık genel hükmü yerine somut kol/beden ilişkisi var mı?"
+  },
+  {
+    "n": 160,
+    "phase": 6,
+    "works": [
+      "gary"
+    ],
+    "assets": [
+      "A0298",
+      "A0289"
+    ],
+    "format": "Reel",
+    "pillar": "body",
+    "goal": "G1",
+    "title_en": "What lets this face stay recognisable?",
+    "caption_en": "A face built from several colours still holds a cigar and a steady gaze. This close reading follows the face of gary grills cooper back into the larger painted body.",
+    "idea_tr": "Yeni kaydedilecek İngilizce sunum: sanatçı gerçek resim veya açıkça ekranda gösterilen kendi masterı yanında yüzün göz–ağız–puro ilişkisini işaret eder. Yüz cropundan bütüne tek geçiş; slayt montajı değil gerçek anlatıcı eylemi.",
+    "why_tr": "Hacimsel biçim diline ilk kez gelen kişiye tek okunur yüz sorusu sunar; karakterin adını bilmek gerekmez.",
+    "order_tr": "159 çoklu bedenin zor okunan temasından160 tek yüzün tanınmasına daralır.161 iki eski sahnede figürün mekâna yerleşmesini genişletir.",
+    "new_value_tr": "139 nesne dizisi ve127 mor gövde karşılaştırması yerine yüzü okunur tutan üç yerel işaret.",
+    "archive": false,
+    "tactics": [
+      "T03",
+      "T42",
+      "T43",
+      "T46"
+    ],
+    "production_tr": "A0298/A0289 kaynak görüntüler; hareketli sunum ve İngilizce ses YENİ ÇEKİM GEREKTİRİR. Bu sahne arşivde var sayılmaz; çekim olmadan Reel hazır değildir.",
+    "sound": "english_voice",
+    "evidence": "Y05 ve Gary seçili yüz detayı A0289; anlatı gözlenen biçimin editoryal okuması.",
+    "check_tr": "Takipçi dışı izleme yanında yüzün belirli parçasına soru veya atfedilen takip var mı; yalnız karakter tanıması ayrı."
+  },
+  {
+    "n": 161,
+    "phase": 6,
+    "works": [
+      "lucid",
+      "guard"
+    ],
+    "assets": [
+      "A1695",
+      "A2050"
+    ],
+    "format": "Carousel",
+    "pillar": "space",
+    "goal": "G2",
+    "title_en": "Two rooms tilt the encounter in different directions.",
+    "caption_en": "The room in remixed execution of lucid drowning holds an extended body beside a large yellow form. guarding holy mountains from malice places a hanging red figure opposite a smaller group. Both paintings are from 2019.",
+    "idea_tr": "İki2019bütün; oda köşelerini kesmeden yan yana karşılaştırma ve ayrı sayfalar. Asılı/uzanan bedenlerin farklı yönlerini göster.",
+    "why_tr": "Aynı yılın bile tek mekân çözümü olmadığı görülür; arşivi kronolojik evrim basamağına indirgemez.",
+    "order_tr": "160 tek yüz ayrıntısından161 tüm oda içindeki beden yönlerine açılır.162 tek yüzün görünmesini zorlaştıran başlık/şapkaya döner.",
+    "new_value_tr": "Lucid’in eskiz/final farkı veya Guard’ın tekil tanıtımı değil; aynı tarihli iki mekânsal yön farkı.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A1695/A2050 gerçek bütün; ilk kayıttaki beyaz kenarı eser sınırından ayır.",
+    "sound": "none",
+    "evidence": "Lucid ve Guard2019katalog; bu tur iki master açıldı.",
+    "check_tr": "Aynı yılın iki işine gelen yorumlar gerçek yerleşim farkına mı işaret ediyor?"
+  },
+  {
+    "n": 162,
+    "phase": 6,
+    "works": [
+      "wall"
+    ],
+    "assets": [
+      "A0258"
+    ],
+    "format": "Single",
+    "pillar": "body",
+    "goal": "G3",
+    "title_en": "The hat hides the eyes. The mouth stays open.",
+    "caption_en": "The pale hat crosses the upper face in walls of perception. Below it, the red mouth and yellow stream keep the figure connected to the plate.",
+    "idea_tr": "Bütün görsel; yüzü kapatan yatay şapka çizgisi ile aşağı doğru akışı birlikte göster. Yalnız ağız cropu seçme.",
+    "why_tr": "Yüzün tanınması için her parçanın gösterilmesi gerekmediğini görünen iki unsurla inceletir.",
+    "order_tr": "160Gary açık yüz okuması ve161 mekân aralığından sonra162gizlenen gözler yeni karşılık;163 yuvarlak bedenlerin sınırına geçer.",
+    "new_value_tr": "135 ağız–tabak bağlantısı değil, bu bağlantı sürerken gözlerin şapkayla saklanması.",
+    "archive": false,
+    "tactics": [
+      "T23",
+      "T55"
+    ],
+    "production_tr": "A0258 tam eser; karakterin psikolojisi veya gözsüz olduğu iddiası ekleme.",
+    "sound": "none",
+    "evidence": "Y13 ve açılmış A0258 göz hizasındaki şapka/ağız.",
+    "check_tr": "Yorumlarda gizlenen göz ve görünen ağız ayrımına özgü yeni gözlem var mı?"
+  },
+  {
+    "n": 163,
+    "phase": 6,
+    "works": [
+      "cellular",
+      "unemployed"
+    ],
+    "assets": [
+      "A1862",
+      "A2388"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G2",
+    "title_en": "Rounded parts can gather into very different silhouettes.",
+    "caption_en": "cellular spleens gathers rounded parts above a small vehicle. cute but unemployed cartoon figure pulls similar bulging forms into a more recognisable single character. Both paintings are from 2020.",
+    "idea_tr": "İki bütünün dış sınırını çizmeden görünür bırak; üçüncü sayfada alt destek/ayak bölgelerini karşılaştır.",
+    "why_tr": "Hacimsel bedenin arşivdeki tek biçim olmadığını aynı tarihte iki farklı silüetle gösterir.",
+    "order_tr": "162 yüzün bir parçasını sakladı;163 uzaktan tüm dış sınırı okutuyor.164 bu gövdeyi boyayan gerçek el hareketine geçer.",
+    "new_value_tr": "Gary–Cellular renk kütlesi eşleşmesi yerine iki2020işinde parçalı küme ve tek karakter silüeti.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A1862/A2388 noeffect; dış sınırın yanında orijinal zemin korunur.",
+    "sound": "none",
+    "evidence": "Y06 Cellular; Unemployed audit ve görüntüsü.",
+    "check_tr": "İzleyici parçaların benzerliğinden ayrı olarak iki dış sınırı ayırt ediyor mu?"
+  },
+  {
+    "n": 164,
+    "phase": 6,
+    "works": [
+      "mandarin",
+      "gxd"
+    ],
+    "assets": [
+      "A0192",
+      "A1209"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G4",
+    "title_en": "The same height gives two groups different amounts of room.",
+    "caption_en": "articulo attack on mandarin is 80 × 80 cm; Gxd is AFK, We banned it is 80 × 60 cm. Both paintings are 80 cm high, but their groups occupy a square and a narrower vertical field.",
+    "idea_tr": "Bütünler ve gerçek yüksekliği eşitlenmiş iki boyutlu ölçü karşılaştırması. Karede tekneye yayılan grup ile dikeyde üst üste toplanan grubu görsel olarak göster.",
+    "why_tr": "Sahne seçkisinin fiziksel formatını koleksiyon/portföy incelemesine uygun açık bilgiyle bağlar.",
+    "order_tr": "163 gövde dış sınırından164 tuval sınırına çıkar.165 resmin fiziksel yüzeyindeki sınıra yaklaşır.",
+    "new_value_tr": "P28 kırmızı gövde boyama tekrarı kaldırıldı; iki80cm yüksekliğin farklı genişlikte grup düzenlemesi yeni somut karşılaştırma.",
+    "archive": false,
+    "tactics": [
+      "T03",
+      "T23",
+      "T45",
+      "T46"
+    ],
+    "production_tr": "A0192/A1209 tam masterlar; ölçülü grafik üretilecek. Bu gerçek sergi kurulum fotoğrafı değildir.",
+    "sound": "none",
+    "evidence": "Yerel katalog Mandarin80×80; Gxd80×60(h×w).",
+    "check_tr": "Tuval formatı/ölçü veya belirli eserin fiziksel incelemesi hakkında soru geliyor mu?"
+  },
+  {
+    "n": 165,
+    "phase": 6,
+    "works": [
+      "penguin"
+    ],
+    "assets": [
+      "A2743",
+      "A2744",
+      "A2745"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G3",
+    "title_en": "The grey ground almost enters the figure.",
+    "caption_en": "Grey and beige marks surround and interrupt the body in penguin is not a friend, only a sinner. The closer images show places where its edge becomes hard to separate from the painted ground.",
+    "idea_tr": "Bütün, seçili yakın A2744, fiziksel yüzey A2745; üçü aynı sınırı göstermiyorsa son sayfayı çıkar. Sarı çizgiyi ayrı animasyonla çizme.",
+    "why_tr": "2023işinin ölçek bilgisinden sonra gerçek yüzey ve figür-zemin sınırını incelenebilir kılar.",
+    "order_tr": "164 gövdeye eklenen net kırmızı alandan165 zemine karışan gri sınır;166 başka güncel figürün ağız/çevre farkına geçer.",
+    "new_value_tr": "125 insan yanında ölçekti;165 boya katmanında kaybolan sınır ve sarı çizginin görünen izi.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T54",
+      "T55"
+    ],
+    "production_tr": "A2743/A2744/A2745 normal fiziksel fotoğraflar; 2023katalog.",
+    "sound": "none",
+    "evidence": "Penguin audit seçili yakın/fiziksel yüzey; master açıldı.",
+    "check_tr": "Ölçekten farklı olarak yüzey/kenar/malzeme sorusu geliyor mu?"
+  },
+  {
+    "n": 166,
+    "phase": 6,
+    "works": [
+      "stlop",
+      "wall"
+    ],
+    "assets": [
+      "A0134",
+      "A0258"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G2",
+    "title_en": "Two mouths, two different edges.",
+    "caption_en": "A small red mouth interrupts the pale marks of s(t)lop. In walls of perception, the mouth opens into the yellow stream above the plate. The surrounding forms give these red marks different roles.",
+    "idea_tr": "İki bütün ardından ağızların konumu; cropun çevresindeki boya alanını koru. Bir şeklin iki anlamı diye kesin yorumlama.",
+    "why_tr": "Beden seçkisinde rengin tek başına kimlik olmadığı, çevresindeki ilişkiden görev kazandığı görülür.",
+    "order_tr": "165 geniş gri sınırın ardından166 küçük kırmızı işarete daralır;167 tekrarlanan küçük bedenlerin sahne görevine genişler.",
+    "new_value_tr": "STLOP dikey nesnesi veya Wall şapkası değil; iki ağız çevresindeki farklı bağlantılar.",
+    "archive": false,
+    "tactics": [
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A0134/A0258 masterdan gerekli ağız cropu; efekt veya yeni boya izi yok.",
+    "sound": "none",
+    "evidence": "Y12kırmızı ağız vurgusu;Y13sarı akış; yerel masterlar.",
+    "check_tr": "İki kırmızı biçimin çevre ilişkisini adlandıran somut gözlem var mı?"
+  },
+  {
+    "n": 167,
+    "phase": 6,
+    "works": [
+      "good",
+      "mandarin"
+    ],
+    "assets": [
+      "A2014",
+      "A0192"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G2",
+    "title_en": "Small repeated figures can carry the scene.",
+    "caption_en": "Three small figures stand below the larger form in good people helping bad ones. articulo attack on mandarin gathers many small bodies along the boat. Their repeated shapes establish different kinds of groups.",
+    "idea_tr": "Her bütün ayrı; son sayfada küçük figür sıralarının yerini göster. Eski işte3, Mandarin’de belirsiz sayıya rakam verme.",
+    "why_tr": "Büyük karakter dışındaki küçük figürlerin de pratiğin belirgin unsuru olduğunu gösterir; sahne seçkisini genişletir.",
+    "order_tr": "166 tek küçük yüz işaretinden167 çoklu küçük beden ritmine;168 geniş renkli mekâna geri çıkar.",
+    "new_value_tr": "144 eskiz/sonuçta alt grup sürekliliği yerine2019ve2026da tekrarlı küçük bedenlerin farklı yerleşimi.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A2014/A0192 gerçek bütün; küçük figürleri kompozisyondan koparılmış bağımsız eser gibi sunma.",
+    "sound": "none",
+    "evidence": "Good audit ve açılmışmaster;Y09tekne/küçük bedenler.",
+    "check_tr": "Küçük figürlere dair yorum veya seçki sorusu artıyor mu; büyük karakter tanımasından ayır."
+  },
+  {
+    "n": 168,
+    "phase": 6,
+    "works": [
+      "mandarin",
+      "sept"
+    ],
+    "assets": [
+      "A0192",
+      "A0139",
+      "A0947",
+      "A1038"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G3",
+    "title_en": "Crossed eyes and an empty circle.",
+    "caption_en": "Crosses mark several small faces in articulo attack on mandarin. A pale circle interrupts the much larger face in sept neuf. Neither mark describes a conventional pupil, but each changes how the face is read.",
+    "idea_tr": "İki bütün ve gerçek A0139 küçük yüzler/A1038 göz detayı. X işaretlerini veya beyaz daireyi ölüm/körlük teşhisi diye açıklama.",
+    "why_tr": "Yüzün az bilgiyle nasıl okunabildiğine iki güncel işten somut karşılık verir; tek portre açıklamasını aşar.",
+    "order_tr": "167 küçük bedenlerin tekrarını gösterdi;168 onların yüz işaretlerini başka bir büyük portreyle karşılaştırır.169 bedenin jestine genişler.",
+    "new_value_tr": "P66 Angora renk anlatısı tekrarı kaldırıldı; küçük yüzlerde X ile büyük portrede beyaz göz alanının karşılaştırması.",
+    "archive": false,
+    "tactics": [
+      "T23",
+      "T45",
+      "T46"
+    ],
+    "production_tr": "A0139 ve A1038 bu tur doğrudan açıldı. Fotoğraf carousel; yeni İngilizce ses gerekmiyor.",
+    "sound": "none",
+    "evidence": "Mandarin A0139 X yüzler; Sept A1038 beyaz daire; doğrudan yerel görüntü kontrolü.",
+    "check_tr": "İzleyici iki işaretin farklı yüz ölçeklerinde okunmasını ayırıyor mu?"
+  },
+  {
+    "n": 169,
+    "phase": 6,
+    "works": [
+      "viperella",
+      "greatfire"
+    ],
+    "assets": [
+      "A1772",
+      "A2423"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G2",
+    "title_en": "A raised hand changes with the body around it.",
+    "caption_en": "viperella holds a long, upright gesture beside a narrow figure. In When the Darkness surrounds, be among those who burn the Great Fire, the lifted hand sits beside a heavier head and torso. Both paintings are from 2020.",
+    "idea_tr": "İki bütün, elleri gövdeden koparmadan orta yakınlıkta iki crop. Jestlere selamlama/korku gibi niyet atama.",
+    "why_tr": "Aynı yılın aynı hareket benzerliğinde bile beden ağırlığının farklı sahne etkisi oluşturduğunu gösterir.",
+    "order_tr": "168 geniş renk karşıtlığından169 beden/jest oranına;170 çoklu figürlerin üzerindeki boş alanla ağırlık ilişkisine geçer.",
+    "new_value_tr": "Viperella yapım kaydı ve Greatfire baş detayı yeniden yayınlanmaz; iki bütün arasında el–gövde oranı ilk kez birlikte incelenir.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A1772/A2423 normalbütün; fiziksel boyutlar ayrı künyede.",
+    "sound": "none",
+    "evidence": "Viperella ve Greatfire audit; masterlar bu tur açıldı.",
+    "check_tr": "İzleyici iki jestin gövdeyle ilişkisine dair fark söyleyebiliyor mu?"
+  },
+  {
+    "n": 170,
+    "phase": 6,
+    "works": [
+      "gxd",
+      "mandarin"
+    ],
+    "assets": [
+      "A1209",
+      "A0192",
+      "A0137"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G3",
+    "title_en": "Two dark fields have different surfaces.",
+    "caption_en": "The broad dark area above the Gxd group is comparatively quiet. Around the mountain in articulo attack on mandarin, pale strokes and visible marks interrupt the dark paint. Dark colour does not make the two grounds identical.",
+    "idea_tr": "İki bütün ve koyu arka alanların cropu. MandarinA0137dağ üstü siyah alanı ve Gxdmaster üst alanı; eşit teşhir için fotoğraf keskinliğini yapay artırma.",
+    "why_tr": "Sahne seçkisinde benzer koyu fonun farklı boya ve bakış görevlerine sahip olduğunu gösterir.",
+    "order_tr": "169 iki büyük gövdeyi jestle karşılaştırdı;170 bedenlerden çevre yüzeyine açılır.171 boya izlerinin bedeni birleştirme yönüne döner.",
+    "new_value_tr": "P96 Gxd boş alanın büyüklüğü tekrarı kaldırıldı; iki koyu alandaki farklı boya hareketi karşılaştırması.",
+    "archive": false,
+    "tactics": [
+      "T23",
+      "T50",
+      "T51"
+    ],
+    "production_tr": "A1209/A0192 bütün ve gerçekA0137detay; Gxd üst alanı masterdan crop. Işık/kamera farkını pigment özelliği diye kesinleştirme.",
+    "sound": "none",
+    "evidence": "Y03genişsiyahalan;A0137 doğrudan açılmış koyu zemin/pale izler.",
+    "check_tr": "Yanıtlarda iki koyu yüzeyin resimdeki görünür farkı dile geliyor mu?"
+  },
+  {
+    "n": 171,
+    "phase": 6,
+    "works": [
+      "duality",
+      "penguin"
+    ],
+    "assets": [
+      "A1945",
+      "A2743"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G3",
+    "title_en": "Long marks can connect a face to the rest of the body.",
+    "caption_en": "Dark beard marks descend from the face in duality of the angelic summarization. In the 2023 penguin painting, long pale and yellow strokes continue down through the central body. The vertical marks hold the two figures together differently.",
+    "idea_tr": "İki bütün, yüzün altından gövdeye doğru devam eden çizgileri koruyan iki crop. Penguin şeklini kesin saç/sakal diye etiketleme.",
+    "why_tr": "2019 ve 2023 arasında figürün üst-alt devamını boya yönü üzerinden inceletir; tarihsel süreklilik soyut söz olmaktan çıkar.",
+    "order_tr": "170 grup üzerindeki boşluktan171 tek bedeni birleştiren düşey boya izlerine;172 destekleyen/boş sandalye ilişkisine geçer.",
+    "new_value_tr": "P35 Duality net baş/silinen gövde bütününden farklı;2023işiyle çizgi yönünün bağlayıcı rolü karşılaştırılır.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T55"
+    ],
+    "production_tr": "A1945/A2743 normalbütünler ve mastercrop; rengi veya boya akışını dijital değiştirme.",
+    "sound": "none",
+    "evidence": "Duality/Penguin masterları bu tur açıldı; tarihler 2019/2023 yerel katalog.",
+    "check_tr": "İzleyici iki figürün üstten alta devamını farklı boya izleriyle tarif ediyor mu?"
+  },
+  {
+    "n": 172,
+    "phase": 6,
+    "works": [
+      "materialize",
+      "transhumanism"
+    ],
+    "assets": [
+      "A2063",
+      "A2213"
+    ],
+    "format": "Carousel",
+    "pillar": "space",
+    "goal": "G2",
+    "title_en": "A dense field of marks and a spare blue ground.",
+    "caption_en": "Lines and patches of colour fill much of the space around the figures in How to materialize your loneliness. Century of 0 & 1 / Transhumanism leaves broader blue areas around its central dark form. Both paintings date from 2019.",
+    "idea_tr": "İki2019bütün ayrı sayfa ve yan yana. Büyük yüzleri değil aralarındaki/etrafındaki alanın ne kadar işaret taşıdığını karşılaştır.",
+    "why_tr": "Aynı dönem için tek yüzey yoğunluğu varsayımını kırar; arşivdeki farkı somutlaştırır.",
+    "order_tr": "171 bedeni birleştiren uzun boya izlerinden172 figürler arasındaki yüzey yoğunluğuna;173 fiziksel tuval nesnesine çıkar.",
+    "new_value_tr": "P68 Peachy–Sept sandalye karşılaştırması kaldırıldı; iki2019işinin yoğun işaret alanı/geniş boş mavi alan farkı.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A2063/A2213 normal masterlar; renkleri birbirine benzetmek için yeniden düzenleme yok.",
+    "sound": "none",
+    "evidence": "Materialize ve Transhumanism2019katalog; her iki master bu tur açıldı.",
+    "check_tr": "İzleyici aynı tarihteki iki işin yüzey yoğunluğu farkını adlandırıyor mu?"
+  },
+  {
+    "n": 173,
+    "phase": 6,
+    "works": [
+      "painstaking"
+    ],
+    "assets": [
+      "A0025",
+      "A0028",
+      "A0029",
+      "A0027"
+    ],
+    "format": "Reel",
+    "pillar": "body",
+    "goal": "G4",
+    "title_en": "Three separate canvases make one work.",
+    "caption_en": "Painstaking is one work made of three separate canvases, each 40 × 30 cm. This filmed view shows their edges, gaps and shared left-to-right arrangement.",
+    "idea_tr": "Yeni gerçek çekim: üç panel doğru sırada sabit dururken tek kamera hareketi kenarları, boşlukları ve bütünü gösterir. Fotoğraf panı veya sanal galeri kullanılmaz.",
+    "why_tr": "Birleşik dosyanın gizlediği gerçek panel ayrımını fiziksel eser incelemesi için görünür kılar.",
+    "order_tr": "172 figürler arasındaki boyalı alandan173 gerçek tuval nesnesine çıkar.174 yazının fiziksel yüzeydeki varlığına geçer.",
+    "new_value_tr": "143 yüz çevresindeki resim alanını karşılaştırdı;173 panel kenarı ve aralığının yeni fiziksel kaydını sağlar.",
+    "archive": false,
+    "tactics": [
+      "T22",
+      "T23",
+      "T51"
+    ],
+    "production_tr": "A0025/A0028/A0029/A0027 çekim referansı. YENİ FİZİKSEL ÇEKİM ve kısa İngilizce ses gerekir. Eser erişimi sağlanmadan hazır sayılmaz.",
+    "sound": "english_voice",
+    "evidence": "painstaking-publish-report3panel40×30; fotoğraflar sahnelemenin ölçülü referansı.",
+    "check_tr": "Panel/ölçek/yüzey veya gerçek inceleme isteği geliyor mu; video görüntülenmesiG4sonucu değildir."
+  },
+  {
+    "n": 174,
+    "phase": 6,
+    "works": [
+      "transhumanism"
+    ],
+    "assets": [
+      "A2213"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G3",
+    "title_en": "The words are already in the painting.",
+    "caption_en": "The handwritten words in Century of 0 & 1 / Transhumanism are part of its painted surface. They share the blue ground with two coloured bodies and the dark central form.",
+    "idea_tr": "İlk sayfa eserin bütünü. İkinci ve üçüncü sayfalarda gerçek yüzeydeki NO GENDER ve NO FAMILY IN 21ST CENTURY alanlarından crop. Metinleri fontla tekrar yazıp eserle karıştırma; geri kalan küçük yazıların tamamını okunmuş sayma.",
+    "why_tr": "Görüntüde metinle karşılaşan kişinin onun hangi katmana ait olduğunu bilmesini sağlar; arşivin özgün kayıt niteliğini korur.",
+    "order_tr": "173gerçektuvalkenarıyla nesneyi gösterdi;174gerçekyüzeydeki yazıyı ayırır.175yeniden çizgisel mekâna ve küçük figürlerin yerlerine döner.",
+    "new_value_tr": "P52 merkez mekanik nesne ve iki bedendi; bu kart fiziksel yüzeydeki iki okunabilir yazı alanını kendi dokusuyla inceletir.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T33"
+    ],
+    "production_tr": "A2213 masterdan metin cropu üretilecek. Bütün görüntüdeki özgün yazının imlasını düzeltme veya sansürleme; caption yazının fiziksel katman olduğunu açıklar.",
+    "sound": "none",
+    "evidence": "A2213 bu tur açıldı; belirtilen iki metin alanı okunabilir, audit yazıların eserin fiziksel parçası olduğunu kaydediyor.",
+    "check_tr": "İzleyici yazının dijital caption olmadığını doğru anlıyor mu; metin/yüzey ilişkisi üzerine soru var mı?"
+  },
+  {
+    "n": 175,
+    "phase": 6,
+    "works": [
+      "virgil",
+      "gxd"
+    ],
+    "assets": [
+      "A0582",
+      "A0507",
+      "A1209"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G3",
+    "title_en": "Some hands reach up; another opens across the group.",
+    "caption_en": "Two hands rise above the group in Gxd is AFK, We banned it. In Virgil on Virtual Cage, a pale hand opens outward near the centre. The gestures direct attention through the groups in different ways.",
+    "idea_tr": "İki bütün ardından Gxdüstkolları ve Virgilaçıkeli; her crop sahibinin diğer figürlerle konumunu korur. Jestlere kutsama/yas gibi kesin rol verme.",
+    "why_tr": "Sahne sütununda küçük figür sayısını tekrar etmek yerine açık el hareketlerinin yönünü karşılaştırır.",
+    "order_tr": "174 yazılı sahneden175 sözsüz el yönlerine;176 renkli zemin değişimine geçer.",
+    "new_value_tr": "P39 anafigür/küçük beden ölçeği değil; iki eserde yukarı ve yana açılan el yönlerinin karşılaştırması.",
+    "archive": false,
+    "tactics": [
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A0582/A0507/A1209 gerçek görüntüler. A0499 yaş/çocuk olarak etiketlenmez; bu kartta kullanılmaz.",
+    "sound": "none",
+    "evidence": "Bu tur açılanGxdüstteiki açık el; VirgilA0507merkezde yana açılan açık el.",
+    "check_tr": "Yorumlarda el yönü ve grup içindeki bakış rotası farkı açık mı?"
+  },
+  {
+    "n": 176,
+    "phase": 6,
+    "works": [
+      "ciao"
+    ],
+    "assets": [
+      "A1716",
+      "A1903"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G3",
+    "title_en": "The early ground is not the final ground.",
+    "caption_en": "An undated early stage from the ciao capo, sono squalo archive, followed by the finished 2020 painting. The blue-green underpainting gives way to the red field around the two bodies.",
+    "idea_tr": "A1716 erken mavi-yeşil aşama ile A1903 final: önce yan yana, ardından ayrı sayfalar. Kaydedilmemiş boyama eylemi animasyonla tamamlanmaz.",
+    "why_tr": "Arşivdeki önemli zemin değişimini açık iki kayıtla gösterir.",
+    "order_tr": "175 el yönlerinden176 figürlerin çevresindeki zemin değişimine geçer.177 küçük nesne ve jest ilişkisine döner.",
+    "new_value_tr": "142 ileri renkli figür sınırını gösterdi;176 erken mavi-yeşil alt zemin ile kırmızı final zemin farkını gösterir.",
+    "archive": true,
+    "tactics": [
+      "T23",
+      "T54",
+      "T55"
+    ],
+    "production_tr": "A1716 tarihsiz erken fiziksel aşama;A1903 bitmiş2020eser. Ara fotoğrafın tarihi ayrı kalır.",
+    "sound": "none",
+    "evidence": "Ciaoaudit1716erkenaltboya,1903final; eskiklasör aynıeseraşamaeşlemesi.",
+    "check_tr": "Zemin değişimi hakkında somut soru var mı; erken aşama ayrı bitmiş eser sanılıyor mu?"
+  },
+  {
+    "n": 177,
+    "phase": 6,
+    "works": [
+      "wall",
+      "sept"
+    ],
+    "assets": [
+      "A0258",
+      "A0947"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G3",
+    "title_en": "Small objects give the figures something to do.",
+    "caption_en": "A plate, a fork and a stream of yellow connect the figure to the table in walls of perception. A cigarette held beside the seated figure adds a different small action to sept neuf.",
+    "idea_tr": "İki bütün, ardından el ve nesnelerin yakınlığı. Küçük hareketler beden okumaya bağlanır; iki jestin aynı anlamı taşıdığı söylenmez.",
+    "why_tr": "Son seçki girişlerinden önce iki güncel işin sahne kurma gücünü küçük gündelik nesnelerle görünür kılar.",
+    "order_tr": "176 zemin değişiminden177 figürü eyleme dahil eden nesnelere;178–180 üç ayrı seçki girişine geçilir.",
+    "new_value_tr": "148 Wall–Gary nesnelerini karşılaştırdı; burada tabak/çatal ile sigaranın farklı el ve beden ilişkileri.",
+    "archive": false,
+    "tactics": [
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A0258/A0947 masterlar. Nesne croplarından önce bütün eserler gösterilir.",
+    "sound": "none",
+    "evidence": "Y13masa/tabak;Y11kalkmışsigaralıel; gerçekmasterlar.",
+    "check_tr": "Belirli nesnenin bedenle eylem ilişkisi soruluyor mu; yalnız tanıdık nesne tepkisi ayrı kaydedilir."
+  },
+  {
+    "n": 178,
+    "phase": 6,
+    "works": [
+      "painstaking",
+      "gary",
+      "cellular"
+    ],
+    "assets": [
+      "A0025",
+      "A0298",
+      "A1862"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G4",
+    "title_en": "Selected paintings: faces and rounded bodies.",
+    "caption_en": "Painstaking, gary grills cooper and cellular spleens form this small selection. Separate faces, a rounded single figure and a clustered body offer three distinct constructions, across 2020 and 2026.",
+    "idea_tr": "Beden portföy giriş kartı: üç tam eser ve ayrı künyeler. Son sayfada eser adları, yılları, boyutları ve gerçekten erişilebilir seçki yolu.",
+    "why_tr": "Farklı tarihler ve form çözümleriyle küçük, künyeli bir beden seçkisi oluşturur. Seçim ölçülmüş yüksek erişim iddiasına dayanmıyor.",
+    "order_tr": "151 güncel beden çerçevesini açtı;178 STLOP yerine Cellular2020ile tarihli arşiv bağı ekler.179 ayrı sahne seçkisine geçer.",
+    "new_value_tr": "Serbest karşılaştırmadan künyeli inceleme girişine geçiş. Yeni seçki yolu yoksa yalnız eski görselleri yeniden sıralamak yeterli değildir.",
+    "archive": true,
+    "tactics": [
+      "T14",
+      "T22",
+      "T23",
+      "T54"
+    ],
+    "production_tr": "A0025/A0298/A1862; ayrı gerçek künyeler ve çalışır seçki yolu. Fiziksel müsaitlik veya fiyat varsayımı yok.",
+    "sound": "none",
+    "evidence": "Y01/Y05beden;y06Garyilekaynaklıarşivbağı; yerelkünyeler.",
+    "check_tr": "Gerçek seçki/portföy inceleme talebi veya doğrulanabilir devam ziyareti var mı?"
+  },
+  {
+    "n": 179,
+    "phase": 6,
+    "works": [
+      "gxd",
+      "board",
+      "mandarin"
+    ],
+    "assets": [
+      "A1209",
+      "A0592",
+      "A0192"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G4",
+    "title_en": "Selected paintings: bodies making a scene.",
+    "caption_en": "A carried body, a confrontation across a board and a gathering inside a boat. This selection brings together three paintings through the relationships between their figures.",
+    "idea_tr": "Sahne portföy giriş kartı: her bütün kendi oranında ve aynı sayfada künyesiyle. Son sayfa üç grup ilişkisini ve erişilebilir seçki yolunu verir.",
+    "why_tr": "Sahne pratiğinin tek referanstan ibaret olmadığını üç farklı grup ilişkisiyle incelenebilir kılar.",
+    "order_tr": "178 beden seçkisinden179 bedenler arası eyleme geçer.154te kurulan üçlü bu kez eser bilgileri ve gerçek devam yolu ile incelemeye açılır.180 mekân seçkisini ayrı gösterir.",
+    "new_value_tr": "154 görsel sınıflandırmaydı;179 künyeli portföy girişidir. Gerçek inceleme yolu yoksa bu tekrar bekletilir.",
+    "archive": false,
+    "tactics": [
+      "T14",
+      "T22",
+      "T23"
+    ],
+    "production_tr": "A1209/A0592/A0192; kaynaklı başlık, ölçü, teknik ve çalışır seçki yolu gerekir.",
+    "sound": "none",
+    "evidence": "Y03/Y04/Y09sahneseçkisi; yerelkatalogkünyeleri.",
+    "check_tr": "Hangi esere ilişkin portföy veya proje talebi oluştu? Genel övgü ayrı kayıt."
+  },
+  {
+    "n": 180,
+    "phase": 6,
+    "works": [
+      "angora",
+      "virgil",
+      "capricorn"
+    ],
+    "assets": [
+      "A1378",
+      "A0582",
+      "A1832"
+    ],
+    "format": "Carousel",
+    "pillar": "space",
+    "goal": "G4",
+    "title_en": "Selected paintings: spaces around bodies.",
+    "caption_en": "A house, a white-lined enclosure and a geometric object among three figures. Angora Mergvs, Virgil on Virtual Cage and caprocorn sister form a small selection around the spaces that position bodies.",
+    "idea_tr": "Mekân portföy giriş kartı: iki2026ve bir2020eser, doğru ayrı künyeler. Ev, çizgisel çevre ve geometrik nesnenin bedenle ilişkisini birer cümleyle açıkla.",
+    "why_tr": "Araştırmadaki mekân seçkisini tarihli arşiv karşılığıyla gerçek inceleme paketine dönüştürür. Bu kart pratiğin sonu değil, sonraki döneme açılan giriş olarak tasarlanır.",
+    "order_tr": "179 figürler arası ilişkiden180 onları yerleştiren mekâna çıkar.120deki üçlü burada gerçek seçki bilgisi ve erişim yoluyla kullanılır. Sonraki dönem aynı vaadin yeni eser veya kararlarla devamıdır.",
+    "new_value_tr": "120 karşılaştırmaydı;180 künyeli inceleme girişidir. Yeni inceleme yolu yoksa sırf180sayısını tamamlamak için aynı üçlüyü yeniden yayımlama.",
+    "archive": true,
+    "tactics": [
+      "T14",
+      "T22",
+      "T23"
+    ],
+    "production_tr": "A1378/A0582/A1832 gerçek masterlar. Çalışır seçki yolu hazırlanır; veri yokken kazanan eser veya seri ifadesi kullanılmaz.",
+    "sound": "none",
+    "evidence": "NişmekânseçkisiY02/Y10;arşivY08karşılığı; yerelaudit.",
+    "check_tr": "Mekân seçkisine gerçek devam/inceleme veya belirli eser sorusu var mı?180 gönderinin tamamlanması tek başına başarı değildir."
+  }
+]

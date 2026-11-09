@@ -1,0 +1,70 @@
+[
+  {
+    "n": 11,
+    "severity": "source_claim",
+    "source_evidence": "A0134 bütün ve A0101 hazır detay görsel olarak kontrol edildi. Kırmızı zikzak alanı görülüyor; ağız okuması olası yorumdur, güvenilir anatomik etiket olarak kesinleştirilmemeli. A0096/A0097 bu kırmızı alanı göstermiyor.",
+    "replacements": {
+      "caption_en": "Pale strokes and red marks give the figure different points of definition."
+    }
+  },
+  {
+    "n": 31,
+    "severity": "source_claim_and_wrong_detail",
+    "source_evidence": "A0101 kırmızı zikzak işaretleri ve çevresindeki açık izleri gösterir. Önceki A0096/A0097 gövde ve açık boya detaylarıdır, kırmızı alanı taşımaz. A0134 tüm bağlamı verir.",
+    "replacements": {
+      "assets": [
+        "A0134",
+        "A0101"
+      ],
+      "title_en": "Red marks, pale edges. What changes when one part disappears?",
+      "caption_en": "A closer look at the red marks and the pale strokes around them. Briefly covering this area on a reproduction lets us compare what remains visible.",
+      "idea_tr": "Sanatçı basılı s(t)lop reprodüksiyonunda küçük nötr kartla A0101 ayrıntısında görülen kırmızı zikzak alanını birkaç saniye kapatıp açar. Tek gerçek çekimde çevredeki açık izlerle ilişkisini gösterir; orijinal tuvale müdahale etmez. İşaretlerin anatomik olarak ağız olduğu iddia edilmez.",
+      "new_value_tr": "P011 genel bütün sunumundan kırmızı işaretler ile açık çevre izleri ilişkisine geçiş. Bir alanı geçici kapatma eylemi sabit detaydan farklı bir görme deneyi sunar; sonucu herkes aynı algılıyormuş gibi anlatma.",
+      "production_tr": "YENİ ÇEKİM: A0134 baskısı, nötr küçük kart, üstten/karşıdan telefon ve yeni İngilizce açıklama. A0101 hareketin hedef alanını doğrular. Şimdiki arşivde bu hareketin videosu yok. Kayıt yapılmazsa A0134 bütün ve A0101 hazır detayıyla carousel yedeği kullanılır.",
+      "fallback": {
+        "format": "Carousel",
+        "title_en": "Red marks, pale edges.",
+        "caption_en": "Red marks sit among pale strokes. The full painting and a closer view show how this area relates to the surrounding figure.",
+        "idea_tr": "A0134 bütün ve A0101 hazır detay üzerinden kırmızı işaretlerle açık boya izlerinin ilişkisini göster; ağız etiketi kullanma.",
+        "production_tr": "A0134 ve A0101 özgün arşiv görsellerinden hazırlanacak; sabit fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+        "reason": "Yeni kayıt üretilemezse aynı gözlenebilir soru ve doğrulanmış kaynaklarla mevcut sabit görsel taslağı."
+      }
+    }
+  },
+  {
+    "n": 73,
+    "severity": "wrong_detail",
+    "source_evidence": "A1811 el ve blok köşesi. A1814 iki üst açık yüzü birlikte, A1818 alt figürün belirgin yüzünü, A1829 tek üst beyaz yüz alanını gösteriyor. Hepsi hazır arşiv detayları görsel olarak kontrol edildi.",
+    "replacements": {
+      "assets": [
+        "A1832",
+        "A1814",
+        "A1818"
+      ],
+      "idea_tr": "A1832 bütünüyle bağlamı kur; A1814 hazır detayında iki üst yüzün açık alanını, A1818 hazır detayında alt figürün belirgin göz/burun/ağız izlerini karşılaştır. Her detayın bütündeki yerini belirt.",
+      "production_tr": "Doğrulanmış kaynaklar: A1832 bütün, A1814 iki üst yüz, A1818 alt belirgin yüz. A1811 yüz olmadığı için çıkarıldı. Yeni tahmini master kırpması gerekmez."
+    }
+  },
+  {
+    "n": 78,
+    "severity": "unsupported_anatomical_label",
+    "source_evidence": "A2451 Wings bütününde uzayan sivri başlar ve spiral gövdeler görülüyor; resmin adı görünür kanatların kanıtı değildir. A1378 Angora kanatlı figürü açıkça gösteriyor.",
+    "replacements": {
+      "title_en": "Creatures in two different worlds.",
+      "idea_tr": "2019 Wings ve 2026 Angora bütünleriyle yaratıkların yönü ve mekânla ilişkisini karşılaştır: Wings içinde uzayan başlar/spiral bedenler, Angora içinde ev üstündeki kanatlı figür. İki eserde de kanat bulunduğu söylenmez; iki tarih ayrı gösterilir."
+    }
+  },
+  {
+    "n": 87,
+    "severity": "wrong_detail",
+    "source_evidence": "A1034 yalnız yeşil alan ve imza. A1045 mor gövde, üzerine binen sarı çizgiler, el ve koltuğu gerçekten gösteriyor. Hazır detay görsel olarak kontrol edildi.",
+    "replacements": {
+      "assets": [
+        "A0947",
+        "A1045"
+      ],
+      "idea_tr": "A0947 bütününden A1045 hazır gövde detayına geç; açık sarı çizgilerin mor bedenle üst üste gelmesini, el ve açık koltuk kenarıyla birlikte göster. İki ayrı ayrıntı varmış gibi sunma.",
+      "production_tr": "A0947 bütün ve A1045 hazır ayrıntı kullanılacak. A1034 imzalı yeşil alan olduğu için çıkarıldı. Görünmeyen kıyafet malzemesi veya kimlik iddiası ekleme."
+    }
+  }
+]

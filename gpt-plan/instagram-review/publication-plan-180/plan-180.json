@@ -1,0 +1,2272 @@
+{
+  "schema": "instagram-fourth-leg-180-v3-curatorial-basis",
+  "written_at": "2026-11-04",
+  "status": "research_linked_proposal_not_approved_or_launched",
+  "language": "en",
+  "timezone": "Europe/Paris",
+  "start_date": null,
+  "day_count": 180,
+  "detailed_post_count": 6,
+  "draft_capacity_at_three_per_week": 78,
+  "future_posts_assigned": false,
+  "opening_thesis_en": "Familiar images, altered bodies and spaces.",
+  "opening_argument_tr": "Tanıdık kişisel veya kültürel kaynak ilk karşılaşmayı açar; kütle, kontur ve mekânla yapılan dönüşüm işi sanatçının pratiğine bağlar. Tarihli arşiv, bu dilin tek bir karakter veya referanstan ibaret olmadığını gösterir.",
+  "frequency_basis": "İlk 14 gün için operasyon tercihi; araştırmadan çıkmış optimum değil.",
+  "advertising": {
+    "activation_day": null,
+    "active_budget_eur": 0
+  },
+  "rules": [
+    {
+      "id": "K1",
+      "name": "Kürasyonun başlangıcı: incelenmiş eser ilişkileri",
+      "source": "../../research/02-market/market-yigit-work-map-20261016.md",
+      "finding": "Y02/Y05/Y03/Y04 tanıdık imgenin dönüşümüne açılır; Y06/Y07 güncel kütle/kontur dilinin tarihli arşiv karşılıklarıdır.",
+      "action": "İlk seçkide Angora, Gary, Gxd ve Satranç; arşivde rastgele iki eski iş yerine Cellular ve Ciao.",
+      "reject": "Güçlü video dosyası tek başına açılış seçkisine girmek için yeterli değil.",
+      "status": "eser ilişkisi kaynakta; sıra ve açılış tercihi editoryal öneri"
+    },
+    {
+      "id": "T03",
+      "name": "Kanca = somut vaat ve karşılığı",
+      "source": "../../research/03-tactics/tactics-q03-hooks-20261016.md",
+      "finding": "Açılış vaadi gövdede karşılanmalı; hareket ortası, çelişki veya somut soru içerikle eşleşir.",
+      "action": "Angora açılışı: “That dragon is standing over my childhood home.” Gövde evin sanatçının çocukluk evi olduğunu ve figürün dönüş/tehdit ikiliğini açıklar.",
+      "reject": "“Look at this detail” gibi eserden bağımsız genel kancalar.",
+      "status": "araştırmadan tasarıma aktarım; sonuç ölçülmedi"
+    },
+    {
+      "id": "T42",
+      "name": "Geniş giriş, aynı özgül içerik",
+      "source": "../../research/03-tactics/tactics-q42-answer-20261016.md",
+      "finding": "Gündelik tanınabilir giriş, eserin özgül bilgisini eksiltmeden denenir.",
+      "action": "Çocukluk evi veya albüm kapağı tanınabilir giriş olur; video kendi resmindeki dönüşümü tamamlar.",
+      "reject": "Yalnız karakter/oyun/rap hayranlığı üreten, resme geçmeyen içerik.",
+      "status": "tasarım hipotezi"
+    },
+    {
+      "id": "T43",
+      "name": "Kapak ile oynayan açılış ayrı",
+      "source": "../../research/03-tactics/tactics-q43-answer-20261016.md",
+      "finding": "Kapak seçme, ilk görüntü izlemeyi sürdürme işidir.",
+      "action": "Angora kapağı “A childhood home, revisited”; ilk görüntü doğrudan ev ve figürü gösterir, logo/selamlama yok.",
+      "reject": "İyi kapakla boş açılışı çözülmüş saymak.",
+      "status": "üretim kararı; kapak etkisi ölçülmedi"
+    },
+    {
+      "id": "T04/T46",
+      "name": "Her kesmede bilgi ilerlemesi",
+      "source": "../../research/03-tactics/tactics-q46-answer-20261016.md",
+      "finding": "Görsel değişim yeni bilgiye bağlanır; kesme sayısı veya süre kotası yok.",
+      "action": "Angora: görüntüdeki çelişki → kişisel ev bilgisi → figürün ikili rolü → eserin bütünü. Satranç: gerçek konuşma → iki somut karar → ele alınan resim.",
+      "reject": "Aynı fotoğrafa sırayla yakınlaşma veya her üç saniyede gerekçesiz kesme.",
+      "status": "anlatı tasarımı"
+    },
+    {
+      "id": "T57",
+      "name": "Gönderme nedeni içerikte",
+      "source": "../../research/03-tactics/tactics-q57-answer-20261016.md",
+      "finding": "Kim bunu kime neden gönderir sorusu çağrıdan önce cevaplanır.",
+      "action": "Gxd’nin albüm kapağı–resim bağlantısı müzik ve resimle ilgilenen iki kişi arasında paylaşılabilir bir karşılaşma adayıdır. Angora çocukluk yeri/hafıza ortaklığı açar.",
+      "reject": "Her posta “share/save/follow” komut bloğu eklemek.",
+      "status": "beklenen sosyal kullanım; gerçek DM nedeni bilinmiyor"
+    },
+    {
+      "id": "T23",
+      "name": "Bitmiş eser kendi inceleme işini yapar",
+      "source": "../../research/03-tactics/tactics-q23-answer-20261016.md",
+      "finding": "Eser, süreç ve anlatı farklı sorulara hizmet eder; her post hepsini yapmak zorunda değil.",
+      "action": "Gary tek görsel olarak kendi başına durur. Açılış Reel’inin aynı eserle ikinci sürümü değildir.",
+      "reject": "Video kotası için güçlü tam eseri slayt Reel’e dönüştürmek.",
+      "status": "sunum kararı"
+    },
+    {
+      "id": "T54/T55",
+      "name": "Carousel veya yeniden kullanım için ek değer",
+      "source": "../../research/03-tactics/tactics-q54-answer-20261016.md",
+      "finding": "Her sayfa yeni bilgi/kanıt verir; dosya veya format farkı tek başına yetmez.",
+      "action": "Bir günkü Reel ertesi gün aynı ekranlarla carousel olmaz. Gelecekte karşılaştırma, fiziksel yüzey veya farklı süreç aşaması varsa biçim seçilir.",
+      "reject": "Bütün–detay–bütün içeriğini üç ayrı yayına bölmek.",
+      "status": "yayın öncesi eleme kuralı"
+    },
+    {
+      "id": "T14/T56",
+      "name": "Profil devamı ve bağımsız bölüm",
+      "source": "../../research/03-tactics/tactics-q56-answer-20261016.md",
+      "finding": "Her yayın kendi cevabını verir; takip nedeni ilişkili başka işlerde görünür olmalı.",
+      "action": "Angora kişisel mekân, Gary kütlesel beden, Cellular aynı biçimsel dilin geçmişi. Profilde yalnız bir karakterin videoları değil, tutarlı resim gövdesi görünür.",
+      "reject": "Bir cevabı “part 2” için saklamak veya önceki postu bilmeyeni dışarıda bırakmak.",
+      "status": "profil/seri hipotezi"
+    },
+    {
+      "id": "T17",
+      "name": "Sıklık kapasite ve sonuçla sınanır",
+      "source": "../../research/03-tactics/tactics-q17-answer-20261016.md",
+      "finding": "Günlük kota ve evrensel ideal saat yok.",
+      "action": "İlk 14 gün 1/3/5 ve 8/10/12 günleri. Üç yayın başlangıç denemesi; 180 günün sabit zorunluluğu değil.",
+      "reject": "Eleştiri geldi diye beşten üçe düşürmeyi kanıtlanmış optimum ilan etmek.",
+      "status": "sınanacak operasyon tercihi"
+    }
+  ],
+  "chapters": [
+    {
+      "days": [
+        1,
+        30
+      ],
+      "title": "Tanıdık imge, kendi resim dili",
+      "question": "Biri bir karakter veya sahne için geldiğinde bu resim pratiğinde kalacak ne bulur?",
+      "current": [
+        "angora",
+        "gary",
+        "gxd",
+        "board"
+      ],
+      "archive": [
+        "cellular",
+        "ciao"
+      ],
+      "argument": "Kişisel/kültürel tanınma giriş oluşturur. Figürün kütle, kontur ve mekân ilişkisiyle değişmesi asıl konu; 2020 işleri bu dilin bugünkü referanslarla sınırlı olmadığını gösterir.",
+      "source_ids": [
+        "Y02",
+        "Y05",
+        "Y03",
+        "Y04",
+        "Y06",
+        "Y07"
+      ]
+    },
+    {
+      "days": [
+        31,
+        60
+      ],
+      "title": "Yüzü tanınır tutan ne?",
+      "question": "Bir yüz parçalanırken onu hâlâ yüz olarak okumayı ne sağlıyor?",
+      "current": [
+        "painstaking",
+        "stlop",
+        "wall",
+        "gary"
+      ],
+      "archive": [
+        "ciao",
+        "duality",
+        "rompi"
+      ],
+      "argument": "Açılışta görülen tanıdıklık artık doğrudan resimsel kuruluş üzerinden ele alınır. Painstaking burada üç yüzü karşılaştıran kendi sorusunu taşır; ilk beş günü dolduran tekrar olmaz.",
+      "source_ids": [
+        "Y01",
+        "Y05",
+        "Y12",
+        "Y13",
+        "Y07"
+      ]
+    },
+    {
+      "days": [
+        61,
+        90
+      ],
+      "title": "Mekân arka plan olmaktan çıkınca",
+      "question": "Ev, kutu, sandalye veya boşluk figürün rolünü nasıl değiştiriyor?",
+      "current": [
+        "angora",
+        "virgil",
+        "sept"
+      ],
+      "archive": [
+        "capricorn"
+      ],
+      "argument": "Mekân/bellek seçkisinin kaynakta zaten kurulmuş bağı kullanılır. Angora’nın kişisel evi, Virgil’in çevreleyen kutusu ve Sept Neuf’ün oturma alanı ayrı çözümler; Capricorn geometrik nesne/beden arşiv karşılığıdır.",
+      "source_ids": [
+        "Y02",
+        "Y10",
+        "Y11",
+        "Y08"
+      ]
+    },
+    {
+      "days": [
+        91,
+        120
+      ],
+      "title": "Aynı sahnede birden fazla beden",
+      "question": "Bakış, taşıma ve karşılaşma ilişkileri hangi figür düzenleriyle yeniden kuruluyor?",
+      "current": [
+        "gxd",
+        "board",
+        "virgil",
+        "mandarin"
+      ],
+      "archive": [
+        "baby",
+        "ciao"
+      ],
+      "argument": "Tek figür/yüzden ilişkili bedenlere geçilir. Aynı kültürel kaynağı yeniden anlatmak yerine her eserin farklı grup ilişkisi gösterilir. Baby Rights eskizi bu soruya gerçek bir çizim karşılığı sağlar.",
+      "source_ids": [
+        "Y03",
+        "Y04",
+        "Y09",
+        "Y10",
+        "Y07"
+      ]
+    },
+    {
+      "days": [
+        121,
+        150
+      ],
+      "title": "Arşivle görülen süreklilik ve fark",
+      "question": "2020 ile 2026 arasında kütle ve konturda neler korunmuş, neler farklılaşmış?",
+      "current": [
+        "gary",
+        "stlop",
+        "painstaking"
+      ],
+      "archive": [
+        "cellular",
+        "ciao"
+      ],
+      "argument": "Pazar araştırmasının açık biçimsel eşleştirmeleri kullanılır. Aynı anda yeni dönemmiş gibi sunmadan, oval kütle/beden ve keskin kontur farkları gösterilir. İki iş arasındaki ilişki sanatçının doğrulanmamış niyetine çevrilmez.",
+      "source_ids": [
+        "Y05",
+        "Y12",
+        "Y01",
+        "Y06",
+        "Y07"
+      ]
+    },
+    {
+      "days": [
+        151,
+        180
+      ],
+      "title": "İlgili devam üreten sorunun yeni karşılığı",
+      "question": "İlgi tek bir karakterde mi kaldı, farklı işlere taşınabildi mi?",
+      "current": [
+        "sept",
+        "virgil",
+        "wall",
+        "painstaking"
+      ],
+      "archive": [
+        "capricorn",
+        "cellular",
+        "ciao"
+      ],
+      "argument": "Gerçek sonuçlara göre önceki iki güçlü inceleme sorusu seçilir. Veri yoksa mekân ve beden seçkilerinden birer yeni kanıt kullanılır; “en çok sevilenler” veya kazananlar uydurulmaz.",
+      "source_ids": [
+        "Y11",
+        "Y10",
+        "Y13",
+        "Y01",
+        "Y08",
+        "Y06",
+        "Y07"
+      ]
+    }
+  ],
+  "held_out_candidates": [
+    {
+      "work": "painstaking",
+      "decision": "Gün 31–60 beden/yüz seçkisine ayrıldı.",
+      "reason": "Açılışta tanıdık kültürel/kişisel kaynağın dönüşümünü gösteren başka işler var; üç yüzün kendi resimsel sorusu ikinci bölümde daha belirgin. Bu eser zayıf olduğu için değil, açılış önermesi farklı olduğu için ilk 14 güne alınmadı.",
+      "source": "../../research/02-market/market-yigit-work-map-20261016.md"
+    },
+    {
+      "work": "capricorn",
+      "decision": "Gün 61–90 mekân/beden arşiv karşılığına ayrıldı.",
+      "reason": "İyi boyama videosu var; fakat açılışın kişisel/kültürel kaynak rotasına dair açık bir anlatı dayanağı yok. Araştırma bunu Virgil’in çevreleyici mekânıyla arşiv karşılığı olarak eşleştiriyor.",
+      "source": "../../research/02-market/market-yigit-work-map-20261016.md"
+    },
+    {
+      "work": "baby",
+      "decision": "Gün 91–120 çoklu beden seçkisine ayrıldı.",
+      "reason": "Eskiz güçlü, ama sırf eski çizim kotası için açılışa konmuyor. Birden çok bedenin birbirine geçmesi daha sonraki grubun sorusuna somut karşılık veriyor.",
+      "source": "../../research/02-market/market-niche-framework-20261016.md"
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "timezone": "Europe/Paris",
+      "status": "detailed_proposal",
+      "potential_slot": true,
+      "post_id": "V3-P01",
+      "task": "That dragon is standing over my childhood home.",
+      "time": "19:00"
+    },
+    {
+      "day": 2,
+      "timezone": "Europe/Paris",
+      "status": "no_feed_post",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "Üretim, gerçek yanıt, ölçüm. Zorunlu Story yok.",
+      "time": null
+    },
+    {
+      "day": 3,
+      "timezone": "Europe/Paris",
+      "status": "detailed_proposal",
+      "potential_slot": true,
+      "post_id": "V3-P02",
+      "task": "gary grills cooper",
+      "time": "19:00"
+    },
+    {
+      "day": 4,
+      "timezone": "Europe/Paris",
+      "status": "no_feed_post",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "Üretim, gerçek yanıt, ölçüm. Zorunlu Story yok.",
+      "time": null
+    },
+    {
+      "day": 5,
+      "timezone": "Europe/Paris",
+      "status": "detailed_proposal",
+      "potential_slot": true,
+      "post_id": "V3-P03",
+      "task": "cellular spleens",
+      "time": "19:00"
+    },
+    {
+      "day": 6,
+      "timezone": "Europe/Paris",
+      "status": "no_feed_post",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "Üretim, gerçek yanıt, ölçüm. Zorunlu Story yok.",
+      "time": null
+    },
+    {
+      "day": 7,
+      "timezone": "Europe/Paris",
+      "status": "no_feed_post",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "Üretim, gerçek yanıt, ölçüm. Zorunlu Story yok.",
+      "time": null
+    },
+    {
+      "day": 8,
+      "timezone": "Europe/Paris",
+      "status": "detailed_proposal",
+      "potential_slot": true,
+      "post_id": "V3-P04",
+      "task": "An album cover started this painting.",
+      "time": "19:00"
+    },
+    {
+      "day": 9,
+      "timezone": "Europe/Paris",
+      "status": "no_feed_post",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "Üretim, gerçek yanıt, ölçüm. Zorunlu Story yok.",
+      "time": null
+    },
+    {
+      "day": 10,
+      "timezone": "Europe/Paris",
+      "status": "detailed_proposal",
+      "potential_slot": true,
+      "post_id": "V3-P05",
+      "task": "What would you leave alone?",
+      "time": "19:00"
+    },
+    {
+      "day": 11,
+      "timezone": "Europe/Paris",
+      "status": "no_feed_post",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "Üretim, gerçek yanıt, ölçüm. Zorunlu Story yok.",
+      "time": null
+    },
+    {
+      "day": 12,
+      "timezone": "Europe/Paris",
+      "status": "detailed_proposal",
+      "potential_slot": true,
+      "post_id": "V3-P06",
+      "task": "A drawing stage from the ciao capo archive",
+      "time": "19:00"
+    },
+    {
+      "day": 13,
+      "timezone": "Europe/Paris",
+      "status": "no_feed_post",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "Üretim, gerçek yanıt, ölçüm. Zorunlu Story yok.",
+      "time": null
+    },
+    {
+      "day": 14,
+      "timezone": "Europe/Paris",
+      "status": "no_feed_post",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "Üretim, gerçek yanıt, ölçüm. Zorunlu Story yok.",
+      "time": null
+    },
+    {
+      "day": 15,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 16,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 17,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 18,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 19,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 20,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 21,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 22,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 23,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 24,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 25,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 26,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 27,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 28,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 29,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 30,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 31,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 32,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 33,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 34,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 35,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 36,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 37,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 38,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 39,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 40,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 41,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 42,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 43,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 44,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 45,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 46,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 47,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 48,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 49,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 50,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 51,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 52,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 53,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 54,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 55,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 56,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 57,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 58,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 59,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 60,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 61,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 62,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 63,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 64,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 65,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 66,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 67,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 68,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 69,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 70,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 71,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 72,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 73,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 74,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 75,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 76,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 77,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 78,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 79,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 80,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 81,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 82,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 83,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 84,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 85,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 86,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 87,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 88,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 89,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 90,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 91,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 92,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 93,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 94,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 95,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 96,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 97,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 98,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 99,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 100,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 101,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 102,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 103,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 104,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 105,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 106,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 107,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 108,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 109,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 110,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 111,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 112,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 113,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 114,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 115,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 116,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 117,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 118,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 119,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 120,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 121,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 122,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 123,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 124,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 125,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 126,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 127,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 128,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 129,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 130,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 131,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 132,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 133,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 134,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 135,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 136,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 137,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 138,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 139,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 140,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 141,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 142,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 143,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 144,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 145,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 146,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 147,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 148,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 149,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 150,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 151,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 152,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 153,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 154,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 155,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 156,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 157,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 158,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 159,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 160,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 161,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 162,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 163,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 164,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 165,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 166,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 167,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 168,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 169,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 170,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 171,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 172,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 173,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 174,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 175,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 176,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 177,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 178,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 179,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": false,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    },
+    {
+      "day": 180,
+      "timezone": "Europe/Paris",
+      "status": "editorial_slot_unassigned",
+      "potential_slot": true,
+      "post_id": null,
+      "task": "İlgili bölümün seçki havuzundan; yeni değer, kaynak ve önceki yayın farkı yazılınca atanır."
+    }
+  ],
+  "posts": [
+    {
+      "id": "V3-P01",
+      "day": 1,
+      "week": 1,
+      "time": "19:00",
+      "timezone": "Europe/Paris",
+      "format": "Reel",
+      "work_key": "angora",
+      "title_en": "That dragon is standing over my childhood home.",
+      "asset_ids": [
+        "A1632",
+        "A1378"
+      ],
+      "caption_en": "That is the house I grew up in. I put a childhood character above it, and the house began to take over the painting.\n\nA familiar visitor can carry a feeling of return, but also a sense of threat.\n\nAngora Mergvs\n2026 · Acrylic on canvas\n120 × 100 cm (h × w).",
+      "why_this_post_tr": "İlk karşılaşmada herkesin anlayabileceği bir çelişki var: gerçek kişisel mekân + tanıdık kurmaca figür. Cevap sanatçının kendi anlatımında mevcut. Profilin vaadi bir karakter videosu değil, tanıdık imgeleri dönüştüren resim pratiği.",
+      "content_kind": "artist_story",
+      "status": "research_linked_editorial_draft_not_rendered",
+      "music_id": "M0",
+      "duration_seconds": 38,
+      "music_window_seconds": null,
+      "is_archive": false,
+      "actual_published_at": null,
+      "rendered_media_path": null,
+      "story": "İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.",
+      "story_text_en": "The house in this painting is the house I grew up in.",
+      "measurement_ages_hours": [
+        24,
+        72,
+        168
+      ],
+      "editorial_language": "en",
+      "source_selection_status": "kesin üretim kartı",
+      "edit_tr": "Gerçek konuşma videosu + ev/figürün en fazla iki sabit bindirmesi. Kişisel anlatı taşıyan İngilizce ses metni; slayt sırası yok.",
+      "source_video_id": "A1632",
+      "shots": [
+        {
+          "out_start": 0,
+          "out_end": 4,
+          "asset_id": "A1632",
+          "source_in": 196,
+          "source_out": 200,
+          "speed": 1,
+          "on_screen_en": "That dragon is standing over my childhood home.",
+          "edit_tr": "Gerçek sanatçı konuşması ilk karede. İngilizce anlatım birinci tekil taslak; aşağıdaki kaynak kapsamına bağlı."
+        },
+        {
+          "out_start": 4,
+          "out_end": 14,
+          "asset_id": "A1632",
+          "source_in": 200,
+          "source_out": 210,
+          "speed": 1,
+          "on_screen_en": "",
+          "edit_tr": "Video devam ederken A1378 tam eser tek bindirme; sanatçı görüntüsünü tümüyle yok etme."
+        },
+        {
+          "out_start": 14,
+          "out_end": 24,
+          "asset_id": "A1632",
+          "source_in": 308,
+          "source_out": 318,
+          "speed": 1,
+          "on_screen_en": "The house began to take over.",
+          "edit_tr": "Anı anlatımındaki gerçek el hareketleri; ikinci bir fotoğraf dizisi ekleme."
+        },
+        {
+          "out_start": 24,
+          "out_end": 34,
+          "asset_id": "A1632",
+          "source_in": 616,
+          "source_out": 626,
+          "speed": 1,
+          "on_screen_en": "A visitor, or a threat?",
+          "edit_tr": "A1378 içinde figürü işaretleyen tek sabit crop/bindirme; gerçek konuşma arka planda sürer."
+        },
+        {
+          "out_start": 34,
+          "out_end": 38,
+          "asset_id": "A1378",
+          "source_in": null,
+          "source_out": null,
+          "speed": 1,
+          "on_screen_en": "Angora Mergvs · 2026",
+          "edit_tr": "Tek bitmiş eser kapanışı."
+        }
+      ],
+      "voiceover_en": "That dragon is standing over the house I grew up in. I wanted the house to be a main character too. The visitor is familiar, but its arrival feels uncertain: is it coming back, or coming to attack?",
+      "cover_en": "A CHILDHOOD HOME, REVISITED",
+      "sound_tr": "Müzik yok. Yeni İngilizce ses kaydı metni, mevcut Türkçe anlatının 196–224 / 308–364 / 616–644 sn bölümlerinden yaratıcı uyarlama. Henüz kayıt alınmadı; onaylanmış birebir çeviri veya eski videoda söylenmiş İngilizce söz değil.",
+      "detailed": true,
+      "export_tr": "Video 1080 × 1920; kaynak yataysa el, tablo ve kişi ilişkisini koruyan yatay pencereyi dikey alana yerleştir. Ekranı doldurmak uğruna tabloyu kesme. Statik yayın 1080 × 1350 sRGB JPEG; oranı koru.",
+      "caption_status": "İngilizce yayın taslağı. Ses metni olan iki Reel’de İngilizce kayıt gerekli; henüz medya export edilmedi.",
+      "alt_text_en": "Angora Mergvs shows an orange winged figure above a blue house. The artist speaks about the childhood home and character behind the painting.",
+      "assets": [
+        {
+          "id": "A1632",
+          "path": "../../assets/source-notes/A1632.html",
+          "relative_path": "RESİMLER DETAY/KOPSTAL/kopstal_9_charizard angora/video/angora_mergvs.mp4",
+          "kind": "video"
+        },
+        {
+          "id": "A1378",
+          "path": "../../assets/art/A1378.webp",
+          "relative_path": "../../assets/art/A1378.webp",
+          "kind": "image"
+        }
+      ],
+      "caption_file": "captions-v3/GUN-001.txt",
+      "curatorial_role": "Kişisel olarak tanıdık bir yer ile kültürel olarak tanıdık bir figürün aynı resimde yeniden kurulması.",
+      "work_source_id": "Y02",
+      "tactics": [
+        "K1",
+        "T03",
+        "T42",
+        "T43",
+        "T04/T46",
+        "T57",
+        "T14/T56"
+      ],
+      "social_use_hypothesis": "Çocukluk mekânları veya ortak bir kültürel karakterle bağ kuran birinin benzer bağı olan arkadaşına göndermesi.",
+      "proof": "A1632 anlatımı 196–224 sn evin kişisel bağını; 308–364 sn hatıra ve mekânı; 616–644 sn ziyaret/tehdit ikiliğini içeriyor. Görsel A1378.",
+      "primary_result": "Esere özgü inceleme/soru; gerçek takip atfı görünüyorsa ayrı kayıt. Reel izlenmesi veya karaktere tepki tek başına sanat pratiğine ilgi sayılmaz.",
+      "rejection_test": "İlk vaat kaynakta doğrulanmıyorsa veya gövdede karşılanmıyorsa yayınlanmaz. Formatı doldurmak için başka eserle rastgele ikame edilmez."
+    },
+    {
+      "id": "V3-P02",
+      "day": 3,
+      "week": 1,
+      "time": "19:00",
+      "timezone": "Europe/Paris",
+      "format": "Single",
+      "work_key": "gary",
+      "title_en": "gary grills cooper",
+      "asset_ids": [
+        "A0298"
+      ],
+      "caption_en": "A familiar figure, rebuilt in coloured masses.\n\ngary grills cooper\n2026 · Acrylic on canvas\n75 × 55 cm (h × w).",
+      "curatorial_role": "Angora’nın kişisel mekânına karşılık kamusal/tanınabilir bir figür. Resmin kendi kütlesel beden dili görünür olur; Angora’nın ikinci formatı değildir.",
+      "why_this_post_tr": "Angora’nın kişisel mekânına karşılık kamusal/tanınabilir bir figür. Resmin kendi kütlesel beden dili görünür olur; Angora’nın ikinci formatı değildir.",
+      "work_source_id": "Y05",
+      "tactics": [
+        "K1",
+        "T23",
+        "T14/T56"
+      ],
+      "status": "research_linked_editorial_draft_not_rendered",
+      "is_archive": false,
+      "duration_seconds": 0,
+      "music_id": "M0",
+      "sound_tr": "Müzik yok. Bu yayın bitmiş eseri inceleme alanı taşır.",
+      "edit_tr": "Tam eser, kendi oranı ve doğru künye. Efekt veya video hareketi gerekmez.",
+      "story": "Story zorunlu değil.",
+      "social_use_hypothesis": null,
+      "source_selection_status": "seçki ve kaynak dayanağı yazıldı; yayın sonucu bilinmiyor",
+      "detailed": true,
+      "actual_published_at": null,
+      "rendered_media_path": null,
+      "proof": "Y05 kartı: kültürel kaynak ve renkli oval kütlelerle kurulan beden. A0298 bütün; A0289 yüz ve A0291 gövde alternatif inceleme kaynakları, ayrı yayın olarak atanmadı.",
+      "alt_text_en": "gary grills cooper, 2026: a cigar-smoking figure built from purple, green and pale rounded masses against an orange field, with a grill below.",
+      "assets": [
+        {
+          "id": "A0298",
+          "path": "../../assets/art/A0298.webp",
+          "relative_path": "../../assets/art/A0298.webp",
+          "kind": "image"
+        }
+      ],
+      "caption_file": "captions-v3/GUN-003.txt",
+      "measurement_ages_hours": [
+        24,
+        72,
+        168
+      ],
+      "primary_result": "Esere özgü inceleme/soru; gerçek takip atfı görünüyorsa ayrı kayıt. Reel izlenmesi veya karaktere tepki tek başına sanat pratiğine ilgi sayılmaz.",
+      "rejection_test": "İlk vaat kaynakta doğrulanmıyorsa veya gövdede karşılanmıyorsa yayınlanmaz. Formatı doldurmak için başka eserle rastgele ikame edilmez."
+    },
+    {
+      "id": "V3-P03",
+      "day": 5,
+      "week": 1,
+      "time": "19:00",
+      "timezone": "Europe/Paris",
+      "format": "Single",
+      "work_key": "cellular",
+      "title_en": "cellular spleens",
+      "asset_ids": [
+        "A1862"
+      ],
+      "caption_en": "From the Milan archive, 2020.\n\ncellular spleens\n2020 · Acrylic on canvas\n120 × 100 cm (h × w).",
+      "curatorial_role": "Kaynak haritada Y06 doğrudan Gary ve s(t)lop ile oval/kütlesel beden üzerinden eşleştirilmiş. Popüler figürün ilerisinde, aynı resim dilinin 2020’deki karşılığı görülür.",
+      "why_this_post_tr": "Kaynak haritada Y06 doğrudan Gary ve s(t)lop ile oval/kütlesel beden üzerinden eşleştirilmiş. Popüler figürün ilerisinde, aynı resim dilinin 2020’deki karşılığı görülür.",
+      "work_source_id": "Y06",
+      "tactics": [
+        "K1",
+        "T23",
+        "T14/T56"
+      ],
+      "status": "research_linked_editorial_draft_not_rendered",
+      "is_archive": true,
+      "duration_seconds": 0,
+      "music_id": "M0",
+      "sound_tr": "Müzik yok. Bu yayın bitmiş eseri inceleme alanı taşır.",
+      "edit_tr": "Tam eser, kendi oranı ve doğru künye. Efekt veya video hareketi gerekmez.",
+      "story": "Story zorunlu değil.",
+      "social_use_hypothesis": null,
+      "source_selection_status": "seçki ve kaynak dayanağı yazıldı; yayın sonucu bilinmiyor",
+      "detailed": true,
+      "actual_published_at": null,
+      "rendered_media_path": null,
+      "proof": "Y06–Y05/Y12 biçimsel arşiv bağı araştırmada açık. Bu, 2026 eserlerinin nasıl etkilenerek yapıldığına dair sanatçı niyeti iddiası değil.",
+      "alt_text_en": "cellular spleens, 2020: a large clustered body of rounded organic forms and eyes above a small vehicle on a pale ground.",
+      "assets": [
+        {
+          "id": "A1862",
+          "path": "../../assets/art/A1862.webp",
+          "relative_path": "../../assets/art/A1862.webp",
+          "kind": "image"
+        }
+      ],
+      "caption_file": "captions-v3/GUN-005.txt",
+      "measurement_ages_hours": [
+        24,
+        72,
+        168
+      ],
+      "primary_result": "Esere özgü inceleme/soru; gerçek takip atfı görünüyorsa ayrı kayıt. Reel izlenmesi veya karaktere tepki tek başına sanat pratiğine ilgi sayılmaz.",
+      "rejection_test": "İlk vaat kaynakta doğrulanmıyorsa veya gövdede karşılanmıyorsa yayınlanmaz. Formatı doldurmak için başka eserle rastgele ikame edilmez."
+    },
+    {
+      "id": "V3-P04",
+      "day": 8,
+      "week": 2,
+      "time": "19:00",
+      "timezone": "Europe/Paris",
+      "format": "Reel",
+      "work_key": "gxd",
+      "title_en": "An album cover started this painting.",
+      "cover_en": "FROM AN ALBUM COVER TO A PAINTING",
+      "asset_ids": [
+        "A1340",
+        "A1209"
+      ],
+      "caption_en": "An album cover was part of the route into this painting. It led back to an older composition, and into a different group of bodies.\n\nGxd is AFK, We banned it\n2026 · Acrylic on canvas\n80 × 60 cm (h × w).",
+      "curatorial_role": "Angora’daki kişisel kaynak bu kez paylaşılan kültürel kaynakla karşılaşır. Tanıdık imgeyi yeniden kurma fikri başka eserde tamamlanır.",
+      "why_this_post_tr": "İlk haftanın vaadini farklı bir kültürel karşılaşmaya taşır. Aynı evi/karakteri tekrar göstermez. Albüm kapağından bedensel grup düzenine geçişin gerçek sanatçı anlatısı var.",
+      "work_source_id": "Y03",
+      "tactics": [
+        "K1",
+        "T03",
+        "T42",
+        "T43",
+        "T57",
+        "T14/T56"
+      ],
+      "social_use_hypothesis": "Müzik ve resimle ilgilenen iki kişi arasında bir kaynağın başka disipline geçişini paylaşma.",
+      "proof": "A1340 yaklaşık 56–196 sn: tarihsel kompozisyon, albüm kapağı ve kendi resmine giden yol. Y03 kartı: yeniden kurulan tarihsel düzen ve taşıyıcı bedenler.",
+      "voiceover_en": "An album cover was part of how I arrived at this painting. It led me back to an older composition. I rebuilt the scene through different bodies: the carrier, the weight being carried, and the hands opening above them.",
+      "sound_tr": "Müzik yok. Mevcut Türkçe anlatıya dayanan yeni İngilizce ses taslağı; kayıt alınmadı. Kaynaktaki özel isimler otomatik dökümden aynen aktarılmaz.",
+      "duration_seconds": 28,
+      "music_id": "M0",
+      "edit_tr": "Sanatçı videosu ve kendi resminin tek bindirmesi. Genel slayt/zoom dizisi yok; ses anlatısı kaynak ile kendi grup düzeni arasındaki bağı tamamlar.",
+      "shots": [
+        {
+          "out_start": 0,
+          "out_end": 3,
+          "asset_id": "A1340",
+          "source_in": 140,
+          "source_out": 143,
+          "speed": 1,
+          "on_screen_en": "An album cover started this painting.",
+          "edit_tr": "Gerçek sanatçı görüntüsü açılışta; kendi A1209 eserini aynı kadrajda görünür kıl."
+        },
+        {
+          "out_start": 3,
+          "out_end": 11,
+          "asset_id": "A1340",
+          "source_in": 143,
+          "source_out": 151,
+          "speed": 1,
+          "on_screen_en": "A reference led to another reference.",
+          "edit_tr": "Anlatıcı hareketi sürer. İngilizce ses özgün resme giden yolu anlatır; yalnız referans isimlerini sıralama."
+        },
+        {
+          "out_start": 11,
+          "out_end": 21,
+          "asset_id": "A1340",
+          "source_in": 196,
+          "source_out": 206,
+          "speed": 1,
+          "on_screen_en": "Then the bodies changed.",
+          "edit_tr": "A1209 kendi eserini bindir; taşıyan/taşınan grup yeni bilgi olur."
+        },
+        {
+          "out_start": 21,
+          "out_end": 25,
+          "asset_id": "A1340",
+          "source_in": 206,
+          "source_out": 210,
+          "speed": 1,
+          "on_screen_en": "The group holds the scene.",
+          "edit_tr": "Kendi resmindeki el ve taşıma ilişkisini aynı sabit görsel içinde açık tut."
+        },
+        {
+          "out_start": 25,
+          "out_end": 28,
+          "asset_id": "A1209",
+          "source_in": null,
+          "source_out": null,
+          "speed": 1,
+          "on_screen_en": "Gxd is AFK, We banned it · 2026",
+          "edit_tr": "Tek bitmiş eser kapanışı."
+        }
+      ],
+      "is_archive": false,
+      "story": "İsteğe bağlı tek soru: kaynakla resim arasında ne değişti? Reel’in cevabını saklama.",
+      "story_text_en": "A reference is a way into the painting. The bodies make it another scene.",
+      "status": "research_linked_editorial_draft_not_rendered",
+      "actual_published_at": null,
+      "rendered_media_path": null,
+      "detailed": true,
+      "source_selection_status": "kesin kaynak, kurgu ve anlatım taslağı",
+      "alt_text_en": "The artist talks about Gxd is AFK, We banned it. The painting shows a connected group of bodies, a carrier and upward-opening hands beneath a dark field.",
+      "assets": [
+        {
+          "id": "A1340",
+          "path": "../../assets/source-notes/A1340.html",
+          "relative_path": "RESİMLER DETAY/KOPSTAL/kopstal_8_gxd-is-banned/VIDEO/GXDAFK.mp4",
+          "kind": "video"
+        },
+        {
+          "id": "A1209",
+          "path": "../../assets/art/A1209.webp",
+          "relative_path": "../../assets/art/A1209.webp",
+          "kind": "image"
+        }
+      ],
+      "caption_file": "captions-v3/GUN-008.txt",
+      "measurement_ages_hours": [
+        24,
+        72,
+        168
+      ],
+      "primary_result": "Esere özgü inceleme/soru; gerçek takip atfı görünüyorsa ayrı kayıt. Reel izlenmesi veya karaktere tepki tek başına sanat pratiğine ilgi sayılmaz.",
+      "rejection_test": "İlk vaat kaynakta doğrulanmıyorsa veya gövdede karşılanmıyorsa yayınlanmaz. Formatı doldurmak için başka eserle rastgele ikame edilmez."
+    },
+    {
+      "id": "V3-P05",
+      "day": 10,
+      "week": 2,
+      "time": "19:00",
+      "timezone": "Europe/Paris",
+      "format": "Reel",
+      "work_key": "board",
+      "title_en": "What would you leave alone?",
+      "asset_ids": [
+        "A0620",
+        "A0592"
+      ],
+      "caption_en": "The pieces could become darker. The background was already working.\n\nA studio conversation from working on 7 fam board game.\n\n7 fam board game\n2026 · Acrylic on canvas\n80 × 100 cm (h × w).",
+      "why_this_post_tr": "Gxd sözlü kaynak hikâyesinden sonra gerçek stüdyo etkileşimi gelir. İkinci kez albüm/kaynak açıklaması yapılmaz. Aynı tanıdık sahne sorusuna bu kez hangi resimsel parçanın değişeceği ve hangisinin korunacağı üzerinden bakılır.",
+      "content_kind": "studio_conversation",
+      "status": "research_linked_editorial_draft_not_rendered",
+      "music_id": "M0",
+      "duration_seconds": 28,
+      "music_window_seconds": null,
+      "is_archive": false,
+      "actual_published_at": null,
+      "rendered_media_path": null,
+      "story": "İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.",
+      "story_text_en": "One thing to change. One thing to leave alone.",
+      "measurement_ages_hours": [
+        24,
+        72,
+        168
+      ],
+      "editorial_language": "en",
+      "source_selection_status": "kesin üretim kartı",
+      "edit_tr": "Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.",
+      "source_video_id": "A0620",
+      "shots": [
+        {
+          "out_start": 0,
+          "out_end": 3,
+          "asset_id": "A0620",
+          "source_in": 56,
+          "source_out": 59,
+          "speed": 1,
+          "on_screen_en": "What would you leave alone?",
+          "edit_tr": "Tablonun başındaki gerçek konuşmadan aç. Bu İngilizce cümle editoryal soru; birebir alıntı değil."
+        },
+        {
+          "out_start": 3,
+          "out_end": 12,
+          "asset_id": "A0620",
+          "source_in": 59,
+          "source_out": 68,
+          "speed": 1,
+          "on_screen_en": "Darken the pieces.",
+          "edit_tr": "Çekimdeki el ve tablo ilişkisi. Türkçe konuşma yerine aşağıdaki İngilizce anlatım."
+        },
+        {
+          "out_start": 12,
+          "out_end": 18,
+          "asset_id": "A0620",
+          "source_in": 71,
+          "source_out": 77,
+          "speed": 1,
+          "on_screen_en": "Leave the background.",
+          "edit_tr": "Sohbetin gerçek iki kararına dayanan kısa özet; sahte anlaşmazlık ekleme."
+        },
+        {
+          "out_start": 18,
+          "out_end": 24,
+          "asset_id": "A0592",
+          "source_in": null,
+          "source_out": null,
+          "speed": 1,
+          "on_screen_en": "The painting under discussion",
+          "edit_tr": "Tamamlanmış esere tek geçiş; konuşma anındaki tuval ile finalin aynı aşama olduğunu iddia etme."
+        },
+        {
+          "out_start": 24,
+          "out_end": 28,
+          "asset_id": "A0620",
+          "source_in": 77,
+          "source_out": 81,
+          "speed": 1,
+          "on_screen_en": "A studio conversation.",
+          "edit_tr": "Tekrar gerçek atölyeye dön. Son cümleyle doğal kapanış."
+        }
+      ],
+      "voiceover_en": "The pieces could become darker. The background was already working. This studio conversation is about deciding which parts of the scene still need to change, and which parts should stay.",
+      "cover_en": "WHAT WOULD YOU LEAVE ALONE?",
+      "sound_tr": "Müzik yok. İngilizce anlatım taslağı sanatçı tarafından kaydedilecek; Türkçe kaynak sesini alıntı/dublaj gibi dudakla eşleme. Anlatım, A0620 28–84 sn dökümündeki konuşmanın editoryal özetidir.",
+      "detailed": true,
+      "export_tr": "Video 1080 × 1920; kaynak yataysa el, tablo ve kişi ilişkisini koruyan yatay pencereyi dikey alana yerleştir. Ekranı doldurmak uğruna tabloyu kesme. Statik yayın 1080 × 1350 sRGB JPEG; oranı koru.",
+      "caption_status": "İngilizce yayın taslağı. Ses metni olan iki Reel’de İngilizce kayıt gerekli; henüz medya export edilmedi.",
+      "alt_text_en": "Two people discuss a painting lying on a studio table. The completed painting shows two facing figures beside a board containing smaller figures.",
+      "assets": [
+        {
+          "id": "A0620",
+          "path": "../../assets/source-notes/A0620.html",
+          "relative_path": "RESİMLER DETAY/KOPSTAL/kopstal_6_7thsela/denizyorumddmp4.mp4",
+          "kind": "video"
+        },
+        {
+          "id": "A0592",
+          "path": "../../assets/art/A0592.webp",
+          "relative_path": "../../assets/art/A0592.webp",
+          "kind": "image"
+        }
+      ],
+      "caption_file": "captions-v3/GUN-010.txt",
+      "curatorial_role": "Tanıdık sinema sahnesinin dönüşümünü, stüdyodaki gerçek karar konuşması üzerinden gösterir. Konuşma ile tamamlanmış resim arasında görünür bağ kurar.",
+      "work_source_id": "Y04",
+      "tactics": [
+        "K1",
+        "T03",
+        "T04/T46",
+        "T23",
+        "T14/T56"
+      ],
+      "proof": "A0620 28–84 sn otomatik dökümü iki gerçek karar içeriyor: piyonları koyulaştırmak ve arka plana dokunmamak. Y04 kartı: tanıdık karşılaşma sahnesinin figür ilişkileriyle yeniden kuruluşu.",
+      "social_use_hypothesis": "Birlikte üretim veya geri bildirim deneyimi olan iki kişinin, neyi değiştirmemek gerektiği üzerine ortak durumu tanıması.",
+      "primary_result": "Esere özgü inceleme/soru; gerçek takip atfı görünüyorsa ayrı kayıt. Reel izlenmesi veya karaktere tepki tek başına sanat pratiğine ilgi sayılmaz.",
+      "rejection_test": "İlk vaat kaynakta doğrulanmıyorsa veya gövdede karşılanmıyorsa yayınlanmaz. Formatı doldurmak için başka eserle rastgele ikame edilmez."
+    },
+    {
+      "id": "V3-P06",
+      "day": 12,
+      "week": 2,
+      "time": "19:00",
+      "timezone": "Europe/Paris",
+      "format": "Single",
+      "work_key": "ciao",
+      "title_en": "A drawing stage from the ciao capo archive",
+      "asset_ids": [
+        "A1718"
+      ],
+      "caption_en": "A recorded drawing stage from the ciao capo, sono squalo archive.\n\nStudy image undated.\nFinal painting: ciao capo, sono squalo, 2020.",
+      "curatorial_role": "İkinci haftanın tarihli arşiv karşılığı: iki bedenin konturla ilişkisi. Araştırmadaki Y07 eski dilin güncel beden/yüz seçkisiyle bağını kuruyor; yeni resmin reklam arası olarak rastgele eklenmedi.",
+      "why_this_post_tr": "İkinci haftanın tarihli arşiv karşılığı: iki bedenin konturla ilişkisi. Araştırmadaki Y07 eski dilin güncel beden/yüz seçkisiyle bağını kuruyor; yeni resmin reklam arası olarak rastgele eklenmedi.",
+      "work_source_id": "Y07",
+      "tactics": [
+        "K1",
+        "T23",
+        "T14/T56"
+      ],
+      "status": "research_linked_editorial_draft_not_rendered",
+      "is_archive": true,
+      "duration_seconds": 0,
+      "music_id": "M0",
+      "sound_tr": "Müzik yok. Bu yayın bitmiş eseri inceleme alanı taşır.",
+      "edit_tr": "Konturlu gerçek ara aşama A1718 tek görsel. Bitmiş eser diye sunma; aşamanın tarihini tamamlanmış işin yılından çıkarma.",
+      "story": "Story zorunlu değil.",
+      "social_use_hypothesis": null,
+      "source_selection_status": "seçki ve kaynak dayanağı yazıldı; yayın sonucu bilinmiyor",
+      "detailed": true,
+      "actual_published_at": null,
+      "rendered_media_path": null,
+      "proof": "Y07 kartı iki mavi/beyaz parçalı gövdeyi ve belirgin dış konturları tanımlar; Y01/Y05 ile kütle/kontur karşılaştırmasını açıkça önerir. Grup ilişkisi seçkisindeki Y03/Y04 yanında eski beden kuruluşuna bir bakış sağlar. Yerel audit A1716 → A1718 → A1717 dizisini aynı işin erken, konturlu ve ileri renkli aşamaları olarak ayırıyor. Burada A1718 seçildi; arşivdeki kontur araştırması doğrudan görünür.",
+      "alt_text_en": "An early drawing stage of ciao capo, sono squalo shows two elongated figures outlined in black against red, pale and dark areas.",
+      "assets": [
+        {
+          "id": "A1718",
+          "path": "../../assets/art/A1718.webp",
+          "relative_path": "../../assets/art/A1718.webp",
+          "kind": "image"
+        }
+      ],
+      "caption_file": "captions-v3/GUN-012.txt",
+      "measurement_ages_hours": [
+        24,
+        72,
+        168
+      ],
+      "primary_result": "Esere özgü inceleme/soru; gerçek takip atfı görünüyorsa ayrı kayıt. Reel izlenmesi veya karaktere tepki tek başına sanat pratiğine ilgi sayılmaz.",
+      "rejection_test": "İlk vaat kaynakta doğrulanmıyorsa veya gövdede karşılanmıyorsa yayınlanmaz. Formatı doldurmak için başka eserle rastgele ikame edilmez."
+    }
+  ],
+  "new_english_voice_recordings_required_days": [
+    1,
+    8,
+    10
+  ]
+}

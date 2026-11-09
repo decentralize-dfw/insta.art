@@ -1,0 +1,7 @@
+1. VIZYON-VE-180-POST.html
+2. ILK-14-GUN.html
+3. PROFILE-ENTRY.html
+
+180 posts, not180days. Public text English; planning rationale Turkish. All media remains unrendered/unpublished.
+Generator: ../planning-180-posts/build.py
+Do not run the old build_180.py/build_180_v2.py/build_180_v3.py to replace the current plan.

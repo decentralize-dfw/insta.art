@@ -1,0 +1,1432 @@
+{
+  "schema": "source-access-audit-v1",
+  "accessed": "2026-10-16",
+  "scope": "96 distinct URLs in the previous five case files, actor model, forum file and work map",
+  "warning": "Transport inventory is not a claim-validation score. Response hashes cover received bytes only; some responses are shells or truncated. Critical-audit Markdown records substantive adjudication.",
+  "entries": [
+    {
+      "id": "S001",
+      "url": "https://axellesalvage.com/about",
+      "used_in": [
+        "network-25-01-project-careers-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://axellesalvage.com/about",
+      "content_type": "text/html;charset=utf-8",
+      "extracted_chars": 5602,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "bebc097f19d898c9c487bb5206289715b4d4b2f9686f662d1c85353740052c18",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S002",
+      "url": "https://axellesalvage.com/cultural-works",
+      "used_in": [
+        "network-25-01-project-careers-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://axellesalvage.com/cultural-works",
+      "content_type": "text/html;charset=utf-8",
+      "extracted_chars": 6429,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "47f220a62892e854db9b67f9e4896380aaaaacb948b69143389ccf06084c3ba2",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S003",
+      "url": "https://bombmagazine.org/articles/2026/08/26/danielle-mckinney-by-salom%C3%A9-g%C3%B3mez-upegui/",
+      "used_in": [
+        "network-25-03-institutional-expansion-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://bombmagazine.org/articles/2026/08/26/danielle-mckinney-by-salom%C3%A9-g%C3%B3mez-upegui/",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 13335,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "aade8a7348ad5dbf5c20a18ad3d4c579684bc33f1a3d7c2e58c59b75d61dab22",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S004",
+      "url": "https://code.visualarts.net.au/selling-and-marketing/commercial-galleries-and-representation/checklist",
+      "used_in": [
+        "market-forum-mechanisms-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://code.visualarts.net.au/selling-and-marketing/commercial-galleries-and-representation/checklist",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 3963,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "9b1c44583827a79e34010f854645bde0e78590d6751af3896b18f9c7af003a51",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S005",
+      "url": "https://code.visualarts.net.au/selling-and-marketing/commercial-galleries-and-representation/detailed-discussion",
+      "used_in": [
+        "market-relations-engine-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://code.visualarts.net.au/selling-and-marketing/commercial-galleries-and-representation/detailed-discussion",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 23940,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "64b654c65790f7acf764ee714eb9711712b05ddd327129145c1817c48e162f69",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S006",
+      "url": "https://code.visualarts.net.au/selling-and-marketing/hiring-a-gallery-space-to-exhibit-and-sell/detailed-discussion",
+      "used_in": [
+        "market-forum-mechanisms-20261016.md",
+        "market-relations-engine-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://code.visualarts.net.au/selling-and-marketing/hiring-a-gallery-space-to-exhibit-and-sell/detailed-discussion",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 12067,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "984154c83df5595ee905447b233a00fa627cb7dba09748892ec084a13a9bb6e6",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S007",
+      "url": "https://collections.louvre.fr/en/ark%3A/53355/cl010535766",
+      "used_in": [
+        "network-25-05-museum-history-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://collections.louvre.fr/en/ark%3A/53355/cl010535766",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 2821,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "4d411f8c6ff7ffdebebf18b21b24172c8e0d96700a0cf7fe185cd802e1f9aaeb",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S008",
+      "url": "https://cultura.gov.it/evento/la-prima-mostra-personale-di-amoako-boafo-in-italia-museo-di-palazzo-grimani",
+      "used_in": [
+        "network-25-04-global-gallery-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://cultura.gov.it/evento/la-prima-mostra-personale-di-amoako-boafo-in-italia-museo-di-palazzo-grimani",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 8874,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "f9f3be15ded437120c56e467703a127a3048ef538962f854c31bb15f42d9080c",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S009",
+      "url": "https://davidkordanskygallery.com/artist/jenna-gribbon",
+      "used_in": [
+        "network-25-04-global-gallery-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://davidkordanskygallery.com/artist/jenna-gribbon",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 6978,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "40f246c337736f421b4b6d9a4db2e4c2216db1f05fe722261de19f71608b8701",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S010",
+      "url": "https://duveberlin.com/Id_rather_be_with_you",
+      "used_in": [
+        "network-25-02-gallery-circulation-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://duveberlin.com/Id_rather_be_with_you",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 2590,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "cd3d772351d152b92e0a93bd93aa54a41c51349d99907bafd42c901fa044f653",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S011",
+      "url": "https://gagosian.com/artists/amoako-boafo/",
+      "used_in": [
+        "network-25-04-global-gallery-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://gagosian.com/artists/amoako-boafo/",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 8035,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "2665d016def25016f50f0bebb504a74df11d9fa42f10c681eb345b6d0dafcd4c",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S012",
+      "url": "https://gagosian.com/artists/jade-fadojutimi/",
+      "used_in": [
+        "network-25-04-global-gallery-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://gagosian.com/artists/jade-fadojutimi/",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 10227,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "049183b8f36b3a8f7127dfd750d42dfbdae81f1e5da10f2428bc061cf2da52c5",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S013",
+      "url": "https://gagosian.com/artists/louise-bonnet/",
+      "used_in": [
+        "network-25-04-global-gallery-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://gagosian.com/artists/louise-bonnet/",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 10160,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "9cfb31c49c09bd6e59b1eae258ebbbe19dfdf5d0e5b287e2dca0fd7defb6f44f",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S014",
+      "url": "https://gagosian.com/exhibitions/2026/julie-curtiss-unreal/",
+      "used_in": [
+        "network-25-04-global-gallery-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://gagosian.com/exhibitions/2026/julie-curtiss-unreal/",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 3507,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "10672f713cc333e7ca390e227c12c27fe6479a0d0adae0a28a3f59a835b0ba83",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S015",
+      "url": "https://gagosian.com/exhibitions/2026/selections/",
+      "used_in": [
+        "network-25-04-global-gallery-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://gagosian.com/exhibitions/2026/selections/",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 9413,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "f03815e51271be27fcc06b906e59c232b9691582109ab7b4a13649a31025bc44",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S016",
+      "url": "https://gagosian.com/news/museum-exhibitions/in-these-times-recent-acquisitions-at-moca-la/",
+      "used_in": [
+        "network-25-04-global-gallery-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://gagosian.com/news/museum-exhibitions/in-these-times-recent-acquisitions-at-moca-la/",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 5083,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "687b9ee38e1cdfc2f1fd1953a20bc286ce0010f1b0a07611bcea29059916df37",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S017",
+      "url": "https://gagosian.com/quarterly/2025/04/21/interview-louise-bonnet-and-elizabeth-king/",
+      "used_in": [
+        "network-25-04-global-gallery-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://gagosian.com/quarterly/2025/04/21/interview-louise-bonnet-and-elizabeth-king/",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 22753,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "1ee7078e5507fe2aa1734eff87d48300d0e0a692ac1e2127fcd5fb98a5007085",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S018",
+      "url": "https://gagosianshop.com/products/jade-fadojutimi-dwelve-a-goosebump-in-memory-book",
+      "used_in": [
+        "network-25-04-global-gallery-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://gagosianshop.com/products/jade-fadojutimi-dwelve-a-goosebump-in-memory-book",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 4208,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "97736922e0048653a472515b04a51e81d3d1ac0858bcbb3003a1a61c4aad0b1a",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S019",
+      "url": "https://gouvernement.lu/dam-assets/publications/rapport-activite/minist-culture/kulturlx/2025-ra-kulturlx.pdf",
+      "used_in": [
+        "network-25-01-project-careers-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://gouvernement.lu/dam-assets/publications/rapport-activite/minist-culture/kulturlx/2025-ra-kulturlx.pdf",
+      "content_type": "application/pdf",
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "3d63c900f1ea0cfcbf0400e3e1eaace8d38b91d0db947f7f680b50a773b536d5",
+      "maximum_received_bytes": 5000000,
+      "content_warning": "Initial HTTP download capped/truncated; PDF content checked through web PDF reader instead"
+    },
+    {
+      "id": "S020",
+      "url": "https://help.sothebys.com/en/support/solutions/articles/44002518844-guide-for-buyers-symbol-key",
+      "used_in": [
+        "market-relations-engine-20261016.md",
+        "network-25-05-museum-history-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://help.sothebys.com/en/support/solutions/articles/44002518844-guide-for-buyers-symbol-key",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 13176,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "025515bcd1efc2a7cd85676fb26fc8e27ca4c1f756408ca69963bca702832849",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S021",
+      "url": "https://heni.com/news/article/amoako-boafo-five-things-venice-show-january-19",
+      "used_in": [
+        "network-25-04-global-gallery-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://heni.com/news/article/amoako-boafo-five-things-venice-show-january-19",
+      "content_type": "text/html",
+      "extracted_chars": 2086,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "5ceff9b213674b032d748f7dce0de2345286996fcb8f6e06bae50affb36dd3e7",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S022",
+      "url": "https://hopperprize.org/nick-mcphail-interview/",
+      "used_in": [
+        "network-25-02-gallery-circulation-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://hopperprize.org/nick-mcphail-interview/",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 5427,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "d3816519860ec7195937d07089871dead858d4a0564905e6f688893e63b03c79",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S023",
+      "url": "https://ica.art/live/issy-wood",
+      "used_in": [
+        "network-25-03-institutional-expansion-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://ica.art/live/issy-wood",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 2378,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "f0c5ab0ac350d63eac78d895e9068c0e91bd328ab29d60da66111ccfeba22e82",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S024",
+      "url": "https://lukacmartin.com/",
+      "used_in": [
+        "network-25-02-gallery-circulation-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "transport_result": "failed",
+      "error": "HTTP Error 466: ",
+      "maximum_received_bytes": 5000000,
+      "alternate_access": "Web retrieval used; see critical audit. Does not validate all claims."
+    },
+    {
+      "id": "S025",
+      "url": "https://marianneboeskygallery.com/press/631-time100-art-2026-danielle-mckinney-painter-of/",
+      "used_in": [
+        "network-25-03-institutional-expansion-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://marianneboeskygallery.com/press/631-time100-art-2026-danielle-mckinney-painter-of/",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 2639,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "e6cbecd8183ace4a30f2fbd9d2963e7d2224e6bc43fca1788f8fca3dcbf3f346",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S026",
+      "url": "https://massimodecarlo.com/projects/jenna-gribbon-entwined",
+      "used_in": [
+        "network-25-04-global-gallery-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://massimodecarlo.com/projects/jenna-gribbon-entwined",
+      "content_type": "text/html;charset=utf-8",
+      "extracted_chars": 2309,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "5bb42565be829485954d1dc8c7113a6cd706e2b27f102b93caa50dabc2c8878f",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S027",
+      "url": "https://mepaintsme.substack.com/p/rae-klein",
+      "used_in": [
+        "network-25-02-gallery-circulation-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://mepaintsme.substack.com/p/rae-klein",
+      "content_type": "text/html",
+      "extracted_chars": 61,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "5b131ca14aa96311d3432b0062c7443d3b0e6346ec279bd376a75f0a76bcd5d7",
+      "maximum_received_bytes": 5000000,
+      "content_warning": "Empty shell or site-unavailable response; not readable article",
+      "alternate_access": "Web retrieval used; see critical audit. Does not validate all claims."
+    },
+    {
+      "id": "S028",
+      "url": "https://nickmcphail.com/CV",
+      "used_in": [
+        "network-25-02-gallery-circulation-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://nickmcphail.com/CV",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 8393,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "04058a5c724177a9bd26710b5dde9eac56595e70072a5d0826edbcda64c930ec",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S029",
+      "url": "https://stephaniemanart.substack.com/p/reflections-from-my-first-self-organised",
+      "used_in": [
+        "network-25-01-project-careers-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://stephaniemanart.substack.com/p/reflections-from-my-first-self-organised",
+      "content_type": "text/html",
+      "extracted_chars": 61,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "5b131ca14aa96311d3432b0062c7443d3b0e6346ec279bd376a75f0a76bcd5d7",
+      "maximum_received_bytes": 5000000,
+      "content_warning": "Empty shell or site-unavailable response; not readable article",
+      "alternate_access": "Web retrieval used; see critical audit. Does not validate all claims."
+    },
+    {
+      "id": "S030",
+      "url": "https://thehole.com/exhibitions/lee-gihun",
+      "used_in": [
+        "network-25-02-gallery-circulation-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "transport_result": "failed",
+      "error": "HTTP Error 406: Not Acceptable",
+      "maximum_received_bytes": 5000000,
+      "alternate_access": "Web retrieval used; see critical audit. Does not validate all claims."
+    },
+    {
+      "id": "S031",
+      "url": "https://thewickculture.com/spotlight-artist-leila-lallali/",
+      "used_in": [
+        "network-25-01-project-careers-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://thewickculture.com/spotlight-artist-leila-lallali/",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 6987,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "8dfce10b342d4dad2c69ffe59d72d48b4b052527006c061fac904e44d22b1c31",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S032",
+      "url": "https://venticento.livemuseum.it/lara-ilaria-braconi/",
+      "used_in": [
+        "network-25-01-project-careers-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://venticento.livemuseum.it/lara-ilaria-braconi/",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 19481,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "b8121d071d0723bdd18f42cf604b6aa534c929fd504ff453bbc7099646a76ad0",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S033",
+      "url": "https://vonburencontemporary.com/gasperini-and-norenko-inside-out-june-26/",
+      "used_in": [
+        "network-25-01-project-careers-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://vonburencontemporary.com/gasperini-and-norenko-inside-out-june-26/",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 6034,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "53ad7551778109998dcea2f732b4b9beae2715ee9df1ffa1e6b87ba0a1230699",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S034",
+      "url": "https://www.artadvisors.org/association-of-professional-art-advisors-mission",
+      "used_in": [
+        "market-relations-engine-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.artadvisors.org/association-of-professional-art-advisors-mission",
+      "content_type": "text/html;charset=utf-8",
+      "extracted_chars": 7177,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "82226009439d6761c949128ed263a335a88cd9b7be3772b31684fe624da66abb",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S035",
+      "url": "https://www.arthelper.com/community/general/post/ask-a-gallery-expert-anything-3",
+      "used_in": [
+        "market-forum-mechanisms-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.arthelper.com/community/general/post/ask-a-gallery-expert-anything-3",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 49102,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "8edd591644a9b8d2594d406cd7044d1aeefe8400bd57395ccb06f8dbf8520f53",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S036",
+      "url": "https://www.arthelper.com/community/painting/post/supporting-one-another-getting-the-most-out-of-this-community",
+      "used_in": [
+        "market-forum-mechanisms-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.arthelper.com/community/painting/post/supporting-one-another-getting-the-most-out-of-this-community",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 23114,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "a196ecd5bcd9b46f502992a1d56f9a9bca7a1927019d67770e956828c28ba212",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S037",
+      "url": "https://www.arthelper.com/es/community/collaborations/post/open-call-gallerytogether-5-0-it-s-that-time-again",
+      "used_in": [
+        "market-forum-mechanisms-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.arthelper.com/es/community/collaborations/post/open-call-gallerytogether-5-0-it-s-that-time-again",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 2161,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "5ef2ccb4ff5f08151e489a4139bb9ffe4a90298da742789a2a48395e62dc6204",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S038",
+      "url": "https://www.artribune.com/professioni-e-professionisti/who-is-who/2026/04/intervista-giovane-artista-olmo-gasperini/",
+      "used_in": [
+        "network-25-01-project-careers-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.artribune.com/professioni-e-professionisti/who-is-who/2026/04/intervista-giovane-artista-olmo-gasperini/",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 20892,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "81e16c8a9a56b57de9ac593754ac51bf3e4aba78c7da2a877eac0626fe66b121",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S039",
+      "url": "https://www.brandeis.edu/rose/exhibitions/2026/jenna-gribbon.html",
+      "used_in": [
+        "network-25-04-global-gallery-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "transport_result": "failed",
+      "error": "HTTP Error 403: Forbidden",
+      "maximum_received_bytes": 5000000,
+      "alternate_access": "Direct access failed; indexed institutional record and Kordansky corroboration; limitation preserved"
+    },
+    {
+      "id": "S040",
+      "url": "https://www.casadegliartisti.org/residenza/antica-straniera/",
+      "used_in": [
+        "network-25-01-project-careers-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.casadegliartisti.org/residenza/antica-straniera/",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 3469,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "2e2813a111ca7f457457b17123bff36537ad5494bffb350e6e871a9ec29be6cb",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S041",
+      "url": "https://www.climagallery.com/artist/dana-lok/",
+      "used_in": [
+        "network-25-03-institutional-expansion-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.climagallery.com/artist/dana-lok/",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 9796,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "5f78b39c31305677b9d5ad88c4fedb44bb1ae0ca9b15dad65c0b3ec9dfd6a9f8",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S042",
+      "url": "https://www.climagallery.com/exhibition/a-body-for-your-thoughts/",
+      "used_in": [
+        "network-25-03-institutional-expansion-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.climagallery.com/exhibition/a-body-for-your-thoughts/",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 8435,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "dd13ded805edce1c8ab080190b2118e27cab445e3b6196d29209ae448ebce207",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S043",
+      "url": "https://www.collectorsagenda.com/en/in-the-studio/martin-luk%C3%A1%C4%8D",
+      "used_in": [
+        "network-25-02-gallery-circulation-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.collectorsagenda.com/en/in-the-studio/martin-luk%C3%A1%C4%8D",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 12372,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "f4fa25e0e37daf8358e1f6f9352d29b8fde16b3da6d4c410f792a3343fc499df",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S044",
+      "url": "https://www.danalok.com/cvandcontact",
+      "used_in": [
+        "network-25-03-institutional-expansion-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.danalok.com/cvandcontact",
+      "content_type": "text/html;charset=utf-8",
+      "extracted_chars": 6497,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "7185665ecd041462b0f1ce31f8e4263a357c7fd7f9f391784b4056814952bafa",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S045",
+      "url": "https://www.hauserwirth.com/artists/26942-george-condo/",
+      "used_in": [
+        "network-25-05-museum-history-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.hauserwirth.com/artists/26942-george-condo/",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 8401,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "a51d50792d6c12a72d6ebba07637ef9215e808e4a81dc1ebbc014d0c051ec957",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S046",
+      "url": "https://www.instagram.com/reel/Dca4ynhs9xb/",
+      "used_in": [
+        "network-25-01-project-careers-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.instagram.com/reel/Dca4ynhs9xb/",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "extracted_chars": 9,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "4cfc2b2a9ebe108b4dd59a2d7988c34a60eb947aa9f433ade68f33f9498f0537",
+      "maximum_received_bytes": 5000000,
+      "content_warning": "Empty shell or site-unavailable response; not readable article"
+    },
+    {
+      "id": "S047",
+      "url": "https://www.justice.gov/usao-sdny/pr/former-art-advisor-lisa-schiff-sentenced-30-months-prison-defrauding-clients",
+      "used_in": [
+        "market-relations-engine-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.justice.gov/usao-sdny/pr/former-art-advisor-lisa-schiff-sentenced-30-months-prison-defrauding-clients",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 8960,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "70d35af74525a1e1eb64fbb6b470de258d0965e7181fe9df62d862e87e34d781",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S048",
+      "url": "https://www.kistefosmuseum.com/exhibitions/issy-wood",
+      "used_in": [
+        "network-25-03-institutional-expansion-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.kistefosmuseum.com/exhibitions/issy-wood",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 6062,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "503974498fc8a01b83b893089647fb2279d9faf0e164931345fe35c016e78ff9",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S049",
+      "url": "https://www.labiennale.org/en/art/2026/collateral-events-procedure",
+      "used_in": [
+        "market-relations-engine-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.labiennale.org/en/art/2026/collateral-events-procedure",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 4903,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "0121292482460d3805ca91b75980c5ea518e762325097c76fba87df5547e3aef",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S050",
+      "url": "https://www.larailariabraconi.com/biografia/",
+      "used_in": [
+        "network-25-01-project-careers-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.larailariabraconi.com/biografia/",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 1141,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "539f25ce0b24ed4c466fc5071297f49dbe72d21de2549d0d563309f4e96893c7",
+      "maximum_received_bytes": 5000000,
+      "content_warning": "Unrelated gaming links: site integrity not verified; 2026 biography excluded from decision evidence"
+    },
+    {
+      "id": "S051",
+      "url": "https://www.leilalallali.com/exhibitions",
+      "used_in": [
+        "network-25-01-project-careers-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.leilalallali.com/exhibitions",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 2795,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "7e9884c1a9f0d8baad0274475e68224407f1707e6aa91db9d70b9181ed5f75b5",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S052",
+      "url": "https://www.louvre.fr/decouvrir/vie-du-musee/liaisons-marlene-dumas-entre-au-louvre",
+      "used_in": [
+        "network-25-05-museum-history-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.louvre.fr/decouvrir/vie-du-musee/liaisons-marlene-dumas-entre-au-louvre",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 7854,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "4f10ced011b6f14c3df8428a2cbc5d39bf83a83a734cb38f94d020fff0ecb774",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S053",
+      "url": "https://www.maakemagazine.com/nat-meade",
+      "used_in": [
+        "network-25-02-gallery-circulation-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.maakemagazine.com/nat-meade",
+      "content_type": "text/html;charset=utf-8",
+      "extracted_chars": 14919,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "b5a4cb70819d3bcf7bddc3b59957fcd90cf916c0b66c4144afab80fbce4d2ef1",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S054",
+      "url": "https://www.mam.paris.fr/fr/expositions/exposition-george-condo",
+      "used_in": [
+        "network-25-05-museum-history-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.mam.paris.fr/fr/expositions/exposition-george-condo",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 9223,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "65b2cc5a8677ee896c0a2d3a51f95a7fe2aa4a675e477345c29173a8663d6040",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S055",
+      "url": "https://www.mam.paris.fr/fr/expositions/exposition-kerry-james-marshall",
+      "used_in": [
+        "network-25-05-museum-history-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.mam.paris.fr/fr/expositions/exposition-kerry-james-marshall",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 11183,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "8943f6a5662e5cf4ab5769f2dab300f723a0fe4a1dad3524254733e914d5818e",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S056",
+      "url": "https://www.marlenedumas.nl/current-exhibitions-events/",
+      "used_in": [
+        "network-25-05-museum-history-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.marlenedumas.nl/current-exhibitions-events/",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 1050,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "9b527e748e1d49919e74162abfe54e925f07107e012e8ca23b222d0e021a77b1",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S057",
+      "url": "https://www.norton.org/exhibitions/danielle-mckinney-shelter",
+      "used_in": [
+        "network-25-03-institutional-expansion-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.norton.org/exhibitions/danielle-mckinney-shelter",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 7950,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "7145c75825619984eba7ee1a35366aaddda8828b1ae84936e59d9593e8ec29a9",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S058",
+      "url": "https://www.nosbaumreding.com/en/artists/exhibitiondetails/16324/nat-meade-shed-works-on-paper?iae=399",
+      "used_in": [
+        "network-25-02-gallery-circulation-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.nosbaumreding.com/en/artists/exhibitiondetails/16324/nat-meade-shed-works-on-paper?iae=399",
+      "content_type": "text/html; charset=ISO-8859-1",
+      "extracted_chars": 2375,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "2a22abfb86664ec2b8314e898b610a6377ca76ceb3c60a4906f52580ae43ae2d",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S059",
+      "url": "https://www.nosbaumreding.com/en/artists/exhibitiondetails/16603/leila-lallali-good-luck?iae=404",
+      "used_in": [
+        "network-25-01-project-careers-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.nosbaumreding.com/en/artists/exhibitiondetails/16603/leila-lallali-good-luck?iae=404",
+      "content_type": "text/html; charset=ISO-8859-1",
+      "extracted_chars": 4376,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "ed692acd82a4a11df79b85e8a8ffdb55a189bc03029813b5ad6ddaec4dfefa30",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S060",
+      "url": "https://www.npg.org.uk/whatson/display/2026/artist-focus-issy-wood",
+      "used_in": [
+        "network-25-03-institutional-expansion-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.npg.org.uk/whatson/display/2026/artist-focus-issy-wood",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 3275,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "ca1c92b7076e8daa80c78497b45fa01e7f79c4e6fde251b1d5b7b846519ef914",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S061",
+      "url": "https://www.ppowgallery.com/artists/robin-f-williams",
+      "used_in": [
+        "network-25-03-institutional-expansion-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.ppowgallery.com/artists/robin-f-williams",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 35174,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "f1c70ffc7de9649ebb0889c2e49895cb1efcde10beab9ebef5749fe02d6a6813",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S062",
+      "url": "https://www.ppowgallery.com/exhibitions/robin-f-williams6",
+      "used_in": [
+        "network-25-03-institutional-expansion-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.ppowgallery.com/exhibitions/robin-f-williams6",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 12428,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "527a53b70ec316de52512c620c10a39f59563f1fc7a7841b87b4496c610c65d8",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S063",
+      "url": "https://www.raeklein.com/about",
+      "used_in": [
+        "network-25-02-gallery-circulation-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.raeklein.com/about",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 1623,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "ceb388737c8e1b766a9b25e31254ef9ddb2c76a3981eb36e9c02923976721ca7",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S064",
+      "url": "https://www.reddit.com/r/ContemporaryArt/comments/16pzlbe/artists_with_gallery_representation_how_did_your/",
+      "used_in": [
+        "market-forum-mechanisms-20261016.md",
+        "market-relations-engine-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "transport_result": "failed",
+      "error": "HTTP Error 403: Blocked",
+      "maximum_received_bytes": 5000000,
+      "alternate_access": "Web retrieval used; see critical audit. Does not validate all claims."
+    },
+    {
+      "id": "S065",
+      "url": "https://www.reddit.com/r/ContemporaryArt/comments/1nl2sqj/is_gallery_representation_the_only_way_to_reach/",
+      "used_in": [
+        "market-forum-mechanisms-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "transport_result": "failed",
+      "error": "HTTP Error 403: Blocked",
+      "maximum_received_bytes": 5000000,
+      "alternate_access": "Web retrieval used; see critical audit. Does not validate all claims."
+    },
+    {
+      "id": "S066",
+      "url": "https://www.reddit.com/r/ContemporaryArt/comments/1o29f6d/hiring_pr_for_your_solo_show/",
+      "used_in": [
+        "market-forum-mechanisms-20261016.md",
+        "market-relations-engine-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "transport_result": "failed",
+      "error": "HTTP Error 403: Blocked",
+      "maximum_received_bytes": 5000000,
+      "alternate_access": "Web retrieval used; see critical audit. Does not validate all claims."
+    },
+    {
+      "id": "S067",
+      "url": "https://www.reddit.com/r/ContemporaryArt/comments/1quezw8/what_happens_if_you_quit_instagram/",
+      "used_in": [
+        "market-forum-mechanisms-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "transport_result": "failed",
+      "error": "HTTP Error 403: Blocked",
+      "maximum_received_bytes": 5000000,
+      "alternate_access": "Web retrieval used; see critical audit. Does not validate all claims."
+    },
+    {
+      "id": "S068",
+      "url": "https://www.reddit.com/r/ContemporaryArt/comments/1r7mfwt/do_emerging_artists_need_websites_in_2026/",
+      "used_in": [
+        "market-forum-mechanisms-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "transport_result": "failed",
+      "error": "HTTP Error 403: Blocked",
+      "maximum_received_bytes": 5000000,
+      "alternate_access": "Web retrieval used; see critical audit. Does not validate all claims."
+    },
+    {
+      "id": "S069",
+      "url": "https://www.reddit.com/r/ContemporaryArt/comments/1rh7bmt/what_will_finally_move_the_needle/",
+      "used_in": [
+        "market-forum-mechanisms-20261016.md",
+        "market-relations-engine-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "transport_result": "failed",
+      "error": "HTTP Error 403: Blocked",
+      "maximum_received_bytes": 5000000,
+      "alternate_access": "Web retrieval used; see critical audit. Does not validate all claims."
+    },
+    {
+      "id": "S070",
+      "url": "https://www.reddit.com/r/artbusiness/comments/1rozuih/marketing_are_online_galleries_worth_it_to/",
+      "used_in": [
+        "market-forum-mechanisms-20261016.md",
+        "market-relations-engine-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "transport_result": "failed",
+      "error": "HTTP Error 403: Blocked",
+      "maximum_received_bytes": 5000000,
+      "alternate_access": "Web retrieval used; see critical audit. Does not validate all claims."
+    },
+    {
+      "id": "S071",
+      "url": "https://www.serpentinegalleries.org/whats-on/2026-at-serpentine/",
+      "used_in": [
+        "network-25-05-museum-history-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.serpentinegalleries.org/whats-on/2026-at-serpentine/",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 8333,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "edc4d709baa6ff22dbba917a3b02b8fb32cd5e957b044d8661eb17d81d3ffff7",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S072",
+      "url": "https://www.serpentinegalleries.org/whats-on/cecily-brown-picture-making/",
+      "used_in": [
+        "network-25-05-museum-history-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.serpentinegalleries.org/whats-on/cecily-brown-picture-making/",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 4114,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "21de44397711788cf3c58a5d07d574f74b4e13d4f4fffa298c3548c953d52798",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S073",
+      "url": "https://www.serpentinegalleries.org/whats-on/peter-doig-house-of-music-sound-service/",
+      "used_in": [
+        "network-25-05-museum-history-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.serpentinegalleries.org/whats-on/peter-doig-house-of-music-sound-service/",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 36232,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "3ec806061214968b78b99f767e86af7950aac4e4a2ecf429f60aca0bbda4fd82",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S074",
+      "url": "https://www.serpentinegalleries.org/whats-on/peter-doig-house-of-music/",
+      "used_in": [
+        "network-25-05-museum-history-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.serpentinegalleries.org/whats-on/peter-doig-house-of-music/",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 10552,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "68881dc5ae8577d454e5f9e9d17be78e2430f42e73e5fbc40823ded0c0dff9cf",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S075",
+      "url": "https://www.sothebys.com/en/buy/auction/2026/the-now-contemporary-evening-auction/figure-on-a-red-field?locale=en",
+      "used_in": [
+        "network-25-05-museum-history-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.sothebys.com/en/buy/auction/2026/the-now-contemporary-evening-auction/figure-on-a-red-field?locale=en",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 1609,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "98795e25a478ca8882debb3ede06e15de7624d6e17fbbfdb6a0b79a83bc02812",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S076",
+      "url": "https://www.stephaniemanart.com/",
+      "used_in": [
+        "network-25-01-project-careers-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.stephaniemanart.com/",
+      "content_type": "text/html;charset=utf-8",
+      "extracted_chars": 66,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "cedb7a1f4c5420b2c53697dac7bdc86eaa0223e459dd25a0c8de9d82b5792d78",
+      "maximum_received_bytes": 5000000,
+      "content_warning": "Empty shell or site-unavailable response; not readable article"
+    },
+    {
+      "id": "S077",
+      "url": "https://www.theartnewspaper.com/2026/04/06/pressures-squeezing-gallery-sector-the-hole-new-york-los-angeles",
+      "used_in": [
+        "market-relations-engine-20261016.md",
+        "network-25-02-gallery-circulation-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.theartnewspaper.com/2026/04/06/pressures-squeezing-gallery-sector-the-hole-new-york-los-angeles",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 15400,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "b98e4bb2aef3f252820a1aa46b63df6e9cd826fe98fcae5d25ab4eb773d383e0",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S078",
+      "url": "https://www.ucl.ac.uk/social-historical-sciences/news/2026/jan/curating-kerry-james-marshall-event",
+      "used_in": [
+        "network-25-05-museum-history-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.ucl.ac.uk/social-historical-sciences/news/2026/jan/curating-kerry-james-marshall-event",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 4358,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "8a446dcc0de7ee2359062ac110fcf6a0ece54310b9f44370dcd8a0fea53eb263",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S079",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/louise-giovanelli-at-white-cube-interview",
+      "used_in": [
+        "network-25-03-institutional-expansion-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.wallpaper.com/art/exhibitions-shows/louise-giovanelli-at-white-cube-interview",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 10553,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "3033078907133cb6232e03d7f7d69442c63fe7f8d7f23f685940c5f5fb79bb61",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S080",
+      "url": "https://www.whitecube.com/artists/julie-curtiss",
+      "used_in": [
+        "network-25-04-global-gallery-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.whitecube.com/artists/julie-curtiss",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 11809,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "ec145cad6780a0cccf285bb0b4d1f5191126839eb0aa6b10b7d6c76b2f54b016",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S081",
+      "url": "https://www.whitecube.com/artists/louise-giovanelli",
+      "used_in": [
+        "network-25-03-institutional-expansion-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://www.whitecube.com/artists/louise-giovanelli",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 9674,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "708999d24a910e5a005a54fbf178791e03e10fd672017cd5d6255b36274852d4",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S082",
+      "url": "https://yigitozen.art/",
+      "used_in": [
+        "market-yigit-work-map-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://yigitozen.art/",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 1725,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "7cc8b7fae2f14362cb2f8f653c0664a81e96a1ba06fe0a13cc6bdd1d423314ac",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S083",
+      "url": "https://yigitozen.art/work/7-fam-board-game/",
+      "used_in": [
+        "market-yigit-work-map-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://yigitozen.art/work/7-fam-board-game/",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 2439,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "ec37676893473707039edb541a77780fd735bc1ebde88563670da9ffd70a60ef",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S084",
+      "url": "https://yigitozen.art/work/angora-mergvs/",
+      "used_in": [
+        "market-yigit-work-map-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://yigitozen.art/work/angora-mergvs/",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 1352,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "85a4999c6649bb1d817428eec75859b973f8a8f0c4c5d0bc4f524cc6e8b13b60",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S085",
+      "url": "https://yigitozen.art/work/articulo-attack-on-mandarin/",
+      "used_in": [
+        "market-yigit-work-map-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://yigitozen.art/work/articulo-attack-on-mandarin/",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 1757,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "32816ada4241b4411ef1dc45338a25a97b8b1dfb10f56fa5833e44b984f32cc7",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S086",
+      "url": "https://yigitozen.art/work/caprocorn-sister-war-plague-earthquake/",
+      "used_in": [
+        "market-yigit-work-map-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://yigitozen.art/work/caprocorn-sister-war-plague-earthquake/",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 1623,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "d003545b65c32dd73b1d88f753f7151a37f43eff102636d62041ba3f06aa0ae8",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S087",
+      "url": "https://yigitozen.art/work/cellular-spleens/",
+      "used_in": [
+        "market-yigit-work-map-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://yigitozen.art/work/cellular-spleens/",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 1572,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "ae6d4b5f190e6e6c27ca31662c0ed819b82803229d7f9de86c267d04ccefe35a",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S088",
+      "url": "https://yigitozen.art/work/ciao-capo-sono-squalo/",
+      "used_in": [
+        "market-yigit-work-map-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://yigitozen.art/work/ciao-capo-sono-squalo/",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 1550,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "bb5b444c1c7396f95a93c71853bad4ce9fef378eea6709d2594a7919a873bbbb",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S089",
+      "url": "https://yigitozen.art/work/gary-grills-cooper/",
+      "used_in": [
+        "market-yigit-work-map-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://yigitozen.art/work/gary-grills-cooper/",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 1614,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "4c6eb323319d8a18493bfc7467b9e40fee582233f947aaf4af581c2191e5d593",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S090",
+      "url": "https://yigitozen.art/work/gxd-is-afk-we-banned-it/",
+      "used_in": [
+        "market-yigit-work-map-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://yigitozen.art/work/gxd-is-afk-we-banned-it/",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 2451,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "041fae31fcaed72701e067c6891f8cf2f26ace7724737887185812a73fbf88a4",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S091",
+      "url": "https://yigitozen.art/work/painstaking/",
+      "used_in": [
+        "market-yigit-work-map-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://yigitozen.art/work/painstaking/",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 1252,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "74bf01378623397766d0bed68f3b456d251077bb5d4cc59a1a431316bd88cded",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S092",
+      "url": "https://yigitozen.art/work/s-t-lop/",
+      "used_in": [
+        "market-yigit-work-map-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://yigitozen.art/work/s-t-lop/",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 1700,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "41750a5e55b18fbd0a4e4b41c16079d45140f872fafd03982ec0c46e3448a669",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S093",
+      "url": "https://yigitozen.art/work/sept-neuf/",
+      "used_in": [
+        "market-yigit-work-map-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://yigitozen.art/work/sept-neuf/",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 2147,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "02588fed0803ca1d6b8c97511f1a193597a7dd27bb8d49e508c04375976923cd",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S094",
+      "url": "https://yigitozen.art/work/virgil-on-virtual-cage-final-final-finalv9/",
+      "used_in": [
+        "market-yigit-work-map-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://yigitozen.art/work/virgil-on-virtual-cage-final-final-finalv9/",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 1947,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "a3283889e62b30290b8ef6b2da58654c0827b9a0dee392929df76bd5cdc5fea1",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S095",
+      "url": "https://yigitozen.art/work/walls-of-perception/",
+      "used_in": [
+        "market-yigit-work-map-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://yigitozen.art/work/walls-of-perception/",
+      "content_type": "text/html; charset=utf-8",
+      "extracted_chars": 1650,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "a5e51c3429909bb26cb513df8fc6bf53b4a636ef3712e13f40dba486e40866c4",
+      "maximum_received_bytes": 5000000
+    },
+    {
+      "id": "S096",
+      "url": "https://zidoun-bossuyt.com/exhibitions/fragments-of-paradise-feipel-bechameil-lucas-georges-christian-louis-granet-nick-mcphail-brian-rochefort-and-summer-wheat/",
+      "used_in": [
+        "network-25-02-gallery-circulation-20261016.md"
+      ],
+      "accessed": "2026-10-16",
+      "http_status": 200,
+      "final_url": "https://zidoun-bossuyt.com/exhibitions/fragments-of-paradise-feipel-bechameil-lucas-georges-christian-louis-granet-nick-mcphail-brian-rochefort-and-summer-wheat/",
+      "content_type": "text/html; charset=UTF-8",
+      "extracted_chars": 4008,
+      "transport_result": "response_received_not_content_validation",
+      "sha256_received_bytes": "eccaf6e5287f51830b19575c7ed8fcfdee154a2e1743b73eed31b4bbd6b83eab",
+      "maximum_received_bytes": 5000000
+    }
+  ]
+}

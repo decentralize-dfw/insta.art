@@ -1,0 +1,341 @@
+[
+  {
+    "number": 1,
+    "title": "Galeri hangi iş modelini yürütüyor?",
+    "document": "market-breakdown-q01-20261016.md",
+    "sources": [
+      "G06",
+      "G08",
+      "G02",
+      "G09",
+      "F04"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  },
+  {
+    "number": 2,
+    "title": "Program uyumu gerçekte ne demek?",
+    "document": "market-breakdown-q02-20261016.md",
+    "sources": [
+      "G03",
+      "G08",
+      "G07",
+      "G06"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  },
+  {
+    "number": 3,
+    "title": "Yeni sanatçı programa hangi yoldan giriyor?",
+    "document": "market-breakdown-q03-20261016.md",
+    "sources": [
+      "P01",
+      "G05",
+      "G07"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  },
+  {
+    "number": 4,
+    "title": "Kim neye karar veriyor?",
+    "document": "market-breakdown-q04-20261016.md",
+    "sources": [
+      "G04",
+      "G06"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  },
+  {
+    "number": 5,
+    "title": "Tanıştırma nerede işe yarıyor?",
+    "document": "market-breakdown-q05-20261016.md",
+    "sources": [
+      "P02",
+      "F01",
+      "P01"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  },
+  {
+    "number": 6,
+    "title": "İlk temastan sonra ilişki nasıl ilerliyor?",
+    "document": "market-breakdown-q06-20261016.md",
+    "sources": [
+      "P02",
+      "G07"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  },
+  {
+    "number": 7,
+    "title": "Stüdyo ziyareti hangi değerlendirmeyi mümkün kılıyor?",
+    "document": "market-breakdown-q07-20261016.md",
+    "sources": [
+      "P01",
+      "E01"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  },
+  {
+    "number": 8,
+    "title": "Sessizlik, ret ve bekleme nasıl ayrılır?",
+    "document": "market-breakdown-q08-20261016.md",
+    "sources": [
+      "G06",
+      "G01",
+      "G04"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  },
+  {
+    "number": 9,
+    "title": "Temsil hangi hizmetlerden oluşuyor?",
+    "document": "market-breakdown-q09-20261016.md",
+    "sources": [
+      "P03",
+      "G06"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  },
+  {
+    "number": 10,
+    "title": "Eserin teslimi, mülkiyeti ve ödeme nasıl izlenmeli?",
+    "document": "market-breakdown-q10-20261016.md",
+    "sources": [
+      "P04",
+      "E11"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  },
+  {
+    "number": 11,
+    "title": "İlk fiyat ve karşılaştırılabilir emsal nasıl kuruluyor?",
+    "document": "market-breakdown-q11-20261016.md",
+    "sources": [
+      "G10",
+      "P06"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  },
+  {
+    "number": 12,
+    "title": "İndirim ve komisyon neden aynı işlemde ayrı hesaplanmalı?",
+    "document": "market-breakdown-q12-20261016.md",
+    "sources": [
+      "P05",
+      "P07"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  },
+  {
+    "number": 13,
+    "title": "Üretim ve sergi riskini kim taşıyor?",
+    "document": "market-breakdown-q13-20261016.md",
+    "sources": [
+      "E01",
+      "E03"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  },
+  {
+    "number": 14,
+    "title": "Sosyal medyada kimin üretimini görüyoruz?",
+    "document": "market-breakdown-q14-20261016.md",
+    "sources": [
+      "G09"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "excluded_at_user_request"
+  },
+  {
+    "number": 15,
+    "title": "Görünen ilgi hangi ilişkiyi gösteriyor?",
+    "document": "market-breakdown-q15-20261016.md",
+    "sources": [
+      "F03"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "excluded_at_user_request"
+  },
+  {
+    "number": 16,
+    "title": "Instagram, site, bülten ve fiziksel sunum nasıl bağlanıyor?",
+    "document": "market-breakdown-q16-20261016.md",
+    "sources": [
+      "G09",
+      "F02"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  },
+  {
+    "number": 17,
+    "title": "Koleksiyoner ilişkisi ilk alımdan sonra nasıl sürüyor?",
+    "document": "market-breakdown-q17-20261016.md",
+    "sources": [
+      "P06",
+      "E06",
+      "E07"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  },
+  {
+    "number": 18,
+    "title": "Danışman ve dealer kimin adına çalışıyor?",
+    "document": "market-breakdown-q18-20261016.md",
+    "sources": [
+      "P07"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  },
+  {
+    "number": 19,
+    "title": "Müze sergisi, edinimi ve bağışı nasıl ayrılıyor?",
+    "document": "market-breakdown-q19-20261016.md",
+    "sources": [
+      "E08",
+      "E09"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  },
+  {
+    "number": 20,
+    "title": "Sponsor, patron ve küratörün yetkileri nasıl ayrılır?",
+    "document": "market-breakdown-q20-20261016.md",
+    "sources": [
+      "P08"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  },
+  {
+    "number": 21,
+    "title": "Fuar galeri ve sanatçı için ne üretiyor?",
+    "document": "market-breakdown-q21-20261016.md",
+    "sources": [
+      "E05"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  },
+  {
+    "number": 22,
+    "title": "Basın, eleştiri, katalog ve PR hangi işi yapıyor?",
+    "document": "market-breakdown-q22-20261016.md",
+    "sources": [
+      "G09",
+      "F05"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  },
+  {
+    "number": 23,
+    "title": "İkincil piyasa kariyere hangi noktada bağlanıyor?",
+    "document": "market-breakdown-q23-20261016.md",
+    "sources": [
+      "E10"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  },
+  {
+    "number": 24,
+    "title": "Başarı hikâyelerinin dışında hangi karşı örnekler var?",
+    "document": "market-breakdown-q24-20261016.md",
+    "sources": [
+      "F01",
+      "E11",
+      "E05"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  },
+  {
+    "number": 25,
+    "title": "Luxembourg ve Milano çalışma koşullarını nasıl değiştiriyor?",
+    "document": "market-breakdown-q25-20261016.md",
+    "sources": [
+      "E04",
+      "E01",
+      "E03",
+      "E02"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  },
+  {
+    "number": 26,
+    "title": "Statü, aidiyet ve ekonomik baskı nasıl okunmalı?",
+    "document": "market-breakdown-q26-20261016.md",
+    "sources": [
+      "F03",
+      "F04"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  },
+  {
+    "number": 27,
+    "title": "Karşılıklı katkı ile karşılıksız emek nerede ayrılır?",
+    "document": "market-breakdown-q27-20261016.md",
+    "sources": [
+      "E01",
+      "E03"
+    ],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  },
+  {
+    "number": 28,
+    "title": "Yiğit’in nişi ve kariyer emsalleri nasıl sistematize edilebilir?",
+    "document": "market-breakdown-q28-20261016.md",
+    "sources": [],
+    "canonical_content": "Markdown document",
+    "analytical_answer_written": true,
+    "direct_instagram_scope": "not required for this answer"
+  }
+]

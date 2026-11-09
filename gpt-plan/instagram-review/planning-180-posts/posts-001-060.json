@@ -1,0 +1,1816 @@
+[
+  {
+    "n": 1,
+    "phase": 1,
+    "works": [
+      "angora"
+    ],
+    "assets": [
+      "A1632",
+      "A1378"
+    ],
+    "format": "Reel",
+    "pillar": "space",
+    "goal": "G1",
+    "title_en": "That dragon is standing over my childhood home.",
+    "caption_en": "That is the house I grew up in. A familiar visitor changes the feeling of the place.",
+    "idea_tr": "Gerçek anlatıdan çocukluk evi ve ziyaret/tehdit ikiliği; ilk karede kendi resmindeki ev ve figür, ardından anlatıcı ve resim birlikte.",
+    "why_tr": "Kişisel bağlamı kayıtta bulunan güçlü bir karşılaşma; resim, izleyiciye yalnız karakter tanımaktan fazla bir şey sunar.",
+    "order_tr": "Açılışta soyut manifesto yerine üst vizyonun mekân/bellek ayağını tek somut resimle kanıtlar; P002 aynı pratiği beden yönünden genişletecek.",
+    "new_value_tr": "İlk karşılaşma: kayıttaki ev bilgisi ve resimdeki kurmaca ziyaretçi.",
+    "archive": false,
+    "sound": "english_voice",
+    "production_tr": "A1632 196–224,308–364,616–644 saniye anlatım dayanağı. Yeni İngilizce ses kaydı gerekli; özgün ağız hareketine İngilizce dublajmış gibi senkron iddiası yok.",
+    "check_tr": "Karaktere ilişkin tepkiler ile eve/resme ilişkin soruları ayır; takipçi dışı erişim ve atfedilen takip birlikte okunur.",
+    "tactics": [
+      "T03",
+      "T43",
+      "T46",
+      "T14"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 2,
+    "phase": 1,
+    "works": [
+      "gary"
+    ],
+    "assets": [
+      "A0298"
+    ],
+    "format": "Single",
+    "pillar": "body",
+    "goal": "G2",
+    "title_en": "gary grills cooper",
+    "caption_en": "A figure assembled from coloured masses, with a cigar above and a grill below.",
+    "idea_tr": "Bütünü tek görselde, kesmeden; yüz, oval beden, el ve ızgara aynı kompozisyonda okunur.",
+    "why_tr": "İlk Reel’in kültürel karakterine bağımlı bir hesap olmadığını, bedenin resimsel kuruluşunu gösterir.",
+    "order_tr": "P001 mekânından bedene geçer; P003 bu oval kütlelerin altı yıl önceki farklı bir karşılığını getirecek.",
+    "new_value_tr": "Farklı eserde ortak ressam dilinin ilk kanıtı; Angora yeniden yayımlanmıyor.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Yorumlarda gösterilen biçimsel ilişkiye ilişkin somut gözlemleri kaydet; yalnız beğeniyle tanınma sonucu çıkarma.",
+    "tactics": [
+      "T23",
+      "T50",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 3,
+    "phase": 1,
+    "works": [
+      "cellular"
+    ],
+    "assets": [
+      "A1862"
+    ],
+    "format": "Single",
+    "pillar": "body",
+    "goal": "G2",
+    "title_en": "cellular spleens · 2020",
+    "caption_en": "A body built from rounded forms, balanced above a car. From the Milan archive, 2020.",
+    "idea_tr": "Tam eser; araç, üst üste yuvarlak biçimler ve açık zemin birlikte kalır.",
+    "why_tr": "Y06 kartının Gary/Y05 ile kurduğu kütlesel beden bağı, hesabın yalnız güncel popüler referanslardan oluşmadığını gösterir.",
+    "order_tr": "Gary’nin yuvarlak bedeni ile açık biçimsel bağ kurar; hafta sonunda arşiv bir dolgu değil bu bağı sınayan ikinci eser olur.",
+    "new_value_tr": "2020 tarihli ayrı kompozisyonda hacim dili; etkilenme veya ilerleme hikâyesi iddia edilmez.",
+    "archive": true,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Yorumlarda gösterilen biçimsel ilişkiye ilişkin somut gözlemleri kaydet; yalnız beğeniyle tanınma sonucu çıkarma.",
+    "tactics": [
+      "T23",
+      "T50",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 4,
+    "phase": 1,
+    "works": [
+      "sept"
+    ],
+    "assets": [
+      "A1167",
+      "A0947"
+    ],
+    "format": "Reel",
+    "pillar": "body",
+    "goal": "G1",
+    "title_en": "This body changed colour.",
+    "caption_en": "Warm tones give way to purple while the green room stays around the figure. A recorded painting session from sept neuf.",
+    "idea_tr": "Gerçek fırça kaydındaki sarı–mor değişimi göster; başlangıç, renk müdahalesi, değişmiş figür. Fotoğraf slaytı yok.",
+    "why_tr": "İlk haftadaki bitmiş biçimlerin gerçekten alınan kararlardan oluştuğunu görünür eylemle kanıtlar.",
+    "order_tr": "P003’te sonucu gördük; şimdi başka bir resimde bedenin değişmesini izliyoruz. P005 bitmiş yüzlerin farklı kuruluşuna dönecek.",
+    "new_value_tr": "Canlı süreçte bir renk değişimi; Angora’daki sözlü hikâyeden farklı bir Reel işi.",
+    "archive": false,
+    "sound": "english_voice",
+    "production_tr": "A1167 gerçek hareket:60–65,1170–1176,1686–1692,2900–2908sn. Kareler ayrıca kontrol edildi; sıcak alt renkten mora dönüşüm. Yeni İngilizce anlatım gerekli; arka plan medyası kapalı.",
+    "check_tr": "Takipçi dışı erişim ile varsa gönderiye atfedilen takibi aynı ölçüm yaşında birlikte kaydet.",
+    "tactics": [
+      "T03",
+      "T43",
+      "T46",
+      "T14"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 5,
+    "phase": 1,
+    "works": [
+      "painstaking"
+    ],
+    "assets": [
+      "A0025",
+      "A0028",
+      "A0029",
+      "A0027"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G3",
+    "title_en": "Three faces, three different balances.",
+    "caption_en": "Three panels, three ways of arranging a face. Read them together, then separately.",
+    "idea_tr": "Dört sayfa: doğru sıradaki bütün triptik; sol panelin eğik ağız hattı; orta panelin göz/diş yoğunluğu; sağ panelin uzun burun/ağız ağırlığı.",
+    "why_tr": "Yüzleri aynı şablonun üç kopyası yerine farklı parça dengeleri olarak karşılaştırmaya elverişli.",
+    "order_tr": "Sept’te tek bedenin değişiminden üç ayrı bitmiş çözüme geçer; P006 çizginin benzer işi renk öncesinde nasıl yaptığını açacak.",
+    "new_value_tr": "Painstaking ilk kez ve tek yayın olarak gelir; panel karşılaştırması yeni bilgi, beş güne yayılmış tekrar değil.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 6,
+    "phase": 1,
+    "works": [
+      "ciao"
+    ],
+    "assets": [
+      "A1718"
+    ],
+    "format": "Single",
+    "pillar": "body",
+    "goal": "G3",
+    "title_en": "Before the blue: a drawing stage.",
+    "caption_en": "Black contours establish two figures before the later blue and white painting. Study image undated; the final painting is from 2020.",
+    "idea_tr": "Gerçek konturlu ara aşamayı tek görsel olarak sun; son resim görüntüsü ve künye bu dosyaya yapıştırılmaz.",
+    "why_tr": "P005’te görülen yüz/beden kuruluşuna farklı dönemden çizgisel bir karşılık; seçilmiş eskiz kendi başına okunuyor.",
+    "order_tr": "İki haftayı tamamlar: kişisel mekân → kütle → arşiv bağı → boyama kararı → yüz karşılaştırması → çizim. Sonraki hafta stüdyo kararının konuşmasına açılır.",
+    "new_value_tr": "Bitmiş 2020 eseri yerine tarihsiz ara aşama; konturun rengi beklemeden kurduğu beden.",
+    "archive": true,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T23",
+      "T50",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 7,
+    "phase": 1,
+    "works": [
+      "board"
+    ],
+    "assets": [
+      "A0620",
+      "A0592"
+    ],
+    "format": "Reel",
+    "pillar": "scene",
+    "goal": "G1",
+    "title_en": "What would you leave alone?",
+    "caption_en": "The pieces could become darker. The background was already working. A studio conversation around 7 fam board game.",
+    "idea_tr": "İki kişinin gerçek incelemesi; koyulaştırılacak piyonlar ve korunacak arka plan karşı karşıya.",
+    "why_tr": "Her yaratıcı kararı ekleme olarak göstermeyen, gerçek bir stüdyo ikilemi var.",
+    "order_tr": "P006 erken çizimden şimdi müdahalenin nerede durduğuna geçer; P008 bitmiş mekân sınırını görünür kılar.",
+    "new_value_tr": "Kaynak sahne anlatmak yerine gerçek karşılıklı geri bildirim.",
+    "archive": false,
+    "sound": "english_voice",
+    "production_tr": "A0620 28–84sn kaynak konuşma dayanağı; çeviri uyarlaması için yeni İngilizce ses. Otomatik döküm son ses kontrolünde doğrulanır.",
+    "check_tr": "Takipçi dışı erişim ile varsa gönderiye atfedilen takibi aynı ölçüm yaşında birlikte kaydet.",
+    "tactics": [
+      "T03",
+      "T43",
+      "T46",
+      "T14"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 8,
+    "phase": 1,
+    "works": [
+      "virgil"
+    ],
+    "assets": [
+      "A0582"
+    ],
+    "format": "Single",
+    "pillar": "space",
+    "goal": "G2",
+    "title_en": "Virgil on Virtual Cage",
+    "caption_en": "Soft bodies sit inside a room drawn with hard white edges.",
+    "idea_tr": "Bütünü sun; beyaz mekân kenarları, pembe çevre ve yumuşak figürler birlikte görülsün.",
+    "why_tr": "Beden ve geometri karşıtlığı, hesabın mekân ayağını Angora dışında ikinci işle kurar.",
+    "order_tr": "Board konuşmasındaki arka plan kararından çizilmiş çevrenin etkin olduğu başka sahneye; P009 arşivdeki geometrik nesneye bağlanır.",
+    "new_value_tr": "Yeni eser: çevreleyen çizgi ile beden karşıtlığı.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Yorumlarda gösterilen biçimsel ilişkiye ilişkin somut gözlemleri kaydet; yalnız beğeniyle tanınma sonucu çıkarma.",
+    "tactics": [
+      "T23",
+      "T50",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 9,
+    "phase": 1,
+    "works": [
+      "capricorn"
+    ],
+    "assets": [
+      "A1832"
+    ],
+    "format": "Single",
+    "pillar": "space",
+    "goal": "G2",
+    "title_en": "caprocorn sister · 2020",
+    "caption_en": "Three bodies share a dark field with a green geometric seat. From the Milan archive, 2020.",
+    "idea_tr": "2020 bütününü koyu son zeminle göster; üç beden ve geometrik nesne korunur.",
+    "why_tr": "Araştırmadaki Y08–Y10 bağını kendi kaynaklarıyla görünür yapar.",
+    "order_tr": "Virgil’in çevreleyen kutusuna bir önceki dönemin geometrik nesne/beden karşılığı; sonraki hafta daha geniş sahneye geçiş.",
+    "new_value_tr": "Son koyu zeminli tam eser; ilerideki gerçek boyama kaydından farklı kanıt.",
+    "archive": true,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Yorumlarda gösterilen biçimsel ilişkiye ilişkin somut gözlemleri kaydet; yalnız beğeniyle tanınma sonucu çıkarma.",
+    "tactics": [
+      "T23",
+      "T50",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 10,
+    "phase": 1,
+    "works": [
+      "mandarin"
+    ],
+    "assets": [
+      "A0192",
+      "A0135",
+      "A0136",
+      "A0141"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G1",
+    "title_en": "Above the boat, the scene pulls in another direction.",
+    "caption_en": "A row of figures gathers below a field of flying forms. The boat and the upper movement pull the painting in different directions.",
+    "idea_tr": "Bütün→üstte uçan mavi formlar→alttaki tekne/figür sırası. Detayların doğru konusu görüntüde işaretlenerek seçilir.",
+    "why_tr": "Tek bir yüz yerine sahnedeki iki hareket düzeni geniş giriş sunar; kendi resminde cevabı var.",
+    "order_tr": "Capricorn’un durağan üçlüsünden hareketli kolektif sahneye geçer; P011 bu kalabalığı tek belirsiz bedene karşılaştırır.",
+    "new_value_tr": "Sahnenin üst/alt yön ilişkisi; mitolojik kaynak hikâyesi henüz anlatılmıyor.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Takipçi dışı erişim ile varsa gönderiye atfedilen takibi aynı ölçüm yaşında birlikte kaydet.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T14"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 11,
+    "phase": 1,
+    "works": [
+      "stlop"
+    ],
+    "assets": [
+      "A0134"
+    ],
+    "format": "Single",
+    "pillar": "body",
+    "goal": "G2",
+    "title_en": "s(t)lop",
+    "caption_en": "A figure emerges through pale strokes, with a red mouth holding its place.",
+    "idea_tr": "Tam eser; figür ile açık renkli alanın karışması tek görüntüde.",
+    "why_tr": "Gary’nin ayrılmış oval parçalarına karşı daha eriyen bir beden çözümü; ressamın aralığını genişletir.",
+    "order_tr": "Mandarin’in ayrılabilen figürlerinden figür/zemin sınırı daha belirsiz olan işe geçer; P012 çizimde başka bir yaratığın sınırlarını gösterir.",
+    "new_value_tr": "Yeni eser; tanıdık karakter anlatmadan da aynı hesap vaadi çalışıyor.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Yorumlarda gösterilen biçimsel ilişkiye ilişkin somut gözlemleri kaydet; yalnız beğeniyle tanınma sonucu çıkarma.",
+    "tactics": [
+      "T23",
+      "T50",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 12,
+    "phase": 1,
+    "works": [
+      "wings"
+    ],
+    "assets": [
+      "A2795"
+    ],
+    "format": "Single",
+    "pillar": "body",
+    "goal": "G3",
+    "title_en": "A creature in lines.",
+    "caption_en": "An undated drawing from the wings of abyss archive. The drawing is shown as a study, rather than the finished painting.",
+    "idea_tr": "Kök eskizi tam sayfa; kâğıt notlarını dekoratif slogan gibi yeniden yazmadan koru.",
+    "why_tr": "Yaratığın çizim halinde nasıl kurulduğu STLOP’un boya içinde beliren bedenine gerçek karşılık verir.",
+    "order_tr": "P011 boya sınırının ardından çizgi sınırı; sonraki hafta gerçek boyama hareketine geçmek için erken aşama durak.",
+    "new_value_tr": "Daha önce gösterilmemiş çalışma çizimi; bitmiş eserin yılı eskize atanmaz.",
+    "archive": true,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T23",
+      "T50",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 13,
+    "phase": 1,
+    "works": [
+      "capricorn"
+    ],
+    "assets": [
+      "A2802",
+      "A1832"
+    ],
+    "format": "Reel",
+    "pillar": "body",
+    "goal": "G1",
+    "title_en": "Watch the lower figure change.",
+    "caption_en": "Recorded painting footage from caprocorn sister. The final dark background belongs to a later state, beyond the change shown here.",
+    "idea_tr": "Hızlandırılmış gerçek kayıtta alt figürde siyah alanın büyümesi; sonunda daha sonraki bütün ayrı etiketle.",
+    "why_tr": "Kaynakta görünen dönüşüm hareket izleme nedeni yaratır; sonuca sahte kesintisiz süreç atfedilmez.",
+    "order_tr": "P012 çizim durağından gerçek yüzey eylemine; P014 bu aşağıda taşınan/bükülen beden ilgisini grup düzenine taşır.",
+    "new_value_tr": "P009 tamamlanmış kompozisyondan farklı olarak tek boyama müdahalesinin gerçek kaydı.",
+    "archive": true,
+    "sound": "none",
+    "production_tr": "A2802 120sn editin alt figürde müdahale taşıyan bölümü; kaynak60–100sn aday pencere, son kurgu öncesi hareket seçimi. A1832 later completed state etiketiyle.",
+    "check_tr": "Takipçi dışı erişim ile varsa gönderiye atfedilen takibi aynı ölçüm yaşında birlikte kaydet.",
+    "tactics": [
+      "T03",
+      "T43",
+      "T46",
+      "T14"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 14,
+    "phase": 1,
+    "works": [
+      "gxd"
+    ],
+    "assets": [
+      "A1209"
+    ],
+    "format": "Single",
+    "pillar": "scene",
+    "goal": "G2",
+    "title_en": "Gxd is AFK, We banned it",
+    "caption_en": "A carried body sits beneath a large dark field, held inside a group of different gestures.",
+    "idea_tr": "Tam eserde taşıyan, taşınan ve yükselen eller bir arada.",
+    "why_tr": "Sahne sütununa farklı bir grup ilişkisi ekler; kaynak isimleri olmadan resmin kendisi incelenir.",
+    "order_tr": "Capricorn’un alt bedeninden taşıma düzenine geçer; P015 kolektif gerilimi tek figür ve nesneye daraltır.",
+    "new_value_tr": "Bu eserin ilk bütün sunumu; albüm/ressam referansı sonraki ayrı içerik işi.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Yorumlarda gösterilen biçimsel ilişkiye ilişkin somut gözlemleri kaydet; yalnız beğeniyle tanınma sonucu çıkarma.",
+    "tactics": [
+      "T23",
+      "T50",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 15,
+    "phase": 1,
+    "works": [
+      "wall"
+    ],
+    "assets": [
+      "A0258"
+    ],
+    "format": "Single",
+    "pillar": "body",
+    "goal": "G2",
+    "title_en": "walls of perception",
+    "caption_en": "A yellow stream connects the face to the bowl below.",
+    "idea_tr": "Bütün; şapka, yüz, sarı akış ve kırmızı masa.",
+    "why_tr": "Figürün sınırını nesneye bağlayan görünür motif beden sütununa farklı bir çözüm ekler.",
+    "order_tr": "Gxd’de bedenler arası bağdan tek beden ile kap arasındaki bağa; P016 bu kez figürün çevresinin nasıl boyandığını gösterecek.",
+    "new_value_tr": "Yeni eserde ağız–nesne bağlantısı; psikolojik niyet atfedilmez.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Yorumlarda gösterilen biçimsel ilişkiye ilişkin somut gözlemleri kaydet; yalnız beğeniyle tanınma sonucu çıkarma.",
+    "tactics": [
+      "T23",
+      "T50",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 16,
+    "phase": 1,
+    "works": [
+      "sept"
+    ],
+    "assets": [
+      "A1159",
+      "A0947"
+    ],
+    "format": "Reel",
+    "pillar": "space",
+    "goal": "G1",
+    "title_en": "Painting the room before filling the figure.",
+    "caption_en": "Green paint builds a room around a figure left white. A recorded early session from sept neuf.",
+    "idea_tr": "Yeşil zeminin beyaz siluetin çevresine boyandığı gerçek el/fırça görüntüsü; boş kalan bedenin kompozisyondaki yerini göster.",
+    "why_tr": "Beden yalnız kendisine sürülen boyayla değil çevresinin kurulmasıyla da beliriyor; hareketle anlaşılır.",
+    "order_tr": "Wall’da sınırın dışarı akışından çevrenin bedeni ayırmasına geçer; P017 fiziksel tuval ölçeğini tanıtır.",
+    "new_value_tr": "P004 renk değişiminin yerine erken negatif alan kararı; farklı oturum, farklı soru.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "A1159 beyaz tuval→yeşil zemin kaydı; yalnız gerçekten fırçanın kadrajda olduğu bölüm. Arka plan sesi kapalı.",
+    "check_tr": "Takipçi dışı erişim ile varsa gönderiye atfedilen takibi aynı ölçüm yaşında birlikte kaydet.",
+    "tactics": [
+      "T03",
+      "T43",
+      "T46",
+      "T14"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 17,
+    "phase": 1,
+    "works": [
+      "penguin"
+    ],
+    "assets": [
+      "A2757",
+      "A2743"
+    ],
+    "format": "Carousel",
+    "pillar": "space",
+    "goal": "G4",
+    "title_en": "A painting at its actual scale.",
+    "caption_en": "penguin is not a friend, only a sinner, 2023. A 120 × 120 cm painting, shown beside a person and then on its own.",
+    "idea_tr": "Gerçek kişiyle ölçek fotoğrafı, ardından düzeltilmiş bütün; dekoratif sahte oda ekleme.",
+    "why_tr": "Telefon ekranında eşit görünen resimleri fiziksel nesne olarak incelemeye açar; 2023 arşivine gerçek giriş.",
+    "order_tr": "Boyama eyleminden bu eylemin gerçekleştiği nesnenin büyüklüğüne; P018 küçük panellerdeki yüze dönerek ölçek çeşitliliğini kurar.",
+    "new_value_tr": "Yeni dönem ve gerçek ölçek kaydı; arşiv yalnız 2020’yle sınırlı değil.",
+    "archive": true,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Gönderiden izlenebiliyorsa seçki/portföy ziyareti ve gerçek eser bilgisi talebini ayrı kaydet.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T14"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 18,
+    "phase": 1,
+    "works": [
+      "painstaking"
+    ],
+    "assets": [
+      "A0015",
+      "A0019",
+      "A0018",
+      "A0025"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G3",
+    "title_en": "The eyes do not balance the same way.",
+    "caption_en": "Across the three faces, the eyes pull against different mouths and contours.",
+    "idea_tr": "Göz ayrıntılarını doğru panele bağlayan küçük yer gösterimi; sonunda bütün triptik.",
+    "why_tr": "İlk panel karşılaştırmasından sonra yüzü tanımayı sağlayan belirli parçanın dengesini inceletir.",
+    "order_tr": "P017 geniş yüzeyden küçük panel içindeki yoğunluğa; P019 başka dönemin tek karikatür bedenine geçer.",
+    "new_value_tr": "P005 panel bütünleri yerine göz–ağız eksenindeki somut fark; yanlış panel eşleştirmesi yapılmaz.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 19,
+    "phase": 1,
+    "works": [
+      "unemployed"
+    ],
+    "assets": [
+      "A2388"
+    ],
+    "format": "Single",
+    "pillar": "body",
+    "goal": "G2",
+    "title_en": "cute but unemployed cartoon figure · 2020",
+    "caption_en": "A green-grey figure stands against red, its rounded body interrupted by pointed teeth.",
+    "idea_tr": "Efektsiz bütün; dişler, yuvarlak beden ve kırmızı fon aynı görüntüde.",
+    "why_tr": "Tanıdıklık/bedensel bozulma ilişkisini başka eski karakterle genişletir; yalnız Gary’ye dayanmaz.",
+    "order_tr": "Painstaking’in gözlerinden tek figürün sivri ağız/yuvarlak gövde karşıtlığına; P020 gündelik nesnelerin kimliği nasıl sabitlediğini açacak.",
+    "new_value_tr": "İlk kez ayrı arşiv eseri, farklı kırmızı/yeşil çözüm.",
+    "archive": true,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Yorumlarda gösterilen biçimsel ilişkiye ilişkin somut gözlemleri kaydet; yalnız beğeniyle tanınma sonucu çıkarma.",
+    "tactics": [
+      "T23",
+      "T50",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 20,
+    "phase": 1,
+    "works": [
+      "gary"
+    ],
+    "assets": [
+      "A0298",
+      "A0289",
+      "A0296",
+      "A0293"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G3",
+    "title_en": "The cigar, the match, the grill.",
+    "caption_en": "Three small objects keep an unstable body inside an ordinary scene.",
+    "idea_tr": "Bütün ve üç nesneye bağlanan detaylar; puro, kibrit/eller, ızgara.",
+    "why_tr": "Beden bozulsa da gündelik hareketi okunur kılan nesneleri gösterir; biçimsel yorum görüntüyle denetlenebilir.",
+    "order_tr": "P019 belirsiz karakterden Gary’nin tanınabilir gündelik eylemine geçer; P021 Angora’da okunmayı sağlayan mimari yapıyı ele alır.",
+    "new_value_tr": "P002 gövde kütlelerinden nesnelerin sahne kurma işine geçiş; sadece yeni crop değil.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 21,
+    "phase": 1,
+    "works": [
+      "angora"
+    ],
+    "assets": [
+      "A1554",
+      "A1564",
+      "A1559"
+    ],
+    "format": "Carousel",
+    "pillar": "space",
+    "goal": "G3",
+    "title_en": "The house takes shape.",
+    "caption_en": "Three recorded stages: the drawn structure, a painted middle state, and the completed scene.",
+    "idea_tr": "Aynı perspektife oturtulmuş üç gerçek aşama; çizimdeki çatı/geçit düzeninin boyalı kütleye dönüşümü.",
+    "why_tr": "Kişisel hikâyeyi bu kez gerçek resim yapısıyla destekler; mevcut düzgün process kaynağını doğru formatta kullanır.",
+    "order_tr": "Gary’nin nesnelerle sahne kurmasından mimari kütlelerin sahne kurmasına; sonraki yayın başka bir kaynağın resme gelişini anlatacak.",
+    "new_value_tr": "P001 anı anlatısından çizim–boya aşamaları arasındaki yapı farkına geçiş; slayt Reel yapılmaz.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 22,
+    "phase": 1,
+    "works": [
+      "gxd"
+    ],
+    "assets": [
+      "A1340",
+      "A1209"
+    ],
+    "format": "Reel",
+    "pillar": "scene",
+    "goal": "G1",
+    "title_en": "An album cover was a way into this painting.",
+    "caption_en": "An album cover led back to an older composition, and then into this group of painted bodies.",
+    "idea_tr": "Sanatçının kayıtlı kaynak zinciri; üçüncü taraf görselleri kopyalamadan kendi resmindeki taşıma düzenine dönen anlatı.",
+    "why_tr": "Müzikle ilgilenen kişiye giriş sunar, devamı mevcut resme bağlar.",
+    "order_tr": "P021 çizimden resme yolun ardından burada kültürel karşılaşmadan resme yol gelir; P023 başka sahneyi anlatısız inceleme alanı açar.",
+    "new_value_tr": "P014 bütün eser sunumuna daha önce anlatılmayan kaynak ilişkisi eklenir.",
+    "archive": false,
+    "sound": "english_voice",
+    "production_tr": "A1340 56–196sn anlatı dayanağı; isimleri ASR’dan körlemesine kopyalama. Yeni İngilizce anlatım gerekir; çekilmiş Türkçe konuşma İngilizceymiş gibi gösterilmez.",
+    "check_tr": "Takipçi dışı erişim ile varsa gönderiye atfedilen takibi aynı ölçüm yaşında birlikte kaydet.",
+    "tactics": [
+      "T03",
+      "T43",
+      "T46",
+      "T14"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 23,
+    "phase": 1,
+    "works": [
+      "board"
+    ],
+    "assets": [
+      "A0592"
+    ],
+    "format": "Single",
+    "pillar": "scene",
+    "goal": "G3",
+    "title_en": "7 fam board game",
+    "caption_en": "Two facing figures meet across a board filled with smaller bodies.",
+    "idea_tr": "Bitmiş eser tek görsel; yatay kompozisyon korunur.",
+    "why_tr": "Sahnenin tamamına kesintisiz bakış, daha önceki stüdyo kararı videosunda görünmeyen ilişkileri inceleme fırsatı.",
+    "order_tr": "Gxd’de taşıma grubundan yüz yüze karşılaşmaya; P024 bu çoklu beden ilişkisini eski çizime taşır.",
+    "new_value_tr": "P007 konuşması yerine tamamlanmış iki taraf ve aradaki küçük bedenler; aynı sesin tekrar yayını değil.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T23",
+      "T50",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 24,
+    "phase": 1,
+    "works": [
+      "good"
+    ],
+    "assets": [
+      "A0004"
+    ],
+    "format": "Single",
+    "pillar": "scene",
+    "goal": "G3",
+    "title_en": "A study for connected bodies.",
+    "caption_en": "An undated study from the good people helping bad ones archive.",
+    "idea_tr": "Karakalem çalışma bütünü; erken çizimi bitmiş akrilik eserden ayır.",
+    "why_tr": "Çoklu figür ilişkilerinin eski taslaktaki kuruluşu, stüdyo konuşması ve bitmiş grup resimleriyle ilişki kurar.",
+    "order_tr": "Board’daki iki taraf/küçük beden düzeninden arşivde bağlantılı figür taslağına; P025 mekân içindeki nesneye daralma.",
+    "new_value_tr": "Yeni arşiv çizimi; nihai 2019 tarihini çizim tarihine taşımıyor.",
+    "archive": true,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T23",
+      "T50",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 25,
+    "phase": 1,
+    "works": [
+      "virgil"
+    ],
+    "assets": [
+      "A0582",
+      "A0502",
+      "A0504"
+    ],
+    "format": "Carousel",
+    "pillar": "space",
+    "goal": "G3",
+    "title_en": "A chair inside a drawn room.",
+    "caption_en": "The hanging chair and the white corner make the room legible beside the softer bodies.",
+    "idea_tr": "Bütün, asılı sandalye, çizgili köşe; her detayın bütün içindeki yeri küçük işaretle.",
+    "why_tr": "Mekânın soyut çerçeveden nesneye geçtiği iki görünür kanıt var.",
+    "order_tr": "Çizimden çevreleyen çizgilerin bitmiş odasına; P026 başka dönemde çizgisel sandalye karşılığı.",
+    "new_value_tr": "P008 genel kutu/beden karşıtlığından belirli sandalye ve köşe okumaya geçer.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 26,
+    "phase": 1,
+    "works": [
+      "peachy"
+    ],
+    "assets": [
+      "A2156"
+    ],
+    "format": "Single",
+    "pillar": "space",
+    "goal": "G2",
+    "title_en": "The body bends; the chair stays drawn.",
+    "caption_en": "An elongated body bends through a purple-blue field beside a chair drawn in white. From 2019.",
+    "idea_tr": "Yatay bütün, eğilen beden ve beyaz sandalye korunur.",
+    "why_tr": "Virgil’deki sandalye üzerine arşivde farklı bir beden–mobilya düzeni getirir.",
+    "order_tr": "P025’teki nesne/çerçeve sorusunun 2019 karşılığı; P027 dikey asılı figürü başka sahnede genişletir.",
+    "new_value_tr": "Yeni arşiv işi; benzer nesne üzerinden fark gösterir, gelişim sırası iddiası yok.",
+    "archive": true,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Yorumlarda gösterilen biçimsel ilişkiye ilişkin somut gözlemleri kaydet; yalnız beğeniyle tanınma sonucu çıkarma.",
+    "tactics": [
+      "T23",
+      "T50",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 27,
+    "phase": 1,
+    "works": [
+      "mandarin"
+    ],
+    "assets": [
+      "A0218",
+      "A0214",
+      "A0192"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G3",
+    "title_en": "How the scene gathers around the boat.",
+    "caption_en": "Recorded stages of articulo attack on mandarin: a drawn arrangement becomes a painted scene.",
+    "idea_tr": "Temiz siyah çizim A0218 → boyalı ara aşama A0214 → bitmiş A0192. Üç durum aynı esere ait; süreç fotoğrafları carousel olarak etiketli.",
+    "why_tr": "P010’daki hareket ayrımının süreçte nasıl yer tuttuğunu incelemek için ek kanıt.",
+    "order_tr": "Peachy’de tek asılı bedenin ardından kalabalık yerleştirmeye; P028 gerçek boyama görüntüsüyle kütlenin kuruluşuna geçer.",
+    "new_value_tr": "P010 bitmiş üst/alt karşıtlığı yerine kayıtlı aşamalar; aynı montajın hız varyantı değil.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "A0218 aaaaa.png bitmiş resim değil temiz çizimdir. Sıra A0218/A0214/A0192; bütün aşamaların kamera önünde boyandığı iddia edilmez.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 28,
+    "phase": 1,
+    "works": [
+      "board"
+    ],
+    "assets": [
+      "A0630",
+      "A0592"
+    ],
+    "format": "Reel",
+    "pillar": "body",
+    "goal": "G1",
+    "title_en": "Building the red body.",
+    "caption_en": "A recorded session from 7 fam board game: the red figure develops through actual brushwork.",
+    "idea_tr": "Kırmızı gövde üzerinde gerçek fırça hareketi; geniş hareket ve elin değiştirdiği yer birlikte.",
+    "why_tr": "Konuşmanın dışında yapılan işin kendisi yeni izleyici için anlaşılır eylem sunar.",
+    "order_tr": "Mandarin aşama fotoğraflarından kesintisiz fiziksel harekete; P029 boya yapma eyleminden eski çoklu beden sonucuna geçer.",
+    "new_value_tr": "P007 karar konuşması ve P023 bütününden farklı olarak gerçek kırmızı boya müdahalesi.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "A0630 kırmızı gövde ham oturumu. Yeni video icat edilmez; kesim noktaları bu uzun vadeli kartın üretim aşamasında seçilecek. Arka plan medyası kapalı.",
+    "check_tr": "Takipçi dışı erişim ile varsa gönderiye atfedilen takibi aynı ölçüm yaşında birlikte kaydet.",
+    "tactics": [
+      "T03",
+      "T43",
+      "T46",
+      "T14"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 29,
+    "phase": 1,
+    "works": [
+      "baby"
+    ],
+    "assets": [
+      "A1809"
+    ],
+    "format": "Single",
+    "pillar": "body",
+    "goal": "G2",
+    "title_en": "baby rights 101 · 2020",
+    "caption_en": "Black and white bodies fold through each other, crossed by thin red lines.",
+    "idea_tr": "Tam eser; iç içe figürler ve ince kırmızı çizgiler korunur.",
+    "why_tr": "Sıcak kırmızı kütleye karşı ağırlıkla siyah/beyaz ve çizgisel bağ kuran önceki dönem çözümü.",
+    "order_tr": "P028’de tek kırmızı beden kurulurken burada beden sınırları birlikte katlanır; P030 ilk dönemin üç alanını toparlar.",
+    "new_value_tr": "Yeni arşiv eseri; farklı malzeme dili değil aynı medium içinde farklı çizgi/alan ilişkisi.",
+    "archive": true,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Yorumlarda gösterilen biçimsel ilişkiye ilişkin somut gözlemleri kaydet; yalnız beğeniyle tanınma sonucu çıkarma.",
+    "tactics": [
+      "T23",
+      "T50",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 30,
+    "phase": 1,
+    "works": [
+      "angora",
+      "gary",
+      "board"
+    ],
+    "assets": [
+      "A1378",
+      "A0298",
+      "A0592"
+    ],
+    "format": "Carousel",
+    "pillar": "space",
+    "goal": "G4",
+    "title_en": "Three ways into the paintings.",
+    "caption_en": "A house, a body, a meeting. Three paintings from 2026, with their titles, materials and dimensions.",
+    "idea_tr": "Angora mekân/bellek; Gary beden; Board karşılaşma sahnesi. Üç bütün, üç doğru künye, seçki yolu.",
+    "why_tr": "Yeni gelenin hesabı tek eser üzerinden okumamasını sağlayan kısa, kullanılabilir portföy girişi.",
+    "order_tr": "İlk29 gönderinin mekân/beden/sahne kanıtını üç okunur esere toplar; ikinci bölüm bu vaatlerin içindeki somut kararları daha yakından açacak.",
+    "new_value_tr": "Üç farklı soruyu üç ayrı eserle açık eşler: mekân, beden, karşılaşma. İkinci mekân işini sahne sütunu yerine koymaz.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Gönderiden izlenebiliyorsa seçki/portföy ziyareti ve gerçek eser bilgisi talebini ayrı kaydet.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T14"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 31,
+    "phase": 2,
+    "works": [
+      "stlop"
+    ],
+    "assets": [
+      "A0134",
+      "A0096",
+      "A0097"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G3",
+    "title_en": "A mouth holds the figure together.",
+    "caption_en": "Pale strokes blur the edge of the figure; the red mouth gives the eye a place to return.",
+    "idea_tr": "Bütün, yüz/alt yüz; resimdeki kırmızı ağızla çevresindeki açık izlerin karşıtlığını göster.",
+    "why_tr": "İlk tanışıklığı tek gözle denetlenebilir inceleme kararına dönüştürür.",
+    "order_tr": "P030 geniş seçkiden bir resimdeki tek tutunma noktasına; P032 başka bedende küçük nesnenin benzer işi nasıl yaptığını açar.",
+    "new_value_tr": "P011 genel bütün sunumundan ağız–zemin bağlantısına geçiş.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 32,
+    "phase": 2,
+    "works": [
+      "cellular"
+    ],
+    "assets": [
+      "A1862"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G3",
+    "title_en": "The small car changes the size of the body.",
+    "caption_en": "The car beneath the figure changes how large the rounded body feels. cellular spleens, 2020.",
+    "idea_tr": "Bütün ve aynı dosyadan araç/bacak bölümü; sayfada önce ölçek etkisi sonra bütüne dönük işaret.",
+    "why_tr": "Aracın sadece ek motif değil beden ölçeğini okumaya yarayan karşılık olduğunu gösterir.",
+    "order_tr": "STLOP’ta ağız tanınmayı sabitlerken burada araç boyut algısını değiştirir; P033 bu kütlelerin yeni bir resimde kuruluşuna geçer.",
+    "new_value_tr": "P003 oval kütle benzerliğinden araç ile bedenin orantı ilişkisine; farklı ve somut soru.",
+    "archive": true,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 33,
+    "phase": 2,
+    "works": [
+      "gary"
+    ],
+    "assets": [
+      "A0340",
+      "A0350",
+      "A0298"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G3",
+    "title_en": "A figure before and after its coloured masses.",
+    "caption_en": "The line structure and the painted body offer two different ways of reading the same figure.",
+    "idea_tr": "Çizim ve boyalı süreç dosyalarını adlarındaki aşama numarasına göre doğrula; iki aşama ve son bütün.",
+    "why_tr": "Yuvarlak kütlelerin sırf figür konusu değil resim kurma kararı olduğunu kayıtlı aşamayla gösterir.",
+    "order_tr": "P032 bitmiş eski kütleden Gary’nin çizgi–kütle ayrımına; P034 tam kapanmayan konturun başka karşılığını getirir.",
+    "new_value_tr": "P002 sonuç ve P020 nesnelerden farklı olarak gerçek çizim/renk aşaması. Referans fotoğrafı süreç diye gösterilmez.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 34,
+    "phase": 2,
+    "works": [
+      "sept"
+    ],
+    "assets": [
+      "A1165",
+      "A0947"
+    ],
+    "format": "Reel",
+    "pillar": "body",
+    "goal": "G1",
+    "title_en": "A contour can stay visible through a body.",
+    "caption_en": "Light lines keep moving across the purple figure and the chair. Recorded work on sept neuf.",
+    "idea_tr": "Açık/mavi kontur üzerinde gerçek boyama; çizginin tamamlanmış gövde boyunca nasıl okunduğunu son karede göster.",
+    "why_tr": "Harekette görülen açık çizgi, bedenin kapalı bir renk lekesi olmamasını anlatır.",
+    "order_tr": "Gary’de dolan hacimden Sept’te açık kalan kontura; P035 eski çift yüzün silinen sınırlarıyla karşılaştırma.",
+    "new_value_tr": "P004 renk değişimi/P016 zemin ayrımı yerine açık çizgi ilişkisi.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "A1165 açık/mavi konturlar ham oturumu; yalnız çizgiyle ilgili görünen müdahale. Şimdiden kesin saniye aralığı seçilmiş sayılmaz; üretimde hareket eşleştirilecek.",
+    "check_tr": "Takipçi dışı erişim ile varsa gönderiye atfedilen takibi aynı ölçüm yaşında birlikte kaydet.",
+    "tactics": [
+      "T03",
+      "T43",
+      "T46",
+      "T14"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 35,
+    "phase": 2,
+    "works": [
+      "duality"
+    ],
+    "assets": [
+      "A1945"
+    ],
+    "format": "Single",
+    "pillar": "body",
+    "goal": "G2",
+    "title_en": "duality of the angelic summarization · 2019",
+    "caption_en": "A bearded face, another small figure, and a body that fades into its surroundings.",
+    "idea_tr": "Tam eser, çift yüz/beden silinmeleri ve küçük figür ilişkisi.",
+    "why_tr": "Açık sınırın eski bir işte farklı, daha silinen karşılığını gösterir.",
+    "order_tr": "P034 çizginin görünür devamından burada gövdenin çevreye karışmasına; P036 daha keskin yüz parçalarına dönülür.",
+    "new_value_tr": "İlk arşiv bütün sunumu; benzerlik kadar sınır farkı da görünür.",
+    "archive": true,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Yorumlarda gösterilen biçimsel ilişkiye ilişkin somut gözlemleri kaydet; yalnız beğeniyle tanınma sonucu çıkarma.",
+    "tactics": [
+      "T23",
+      "T50",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 36,
+    "phase": 2,
+    "works": [
+      "painstaking"
+    ],
+    "assets": [
+      "A0029",
+      "A0027",
+      "A0025"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G3",
+    "title_en": "Teeth in one face, a heavy mouth in another.",
+    "caption_en": "The centre panel gathers its teeth into a tight field. The right panel gives more weight to the mouth and nose.",
+    "idea_tr": "Orta ve sağ panel tam; küçük konum göstergesi; son bütün.",
+    "why_tr": "Yüzdeki ağız parçalarının iki farklı ağırlık kurduğunu kanıtlayan doğrudan karşılaştırma.",
+    "order_tr": "Duality’de eriyen yüz kenarından Painstaking’de ağız parçalarının yoğunluğuna; P037 ağırlığı bütün bedenin taşınmasına büyütür.",
+    "new_value_tr": "P018 göz ekseni yerine diş alanı ve burun/ağız ağırlığı; ayrı inceleme iddiası.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 37,
+    "phase": 2,
+    "works": [
+      "gxd"
+    ],
+    "assets": [
+      "A1209"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G3",
+    "title_en": "Where does the weight go?",
+    "caption_en": "The carried body leans into the group, while the raised hands pull the eye upwards.",
+    "idea_tr": "Bütün→taşınan beden/taşıyıcı→açılan eller; kendi görselinde yönleri hafif çizgiyle göster, yeni şekil ekleme.",
+    "why_tr": "Taşıma sahnesinde bedenin ağırlığı ve bakışın yönü ayrılabilir görünür kanıtlar.",
+    "order_tr": "P036 yüz içindeki ağırlıktan figürler arası yük ilişkisine; P038 ters asılı bedenle bu yönü sınar.",
+    "new_value_tr": "P022 kaynak zinciri yerine kendi kompozisyonundaki yük/yön ilişkisi.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 38,
+    "phase": 2,
+    "works": [
+      "guard"
+    ],
+    "assets": [
+      "A2050"
+    ],
+    "format": "Single",
+    "pillar": "scene",
+    "goal": "G2",
+    "title_en": "guarding holy mountains from malice · 2019",
+    "caption_en": "An inverted red figure hangs above a group of blue figures and a broad pink mass.",
+    "idea_tr": "Tam yatay sahne; ters kırmızı figürle aşağıdaki grup birlikte.",
+    "why_tr": "Yük ve yön sorusunun eski sahnede asılmasının farklı bir karşılığını verir.",
+    "order_tr": "Gxd’de taşınandan burada ters asılana; P039 küçük figürün büyük figürle merkez kurmasına geçer.",
+    "new_value_tr": "Yeni arşiv sahnesi; iş başlığından siyasi/kişisel niyet çıkarılmaz.",
+    "archive": true,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Yorumlarda gösterilen biçimsel ilişkiye ilişkin somut gözlemleri kaydet; yalnız beğeniyle tanınma sonucu çıkarma.",
+    "tactics": [
+      "T23",
+      "T50",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 39,
+    "phase": 2,
+    "works": [
+      "virgil"
+    ],
+    "assets": [
+      "A0582",
+      "A0499",
+      "A0501"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G3",
+    "title_en": "A smaller body changes the centre.",
+    "caption_en": "The smaller figures change how the central body meets the room around it.",
+    "idea_tr": "Bütün ve küçük figür detayları; çevredeki figürlerin ana gövdeye göre yerlerini açıkça koru. Yaş veya kimlik tahmin etme.",
+    "why_tr": "İlk mekân okumasını grup ilişkisine genişletir; aynı kutunun içinde farklı inceleme görevi.",
+    "order_tr": "P038 grubun yukarı/aşağı düzeninden merkezi büyük ve küçük bedenlerin ilişkisine; P040 tek büyük yaratığın farklı ölçü düzeni.",
+    "new_value_tr": "P025 sandalye/köşeden küçük figürün grup içindeki yerine geçiş. Fotoğraflar carousel; kaynakta bulunmayan ham video yok.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 40,
+    "phase": 2,
+    "works": [
+      "wings"
+    ],
+    "assets": [
+      "A2451"
+    ],
+    "format": "Single",
+    "pillar": "body",
+    "goal": "G3",
+    "title_en": "wings of abyss · 2019",
+    "caption_en": "A pointed white head and a spiralling body sit below an inverted pink figure.",
+    "idea_tr": "Tamamlanmış bütün ilk kez; P012 eskizini tekrar slayta dönüştürmeden resim kendi başına.",
+    "why_tr": "Eskizdeki biçimlerin tamamlanmış resimde renk ve yön kazanmasını görme fırsatı.",
+    "order_tr": "Virgil’de küçük/büyük beden karşıtlığından burada terslik ve spiral gövdeye; P041 sahnede yönlerin çoğalmasına.",
+    "new_value_tr": "P012 yalnız eskizdi; bu yayın bitmiş eserin yeni renk/yön kanıtını sunar.",
+    "archive": true,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T23",
+      "T50",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 41,
+    "phase": 2,
+    "works": [
+      "mandarin"
+    ],
+    "assets": [
+      "A0192"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G3",
+    "title_en": "A vertical figure between two horizontal worlds.",
+    "caption_en": "The hanging figure cuts through the distance between the upper forms and the boat below.",
+    "idea_tr": "Bütün ve merkezdeki ince direk/asılı figürü kapsayan crop; üst/alt gruplar konum haritasında görünür.",
+    "why_tr": "İlk üst/alt karşıtlığını bu iki alanı bağlayan üçüncü eksenle genişletir.",
+    "order_tr": "Wings’te ters asılı bedenin ardından asılı figürün sahne bağlama görevine; P042 mimari bakış yönünü açar.",
+    "new_value_tr": "P010 üst/alt/P027 süreçten farklı olarak dikey bağlantı ve asılı figür.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 42,
+    "phase": 2,
+    "works": [
+      "angora"
+    ],
+    "assets": [
+      "A1632",
+      "A1378"
+    ],
+    "format": "Reel",
+    "pillar": "space",
+    "goal": "G1",
+    "title_en": "Why show the house from above?",
+    "caption_en": "The elevated view exposes roofs, walls and passages at once. The house takes an active part in the scene.",
+    "idea_tr": "Sanatçının izometrik bakış anlatımı ve kendi bütününde çatı/cephelerin aynı anda okunması.",
+    "why_tr": "Mekânı figür kadar etkin yapan somut bakış seçimini görünür kılar.",
+    "order_tr": "Mandarin’de dikey sahne ekseninden Angora’da yukarıdan bakışa; P043 çizgiden renk alanına başka yapıyı kurar.",
+    "new_value_tr": "P001 çocukluk bilgisi ve P021 süreçten ayrı perspektif sorusu.",
+    "archive": false,
+    "sound": "english_voice",
+    "production_tr": "A1632 224–252 ve364–420sn izometrik kompozisyon anlatısı; yeni İngilizce ses. 3B referansları gerçek resim yapma anı olarak gösterme.",
+    "check_tr": "Takipçi dışı erişim ile varsa gönderiye atfedilen takibi aynı ölçüm yaşında birlikte kaydet.",
+    "tactics": [
+      "T03",
+      "T43",
+      "T46",
+      "T14"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 43,
+    "phase": 2,
+    "works": [
+      "wall"
+    ],
+    "assets": [
+      "A0260",
+      "A0262",
+      "A0264"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G3",
+    "title_en": "The face, the table, the space between.",
+    "caption_en": "Recorded stages of walls of perception: a figure and a table become connected by paint.",
+    "idea_tr": "Gerçek üç aşama; aradaki sarı akışın boyalı kompozisyonda yerleşmesini aşamalarla incelet.",
+    "why_tr": "Tek motifin çizim ve boya arasında nasıl yer tuttuğunu gerçek kayıtla destekler.",
+    "order_tr": "P042 bakış açısının kurduğu mekândan burada iki form arasındaki boyalı bağlantıya; P044 parçalı yüzün arşiv karşılığı.",
+    "new_value_tr": "P015 bitmiş sarı bağın yerine gerçek aşamalar; efekt varyantı kullanılmaz.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 44,
+    "phase": 2,
+    "works": [
+      "rompi"
+    ],
+    "assets": [
+      "A1750"
+    ],
+    "format": "Single",
+    "pillar": "body",
+    "goal": "G2",
+    "title_en": "il sbagliato di rompipalle · 2019",
+    "caption_en": "A fragmented face and a toothed form emerge from purple and yellow against green.",
+    "idea_tr": "Bütün eser; yüzün parçaları ile yeşil alanın farkını koru.",
+    "why_tr": "Güncel yüz seçkisinin daha eski, farklı renk ve diş çözümünü getirir.",
+    "order_tr": "Wall’un yüz-nesne akışından Rompi’nin yüz içinde kırılan düzenine; P045 stüdyoda sahneyi bir arada tutma çalışması.",
+    "new_value_tr": "İlk arşiv sunumu; Painstaking’in kaynağı olduğu iddia edilmez.",
+    "archive": true,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Yorumlarda gösterilen biçimsel ilişkiye ilişkin somut gözlemleri kaydet; yalnız beğeniyle tanınma sonucu çıkarma.",
+    "tactics": [
+      "T23",
+      "T50",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 45,
+    "phase": 2,
+    "works": [
+      "board"
+    ],
+    "assets": [
+      "A0631",
+      "A0592"
+    ],
+    "format": "Reel",
+    "pillar": "scene",
+    "goal": "G1",
+    "title_en": "Painting with the paper beside the canvas.",
+    "caption_en": "A recorded studio session shows painting and paper references sharing the same working space.",
+    "idea_tr": "Gerçek kayıtta kâğıt referans ile tuvale bakma/çalışma hareketi; basılı kaynağın ne olduğunu teyitsiz adlandırma.",
+    "why_tr": "Üretimin yalnız fırçanın tuvale dokunması değil bakma ve karar verme olduğunu görünür eylemle gösterir.",
+    "order_tr": "P044 bitmiş kırılmadan sahneyi bir arada tutmaya çalışan stüdyo hareketine; P046 eski kağıt eseri sunar.",
+    "new_value_tr": "P007 sohbet/P028 kırmızı boya yerine bakışın kâğıt ve tuval arasında dolaşması.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "A0631 ilk49dk içinden kâğıtla görünen çalışma; son49–57dk boş atölye elenir. Türkçe ortam medyası kullanılmaz.",
+    "check_tr": "Takipçi dışı erişim ile varsa gönderiye atfedilen takibi aynı ölçüm yaşında birlikte kaydet.",
+    "tactics": [
+      "T03",
+      "T43",
+      "T46",
+      "T14"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 46,
+    "phase": 2,
+    "works": [
+      "good"
+    ],
+    "assets": [
+      "A2014"
+    ],
+    "format": "Single",
+    "pillar": "scene",
+    "goal": "G3",
+    "title_en": "good people helping bad ones · 2019",
+    "caption_en": "Large pale forms meet smaller orange figures on black paper.",
+    "idea_tr": "Bütün eser, siyah kâğıt mediumu açıkça belirtilir.",
+    "why_tr": "P024 çizim ailesinin tamamlanmış renk ve boyut karşılığını gösterir; kâğıt eserin maddi bilgisi de yeni.",
+    "order_tr": "Board’da kâğıt referansla üretimden burada kâğıdın bitmiş eserin zemini oluşuna; P047 diğer çizim/boya bağı.",
+    "new_value_tr": "Önceki tarihsiz eskizden ayrı, 2019 bitmiş akrilik/kâğıt eser.",
+    "archive": true,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T23",
+      "T50",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 47,
+    "phase": 2,
+    "works": [
+      "gxd"
+    ],
+    "assets": [
+      "A1335",
+      "A1319",
+      "A1323",
+      "A1209"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G3",
+    "title_en": "The group before the dark field.",
+    "caption_en": "A drawing, a recorded painted stage, and the completed group show different states of the same composition.",
+    "idea_tr": "Temiz taslak, boyalı ara aşama, son bütün; karanlık fonun grup çevresindeki payına bak.",
+    "why_tr": "Kaynak hikâyesinin ötesinde kendi çiziminden kendi resmine somut bir karar yolu.",
+    "order_tr": "P046 siyah kâğıdın açık biçimleri taşımasından Gxd’de boyanan koyu alanın grubu taşımasına; P048 küçük el hareketinin sahne kurması.",
+    "new_value_tr": "P022 kaynak/P037 ağırlık yerine çizimden boyalı zemin ilişkisine geçiş.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 48,
+    "phase": 2,
+    "works": [
+      "gary"
+    ],
+    "assets": [
+      "A0291",
+      "A0294",
+      "A0298"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G3",
+    "title_en": "Rounded masses, visible brush marks.",
+    "caption_en": "The body looks rounded from a distance. Up close, the green and purple masses remain separate brush marks.",
+    "idea_tr": "A0291 gövdedeki yuvarlak izler, A0294 omuzdaki geniş vuruşlar, sonra bütün. Aynı renk kütlesinin yakından yüzey olarak okunması.",
+    "why_tr": "Görüntüde doğrulanabilir vuruş–hacim farkı, resmin dijital karakter çizimi değil boyalı yüzey olarak incelenmesini sağlar.",
+    "order_tr": "Gxd çizim/zemin karşılaştırmasından Gary’nin doğrudan boyalı yüzeyine; P049 farklı eski bedende uzun renk alanına geçer.",
+    "new_value_tr": "P020 nesneler/P033 aşamalarından ayrı, büyük hacim ile tekil fırça izleri arasındaki gözlenebilir fark.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "A0291/A0294 hazır detaylar doğrudan incelendi; boya yüksekliği/kalınlığı fotoğraftan ölçülmüş gibi söylenmez.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 49,
+    "phase": 2,
+    "works": [
+      "viperella"
+    ],
+    "assets": [
+      "A1772"
+    ],
+    "format": "Single",
+    "pillar": "body",
+    "goal": "G2",
+    "title_en": "viperella · 2020",
+    "caption_en": "A long purple-pink figure raises one hand against a pale field.",
+    "idea_tr": "Tam eser; el, uzun beden ve kırmızı dudak aynı kompozisyonda.",
+    "why_tr": "Elin küçük gündelik hareket yerine bütün bedenin yönünü belirlediği eski karşılık.",
+    "order_tr": "Gary’de yuvarlak fırça vuruşlarının ardından daha uzun ve dikey Viperella gövdesi; P050 figürlerin odadaki farklı desteklerine geçer.",
+    "new_value_tr": "Yeni eski eser; medya dosyasını sırf video adı var diye Reel saymıyor.",
+    "archive": true,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Yorumlarda gösterilen biçimsel ilişkiye ilişkin somut gözlemleri kaydet; yalnız beğeniyle tanınma sonucu çıkarma.",
+    "tactics": [
+      "T23",
+      "T50",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 50,
+    "phase": 2,
+    "works": [
+      "sept"
+    ],
+    "assets": [
+      "A0947"
+    ],
+    "format": "Carousel",
+    "pillar": "space",
+    "goal": "G3",
+    "title_en": "Two seats, two bodies.",
+    "caption_en": "The chair and the bird’s perch create two places to sit inside the green room.",
+    "idea_tr": "Bütün; insanın kıvrımlı koltuğu ve kuşun çizgisel taburesi ayrı crop, yapı farkı açıklanır.",
+    "why_tr": "Aynı odada iki oturma düzeneğinin bedenleri nasıl farklı taşıdığını göstermeye elverişli.",
+    "order_tr": "P049 yükselen elin ardından burada yerleşen bedenlerin desteğine; P051 kutu çizgisinin başka destek/sınır görevine.",
+    "new_value_tr": "Önceki renk/boş siluet/kontur videolarından ayrı olarak iki mobilya ve iki beden ilişkisi.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 51,
+    "phase": 2,
+    "works": [
+      "virgil",
+      "capricorn"
+    ],
+    "assets": [
+      "A0582",
+      "A1832"
+    ],
+    "format": "Carousel",
+    "pillar": "space",
+    "goal": "G3",
+    "title_en": "An open frame and a solid block.",
+    "caption_en": "White lines frame the bodies in Virgil on Virtual Cage. A solid green form sits among the bodies in caprocorn sister. Geometry has a different job in each painting.",
+    "idea_tr": "İki bütün ayrı sayfalar; Virgil beyaz açık çerçeve ve Capricorn dolu yeşil geometrik nesne yan yana karşılaştırma.",
+    "why_tr": "Araştırmadaki Y10–Y08 eşleştirmesine somut bir fark ekler: çevreleyen çizgi ile içeride duran renkli kütle.",
+    "order_tr": "Sept’in iki mobilyasından başka iki resimdeki geometrinin farklı görevlerine; P052 merkez mekanik nesnenin eski karşılığıyla genişler.",
+    "new_value_tr": "P008/009 eserleri ayrı tanıtmıştı; bu kez açık çerçeve–dolu nesne karşıtlığı aynı karşılaştırmada görünür.",
+    "archive": true,
+    "sound": "none",
+    "production_tr": "İki mevcut bütün; araştırmadaki biçimsel ilişki, sanatçının geçmişten etkilenme beyanı sayılmaz.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 52,
+    "phase": 2,
+    "works": [
+      "transhumanism"
+    ],
+    "assets": [
+      "A2213"
+    ],
+    "format": "Single",
+    "pillar": "scene",
+    "goal": "G2",
+    "title_en": "A machine between two bodies.",
+    "caption_en": "Two bodies face a black mechanical form, with painted words sharing the blue field. Century of 0 & 1 / Transhumanism, 2019.",
+    "idea_tr": "Tam yatay eser; soldaki pembe ve sağdaki sarı beden, merkez mekanik form ve resmin kendi yazıları birlikte.",
+    "why_tr": "Sahneyi yalnız beden ve nesneyle değil yazıyla da kuran farklı arşiv karşılığını gösterir.",
+    "order_tr": "Virgil’de figürleri çevreleyen çizgiden burada iki beden arasına giren mekanik nesne ve yazıya; P053 yeniden mimari geçitlere döner.",
+    "new_value_tr": "Daha önce sunulmamış eski bütün; ilk Capricorn kaydının yavaş sürümüyle sayı doldurulmaz.",
+    "archive": true,
+    "sound": "none",
+    "production_tr": "A2213 bütün. Resimdeki yazıları caption içinde sanatçının güncel beyanı gibi yeniden yazma.",
+    "check_tr": "İzleyicinin yazı, merkez nesne ve beden ilişkisine ilişkin somut sorularını ayrı kaydet.",
+    "tactics": [
+      "T23",
+      "T50",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 53,
+    "phase": 2,
+    "works": [
+      "angora"
+    ],
+    "assets": [
+      "A1378",
+      "A1408",
+      "A1409",
+      "A1410"
+    ],
+    "format": "Carousel",
+    "pillar": "space",
+    "goal": "G3",
+    "title_en": "Ways into the house.",
+    "caption_en": "Doors, steps and roof edges divide the house into routes for the eye.",
+    "idea_tr": "Alt ev, merdiven/geçit ve çatı detayları; fotoğraftaki tuval dışı ahşabı kırp, mimari içeriği koru.",
+    "why_tr": "Evin anı olarak değil resimde gezinilen bir yapı olarak somut incelemesi.",
+    "order_tr": "P052’de iki beden arasındaki mekanik nesne ve yazıdan burada ev içinde geçiş sağlayan boşluklara; P054 iki beden arasındaki boşluğa taşınır.",
+    "new_value_tr": "P001 biyografi/P042 bakış açısı yerine kapı, merdiven ve geçit düzeni.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 54,
+    "phase": 2,
+    "works": [
+      "ciao"
+    ],
+    "assets": [
+      "A1903"
+    ],
+    "format": "Single",
+    "pillar": "body",
+    "goal": "G3",
+    "title_en": "ciao capo, sono squalo · 2020",
+    "caption_en": "Two elongated blue and white bodies hold their outlines against red and black.",
+    "idea_tr": "Bitmiş bütün; P006 çiziminden ayrı tarihli tam eser sunumu.",
+    "why_tr": "Daha önceki konturlu aşamanın boya ve renk sonrasındaki ayrı okunma fırsatı.",
+    "order_tr": "Angora’daki geçit boşluğundan iki bedenin arasındaki ayrılmaya; P055 başka dönemde aşamaların tüm kompozisyonu değiştirmesine.",
+    "new_value_tr": "P006 çizim kırmızı/pale; bu yayın 2020 son mavi/beyaz gövdeleri getirir.",
+    "archive": true,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T23",
+      "T50",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 55,
+    "phase": 2,
+    "works": [
+      "penguin"
+    ],
+    "assets": [
+      "A2740",
+      "A2741",
+      "A2743"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G3",
+    "title_en": "Three recorded stages of a square painting.",
+    "caption_en": "Three recorded stages of penguin is not a friend, only a sinner. Painted in 2023.",
+    "idea_tr": "A2740 erken durum; A2741 sarı gövdeli ara durum; A2743 son sunum. A2742/43 ton farkı ayrı fiziksel aşama olarak sayılmaz.",
+    "why_tr": "Kare kompozisyonun çizgi/akış ilişkisini zaman içindeki kayıtlarla açar.",
+    "order_tr": "Ciao’nun nihai sonucundan burada boyalı durumların farkına; P056 farklı fiziksel bölünme olarak triptiğe.",
+    "new_value_tr": "P017 yalnız gerçek ölçekti; şimdi farklı durumlar arasındaki yüzey düzeni.",
+    "archive": true,
+    "sound": "none",
+    "production_tr": "Üç görsel gerçek farklı durumları gösterir. A2742 veA2743 arasında ton/kontrast farkı bulunması dördüncü boyama olayı kanıtı değildir.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 56,
+    "phase": 2,
+    "works": [
+      "painstaking"
+    ],
+    "assets": [
+      "A0025",
+      "A0028",
+      "A0029",
+      "A0027"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G4",
+    "title_en": "One triptych, three separate canvases.",
+    "caption_en": "Painstaking is a triptych of three canvases, each 40 × 30 cm. The gaps belong to the arrangement; they are not painted stripes.",
+    "idea_tr": "Doğru bütün yanında her panelin ayrı tam hali ve 40×30 künye; toplam genişliğe aralık ölçüsü uydurma.",
+    "why_tr": "Ekran görüntüsünün tek yatay resim sanılmasını önler; fiziksel eseri incelemeye yarayan doğru bilgi.",
+    "order_tr": "Penguin’in tek kare yüzeyinden üç ayrı dikey tuvale; P057 tuval içindeki başka bir fiziksel bağlantıya döner.",
+    "new_value_tr": "P005 biçim karşılaştırması/P018 göz/P036 ağızdan ayrı nesne ve ölçü bilgisi; aynı panellerin tekrar gerekçesi açık.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Gönderiden izlenebiliyorsa seçki/portföy ziyareti ve gerçek eser bilgisi talebini ayrı kaydet.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T14"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 57,
+    "phase": 2,
+    "works": [
+      "wall"
+    ],
+    "assets": [
+      "A0258",
+      "A0226"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G3",
+    "title_en": "A small purple flower beside the face.",
+    "caption_en": "Beside the face, a small purple flower stands against the green field. It sits away from the stronger movement of yellow paint.",
+    "idea_tr": "Bütün veA0226 çiçek detayı; büyük sarı akışın dışındaki küçük mor/yeşil alanın farklı görsel yoğunluğu.",
+    "why_tr": "Baskın motifi tekrar anlatmadan resimde daha sakin bir karşı alanı inceletir; detay görüntüde gerçekten var.",
+    "order_tr": "P056 fiziksel panel sınırından burada tek resimdeki ayrı dikkat alanına; P058 temiz kadrajın dışındaki fiziksel tuvale çıkar.",
+    "new_value_tr": "P015/P043 sarı akış ve aşamaları yerine daha önce incelenmemiş mor çiçek–yeşil zemin ilişkisi.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "A0226 doğrudan kontrol edildi: yeşil zemin önünde mor çiçek; ağız akışının detayı diye etiketlenmez.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 58,
+    "phase": 2,
+    "works": [
+      "mandarin"
+    ],
+    "assets": [
+      "A0194",
+      "A0192"
+    ],
+    "format": "Carousel",
+    "pillar": "scene",
+    "goal": "G4",
+    "title_en": "The painting beyond the cropped image.",
+    "caption_en": "articulo attack on mandarin, shown in the studio and as a full painting. Acrylic on canvas, 80 × 80 cm.",
+    "idea_tr": "Gerçek stüdyo fotoğrafı A0194 ve temiz bütün A0192; kare tuvalin kenarı/çevresi görünen gerçek nesne sunumu.",
+    "why_tr": "Dijital kadrajdan fiziksel esere geçişi somut, doğru ölçüyle incelemeye açar.",
+    "order_tr": "P056’da triptiğin ayrı yüzeylerini tanımladıktan sonra P057 resme yakın bakış, burada kare tek tuvalin stüdyodaki karşılığı; P059 çizime geçer.",
+    "new_value_tr": "P010/P027/P041 sahne ve süreç okumalarından farklı fiziksel tuval/ölçek bilgisi; belirsiz son rötuş videosu yerine gerçek kanıt.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "A0194 gerçek stüdyo fotoğrafı ve A0192. Fotoğraftaki ölçü katalogdan; bir insanla karşılaştırılan ölçek veya sergi kurulumu iddiası yok.",
+    "check_tr": "Ölçü, malzeme veya tam eser seçkisine ilişkin gerçek bilgi talebini kaydet.",
+    "tactics": [
+      "T22",
+      "T23",
+      "T50"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 59,
+    "phase": 2,
+    "works": [
+      "lucid"
+    ],
+    "assets": [
+      "A1696"
+    ],
+    "format": "Single",
+    "pillar": "scene",
+    "goal": "G3",
+    "title_en": "A drawing from the lucid drowning archive.",
+    "caption_en": "An undated drawing from the remixed execution of lucid drowning archive, with its working notes still visible.",
+    "idea_tr": "Çalışma çizimi ve görünür renk notlarını koru; notları sanatçı adına geniş bir hikâyeye çevirmeden.",
+    "why_tr": "Bitmiş kararlardan önceki düşünme malzemesine yeni arşiv kapısı açar.",
+    "order_tr": "P058 son aşama ile burada ilk taslak arasında anlamlı zaman farkı; P060 dönemler arasındaki ortak kütle dilini özetler.",
+    "new_value_tr": "Bu işin ilk taslak sunumu; 2019 bitmiş resim tarihi çizime atanmaz.",
+    "archive": true,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Kaydetme/erişim ve esere özgü farklı kişi sorularını kaydet; yorum yoksa ilgi yok hükmü verme.",
+    "tactics": [
+      "T23",
+      "T50",
+      "T56"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  },
+  {
+    "n": 60,
+    "phase": 2,
+    "works": [
+      "gary",
+      "cellular",
+      "stlop"
+    ],
+    "assets": [
+      "A0298",
+      "A1862",
+      "A0134"
+    ],
+    "format": "Carousel",
+    "pillar": "body",
+    "goal": "G4",
+    "title_en": "Three bodies, three different edges.",
+    "caption_en": "Rounded masses in gary grills cooper and cellular spleens meet a less settled edge in s(t)lop. Three paintings, two periods.",
+    "idea_tr": "Üç bütün, her birinde kütle ve sınırın tek farkı; son sayfa bu beden seçkisinin doğru künyeleri.",
+    "why_tr": "Araştırmanın açık Gary–Cellular–STLOP eşleştirmesini kullanılabilir küçük seçki haline getirir.",
+    "order_tr": "İkinci bölümün tek karar incelemelerini bir ilişkiye toplar; P061 yeni kültürel/kavramsal girişlerle aynı pratiğin sahne ayağına geçecek.",
+    "new_value_tr": "P030 genel hesap girişi yerine belirli üç eser ve sınır farkına dayanan beden seçkisi.",
+    "archive": false,
+    "sound": "none",
+    "production_tr": "Belirtilen özgün arşiv görsellerinden hazırlanacak; fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+    "check_tr": "Gönderiden izlenebiliyorsa seçki/portföy ziyareti ve gerçek eser bilgisi talebini ayrı kaydet.",
+    "tactics": [
+      "T54",
+      "T55",
+      "T14"
+    ],
+    "evidence": "Yerel kaynak auditindeki eser grubu ve seçilen dosyalar; künye için works.json. Biçimsel ilişki editoryal yorumdur."
+  }
+]

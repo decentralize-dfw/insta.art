@@ -1,0 +1,6198 @@
+{
+  "baseline_followers": null,
+  "baseline_measured_at": null,
+  "entries": [
+    {
+      "post_id": "P001",
+      "planned_day": 1,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P002",
+      "planned_day": 2,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P003",
+      "planned_day": 4,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P004",
+      "planned_day": 5,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P005",
+      "planned_day": 6,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P006",
+      "planned_day": 8,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P007",
+      "planned_day": 9,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P008",
+      "planned_day": 11,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P009",
+      "planned_day": 12,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P010",
+      "planned_day": 13,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P011",
+      "planned_day": 15,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P012",
+      "planned_day": 16,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P013",
+      "planned_day": 18,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P014",
+      "planned_day": 19,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P015",
+      "planned_day": 20,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P016",
+      "planned_day": 22,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P017",
+      "planned_day": 23,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P018",
+      "planned_day": 25,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P019",
+      "planned_day": 26,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P020",
+      "planned_day": 27,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P021",
+      "planned_day": 29,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P022",
+      "planned_day": 30,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P023",
+      "planned_day": 32,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P024",
+      "planned_day": 33,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P025",
+      "planned_day": 34,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P026",
+      "planned_day": 36,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P027",
+      "planned_day": 37,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P028",
+      "planned_day": 39,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P029",
+      "planned_day": 40,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P030",
+      "planned_day": 41,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P031",
+      "planned_day": 43,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P032",
+      "planned_day": 44,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P033",
+      "planned_day": 46,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P034",
+      "planned_day": 47,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P035",
+      "planned_day": 48,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P036",
+      "planned_day": 50,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P037",
+      "planned_day": 51,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P038",
+      "planned_day": 53,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P039",
+      "planned_day": 54,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P040",
+      "planned_day": 55,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P041",
+      "planned_day": 57,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P042",
+      "planned_day": 58,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P043",
+      "planned_day": 60,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P044",
+      "planned_day": 61,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P045",
+      "planned_day": 62,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P046",
+      "planned_day": 64,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P047",
+      "planned_day": 65,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P048",
+      "planned_day": 67,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P049",
+      "planned_day": 68,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P050",
+      "planned_day": 69,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P051",
+      "planned_day": 71,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P052",
+      "planned_day": 72,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P053",
+      "planned_day": 74,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P054",
+      "planned_day": 75,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P055",
+      "planned_day": 76,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P056",
+      "planned_day": 78,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P057",
+      "planned_day": 79,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P058",
+      "planned_day": 81,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P059",
+      "planned_day": 82,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P060",
+      "planned_day": 83,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P061",
+      "planned_day": 85,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P062",
+      "planned_day": 86,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P063",
+      "planned_day": 88,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P064",
+      "planned_day": 89,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P065",
+      "planned_day": 90,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P066",
+      "planned_day": 92,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P067",
+      "planned_day": 93,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P068",
+      "planned_day": 95,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P069",
+      "planned_day": 96,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P070",
+      "planned_day": 97,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P071",
+      "planned_day": 99,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P072",
+      "planned_day": 100,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P073",
+      "planned_day": 102,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P074",
+      "planned_day": 103,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P075",
+      "planned_day": 104,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P076",
+      "planned_day": 106,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P077",
+      "planned_day": 107,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P078",
+      "planned_day": 109,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P079",
+      "planned_day": 110,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P080",
+      "planned_day": 111,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P081",
+      "planned_day": 113,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P082",
+      "planned_day": 114,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P083",
+      "planned_day": 116,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P084",
+      "planned_day": 117,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P085",
+      "planned_day": 118,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P086",
+      "planned_day": 120,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P087",
+      "planned_day": 121,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P088",
+      "planned_day": 123,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P089",
+      "planned_day": 124,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P090",
+      "planned_day": 125,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P091",
+      "planned_day": 127,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P092",
+      "planned_day": 128,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P093",
+      "planned_day": 130,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P094",
+      "planned_day": 131,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P095",
+      "planned_day": 132,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P096",
+      "planned_day": 134,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P097",
+      "planned_day": 135,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P098",
+      "planned_day": 137,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P099",
+      "planned_day": 138,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P100",
+      "planned_day": 139,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P101",
+      "planned_day": 141,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P102",
+      "planned_day": 142,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P103",
+      "planned_day": 144,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P104",
+      "planned_day": 145,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P105",
+      "planned_day": 146,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P106",
+      "planned_day": 148,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P107",
+      "planned_day": 149,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P108",
+      "planned_day": 151,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P109",
+      "planned_day": 152,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P110",
+      "planned_day": 153,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P111",
+      "planned_day": 155,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P112",
+      "planned_day": 156,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P113",
+      "planned_day": 158,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P114",
+      "planned_day": 159,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P115",
+      "planned_day": 160,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P116",
+      "planned_day": 162,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P117",
+      "planned_day": 163,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P118",
+      "planned_day": 165,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P119",
+      "planned_day": 166,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P120",
+      "planned_day": 167,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P121",
+      "planned_day": 169,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P122",
+      "planned_day": 170,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P123",
+      "planned_day": 172,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P124",
+      "planned_day": 173,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P125",
+      "planned_day": 174,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P126",
+      "planned_day": 176,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P127",
+      "planned_day": 177,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P128",
+      "planned_day": 179,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "post_id": "P129",
+      "planned_day": 180,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 72,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        },
+        {
+          "age_hours": 168,
+          "measured_at": null,
+          "reach": null,
+          "views": null,
+          "watch_seconds": null,
+          "shares": null,
+          "saves": null,
+          "profile_visits": null,
+          "attributed_follows": null,
+          "work_specific_questions": null,
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

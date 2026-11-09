@@ -1,0 +1,28 @@
+{
+  "valid": true,
+  "version": 3,
+  "status": "research_linked_editorial_proposal",
+  "detailed_posts": 6,
+  "first_two_week_days": [
+    1,
+    3,
+    5,
+    8,
+    10,
+    12
+  ],
+  "independent_works": 6,
+  "curatorial_argument_present": true,
+  "all_posts_have_work_evidence": true,
+  "all_posts_have_tactic_mapping": true,
+  "source_and_local_links_exist": true,
+  "chapters_cover_days_1_to_180": true,
+  "future_post_assignment_complete": false,
+  "new_english_narration_required_days": [
+    1,
+    8,
+    10
+  ],
+  "rendered_media": false,
+  "published_media": false
+}

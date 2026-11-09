@@ -1,0 +1,494 @@
+[
+  {
+    "url": "https://axellesalvage.com/about",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://axellesalvage.com/about",
+    "bytes": 358364,
+    "sha256": "705f8c25605d84ddd09a427def910d0285324b281a2906e5089249410e36fa60"
+  },
+  {
+    "url": "https://axellesalvage.com/cultural-works",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://axellesalvage.com/cultural-works",
+    "bytes": 617842,
+    "sha256": "62a6cc3b0bfeb34b9e9e825013eb34eb7952f8f85824a6c91614891271c3dc47"
+  },
+  {
+    "url": "https://bombmagazine.org/articles/2026/08/26/danielle-mckinney-by-salom%C3%A9-g%C3%B3mez-upegui/",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://bombmagazine.org/articles/2026/08/26/danielle-mckinney-by-salom%C3%A9-g%C3%B3mez-upegui/",
+    "bytes": 111745,
+    "sha256": "58020b9cc3c61c19589d39b9a212ca8b76ae907fb9813b076a3f0df27b44bd6b"
+  },
+  {
+    "url": "https://collections.louvre.fr/en/ark%3A/53355/cl010535766",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://collections.louvre.fr/en/ark%3A/53355/cl010535766",
+    "bytes": 47507,
+    "sha256": "4d411f8c6ff7ffdebebf18b21b24172c8e0d96700a0cf7fe185cd802e1f9aaeb"
+  },
+  {
+    "url": "https://cultura.gov.it/evento/la-prima-mostra-personale-di-amoako-boafo-in-italia-museo-di-palazzo-grimani",
+    "access_date": "2026-10-16",
+    "error": "HTTP Error 502: Bad Gateway"
+  },
+  {
+    "url": "https://davidkordanskygallery.com/artist/jenna-gribbon",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://davidkordanskygallery.com/artist/jenna-gribbon",
+    "bytes": 86308,
+    "sha256": "40f246c337736f421b4b6d9a4db2e4c2216db1f05fe722261de19f71608b8701"
+  },
+  {
+    "url": "https://duveberlin.com/Id_rather_be_with_you",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://duveberlin.com/Id_rather_be_with_you",
+    "bytes": 13881,
+    "sha256": "14f08e3318942e8aa8b88f437718b6e3fa57e2a489d336b6381f9ba3a4a5e14a"
+  },
+  {
+    "url": "https://gagosian.com/artists/amoako-boafo/",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://gagosian.com/artists/amoako-boafo/",
+    "bytes": 250282,
+    "sha256": "30dab732bc6f48affd69e9456e06d99a4141da92cb9c2b3167ef1363d6b8968e"
+  },
+  {
+    "url": "https://gagosian.com/artists/jade-fadojutimi/",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://gagosian.com/artists/jade-fadojutimi/",
+    "bytes": 281540,
+    "sha256": "bcf2ccdb495f600cc03bbda1b99e17fe2de2df40376d2765402d92b5a60d2bed"
+  },
+  {
+    "url": "https://gagosian.com/artists/louise-bonnet/",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://gagosian.com/artists/louise-bonnet/",
+    "bytes": 302350,
+    "sha256": "0d69b788521ee198ca9f5faadddf284b65221ea2ecea90cb5b02390c74eeacfb"
+  },
+  {
+    "url": "https://gagosian.com/exhibitions/2026/julie-curtiss-unreal/",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://gagosian.com/exhibitions/2026/julie-curtiss-unreal/",
+    "bytes": 114747,
+    "sha256": "8a760c5649a7185e619253d758bf6a8c66bd870d4181f007f1a68e1b621838e6"
+  },
+  {
+    "url": "https://gagosian.com/exhibitions/2026/selections/",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://gagosian.com/exhibitions/2026/selections/",
+    "bytes": 240887,
+    "sha256": "084d6288d5fb7cdab810312b71124c6dcd0d1b392fdb6e3e91aecef65bff7e1c"
+  },
+  {
+    "url": "https://gagosian.com/news/museum-exhibitions/in-these-times-recent-acquisitions-at-moca-la/",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://gagosian.com/news/museum-exhibitions/in-these-times-recent-acquisitions-at-moca-la/",
+    "bytes": 95038,
+    "sha256": "f3990bab74953c359d49f4b2bfb2132219bdef76adede17e681f3b0f2783388b"
+  },
+  {
+    "url": "https://gagosian.com/quarterly/2025/04/21/interview-louise-bonnet-and-elizabeth-king/",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://gagosian.com/quarterly/2025/04/21/interview-louise-bonnet-and-elizabeth-king/",
+    "bytes": 231315,
+    "sha256": "36408f9d0e2e62857ae35f07da3052a7c23df3bef978709729a85474261663cb"
+  },
+  {
+    "url": "https://gagosianshop.com/products/jade-fadojutimi-dwelve-a-goosebump-in-memory-book",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://gagosianshop.com/products/jade-fadojutimi-dwelve-a-goosebump-in-memory-book",
+    "bytes": 166349,
+    "sha256": "4e6a10d1a1a03bb20998daa121639f794fc8571739541235842853255e748de3"
+  },
+  {
+    "url": "https://help.sothebys.com/en/support/solutions/articles/44002518844-guide-for-buyers-symbol-key",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://help.sothebys.com/en/support/solutions/articles/44002518844-guide-for-buyers-symbol-key",
+    "bytes": 608562,
+    "sha256": "0a55a77b8580a8e490a2238ed346196f6c5954f26d6be7b740b6014a5641e32d"
+  },
+  {
+    "url": "https://heni.com/news/article/amoako-boafo-five-things-venice-show-january-19",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://heni.com/news/article/amoako-boafo-five-things-venice-show-january-19",
+    "bytes": 91743,
+    "sha256": "5ceff9b213674b032d748f7dce0de2345286996fcb8f6e06bae50affb36dd3e7"
+  },
+  {
+    "url": "https://hopperprize.org/nick-mcphail-interview/",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://hopperprize.org/nick-mcphail-interview/",
+    "bytes": 83534,
+    "sha256": "d3816519860ec7195937d07089871dead858d4a0564905e6f688893e63b03c79"
+  },
+  {
+    "url": "https://ica.art/live/issy-wood",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://ica.art/live/issy-wood",
+    "bytes": 59279,
+    "sha256": "d0d2d1a14609e1f38f98d1b8dd2ebb2dab2e279ed1e744d32303240e09f5f5c7"
+  },
+  {
+    "url": "https://lukacmartin.com/",
+    "access_date": "2026-10-16",
+    "error": "HTTP Error 466: "
+  },
+  {
+    "url": "https://marianneboeskygallery.com/press/631-time100-art-2026-danielle-mckinney-painter-of/",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://marianneboeskygallery.com/press/631-time100-art-2026-danielle-mckinney-painter-of/",
+    "bytes": 42190,
+    "sha256": "e6cbecd8183ace4a30f2fbd9d2963e7d2224e6bc43fca1788f8fca3dcbf3f346"
+  },
+  {
+    "url": "https://massimodecarlo.com/projects/jenna-gribbon-entwined",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://massimodecarlo.com/projects/jenna-gribbon-entwined",
+    "bytes": 240374,
+    "sha256": "60e0bbecd8dbd3477311ae84f80d6e8d78ca2fd8f48bcc0e839a69249072fe10"
+  },
+  {
+    "url": "https://mepaintsme.substack.com/p/rae-klein",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://mepaintsme.substack.com/p/rae-klein",
+    "bytes": 195,
+    "sha256": "5b131ca14aa96311d3432b0062c7443d3b0e6346ec279bd376a75f0a76bcd5d7"
+  },
+  {
+    "url": "https://nickmcphail.com/CV",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://nickmcphail.com/CV",
+    "bytes": 173386,
+    "sha256": "04058a5c724177a9bd26710b5dde9eac56595e70072a5d0826edbcda64c930ec"
+  },
+  {
+    "url": "https://stephaniemanart.substack.com/p/reflections-from-my-first-self-organised",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://stephaniemanart.substack.com/p/reflections-from-my-first-self-organised",
+    "bytes": 195,
+    "sha256": "5b131ca14aa96311d3432b0062c7443d3b0e6346ec279bd376a75f0a76bcd5d7"
+  },
+  {
+    "url": "https://thehole.com/exhibitions/lee-gihun",
+    "access_date": "2026-10-16",
+    "error": "HTTP Error 406: Not Acceptable"
+  },
+  {
+    "url": "https://thewickculture.com/spotlight-artist-leila-lallali/",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://thewickculture.com/spotlight-artist-leila-lallali/",
+    "bytes": 158145,
+    "sha256": "23dd5ff00dcd3762c5a55c00257b515625e37497ec250fcde97fa1476eb24e48"
+  },
+  {
+    "url": "https://venticento.livemuseum.it/lara-ilaria-braconi/",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://venticento.livemuseum.it/lara-ilaria-braconi/",
+    "bytes": 69032,
+    "sha256": "0c72b2436615db18397aee6b34f0b611623916727fe91c8bf0278efab85610b4"
+  },
+  {
+    "url": "https://vonburencontemporary.com/gasperini-and-norenko-inside-out-june-26/",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://vonburencontemporary.com/gasperini-and-norenko-inside-out-june-26/",
+    "bytes": 141975,
+    "sha256": "d37cf92f17d75c386cbe4021b8f3eee6e8e01dcd6d87e2086f3164e619fc656f"
+  },
+  {
+    "url": "https://www.artribune.com/professioni-e-professionisti/who-is-who/2026/04/intervista-giovane-artista-olmo-gasperini/",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.artribune.com/professioni-e-professionisti/who-is-who/2026/04/intervista-giovane-artista-olmo-gasperini/",
+    "bytes": 315266,
+    "sha256": "83e6aa002fddd76759e62eaed7e7f2f9e938aada3cb2c80b8dd3b66169fe9c35"
+  },
+  {
+    "url": "https://www.brandeis.edu/rose/exhibitions/2026/jenna-gribbon.html",
+    "access_date": "2026-10-16",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.casadegliartisti.org/residenza/antica-straniera/",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.casadegliartisti.org/residenza/antica-straniera/",
+    "bytes": 274518,
+    "sha256": "2e2813a111ca7f457457b17123bff36537ad5494bffb350e6e871a9ec29be6cb"
+  },
+  {
+    "url": "https://www.climagallery.com/artist/dana-lok/",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.climagallery.com/artist/dana-lok/",
+    "bytes": 126062,
+    "sha256": "5f78b39c31305677b9d5ad88c4fedb44bb1ae0ca9b15dad65c0b3ec9dfd6a9f8"
+  },
+  {
+    "url": "https://www.climagallery.com/exhibition/a-body-for-your-thoughts/",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.climagallery.com/exhibition/a-body-for-your-thoughts/",
+    "bytes": 110273,
+    "sha256": "dd13ded805edce1c8ab080190b2118e27cab445e3b6196d29209ae448ebce207"
+  },
+  {
+    "url": "https://www.collectorsagenda.com/en/in-the-studio/martin-luk%C3%A1%C4%8D",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.collectorsagenda.com/en/in-the-studio/martin-luk%C3%A1%C4%8D",
+    "bytes": 44362,
+    "sha256": "3721229834401e5487f7e7dfdf4c61b0e87960cafbb61baaeb5570c98829853c"
+  },
+  {
+    "url": "https://www.danalok.com/cvandcontact",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.danalok.com/cvandcontact",
+    "bytes": 57470,
+    "sha256": "43f6ddfc05ba49ac1814065b90557ba909ff9ce8a0b2de1916cd6c958674d7ad"
+  },
+  {
+    "url": "https://www.hauserwirth.com/artists/26942-george-condo/",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.hauserwirth.com/artists/26942-george-condo/",
+    "bytes": 1002480,
+    "sha256": "a51d50792d6c12a72d6ebba07637ef9215e808e4a81dc1ebbc014d0c051ec957"
+  },
+  {
+    "url": "https://www.kistefosmuseum.com/exhibitions/issy-wood",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.kistefosmuseum.com/exhibitions/issy-wood",
+    "bytes": 68174,
+    "sha256": "3789e505916e39f09d68d126e365000623e66524cb6dba9532c445a135d4c81e"
+  },
+  {
+    "url": "https://www.leilalallali.com/exhibitions",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.leilalallali.com/exhibitions",
+    "bytes": 321139,
+    "sha256": "7e9884c1a9f0d8baad0274475e68224407f1707e6aa91db9d70b9181ed5f75b5"
+  },
+  {
+    "url": "https://www.louvre.fr/decouvrir/vie-du-musee/liaisons-marlene-dumas-entre-au-louvre",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.louvre.fr/decouvrir/vie-du-musee/liaisons-marlene-dumas-entre-au-louvre",
+    "bytes": 187521,
+    "sha256": "05d3c72185e3932e1a962106c67d8de67ab0dc842faa3d2f66791f9e96572785"
+  },
+  {
+    "url": "https://www.maakemagazine.com/nat-meade",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.maakemagazine.com/nat-meade",
+    "bytes": 104815,
+    "sha256": "f108186be4c7aeb33908143ba44db310a1168ca729c5606c1e250762d089996e"
+  },
+  {
+    "url": "https://www.mam.paris.fr/fr/expositions/exposition-george-condo",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.mam.paris.fr/fr/expositions/exposition-george-condo",
+    "bytes": 39929,
+    "sha256": "19683a0b7b8cc069c2febf1bd4ede9c0458d1d7436a68ce21db24c208625097a"
+  },
+  {
+    "url": "https://www.mam.paris.fr/fr/expositions/exposition-kerry-james-marshall",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.mam.paris.fr/fr/expositions/exposition-kerry-james-marshall",
+    "bytes": 51270,
+    "sha256": "8943f6a5662e5cf4ab5769f2dab300f723a0fe4a1dad3524254733e914d5818e"
+  },
+  {
+    "url": "https://www.marlenedumas.nl/current-exhibitions-events/",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.marlenedumas.nl/current-exhibitions-events/",
+    "bytes": 90225,
+    "sha256": "755830e0827cdffb1f98bee71006d370ac707882d2b2101bcc318faf3590b41b"
+  },
+  {
+    "url": "https://www.norton.org/exhibitions/danielle-mckinney-shelter",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.norton.org/exhibitions/danielle-mckinney-shelter",
+    "bytes": 73432,
+    "sha256": "7145c75825619984eba7ee1a35366aaddda8828b1ae84936e59d9593e8ec29a9"
+  },
+  {
+    "url": "https://www.nosbaumreding.com/en/artists/exhibitiondetails/16324/nat-meade-shed-works-on-paper?iae=399",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.nosbaumreding.com/en/artists/exhibitiondetails/16324/nat-meade-shed-works-on-paper?iae=399",
+    "bytes": 32051,
+    "sha256": "2a22abfb86664ec2b8314e898b610a6377ca76ceb3c60a4906f52580ae43ae2d"
+  },
+  {
+    "url": "https://www.nosbaumreding.com/en/artists/exhibitiondetails/16603/leila-lallali-good-luck?iae=404",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.nosbaumreding.com/en/artists/exhibitiondetails/16603/leila-lallali-good-luck?iae=404",
+    "bytes": 24719,
+    "sha256": "ed692acd82a4a11df79b85e8a8ffdb55a189bc03029813b5ad6ddaec4dfefa30"
+  },
+  {
+    "url": "https://www.npg.org.uk/whatson/display/2026/artist-focus-issy-wood",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.npg.org.uk/whatson/display/2026/artist-focus-issy-wood",
+    "bytes": 38579,
+    "sha256": "ca1c92b7076e8daa80c78497b45fa01e7f79c4e6fde251b1d5b7b846519ef914"
+  },
+  {
+    "url": "https://www.ppowgallery.com/artists/robin-f-williams",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.ppowgallery.com/artists/robin-f-williams",
+    "bytes": 357553,
+    "sha256": "f1c70ffc7de9649ebb0889c2e49895cb1efcde10beab9ebef5749fe02d6a6813"
+  },
+  {
+    "url": "https://www.ppowgallery.com/exhibitions/robin-f-williams6",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.ppowgallery.com/exhibitions/robin-f-williams6",
+    "bytes": 117753,
+    "sha256": "527a53b70ec316de52512c620c10a39f59563f1fc7a7841b87b4496c610c65d8"
+  },
+  {
+    "url": "https://www.raeklein.com/about",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.raeklein.com/about",
+    "bytes": 646796,
+    "sha256": "ceb388737c8e1b766a9b25e31254ef9ddb2c76a3981eb36e9c02923976721ca7"
+  },
+  {
+    "url": "https://www.serpentinegalleries.org/whats-on/2026-at-serpentine/",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.serpentinegalleries.org/whats-on/2026-at-serpentine/",
+    "bytes": 158801,
+    "sha256": "ee9ab7a0004cad56b1bd740297bb53580057562957590b6d8701d49c70451ca9"
+  },
+  {
+    "url": "https://www.serpentinegalleries.org/whats-on/cecily-brown-picture-making/",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.serpentinegalleries.org/whats-on/cecily-brown-picture-making/",
+    "bytes": 145068,
+    "sha256": "5e6630c90dc72abfe4f6c5538ed57931ae5d3b07dbb7157774ff9085b3625409"
+  },
+  {
+    "url": "https://www.serpentinegalleries.org/whats-on/peter-doig-house-of-music-sound-service/",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.serpentinegalleries.org/whats-on/peter-doig-house-of-music-sound-service/",
+    "bytes": 213546,
+    "sha256": "bb409bfcd7c372c50f12748d637085e5be1559f8d131db4227d5d35795b318b2"
+  },
+  {
+    "url": "https://www.serpentinegalleries.org/whats-on/peter-doig-house-of-music/",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.serpentinegalleries.org/whats-on/peter-doig-house-of-music/",
+    "bytes": 173684,
+    "sha256": "19f65779381b39707257a86f28c367285fd4ee2e9c03549d518b6e7964b69597"
+  },
+  {
+    "url": "https://www.sothebys.com/en/buy/auction/2026/the-now-contemporary-evening-auction/figure-on-a-red-field?locale=en",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.sothebys.com/en/buy/auction/2026/the-now-contemporary-evening-auction/figure-on-a-red-field?locale=en",
+    "bytes": 266233,
+    "sha256": "fae4a71475bcd6e1d7ae4d949b4b30d9bf49e1ff516a7a4db85e8093c5e88258"
+  },
+  {
+    "url": "https://www.stephaniemanart.com/",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.stephaniemanart.com/",
+    "bytes": 73330,
+    "sha256": "cf3b888672a02b6f2416263b4b14b398baab33f3b856403d10aed4a694c2e621"
+  },
+  {
+    "url": "https://www.theartnewspaper.com/2026/04/06/pressures-squeezing-gallery-sector-the-hole-new-york-los-angeles",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.theartnewspaper.com/2026/04/06/pressures-squeezing-gallery-sector-the-hole-new-york-los-angeles",
+    "bytes": 266719,
+    "sha256": "dffb3266a0e59c740fb5451c4b9e0a75f2514a2c13d6761dc07a482e8b75192b"
+  },
+  {
+    "url": "https://www.ucl.ac.uk/social-historical-sciences/news/2026/jan/curating-kerry-james-marshall-event",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.ucl.ac.uk/social-historical-sciences/news/2026/jan/curating-kerry-james-marshall-event",
+    "bytes": 76674,
+    "sha256": "8a446dcc0de7ee2359062ac110fcf6a0ece54310b9f44370dcd8a0fea53eb263"
+  },
+  {
+    "url": "https://www.wallpaper.com/art/exhibitions-shows/louise-giovanelli-at-white-cube-interview",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.wallpaper.com/art/exhibitions-shows/louise-giovanelli-at-white-cube-interview",
+    "bytes": 1039443,
+    "sha256": "3033078907133cb6232e03d7f7d69442c63fe7f8d7f23f685940c5f5fb79bb61"
+  },
+  {
+    "url": "https://www.whitecube.com/artists/julie-curtiss",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.whitecube.com/artists/julie-curtiss",
+    "bytes": 307226,
+    "sha256": "ec145cad6780a0cccf285bb0b4d1f5191126839eb0aa6b10b7d6c76b2f54b016"
+  },
+  {
+    "url": "https://www.whitecube.com/artists/louise-giovanelli",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://www.whitecube.com/artists/louise-giovanelli",
+    "bytes": 273585,
+    "sha256": "708999d24a910e5a005a54fbf178791e03e10fd672017cd5d6255b36274852d4"
+  },
+  {
+    "url": "https://zidoun-bossuyt.com/exhibitions/fragments-of-paradise-feipel-bechameil-lucas-georges-christian-louis-granet-nick-mcphail-brian-rochefort-and-summer-wheat/",
+    "access_date": "2026-10-16",
+    "status": 200,
+    "final_url": "https://zidoun-bossuyt.com/exhibitions/fragments-of-paradise-feipel-bechameil-lucas-georges-christian-louis-granet-nick-mcphail-brian-rochefort-and-summer-wheat/",
+    "bytes": 65504,
+    "sha256": "eccaf6e5287f51830b19575c7ed8fcfdee154a2e1743b73eed31b4bbd6b83eab"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "observed_date": "2026-11-04",
+  "followers": 710,
+  "following": 89,
+  "scope": "Publicloggedoutprofile; threeimagesvisibleafterShowmore. Exactcompleteness/currentpinsnotconfirmed",
+  "items": [
+    {
+      "id": "B01",
+      "path": "baseline/B01.webp",
+      "url": "https://www.instagram.com/yigitozen.art/p/DfDXzNzkSIC/",
+      "date": "2026-10-28",
+      "description": "Gallery wall with three framed paintings; carousel icon. Notautomaticallyuser'sPainstaking."
+    },
+    {
+      "id": "B02",
+      "path": "baseline/B02.webp",
+      "url": "https://www.instagram.com/yigitozen.art/p/CITkrEznUYJ/",
+      "date": "2020-12-02",
+      "description": "Monochrome still-life with mug androundcontainer."
+    },
+    {
+      "id": "B03",
+      "path": "baseline/B03.webp",
+      "url": "https://www.instagram.com/yigitozen.art/p/nDobhoNf0Y/",
+      "date": "2014-04-21",
+      "description": "Monochrome folded/curvingmaterial."
+    }
+  ]
+}

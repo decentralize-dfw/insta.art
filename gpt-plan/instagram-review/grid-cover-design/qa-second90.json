@@ -1,0 +1,220 @@
+{
+  "reviewer": "covers_second_half",
+  "scope": "Independent visual review of rendered covers P091–P180, before the replacements below",
+  "reviewed_post_count": 90,
+  "reviewed_contact_sheets": [
+    "review/cover-sheets/C08.webp",
+    "review/cover-sheets/C09.webp",
+    "review/cover-sheets/C10.webp",
+    "review/cover-sheets/C11.webp",
+    "review/cover-sheets/C12.webp",
+    "review/cover-sheets/C13.webp",
+    "review/cover-sheets/C14.webp",
+    "review/cover-sheets/C15.webp"
+  ],
+  "full_size_exports_additionally_viewed": [
+    92,
+    94,
+    107,
+    125,
+    129,
+    132,
+    133,
+    139,
+    141,
+    156
+  ],
+  "status": "local_cover_changes_required_then_recheck",
+  "method_limits": "Source images and local rendered PNGs were viewed with image tools. Contact sheets show the modeled 3:4 profile tiles. No Instagram mobile upload, live account crop, physical colour match, audience response, or finished carousel/video was verified. This is not a publication-readiness sign-off.",
+  "general_observations": [
+    "Across all 90 modeled tiles, no newly clipped letter or obvious cover-layout crop cutting the embedded source was observed. Several prepared archive details are already crops; that is their source content, not a new renderer crop.",
+    "The dark type remains separated from the artwork. Titles remain within the modeled 3:4 tile. This does not establish behaviour in every Instagram surface.",
+    "Most complete works preserve their visible composition and proportions. Pair layouts with a white-bordered source or a very pale drawing need the specific corrections below.",
+    "The pairing layouts are editorial comparisons, not physical-size diagrams. No equality of displayed pixel height should be treated as equality of canvas size; P091's wording especially needs correction.",
+    "P165 now reads A close studio view with A2744. The title no longer claims an exact final-stage boundary, and the close view is visible in the tile. The root's removal of A2745 as an additional page avoids treating the same photograph as new evidence."
+  ],
+  "findings": [
+    {
+      "n": 91,
+      "severity": "change",
+      "observation": "The equal-width pair shows the square Penguin shorter than the upright Angora, while the title says Same height. The catalogued physical heights may be equal, but this cover is not a measured diagram.",
+      "resolution": "Use a title about format. Keep the documented physical measurement comparison on the interior slide."
+    },
+    {
+      "n": 129,
+      "severity": "change",
+      "observation": "Small hand. Large head. is placed beneath a face-only detail. The hand that makes the comparison meaningful is absent from the first view.",
+      "resolution": "Use the full A2423 painting on the cover so both head and hand are visible. A2422 remains an interior close-up."
+    },
+    {
+      "n": 132,
+      "severity": "change",
+      "observation": "The embedded A1695 source contains its own white border. In the two-image stack, the actual painted rectangle becomes much smaller than the drawing and too slight in the grid.",
+      "resolution": "Use A1695 alone at the large question-layout size, preserving its original border. Put the drawing/final comparison inside."
+    },
+    {
+      "n": 133,
+      "severity": "change",
+      "observation": "A0428 is visible at full size but becomes very pale in the modeled tile, undermining a cover that promises group lines.",
+      "resolution": "Use the verified clean Gxd drawing A1335, already included in the corrected post sources. Preserve its clean-drawing role, not a claim to be a physical early-canvas photograph."
+    },
+    {
+      "n": 151,
+      "severity": "change",
+      "observation": "Three ways with bodies above exactly three Painstaking panels strongly suggests that the three ways are the three panels. The post actually compares three different works.",
+      "resolution": "Remove the ambiguous three count from the cover title; retain the three-work selection in the carousel."
+    },
+    {
+      "n": 156,
+      "severity": "change",
+      "observation": "The right A0428 drawing is almost blank at tile size beside the stronger Mandarin notes. The pair does not communicate two equally inspectable records in the first view.",
+      "resolution": "Use A0211 alone as the cover, with the two document types compared at full size inside."
+    },
+    {
+      "n": 161,
+      "severity": "change",
+      "observation": "A1695's painted rectangle is again very small because its native border is contained inside a pair box.",
+      "resolution": "Use A1695 as a single larger source. The second room remains on an interior page; the cover does not need to show every comparison operand."
+    },
+    {
+      "n": 166,
+      "severity": "change",
+      "observation": "The cover repeats P162's full Walls source only four posts later. Its red-mark question is less visible than the dominant yellow stream, and the contrasting STLOP marks are absent.",
+      "resolution": "Use the existing prepared details A0101 and A0224 as a pair. These directly show the red marks and mouth area without inventing new crops or identifying STLOP marks as a mouth."
+    },
+    {
+      "n": 164,
+      "severity": "production_note",
+      "observation": "Same height, different room refers to a second painting not present on the one-source cover. It is not a displayed scale diagram.",
+      "resolution": "The next interior page must show both correctly measured sources. If that page is absent, the measurement promise is incomplete. No cover change is necessary if the planned comparison is produced."
+    },
+    {
+      "n": 125,
+      "severity": "production_note",
+      "observation": "Square canvas, separate panels correctly names formats, but the editorial image sizes are not proportional physical dimensions.",
+      "resolution": "Keep the real same-scale dimension diagram as a clearly identified interior page; do not reuse this cover as that diagram."
+    }
+  ],
+  "cover_replacements": [
+    {
+      "n": 91,
+      "fields": {
+        "headline_en": "Square and upright",
+        "why_visual_tr": "Kare Penguin ile dikey Angora iki formatı açıkça gösterir. Kapak fiziksel eş yüksekliği canlandırmaz; 120 cm yüksekliğin farklı enlere açılması ölçülü iç sayfada incelenir.",
+        "render_risk_tr": "Bu çift yerleşim ölçülü şema değildir. Fiziksel eş yükseklik yalnız katalog verisine dayalı iç sayfada doğru oranlarla gösterilmeli."
+      }
+    },
+    {
+      "n": 129,
+      "fields": {
+        "layout": "question",
+        "hero_ids": [
+          "A2423"
+        ],
+        "headline_en": "Small hand. Large head.",
+        "why_visual_tr": "Tam Great Fire görseli küçük kalkık eli ve büyük başı aynı ilk görüntüde görünür kılar. Hazır baş detayı A2422 sonraki sayfada bu oranı yakından inceletir.",
+        "must_preserve_tr": "Büyük baş, sağdaki küçük kalkık el, bütün gövde ve ayaklar.",
+        "grid_role_tr": "P128 iki yüzlü sahnenin ardından tek gövdede baş-el oranını açar; P130 küçük parmak izlerine geçer.",
+        "render_risk_tr": "Kapakta başı tek başına büyütmek el-baş oranını yok eder; bütün kaynak korunmalı."
+      }
+    },
+    {
+      "n": 132,
+      "fields": {
+        "layout": "question",
+        "hero_ids": [
+          "A1695"
+        ],
+        "headline_en": "A room gains weight",
+        "why_visual_tr": "Renkli Lucid bütünü tek büyük kaynak olarak gösterilir; sarı kütlenin odadaki ağırlığı okunur. Başlıktaki değişim, sonraki sayfada gerçek A1696 çizimiyle karşılaştırılarak tamamlanır.",
+        "must_preserve_tr": "Özgün beyaz kaynak kenarı, oda düzlemleri, sarı kütle ve bütün figürler.",
+        "grid_role_tr": "P131 tek sandalye yakınından renkli oda bütününe açılır; P133 temiz çizimle kayıt türünü değiştirir.",
+        "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; A1696 çizimi ve A1695 finali iç sayfalarda ayrı ve büyük gösterilerek başlıktaki değişim kanıtlanır.",
+        "render_risk_tr": "Kaynağın mevcut beyaz sınırı korunur. Tek görüntüye büyütülen kapakta boyalı alanın okunurluğu yeniden incelenmeli; otomatik kenar kırpması yapılmamalı."
+      }
+    },
+    {
+      "n": 133,
+      "fields": {
+        "layout": "question",
+        "hero_ids": [
+          "A1335"
+        ],
+        "headline_en": "The group starts in lines",
+        "why_visual_tr": "Gxd arşivindeki doğrulanmış temiz çizim, grubun çizgilerle kurulmasını küçük görünümde A0428'den daha açık gösterir. Fiziksel ilk tuval fotoğrafı değil, temiz çizim kaydıdır; Virgil çizim aşaması içeride karşılaştırılır.",
+        "must_preserve_tr": "Taşınan gövde, onu çevreleyen figürlerin tüm çizgileri ve kaynak beyaz alanı.",
+        "grid_role_tr": "P132 renkli oda bütününden açık temiz grup çizimine geçer; P134 yoğun siyah-beyaz beden bağlantısını açar.",
+        "render_risk_tr": "Temiz çizim fiziksel tuvaldeki ilk aşama diye sunulmamalı. İnce çizgilerin yeni kapakta küçük görünümü yeniden kontrol edilmeli; yapay karartma yapılmamalı."
+      }
+    },
+    {
+      "n": 151,
+      "fields": {
+        "headline_en": "Ways to build bodies",
+        "why_visual_tr": "Painstaking parçalı yapısıyla seçkinin ilk yaklaşımını gösterir. Kapak üç paneli üç ayrı eser veya seçkideki üç yol diye adlandırmaz; Gary ve STLOP iç sayfalarda kendi bütünleriyle ayrışır.",
+        "render_risk_tr": "İç sayfalar üç farklı eseri ayrı adlandırmalı; triptiğin üç paneli üç ayrı eser olarak sayılmamalı."
+      }
+    },
+    {
+      "n": 156,
+      "fields": {
+        "layout": "question",
+        "hero_ids": [
+          "A0211"
+        ],
+        "headline_en": "Colour notes, drawn lines",
+        "why_visual_tr": "Mandarin'in notlu renk çalışması büyük ve açık ilk görüntü olur; temiz renk notları ile Virgil çizim aşamasının farklı kayıt görevleri iç sayfalarda karşılaştırılır.",
+        "must_preserve_tr": "Çizimin bütün kare sınırı, mevcut renk notları, sol alt çapa ve tekne.",
+        "grid_role_tr": "P155 renkli oda bütününden tek okunur çalışma kaydına geçer; P157 iki boyalı gövdeye döner.",
+        "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; A0428 çizim aşaması sonraki tam sayfada, ardından iki ilgili final gösterilir. Kapak tüm karşılaştırmayı küçük kutulara sıkıştırmaz.",
+        "render_risk_tr": "Notlar yeni açıklama gibi alıntılanmamalı. A0428 iç sayfada tam boy da soluk kalırsa içerik üretiminde okunurluk yeniden değerlendirilir."
+      }
+    },
+    {
+      "n": 161,
+      "fields": {
+        "layout": "question",
+        "hero_ids": [
+          "A1695"
+        ],
+        "headline_en": "Rooms that change direction",
+        "why_visual_tr": "Lucid bütünü tek büyük kaynak olarak oda ve beden yönünü ilk görüntüde okunur kılar. Başlıktaki çoğul, sonraki sayfada Guard ile yapılacak iki oda karşılaştırmasına aittir.",
+        "must_preserve_tr": "Lucid oda köşeleri, bütün figürler, sarı kütle ve özgün beyaz sınır.",
+        "grid_role_tr": "P160 tek yüz yakınından bütün odaya açılır; P162 yüz görünürlüğüne döner. P132'ye kıyasla çizim/final değil iki tamamlanmış odanın yönü okunur.",
+        "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; Guard bütünü bir sonraki sayfada ayrı gösterilir, sonra yön farkı karşılaştırılır.",
+        "render_risk_tr": "Özgün beyaz kenar korunurken boyalı alanın yeni büyük kapaktaki okunurluğu kontrol edilmeli; karşılaştırma iç sayfası olmadan çoğul vaat tamamlanmaz."
+      }
+    },
+    {
+      "n": 166,
+      "fields": {
+        "layout": "pair",
+        "hero_ids": [
+          "A0101",
+          "A0224"
+        ],
+        "headline_en": "Red marks, different edges",
+        "why_visual_tr": "İki mevcut hazır detay, STLOP kırmızı çizgisel izleriyle Walls ağız çevresindeki kırmızı alanı ilk görüntüde karşılaştırır. STLOP biçimine ağız kimliği verilmez; bütünler içeride bağlamı tamamlar.",
+        "must_preserve_tr": "A0101 kırmızı çizgisel izler ve çevresindeki pastel alan; A0224 şapka altı ağız ve komşu boya izleri.",
+        "grid_role_tr": "P162'nin Walls bütününü dört post sonra tekrarlamak yerine farklı ölçek ve iki hazır detay getirir; P165 yakın yüzeyden P167 küçük figürlerin bütününe bağlanır.",
+        "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; A0134 ve A0258 bütünleri sonraki sayfalarda detayları gerçek yerlerine bağlar.",
+        "render_risk_tr": "İki yakın görüntü aynı fiziksel büyütme ölçeğinde değildir; renk benzerliği nesne özdeşliği sayılmaz. Yeni kırpma veya renklendirme yapılmamalı."
+      }
+    }
+  ],
+  "required_recheck_after_changes": [
+    91,
+    129,
+    132,
+    133,
+    151,
+    156,
+    161,
+    166
+  ],
+  "remaining_production_boundaries": [
+    "Cover render completion does not complete the carousel interiors or new video captures.",
+    "Newly photographed/re-recorded Reel requirements remain open where recorded in the content plan.",
+    "Live account/mobile preview and actual publishing were not performed."
+  ]
+}

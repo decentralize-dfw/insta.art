@@ -1,0 +1,512 @@
+[
+  {
+    "id": "N25-A01",
+    "artist": "Stephanie Man",
+    "object_label": "Thinking of Poussin’s Drapery — dosya adı; tam künye teyitsiz",
+    "object_type": "tek eser",
+    "source_url": "https://www.stephaniemanart.com/",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6970b06de41b3a3f8bcc8021/0b92f282-6800-44e0-87da-841dc7de5fbd/2+Thinking+of+Poussin%27s+Drapery.jpg",
+    "access_date": "2026-10-16",
+    "reviewed": true,
+    "review_image_sha256": "6191217deb6d0741e5078d3d8ecd69911f44f0a16e87807f16feafa6a8cc835c",
+    "review_image_size": [
+      2056,
+      1645
+    ],
+    "observation": "Kahverengi/yeşil tonlarda kumaş kıvrımı ve koyu boşluklar; figür yerine örtü kütlesi.",
+    "yigit_work_ids": [
+      "Y10"
+    ],
+    "comparison": "Kumaş kütlesi ve ışık karşılaştırılabilir; Y10’da bunlar figür ve sahneye bağlanıyor, burada ayrıntı tek başına konu."
+  },
+  {
+    "id": "N25-A02",
+    "artist": "Olmo Gasperini",
+    "object_label": "Interno con due sedie — web görüntüsü; PDF künyesi ayrı",
+    "object_type": "tek eser",
+    "source_url": "https://vonburencontemporary.com/gasperini-and-norenko-inside-out-june-26/",
+    "image_url": "https://vonburencontemporary.com/wp-content/uploads/2026/05/1.1_VBC_Olmo-Gasperini_Interno-con-due-sedie-Steppenwolf_2025_olio-su-tela-_110-x-180-cm-600x600.jpg",
+    "access_date": "2026-10-16",
+    "reviewed": true,
+    "review_image_sha256": "30cf202e16991c653c3a2b50d8c9b8bea7713c7f8f5d7ed0860588c89d4ae857",
+    "review_image_size": [
+      600,
+      600
+    ],
+    "observation": "İki sandalye, yatak/oturma alanı ve masa; düşük doygunluklu, boş bir iç mekân.",
+    "yigit_work_ids": [
+      "Y11"
+    ],
+    "comparison": "Oda ve bekleme ortak araştırma konusu; Yiğit’te doygun yeşil ve değişen beden, Olmo örneğinde boşluk/nesne baskın."
+  },
+  {
+    "id": "N25-A03",
+    "artist": "Leila Lallali",
+    "object_label": "occupational hazard, 2026",
+    "object_type": "tek eser",
+    "source_url": "https://www.nosbaumreding.com/en/artists/exhibitiondetails/16603/leila-lallali-good-luck?iae=404",
+    "image_url": "https://www.nosbaumreding.com/cspdocs/artwork/images/leila_lallali_occupational_hazard_nosbaum_reding_10116.jpeg",
+    "access_date": "2026-10-16",
+    "reviewed": true,
+    "review_image_sha256": "ea2ba89521defbb89edf211a3cf77d7f30ad8e3975aee2de482deb2090f21202",
+    "review_image_size": [
+      4227,
+      2786
+    ],
+    "observation": "Koyu zemin önünde büyütülmüş kozmetik nesneler; keskin kontur ve düz renk kütleleri.",
+    "yigit_work_ids": [
+      "Y13"
+    ],
+    "comparison": "Nesnenin bedenle ilişkisi karşılaştırılabilir; Y13’ün figürü ve akan maddesi daha karmaşık bir eylem kuruyor."
+  },
+  {
+    "id": "N25-A04",
+    "artist": "Axelle Salvage",
+    "object_label": "Temptation serisi — stüdyoda çoklu iş fotoğrafı",
+    "object_type": "stüdyo/çoklu iş",
+    "source_url": "https://axellesalvage.com/about",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/679d1ba7f25948455acf26c4/9218ea90-f555-47c9-8903-b72550cd2d78/Axelle+Salvage+-+Temptation+painting+series.jpg",
+    "access_date": "2026-10-16",
+    "reviewed": true,
+    "review_image_sha256": "beccc10bcd1457eb8b37559d7dfe138866f9d7949a98db3449f71d7c155ec6f6",
+    "review_image_size": [
+      2500,
+      3750
+    ],
+    "observation": "Birden fazla figürlü resimde hayvan başları, tanınan karakter ve doygun renkler görünüyor.",
+    "yigit_work_ids": [
+      "Y02",
+      "Y05"
+    ],
+    "comparison": "Popüler imge ve insan/hayvan birleşimi ortak; fotoğraf bu işlerin tüm yüzeylerini veya tek bir serinin tutarlılığını göstermiyor."
+  },
+  {
+    "id": "N25-A05",
+    "artist": "Lara Ilaria Braconi",
+    "object_label": "Röportaj içindeki IMG_1778 adlı görsel; başlık teyitsiz",
+    "object_type": "tek eser fotoğrafı",
+    "source_url": "https://venticento.livemuseum.it/lara-ilaria-braconi/",
+    "image_url": "https://venticento.livemuseum.it/wp-content/uploads/2025/06/IMG_1778-min-960x1273.jpg",
+    "access_date": "2026-10-16",
+    "reviewed": true,
+    "review_image_sha256": "1d49e0f5233d38768b936ff4f2ac277bb505b86772347266887cc82900b55872",
+    "review_image_size": [
+      960,
+      1273
+    ],
+    "observation": "Mavi-beyaz geniş yaprak benzeri biçimler; arka ve ön alanı kat eden eğriler.",
+    "yigit_work_ids": [
+      "Y12"
+    ],
+    "comparison": "Kontur/alan geçişi yararlı karşılaştırma; burada yüzleşen figür veya Y12’nin yüz parçaları yok. Konu benzerliği varsayımı eleniyor."
+  },
+  {
+    "id": "N25-B01",
+    "artist": "Rae Klein",
+    "object_label": "Dream Accomplice, 2026",
+    "object_type": "tek eser",
+    "source_url": "https://www.nicodimgallery.com/exhibitions/rae-klein-second-face",
+    "image_url": "https://static-assets.artlogic.net/w_1800,h_1000,c_limit/exhibit-e/554a393b07a72c743f763dae/8681470e4fada21194abb8a0744daa75.jpeg",
+    "access_date": "2026-10-16",
+    "reviewed": true,
+    "review_image_sha256": "9d94d151374167a93b157878b7114f35a00f00691d7fc89ce334ce3feeb54714",
+    "review_image_size": [
+      750,
+      1000
+    ],
+    "observation": "Mavi figür iki kolunu kaldırmış; ellerde koyu nesneler, arka alanda mavi bulutlar.",
+    "yigit_work_ids": [
+      "Y09",
+      "Y11"
+    ],
+    "comparison": "Tek renk ağırlığı figürü bütünlüyor; Yiğit’te kontur ve çoklu renk vuruşları bedeni daha fazla parçalar."
+  },
+  {
+    "id": "N25-B02",
+    "artist": "Lee Gihun",
+    "object_label": "Masquerade-55, 2025",
+    "object_type": "tek eser",
+    "source_url": "https://www.dorothycircusgallery.com/artworks/4830-lee-gihun-masquerade-55-2025/",
+    "image_url": "https://artlogic-res.cloudinary.com/w_1600%2Ch_1600%2Cc_limit%2Cf_auto%2Cfl_lossy%2Cq_auto/artlogicstorage/dorothycircusgallerysrl/images/view/2c100d01ac94272695061b1a1f470e1f/dorothycircusgallery-lee-gihun-masquerade-55-2025.jpg",
+    "access_date": "2026-10-16",
+    "reviewed": true,
+    "review_image_sha256": "2ecbb63fca8115cf3340abbd0cf5b2fa0f6f48c3fb2f27b88a934dafb291dc6d",
+    "review_image_size": [
+      947,
+      1300
+    ],
+    "observation": "Hayvan başlı kırmızı figür, mavi çatı ve elektrik direkleri; keskin sıcak/soğuk ayrımı.",
+    "yigit_work_ids": [
+      "Y02"
+    ],
+    "comparison": "Karakter–ev/çatı ilişkisi somut kıyas; Lee örneğinde siluet belirgin, Y02’de mekân ve karakter daha çok renk katmanıyla kuruluyor."
+  },
+  {
+    "id": "N25-B03",
+    "artist": "Martin Lukáč",
+    "object_label": "Collectors Agenda — Martin_Lukac_05 stüdyo görüntüsü",
+    "object_type": "stüdyo/üretim",
+    "source_url": "https://www.collectorsagenda.com/en/in-the-studio/martin-luk%C3%A1%C4%8D",
+    "image_url": "https://www.collectorsagenda.com/assets/images/journal/In-the-Studio/Martin-Lukac/Martin_Lukac_05.jpg",
+    "access_date": "2026-10-16",
+    "reviewed": true,
+    "review_image_sha256": "9c44279cbee4772a0aff4c35943af86efe6983f8a5f8f6fd2669a62ace85b990",
+    "review_image_size": [
+      2560,
+      1600
+    ],
+    "observation": "Elde tutulan siyah-beyaz çalışmada kısa izler; arkada renkli tuval parçaları.",
+    "yigit_work_ids": [
+      "Y06",
+      "Y07"
+    ],
+    "comparison": "İzin hareketi karşılaştırma sorusu sağlar. Görüntü tek bir eserin bütününü vermediğinden bütün kompozisyon veya seri hükmü kurulmadı."
+  },
+  {
+    "id": "N25-B04",
+    "artist": "Nat Meade",
+    "object_label": "Shed, 2026 — Nosbaum künyesi",
+    "object_type": "tek eser",
+    "source_url": "https://www.nosbaumreding.com/en/artists/exhibitiondetails/16324/nat-meade-shed-works-on-paper?iae=399",
+    "image_url": "https://www.nosbaumreding.com/cspdocs/artwork/images/nat_meade_shed_nosbaum_reding_10097.jpg",
+    "access_date": "2026-10-16",
+    "reviewed": true,
+    "review_image_sha256": "fd54097d21bcdf5ce29675f08ca13ccc1e432d82e5ec84ce94d1b8c4705cf730",
+    "review_image_size": [
+      3594,
+      4980
+    ],
+    "observation": "Ahşap çevre içinde iki figür, turuncu/yeşil giysiler ve ince yeşil çizgi; dikey ve yatay sınırlar belirgin.",
+    "yigit_work_ids": [
+      "Y10",
+      "Y11"
+    ],
+    "comparison": "Mekânın bedeni çevrelemesi ortak soru; Yiğit’te hacim/renk taşmaları daha güçlü, karşı örnekte yapı çizgileri daha kararlı."
+  },
+  {
+    "id": "N25-B05",
+    "artist": "Nick McPhail",
+    "object_label": "Shadow, 2025",
+    "object_type": "tek eser",
+    "source_url": "https://nickmcphail.com/",
+    "image_url": "https://freight.cargo.site/t/original/i/835f7bb79a8785498edca2f3f761ce3bd1ef20945b0da09bd109f90e4897d730/2025.-Shadow.-60-x-50-in--oil-on-canvas.jpg",
+    "access_date": "2026-10-16",
+    "reviewed": true,
+    "review_image_sha256": "f0b9e2670e1b274fd76b06f3661e5fe4db6e6dc5aacd1d15f2bb48c450848fef",
+    "review_image_size": [
+      3861,
+      3269
+    ],
+    "observation": "Ağaç gövdeleri, koyu yeşil yapraklar ve arkadaki açık mor/sarı mimari yüzey; katmanlı mekân.",
+    "yigit_work_ids": [
+      "Y02"
+    ],
+    "comparison": "Mekânın renklerle bölünmesi kıyaslanabilir; Yiğit’in belirgin karakteri Nick örneğinde bulunmuyor."
+  },
+  {
+    "id": "N25-C01",
+    "artist": "Robin F. Williams",
+    "object_label": "Infinite Scroll, 2026",
+    "object_type": "tek eser",
+    "source_url": "https://www.ppowgallery.com/exhibitions/robin-f-williams6",
+    "image_url": "https://static-assets.artlogic.net/w_1800,h_1000,c_limit/exhibit-e/61945b4c94b78824b9217367/98fb158070ba3ab848964acf7c40c745.jpeg",
+    "access_date": "2026-10-16",
+    "reviewed": true,
+    "review_image_sha256": "8cfd41790a5efe216ee842c7a7e66cb2ca7a0e60195a045e2308b21d0d602b4b",
+    "review_image_size": [
+      960,
+      1000
+    ],
+    "observation": "Yatakta figürün önünde renkli, üst üste geçen kapalı halkalar; yüz ve eller merkezi.",
+    "yigit_work_ids": [
+      "Y04",
+      "Y10"
+    ],
+    "comparison": "Görüntü içindeki geometrik çerçeveyle figür ilişkisi ortak; burada daha pürüzsüz yüzey ve grafik simetri, Yiğit’te değişken kontur var."
+  },
+  {
+    "id": "N25-C02",
+    "artist": "Dana Lok",
+    "object_label": "A Body for Your Thoughts — DL019 kurulum fotoğrafı",
+    "object_type": "kurulum",
+    "source_url": "https://www.climagallery.com/exhibition/a-body-for-your-thoughts/",
+    "image_url": "https://www.climagallery.com/wp-content/uploads/2026/06/DL019-1-819x1024.jpg",
+    "access_date": "2026-10-16",
+    "reviewed": true,
+    "review_image_sha256": "9c3984f629a208c7ccb84aaddb712c7b5563b2f5a17e4464084a583da7c8605a",
+    "review_image_size": [
+      819,
+      1024
+    ],
+    "observation": "Beyaz duvarda kaşık benzeri tekrarlı biçimler ve kırmızı oval alanlar içeren bir resim.",
+    "yigit_work_ids": [
+      "Y13"
+    ],
+    "comparison": "Nesne tekrarının bakışı örgütlemesi karşılaştırılabilir. Fotoğraftan boya kalınlığı veya bütün serginin etkisi ölçülemez."
+  },
+  {
+    "id": "N25-C03",
+    "artist": "Danielle Mckinney",
+    "object_label": "Shelter sergisinin ana görseli; eser adı bu kayıtta teyitsiz",
+    "object_type": "tek eser",
+    "source_url": "https://www.norton.org/exhibitions/danielle-mckinney-shelter",
+    "image_url": "https://www.norton.org/storage/app/resources/resize/3200_0_auto/img_46fc2dc392106c7ae0abc409ca3164f7.webp",
+    "access_date": "2026-10-16",
+    "reviewed": true,
+    "review_image_sha256": "992b8ab49ef033159173f58d54c1780fffe020b8a69185ab2ff95461e2948b1b",
+    "review_image_size": [
+      3200,
+      1800
+    ],
+    "observation": "Yandan görülen koyu tenli yüz ve açık renk giysi; sarı/kahverengi alan içinde kırmızı ağız vurgusu.",
+    "yigit_work_ids": [
+      "Y11"
+    ],
+    "comparison": "İçe dönük tek figürün renk alanıyla kurulması kıyas; Yiğit’te kontur ayrışması ve yeşil mekân farklı bir gerilim yaratıyor."
+  },
+  {
+    "id": "N25-C04",
+    "artist": "Issy Wood",
+    "object_label": "Self-portrait 71, 2025 — NPG kaynak görseli",
+    "object_type": "tek eser",
+    "source_url": "https://www.npg.org.uk/whatson/display/2026/artist-focus-issy-wood",
+    "image_url": "https://www.npg.org.uk/assets/image-cache//npg-image-crops/mobile.ee76d100.display_2026_27_self_portrait_71_2025_by_issy_wood_woop_270.21751e69.jpg",
+    "access_date": "2026-10-16",
+    "reviewed": true,
+    "review_image_sha256": "be242a21e48df48f0025e2f3f19622013ce1db9f15a4049f4b02a6acd62b5021",
+    "review_image_size": [
+      1000,
+      1232
+    ],
+    "observation": "Yakın plan yüz, beyaz maske ve içecek kutusu; izleyiciye yakın kesilmiş kadraj.",
+    "yigit_work_ids": [
+      "Y13"
+    ],
+    "comparison": "Gündelik nesne ile yüzün örtülmesi ortak araştırma; Wood örneği daha gerçekçi ve sıkı kadrajlı, Yiğit’te nesne bedenin akışına katılıyor."
+  },
+  {
+    "id": "N25-C05",
+    "artist": "Louise Giovanelli",
+    "object_label": "Decades — White Cube künyesi",
+    "object_type": "tek eser",
+    "source_url": "https://www.whitecube.com/artists/louise-giovanelli",
+    "image_url": "https://white-cube.transforms.svdcdn.com/production/imported-artworks/Louise-Giovanelli/Decades/a232926.jpg?w=2360&q=80&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&dm=1791554735&s=4edfd73248d523e56b110f3f79366687",
+    "access_date": "2026-10-16",
+    "reviewed": true,
+    "review_image_sha256": "3288e074cffd100a58533fd1ea59c989ff962432de93918bf43a5b8fcab55992",
+    "review_image_size": [
+      2360,
+      1770
+    ],
+    "observation": "Turkuaz perde kıvrımları dikey ışık çizgileri oluşturuyor; figür görünmüyor.",
+    "yigit_work_ids": [
+      "Y10",
+      "Y11"
+    ],
+    "comparison": "Atmosferi ışıkla kurma kıyası mümkün; figürlü sahne ortaklığı bu örnekte yok. Genel yakınlık iddiası daraltıldı."
+  },
+  {
+    "id": "N25-D01",
+    "artist": "Louise Bonnet",
+    "object_label": "The Cyclops, 2018 — tarihsel eser",
+    "object_type": "tek eser, düşük çözünürlük",
+    "source_url": "https://gagosian.com/artists/louise-bonnet/",
+    "image_url": "https://gagosian.com/media/images/artists/louise-bonnet/22ZFGyPwRiHN_300x300.jpg",
+    "access_date": "2026-10-16",
+    "reviewed": true,
+    "review_image_sha256": "d314209cf27f9e154cfa8de7b81a49e6ffb7fd27608a7932d2fe2eeb7c05b297",
+    "review_image_size": [
+      300,
+      180
+    ],
+    "observation": "Uzatılmış pembe beden, koyu zemin ve dalgalı açık yüzey; anatomi büyük yumuşak hacimlere dönüşüyor.",
+    "yigit_work_ids": [
+      "Y05",
+      "Y12"
+    ],
+    "comparison": "Bedenin kütleye dönüşmesi güçlü kıyas; Bonnet’de pürüzsüz modelleme, Yiğit’te açık çizgi/renk izleri belirgin. Güncel yayın yöntemi sonucu çıkarılmaz."
+  },
+  {
+    "id": "N25-D02",
+    "artist": "Jadé Fadojutimi",
+    "object_label": "Untitled, 2025",
+    "object_type": "tek eser, düşük çözünürlük",
+    "source_url": "https://gagosian.com/artists/jade-fadojutimi/",
+    "image_url": "https://gagosian.com/media/images/artists/jade-fadojutimi/SLJgt8r_Hje2_300x300.jpg",
+    "access_date": "2026-10-16",
+    "reviewed": true,
+    "review_image_sha256": "8b0fec355f74640118de3892e83e55f0cebb4c1e32f562d15ac08884b2338c8a",
+    "review_image_size": [
+      210,
+      300
+    ],
+    "observation": "Mor, kırmızı ve sarı alanlarda yoğun çizgisel geçişler; tanınır figür seçilmiyor.",
+    "yigit_work_ids": [
+      "Y12"
+    ],
+    "comparison": "Katmanlı renk hareketi karşılaştırılabilir; Yiğit’in yüz ve beden ipuçları burada bulunmuyor. Genel figüratif emsal olarak elenir."
+  },
+  {
+    "id": "N25-D03",
+    "artist": "Jenna Gribbon",
+    "object_label": "Mauve Merge, 2026",
+    "object_type": "tek eser",
+    "source_url": "https://davidkordanskygallery.com/artist/jenna-gribbon",
+    "image_url": "https://static-assets.artlogic.net/w_1320,h_1320,c_limit/exhibit-e/675c7754605ea781900ec16e/56d4dfd65ef63fc7dc5fcf58541422ac.jpeg",
+    "access_date": "2026-10-16",
+    "reviewed": true,
+    "review_image_sha256": "722de1ba6e9ac50ca45625452e58e4d7222bfc95d70c986812dd7b7a5142cd9b",
+    "review_image_size": [
+      1029,
+      1320
+    ],
+    "observation": "Yakından görülen yüz ve eller; mavi/pembe geçişler, kapalı gözler ve kırmızı alan.",
+    "yigit_work_ids": [
+      "Y01",
+      "Y11"
+    ],
+    "comparison": "Yüzde renk hareketi ortak inceleme sorusu; burada tanınır portre yapısı, Yiğit’te anatomik parçaların kayması öne çıkıyor."
+  },
+  {
+    "id": "N25-D04",
+    "artist": "Julie Curtiss",
+    "object_label": "Persuasion — White Cube künyesi",
+    "object_type": "tek eser",
+    "source_url": "https://www.whitecube.com/artists/julie-curtiss",
+    "image_url": "https://white-cube.transforms.svdcdn.com/production/imported-artworks/Julie-Curtiss/Persuasion/a176349.jpg?w=2360&q=80&auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&dm=1688005036&s=affc51bd003f8b6c9b2202505a649cb8",
+    "access_date": "2026-10-16",
+    "reviewed": true,
+    "review_image_sha256": "be049ce1e79f47727c54ce121690f4bcbd3ca58d74915760c4b191ccf4f06bf4",
+    "review_image_size": [
+      2360,
+      3142
+    ],
+    "observation": "Sandalyede oturan, yüzü saçla kapanmış figür; giyside kareler ve çevrede bitki çizgileri.",
+    "yigit_work_ids": [
+      "Y11"
+    ],
+    "comparison": "Gündelik oda/figür bağı var; Curtiss örneği grafik sınırları korurken Yiğit’in açık çizgileri bedeni geçirgenleştiriyor."
+  },
+  {
+    "id": "N25-D05",
+    "artist": "Amoako Boafo",
+    "object_label": "Black Frames, 2024 — tarihsel eser",
+    "object_type": "tek eser, düşük çözünürlük",
+    "source_url": "https://gagosian.com/artists/amoako-boafo/",
+    "image_url": "https://gagosian.com/media/images/artists/amoako-boafo/kGFPCZLOoxj2_300x300.jpg",
+    "access_date": "2026-10-16",
+    "reviewed": true,
+    "review_image_sha256": "be4ce8541b1a5f3aac8cf353562699d82c516c5a178cab4759ee0d6de42c7ac0",
+    "review_image_size": [
+      300,
+      240
+    ],
+    "observation": "Beyaz koltukta oturan figür, koyu ten ve beyaz giysi; arka alanda desenli kumaş.",
+    "yigit_work_ids": [
+      "Y11"
+    ],
+    "comparison": "Oturma pozu ve nesneyle ölçek ilişkisi kıyas; toplumsal/kişisel kimlik eşdeğerliği veya ortak alıcı kitlesi çıkarılmadı."
+  },
+  {
+    "id": "N25-E01",
+    "artist": "George Condo",
+    "object_label": "Figure on a Red Field — lot görseli",
+    "object_type": "tek eser, çok düşük çözünürlük",
+    "source_url": "https://www.sothebys.com/en/buy/auction/2026/the-now-contemporary-evening-auction/figure-on-a-red-field?locale=en",
+    "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/12cf4d0/2147483647/strip/true/crop/2000x2492+0+0/resize/150x187!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F23%2F47%2F9920a70f420087ae5c19da07e11e%2Fn12128-bqd6f-t1-02-a.jpg",
+    "access_date": "2026-10-16",
+    "reviewed": true,
+    "review_image_sha256": "173c7fadd30a995d35e6e8d0f74573473a26788860d827803211704053ab61e5",
+    "review_image_size": [
+      150,
+      187
+    ],
+    "observation": "Kırmızı zeminde kesişen, çok renkli geometrik yüz parçaları.",
+    "yigit_work_ids": [
+      "Y01"
+    ],
+    "comparison": "Yüzün tek bakışta kararlı kalmaması ortak soru; düşük çözünürlük yüzey/teknik karşılaştırmasını sınırlıyor. Fiyat emsali değil."
+  },
+  {
+    "id": "N25-E02",
+    "artist": "Cecily Brown",
+    "object_label": "The Serpentine Picture, 2024 — tarihsel eser",
+    "object_type": "tek eser",
+    "source_url": "https://www.serpentinegalleries.org/whats-on/2026-at-serpentine/",
+    "image_url": "https://d37zoqglehb9o7.cloudfront.net/uploads/2025/10/CRB.2024.0034-The-Serpentine-Picture-2024-WEB.jpg",
+    "access_date": "2026-10-16",
+    "reviewed": true,
+    "review_image_sha256": "ada0bb0352486cef6b94c3a48de6fd96da0c52ebae68ae72a88fab4e8c1505a0",
+    "review_image_size": [
+      8229,
+      5254
+    ],
+    "observation": "Sarı-yeşil yoğun alanda beyaz/renkli geçişler; seçilen izler beden/peyzaj arasında kararsız.",
+    "yigit_work_ids": [
+      "Y12"
+    ],
+    "comparison": "Figür-zemin belirsizliği karşılaştırılabilir; Yiğit’te belirgin göz, el ve kuşumsu gövde ipuçları daha görünür."
+  },
+  {
+    "id": "N25-E03",
+    "artist": "Peter Doig",
+    "object_label": "House of Music — kurumun kurulum fotoğrafı",
+    "object_type": "kurulum",
+    "source_url": "https://www.serpentinegalleries.org/whats-on/peter-doig-house-of-music/",
+    "image_url": "https://d37zoqglehb9o7.cloudfront.net/uploads/2025/09/House-of-Music-View-12-640x377.jpg",
+    "access_date": "2026-10-16",
+    "reviewed": true,
+    "review_image_sha256": "99fe59500d62a7e44cf86e40fceeba81753304aa0376c01baad34b20424375d4",
+    "review_image_size": [
+      640,
+      377
+    ],
+    "observation": "Perdeler, sandalyeler, açık mekân ve duvar resimleri birlikte düzenlenmiş.",
+    "yigit_work_ids": [
+      "Y02",
+      "Y10"
+    ],
+    "comparison": "Eserin fiziksel karşılaşma bağlamını inceletir; bu fotoğraf tek resmin biçimsel veya sosyal medya performans emsali değildir."
+  },
+  {
+    "id": "N25-E04",
+    "artist": "Marlene Dumas",
+    "object_label": "Liaisons, Alaha’s Light — envanter görseli",
+    "object_type": "tek eser reproduksiyonu",
+    "source_url": "https://collections.louvre.fr/en/ark%3A/53355/cl010535766",
+    "image_url": "https://collections.louvre.fr/media/cache/small/0000000021/0000535766/0001373099_OG.JPG",
+    "access_date": "2026-10-16",
+    "reviewed": true,
+    "review_image_sha256": "b8d927a062d52da04c6fbef50591b118affee536cab15747b4d118ebeef89e39",
+    "review_image_size": [
+      480,
+      480
+    ],
+    "observation": "Sıcak turuncu/yeşil alanda önden yüz; göz ve ağız koyu gri lekelerle ayrışıyor.",
+    "yigit_work_ids": [
+      "Y01"
+    ],
+    "comparison": "Az sayıda belirgin yüz alanıyla ifade kurulması kıyas; Yiğit’te göz/ağız çevresi daha yoğun renkli kütlelere açılıyor."
+  },
+  {
+    "id": "N25-E05",
+    "artist": "Kerry James Marshall",
+    "object_label": "School of Beauty, School of Culture — tarihsel eser",
+    "object_type": "tek eser reproduksiyonu",
+    "source_url": "https://www.mam.paris.fr/fr/expositions/exposition-kerry-james-marshall",
+    "image_url": "https://www.mam.paris.fr/sites/default/files/styles/visuel_960x660/public/content/carrousel/kjm_visuel_11.jpg?itok=izuczcvK",
+    "access_date": "2026-10-16",
+    "reviewed": true,
+    "review_image_sha256": "d3cb0a952e0d505f41c6f3838a3b383142de13bf8ee1103b77b5c2145e8de7a2",
+    "review_image_size": [
+      960,
+      660
+    ],
+    "observation": "Kuaför mekânında çoklu figürler, aynalar, yazılar ve renkli zemin; bakış birçok odağa dağılıyor.",
+    "yigit_work_ids": [
+      "Y04",
+      "Y10"
+    ],
+    "comparison": "Toplumsal sahnede figür/nesne ilişkisi kıyas; Yiğit’in daha az figürlü ve anatomisi değişen sahnesi farklı. Kimlik bağlamı eşitlenmiyor."
+  }
+]

@@ -1,0 +1,69 @@
+{
+  "M1": {
+    "title": "Signal to Noise",
+    "artist": "Scott Buckley",
+    "url": "https://www.scottbuckley.com.au/library/signal-to-noise/",
+    "start_seconds": 30,
+    "reason": "Yüzlerdeki huzursuzluğu destekleyen düşük yoğunluklu çello/piyano dokusu.",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "verified_date": "2026-10-28",
+    "excerpt_status": "planned_edit_window_not_auditioned_or_beat_verified",
+    "delivery": "Official MP3 → kurguya gömülü ses; Instagram müzik kataloğunda bulunması varsayılmaz."
+  },
+  "M2": {
+    "title": "Hiraeth",
+    "artist": "Scott Buckley",
+    "url": "https://www.scottbuckley.com.au/library/hiraeth/",
+    "start_seconds": 35,
+    "reason": "Mekân ve bellek bölümlerinde sakin bir ses devamlılığı.",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "verified_date": "2026-10-28",
+    "excerpt_status": "planned_edit_window_not_auditioned_or_beat_verified",
+    "delivery": "Official MP3 → kurguya gömülü ses; Instagram müzik kataloğunda bulunması varsayılmaz."
+  },
+  "M3": {
+    "title": "Undertow",
+    "artist": "Scott Buckley",
+    "url": "https://www.scottbuckley.com.au/library/undertow/",
+    "start_seconds": 25,
+    "reason": "Sahne ve figür ilişkilerinde ağır, düzenli bir eşlik.",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "verified_date": "2026-10-28",
+    "excerpt_status": "planned_edit_window_not_auditioned_or_beat_verified",
+    "delivery": "Official MP3 → kurguya gömülü ses; Instagram müzik kataloğunda bulunması varsayılmaz."
+  },
+  "M4": {
+    "title": "Cirrus",
+    "artist": "Scott Buckley",
+    "url": "https://www.scottbuckley.com.au/library/cirrus/",
+    "start_seconds": 40,
+    "reason": "Yüzey ve geniş mekân okumalarında hafif atmosfer.",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "verified_date": "2026-10-28",
+    "excerpt_status": "planned_edit_window_not_auditioned_or_beat_verified",
+    "delivery": "Official MP3 → kurguya gömülü ses; Instagram müzik kataloğunda bulunması varsayılmaz."
+  },
+  "M5": {
+    "title": "Filaments",
+    "artist": "Scott Buckley",
+    "url": "https://www.scottbuckley.com.au/library/filaments/",
+    "start_seconds": 30,
+    "reason": "Tarihli arşiv karşılaştırmalarında ölçülü piyano eşliği.",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "verified_date": "2026-10-28",
+    "excerpt_status": "planned_edit_window_not_auditioned_or_beat_verified",
+    "delivery": "Official MP3 → kurguya gömülü ses; Instagram müzik kataloğunda bulunması varsayılmaz."
+  },
+  "M0": {
+    "title": "No music",
+    "artist": null,
+    "url": null,
+    "start_seconds": 0,
+    "reason": "Sessiz eser sunumu; fotoğraf ve carousel için bilinçli seçim."
+  }
+}

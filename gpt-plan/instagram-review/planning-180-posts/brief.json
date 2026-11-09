@@ -1,0 +1,99 @@
+{
+  "scope": "180 separate feed posts, not 180 days. 3 per week baseline => 60 weeks, last post Day418. First14days detailed after macro vision and full order.",
+  "vision_tr": "Yiğit'in resimlerini tek bir karakter ya da tekniğe indirgemeden tanınan, yeniden bakılmak istenen ve eser gövdesi olarak incelenebilen bir pratiğe dönüştüren Instagram hesabı: tanıdık figürler, değişken bedenler, etkili mekânlar; geçmiş ve güncel işlerde gerçek resimsel kararlar.",
+  "promise_en": "Familiar figures. Unstable bodies. Spaces that change the scene.",
+  "goals": {
+    "G1": "Keşif: ilgili yeni kişiyi esere getirmek",
+    "G2": "Tanınma: farklı eserlerde ressamın dilini ayırt ettirmek",
+    "G3": "Devam: yeniden bakma, kaydetme, ilgili takip ve eser sorusu",
+    "G4": "İnceleme: künyeli seçki/portföy ve gerçek mesleki veya eser talebi"
+  },
+  "pillars": [
+    "body",
+    "scene",
+    "space"
+  ],
+  "phases": [
+    {
+      "id": 1,
+      "range": [
+        1,
+        30
+      ],
+      "aim": "Hesabın vaadini görünür kıl: üç sütun, güncel eser ve tarihli arşiv, gerçek üretim. İzleyici tek karakteri değil ressamı tanısın."
+    },
+    {
+      "id": 2,
+      "range": [
+        31,
+        60
+      ],
+      "aim": "Bakışa derinlik kat: her eserde somut karar ve fark. İlk tanışıklığı gerekçeli yeniden bakmaya çevir."
+    },
+    {
+      "id": 3,
+      "range": [
+        61,
+        90
+      ],
+      "aim": "Farklı girişlerden aynı pratiğe getir: kişisel mekân, sinema/müzik ve resimsel kaynaklar. Referans her zaman kendi resmine bağlansın."
+    },
+    {
+      "id": 4,
+      "range": [
+        91,
+        120
+      ],
+      "aim": "Eser gövdesinin ilişkilerini göster: beden-mekân, karşılaşma-taşıma, format/ölçek; daha kapsamlı incelemeyi mümkün kıl."
+    },
+    {
+      "id": 5,
+      "range": [
+        121,
+        150
+      ],
+      "aim": "Zaman içindeki süreklilik ve ayrımı aç: eskiyi gelişim basamağına indirgemeden 2019/2020/2023/2026 arasında somut farklar."
+    },
+    {
+      "id": 6,
+      "range": [
+        151,
+        180
+      ],
+      "aim": "Biriken bakışı üç küçük seçkide topla ve yeni incelemeye aç: beden, sahne, mekân. Gerçek eser bilgilerinden portföy devamı. Kazanan/sonuç uydurma; veriye göre alternatif belirtilir."
+    }
+  ],
+  "per_post_schema": {
+    "n": "integer",
+    "phase": "integer",
+    "works": "list of catalogue work keys",
+    "assets": "list of verified archive IDs",
+    "format": "Single | Carousel | Reel",
+    "pillar": "body | scene | space",
+    "goal": "G1 | G2 | G3 | G4",
+    "title_en": "specific audience-facing hook/title",
+    "caption_en": "one to three publishable factual EN sentences; credits appended centrally; don't invent intent",
+    "idea_tr": "exact creative execution, visible evidence and payoff",
+    "why_tr": "why this work for goal, no generic filler",
+    "order_tr": "concrete relationship with preceding/following post or phase: why HERE",
+    "new_value_tr": "what different information vs earlier reuse; name a feature, not just 'new angle'",
+    "archive": "boolean this is a meaningful historical artwork/study slot",
+    "tactics": "list e.g T03 T23 T54",
+    "production_tr": "exact known footage or still path IDs; mark required new filming/VO explicitly; no unfilmed action invented",
+    "sound": "none | english_voice | original_studio",
+    "evidence": "local catalogue/audit, artist account ID/time, research card Yxx",
+    "check_tr": "one specific falsifiable observation/metric appropriate to goal"
+  },
+  "rules": [
+    "Human author every row; no cycling a work list to fill180. At least1 and at most2 meaningful archive posts per every3postweek. Vary position and format deliberately; no compulsory Reel quota.",
+    "No consecutive posts repeating same primary work. Do not reuse entire source for essentially same claim. Existing stills stay Single/Carousel, no slideshow Reel. Reel only authentic footage/story/dialogue or explicitly required new recorded presenter action. New production needs are allowed but clearly not already in archive.",
+    "All publishable text EN. Internal rationale Turkish. Avoid art jargon/general questions where concrete visual wording works.",
+    "Source catalogue is planning-180-posts/source-catalog.json; use work masters/details/process plus audited videos. No web/repo images, no InDesign. No AI reference mistaken for physical process.",
+    "Society A2763 is UNDated study; sketches A0001 A0004 A1696 A1718 A2763 A2795 have unknown dates; never stamp final artwork metadata onto study. Painstaking left-center-right A0028 A0029 A0027.",
+    "If post combines dated paintings with sketches, separate credit by object. Century/Penguin reference dates are exact catalogue values.",
+    "Gxd artist A1340 56-196sourcepath; Angora A1632 196-224home,308-364memory,616-644visit/threat,868-952colour; BoardA0620 28-84darkenpawns/leavebackground. No direct English quote invented; adapted newVO label.",
+    "Live footage Sept A1159..1172, Capricorn A2801/A2802, Board A0627..0631. Consult video notes before specific cuts. Aligned photo montage is not live process.",
+    "No autopost/ads/publication. No optimum frequency/hour or guaranteed growth claim. 5000organic goal at90days remains ambition/checkpoint not promise and not silently extended.",
+    "Do not represent chosen phase order as a compulsory viewer sequence: each post must answer its own promise. Long-term individual posts are substantive draft, revisable at checkpoints."
+  ]
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="1080" height="1350" viewBox="0 0 1080 1350">
+<defs>
+<mask id="mask_1">
+<g transform="matrix(.56797,0,0,.56797,63.189,65.00049)">
+<image id="image_2" width="1679" height="2148" xlink:href="../../../assets/svg-art/2303eb90178bc5241446.webp"/>
+</g>
+</mask>
+</defs>
+<path transform="matrix(1,0,0,-1,0,1350)" d="M0 0H1080V1350H0Z" fill="#ffffff"/>
+<g mask="url(#mask_1)">
+<g transform="matrix(.56797,0,0,.56797,63.189,65.00049)">
+<image id="image_3" width="1679" height="2148" xlink:href="../../../assets/svg-art/3d2d3999eaf50d11d8fa.webp"/>
+</g>
+</g>
+</svg>

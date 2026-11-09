@@ -1,0 +1,608 @@
+{
+  "updated_at": "2026-10-16",
+  "sources": [
+    {
+      "id": "N01",
+      "title": "Meta Engineering — Instagram model altyapısı",
+      "url": "https://engineering.fb.com/2025/05/21/production-engineering/journey-to-1000-models-scaling-instagrams-recommendation-system/",
+      "publication_observed": "21 Mayıs 2025",
+      "accessed_at": "2026-10-16",
+      "access": "Tam teknik metin",
+      "scope": "Yüzey ve sıralama katmanları farklı; deneyler sürüyor. Tek içerik için 1000 model iddiası yapılmıyor. Bir creator taktiğinin nedensel testi değil."
+    },
+    {
+      "id": "N02",
+      "title": "Meta — Reposts, Friends ve Map",
+      "url": "https://about.fb.com/news/2025/08/new-instagram-features-help-you-connect/",
+      "publication_observed": "6 Ağustos 2025",
+      "accessed_at": "2026-10-16",
+      "access": "İlgili resmî ürün metni",
+      "scope": "Repost orijinale kredi ve paylaşanın çevresine dağıtım yolu. Özelliğin her hesap/ülkede kullanılabildiği varsayılmadı."
+    },
+    {
+      "id": "N03",
+      "title": "Manychat — Post and Reel Comments trigger",
+      "url": "https://help.manychat.com/hc/en-us/articles/14281316989724-Instagram-Post-and-Reel-Comments-trigger",
+      "publication_observed": "27 Ağustos 2026 güncellemesi",
+      "accessed_at": "2026-10-16",
+      "access": "Tam ürün dokümantasyonu",
+      "scope": "Araç sağlayıcısının kendi akışı; pazarlama başarı vaatleri bağımsız test değil. Private reply tek başına devam mesajı izni açmıyor; URL butonu opt-in sayılmıyor."
+    },
+    {
+      "id": "N04",
+      "title": "Meta Developers — Instagram private replies",
+      "url": "https://developers.facebook.com/documentation/instagram-platform/private-replies",
+      "publication_observed": "Yayın günü bulunmadı",
+      "accessed_at": "2026-10-16",
+      "access": "Yalnız resmî indeks; tam açma hata verdi",
+      "scope": "İndeks normal yorum için 7 gün, Live için yayın süresini belirtiyor. Diğer API koşulları tam okunmuş sayılmadı."
+    },
+    {
+      "id": "N05",
+      "title": "Meta Engineering — GEM 2026",
+      "url": "https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai/",
+      "publication_observed": "13 Ekim 2026",
+      "accessed_at": "2026-10-16",
+      "access": "Tam ilgili teknik metin",
+      "scope": "Reklam yüzeyleri ve amaçları. Organik erişimi para almaya zorlamak için kısmaya dair kanıt değil; şirket toplu sonuçları kampanya garantisi yapılmadı."
+    },
+    {
+      "id": "N06",
+      "title": "Meta — Supervision / Your Algorithm",
+      "url": "https://about.fb.com/news/2026/05/new-supervision-tools-parents-insights-teens-algorithm/",
+      "publication_observed": "Mayıs 2026; kesin gün bu kayıtta kullanılmıyor",
+      "accessed_at": "2026-10-16",
+      "access": "Resmî ilgili paragraf",
+      "scope": "İzleyicinin konu tercih kontrolü; üreticinin kendi izlediği içerikle bütün dağıtımını eğitebileceği sonucu çıkmaz."
+    },
+    {
+      "id": "N07",
+      "title": "Instagram Creators — Original creators",
+      "url": "https://creators.instagram.com/blog/rewarding-original-creators-on-instagram",
+      "publication_observed": "Resmî indeks 30 Nisan 2026",
+      "accessed_at": "2026-10-16",
+      "access": "Resmî indeks; tam sayfa 429",
+      "scope": "Fotoğraf/carousel özgünlüğü kapsamı. Redditteki bütün 30 günlük sayısal reçeteler teyit edilmiş sayılmadı."
+    },
+    {
+      "id": "N08",
+      "title": "Meta — AI Drives Performance",
+      "url": "https://about.fb.com/news/2026/01/2026-ai-drives-performance/",
+      "publication_observed": "28/29 Ocak 2026; veri Q4 2025",
+      "accessed_at": "2026-10-16",
+      "access": "Resmî ilgili metin",
+      "scope": "ABD Instagram özgün öneri payı toplu istatistik; dünya geneli veya tek postun olasılığı değil."
+    },
+    {
+      "id": "N09",
+      "title": "Meta Transparency — Instagram Search",
+      "url": "https://transparency.meta.com/features/explaining-ranking/ig-search/",
+      "publication_observed": "Önceki ayak resmî indeks kontrolü: 23 Haziran 2026",
+      "accessed_at": "2026-10-16",
+      "access": "Önceki ayakta kaydedilmiş resmî indeks; tam kart erişimi sınırlı",
+      "scope": "Arama hesabını açma/eylem tahminleri; hashtag ağırlığı veya ideal sayı yok. Önceki kaynak sicili referansı korunuyor."
+    },
+    {
+      "id": "N10",
+      "title": "Meta — Edits",
+      "url": "https://about.fb.com/news/2025/04/introducing-edits-streamlined-video-creation-app/",
+      "publication_observed": "22 Nisan 2025; ikinci tarih 17 Aralık 2025",
+      "accessed_at": "2026-10-16",
+      "access": "Tam ilgili metin, önceki beş cevapta da okundu",
+      "scope": "Skip rate ve düzenleme araçları. Katsayı ve saniye barajı açıklanmıyor."
+    },
+    {
+      "id": "N11",
+      "title": "Meta — Trial Reels",
+      "url": "https://about.fb.com/news/2024/12/trial-reels-try-content-non-followers-first-see-what-perfoms-best/",
+      "publication_observed": "10 Aralık 2024 / 26 Haziran 2025",
+      "accessed_at": "2026-10-16",
+      "access": "Tam ilgili metin, önceki beş cevapta da okundu",
+      "scope": "Ürün seçeneği; evrensel süre, büyüme garantisi veya tam rastgele A/B testi değil."
+    },
+    {
+      "id": "R10",
+      "title": "Reddit — İlk carousel slaydını yeniden tasarlama",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1wjntza/spent_a_month_redesigning_only_the_first_carousel/",
+      "publication_observed": "Kesin gün teyitsiz; sayfa 17d ago",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve görünen yorum",
+      "scope": "Yazar silinmiş; küçük hesap öz bildirimi. Kapakta yazı, hizalama, kontrast birlikte değişiyor. Ham seri yok; yorumda araç tanıtımı var."
+    },
+    {
+      "id": "R11",
+      "title": "Reddit — Mindless_Baseball308 / carousel vs Reels",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1wxiz97/i_ran_carousels_vs_reels_for_a_month_on_a_tiny/",
+      "publication_observed": "Kesin gün teyitsiz; sayfa 15h ago; indeks göreli yaşından farklı",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve ilgili yorum",
+      "scope": "Dört haftalık dönüşümlü yayın beyanı; rastgele kitle ataması ve ham veri yok. İzleyici kalitesi bağımsız denetlenmedi."
+    },
+    {
+      "id": "R12",
+      "title": "Reddit — Carousel iki hafta sonra yükseliyor",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1s0zuaw/carousel_randomly_started_doing_well_2_weeks_later/",
+      "publication_observed": "Kesin gün teyitsiz; yorumlarda 7mo ago",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve görünen yorum",
+      "scope": "Geç ivme beyanı. Büyük hesaptan paylaşım ve algoritmik yeniden değerlendirme yorumcuların alternatif varsayımları; sebep doğrulanmadı."
+    },
+    {
+      "id": "R13",
+      "title": "Reddit — Proper_Expert79 / boost sonrası erişim",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1tr3m5n/did_i_permanently_ruin_my_account_by_boosting/",
+      "publication_observed": "İndeks 29 Mayıs 2026; sayfa 4mo ago; kesin gün teyitsiz",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve görünen karşıt yorumlar",
+      "scope": "Konu değişimi, geçmiş takipçi satın alma ve boost birlikte. Boost organiği öldürdü nedenselliği kurulamaz. Yorumcuların platform teorileri resmî bilgi değil."
+    },
+    {
+      "id": "R14",
+      "title": "Reddit — ZapifyPro / reply workflow",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1mnw0wx/replies_results_the_5minute_read_to_lift_your/",
+      "publication_observed": "Yaklaşık 2025, sayfa 1y ago; tarihsel anlatı",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve görünen yorum",
+      "scope": "Ürün geliştiricisi kendi hizmetini tanıtıyor; çok değişkenli sonuçları bağımsız ölçülmedi. Dakika/sayı barajı alınmadı; yalnız yöntem adayı."
+    },
+    {
+      "id": "R15",
+      "title": "Reddit — Comment automation kesintisi",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1sw1eil/is_your_comment_reply_automation_working_with/",
+      "publication_observed": "Kesin gün teyitsiz; yorumlarda 6mo ago",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve ilgili yorum",
+      "scope": "Bir sağlayıcının rakip hakkındaki çıkarımı; kesinti kök nedeni doğrulanmadı."
+    },
+    {
+      "id": "R16",
+      "title": "Reddit — Trending audio vs original, 30 gün",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1v7c9vj/trending_audio_vs_original_audio_i_ran_both_for/",
+      "publication_observed": "İndeks 26 Temmuz 2026; açılan sayfada göreli yaş farklı; kesin gün teyitsiz",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve görünen yorum",
+      "scope": "Yazar kontrollü dediği halde ham seri/izleyici ataması vermiyor. Takipçi niteliği tanımı yok."
+    },
+    {
+      "id": "R17",
+      "title": "Reddit — FarPlane3696 / caption SEO",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1ud2uhf/caption_seo_is_real_now_hashtags_are_dying_heres/",
+      "publication_observed": "Kesin gün teyitsiz; sayfa 4mo ago",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve görünen düzeltici yorumlar",
+      "scope": "Yazar önce/sonra deneyimi anlatıyor; yeni algoritma açıklaması, Gen Z oranı ve kesin hashtag sayısı bağımsız doğrulanmadı."
+    },
+    {
+      "id": "R18",
+      "title": "Reddit — Warm-Mountain503 / Story düşüşü",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1qwtbe4/drop_in_story_views_low_post_engagement/",
+      "publication_observed": "Kesin gün teyitsiz; sayfa 8mo ago",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve ilgili yorumlar",
+      "scope": "mohamed_fazil_s ilk Storyde anket öneriyor; OstrichIntrepid4090 benzer etkileşimlerin çözmediğini anlatıyor. Ham seri yok."
+    },
+    {
+      "id": "R19",
+      "title": "Reddit — okmisterpostman / Story reach",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1qyp3h2/instagram_story_reach_is_messed_up/",
+      "publication_observed": "Kesin gün teyitsiz; sayfa 8mo ago",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve görünen yorum",
+      "scope": "Anket katılımıyla erişim artışı gelmediği öz bildirimi; genel Story tavanı kanıtı değil."
+    },
+    {
+      "id": "R20",
+      "title": "Reddit — High views low follower conversion",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1q84n9m/high_views_but_low_follower_conversion_what_am_i/",
+      "publication_observed": "Kesin gün teyitsiz; yorumlarda farklı göreli yaşlar; sonradan edit var",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve görünen yorum",
+      "scope": "Milyon görüntülenme/az takip anlatısı sonradan büyüme editi içeriyor; payda, tarih ve hangi tavsiyenin etkili olduğu bilinmiyor."
+    },
+    {
+      "id": "R21",
+      "title": "Reddit — Successful-Ad-653 / twice daily",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1r9ndke/posting_twice_a_day_high_quality_to_grow_but_less/",
+      "publication_observed": "Kesin gün teyitsiz; sayfa 8mo ago",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve görünen yorum",
+      "scope": "Daha sık yayın ve düşük sonuç birlikte gözleniyor; yüksek kalite yazarın değerlendirmesi, sıklık cezası kanıtı değil."
+    },
+    {
+      "id": "R22",
+      "title": "Reddit — BestPartners / Trial silip normal yayın",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1qadshr/deleting_a_trial_and_reposting_the_same_video_as/",
+      "publication_observed": "Kesin gün teyitsiz; yorumlarda 9mo ago",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve görünen yorum",
+      "scope": "Uygulanıp karşılaştırılmış sonuç değil; üretim maliyeti ve yayın seçeneği sorusu. Sanat örneği genel soruya yalnız dosya yeniden kullanımı yöntemi olarak aktarıldı."
+    },
+    {
+      "id": "R23",
+      "title": "Reddit — Ara sonrası viral Trial ve düşük Story",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1u2aafp/is_my_viral_trial_reels_messing_with_my_main_feed/",
+      "publication_observed": "Kesin gün teyitsiz; yorumlarda 4mo ago",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve wesdacar yorumu",
+      "scope": "Ara sonrası erişim farklılıkları; bir yüzeyin diğerini bozduğu kanıtlanmadı. Veri bağımsız doğrulanmadı."
+    },
+    {
+      "id": "R24",
+      "title": "Reddit — Crescitaly / 2026 growth",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1qh3gi0/2026_instagram_growth_reels_still_king_or_is_the/",
+      "publication_observed": "Kesin gün teyitsiz; sayfa 8mo ago",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve karşı yorum",
+      "scope": "Yazar adıyla tanıttığı SMM panelinin adı aynı; ticari bağ şüphesi açık. Bağımsız başarı kaynağı yapılmadı; kaynak eleştirisi örneği."
+    },
+    {
+      "id": "A01",
+      "title": "CHART — Oscar Gilbert, OTP Copenhagen",
+      "url": "https://chartartfair.com/journal/art-fair/gallerist-q-a-oscar-gilbert",
+      "publication_observed": "8 Mayıs 2026",
+      "accessed_at": "2026-10-16",
+      "access": "Tam söyleşi metni",
+      "scope": "Galeristin kendi keşif, röportaj/stüdyo diyaloğu ve uzun vadeli destek anlatısı. İlk Instagram satışları geçmişe dönük; 2026 kanal dönüşüm testi değil."
+    },
+    {
+      "id": "A02",
+      "title": "CHART — Morten Avlskarl",
+      "url": "https://chartartfair.com/journal/art-fair/gallerist-q-a-morten-avlskarl",
+      "publication_observed": "17 Nisan 2026",
+      "accessed_at": "2026-10-16",
+      "access": "İlgili söyleşi bölümleri",
+      "scope": "Ölçek/bağlam sunumu ve koleksiyonerin neden sorusuna verdiği önem, kişisel mesleki görüş. Tarih ve bütün galerilere ilişkin geniş tarihsel iddiaları doğrulanmış bilgi yapılmadı."
+    },
+    {
+      "id": "A03",
+      "title": "Jason Horejs — Instagram ve galeri iş birliği",
+      "url": "https://reddotblog.com/how-to-convince-galleries-your-instagram-presence-is-an-asset-not-competition/",
+      "publication_observed": "30 Nisan 2026",
+      "accessed_at": "2026-10-16",
+      "access": "Tam ilgili blog metni",
+      "scope": "Galeristin önerisi ve tekil anlatısı; bütün galerilerin psikolojisi değil. Agresif etiketleme önerisi otomatik kabul edilmedi; satış/temsil şartları ayrıca ele alındı."
+    },
+    {
+      "id": "A04",
+      "title": "The Hole — Lee Gihun, Prometheus and Pietà",
+      "url": "https://thehole.com/exhibitions/lee-gihun",
+      "publication_observed": "24 Ocak–28 Mart 2026 sergisi",
+      "accessed_at": "2026-10-16",
+      "access": "Galeri metni, sanatçı alıntısı ve künye metinleri",
+      "scope": "Lee canlı resim/müzik birlikteliğini anlatıyor; galeri metninin birinci kişi anlatıcısı performansın dikkatini çektiğini söylüyor. Anlatıcının adı varsayılmadı; Instagram gönderisi belirlenmedi. Görseller bu tur yorumlanmadı."
+    },
+    {
+      "id": "A05",
+      "title": "Stephanie Man — Kendi düzenlediği sergi değerlendirmesi",
+      "url": "https://stephaniemanart.substack.com/p/reflections-from-my-first-self-organised",
+      "publication_observed": "11 Eylül 2026",
+      "accessed_at": "2026-10-16",
+      "access": "Tam sanatçı yazısı",
+      "scope": "Sesli rehber Reel ve tanıtım emeği, dolaylı Instagram katkısı ve sergi satışı ayrı beyanlar. Kümeler toplanmadı; Reel izlenmedi; ödeme kaydı görülmedi."
+    },
+    {
+      "id": "A06",
+      "title": "Rae Klein — About",
+      "url": "https://www.raeklein.com/about",
+      "publication_observed": "Tarihsiz güncel sayfa; erişim 16 Ekim 2026",
+      "accessed_at": "2026-10-16",
+      "access": "Kendi site kaydı ve önceki ayak kaynak kontrolü",
+      "scope": "Açık Nicodim temsil/talep yönlendirmesi. Sözleşme kapsamı veya Instagram etkisi ölçümü değil."
+    },
+    {
+      "id": "A07",
+      "title": "NYFA — Gallery representation, Asya Geisberg / Dana James / Stephanie H. Shih",
+      "url": "https://www.nyfa.org/knowledge-base/five-things-to-know-gallery-representation-for-visual-artists/",
+      "publication_observed": "5 Mart 2025",
+      "accessed_at": "2026-10-16",
+      "access": "İlgili tam söyleşi/rehber bölümleri",
+      "scope": "İki sanatçı ve galeristin ilişkiler hakkındaki anlatıları. Olaylar geçmişe dönük; 2026 erişim oranı veya herkese aynı takip ritmi değil. Shih seramik sanatçısıdır; ressam örneklemi gibi sayılmadı."
+    },
+    {
+      "id": "A08",
+      "title": "Scott Listfield — Supersonic Art söyleşisi",
+      "url": "https://www.supersonicart.com/posts/scott-listfield-interview",
+      "publication_observed": "Soruda 2026 bağlamı; kesin yayın günü teyit edilmedi",
+      "accessed_at": "2026-10-16",
+      "access": "İlgili tam söyleşi bölümleri",
+      "scope": "Sanatçı topluluk ve iletişim üzerine görüş veriyor. Sosyal medya zorunluluğu veya herkesin zamanla başarılı olacağı yazar görüşü olarak dahi genel kural yapılmadı."
+    },
+    {
+      "id": "A09",
+      "title": "Cassandra Bowes — brave Projects söyleşisi",
+      "url": "https://braveprojects.co.uk/dialogues/dialogue-cassandra-bowes",
+      "publication_observed": "29 Nisan 2025",
+      "accessed_at": "2026-10-16",
+      "access": "Tam söyleşi metni",
+      "scope": "Koleksiyoner olduğunu söyleyen sosyal medya ajansı kurucusu. Ajans çıkarı açık; görüşleri bağımsız dönüşüm araştırması değil. Son bölümdeki yüzde ifadeleri payda kayması nedeniyle kullanılmadı."
+    },
+    {
+      "id": "A10",
+      "title": "NAVA — Representation agreement checklist",
+      "url": "https://code.visualarts.net.au/selling-and-marketing/commercial-galleries-and-representation/checklist",
+      "publication_observed": "Yayın günü belirtilmiyor; erişim 16 Ekim 2026",
+      "accessed_at": "2026-10-16",
+      "access": "Tam mesleki kontrol listesi",
+      "scope": "Avustralya mesleki çerçevesi; Luxembourg/İtalya hukuku değil. Görev, duyuru, ücret/ödeme, yetki gibi görüşme alanları için kullanılır."
+    },
+    {
+      "id": "A11",
+      "title": "APAA — Code of Ethics",
+      "url": "https://www.artadvisors.org/association-of-professional-art-advisors-mission",
+      "publication_observed": "Yayın günü belirtilmiyor; erişim 16 Ekim 2026",
+      "accessed_at": "2026-10-16",
+      "access": "Tam ilgili etik standart metni",
+      "scope": "Üyelere özgü müşteri/ücret/çıkar standartları; bütün advisor ve brokerlar hakkında hukuk veya güven garantisi değil."
+    },
+    {
+      "id": "A12",
+      "title": "Artsy — Artist Instagram link product update",
+      "url": "https://partners.artsy.net/de/product-updates/link-your-artists-instagram-right-on-their-artsy-page",
+      "publication_observed": "23 Eylül 2026",
+      "accessed_at": "2026-10-16",
+      "access": "Tam ürün metni",
+      "scope": "VIP/featured representation koşullu bağlantı işlevi. SEO ve satış etkisi bağımsız test olarak alınmadı; link temsilin bütün şartlarını kanıtlamıyor."
+    },
+    {
+      "id": "A13",
+      "title": "Art Basel / UBS — Survey of Global Collecting 2026, yayıncı özeti",
+      "url": "https://www.artbasel.com/stories/the-art-basel-and-ubs-survey-of-global-collecting-2026",
+      "publication_observed": "2026 raporu; kesin sayfa yayın günü teyitsiz",
+      "accessed_at": "2026-10-16",
+      "access": "Tam yayıncı özetinin ilgili bulguları",
+      "scope": "3.100 HNW koleksiyoner, 10 pazar, 2026 ilk yarıya ilişkin beyanlar. Luxembourg/İtalya ayrı örneklem değil; Instagram veya X birlikte soruluyor. Arama sonucundaki başka özetin mid-2025 ifadesiyle dönem çelişkisi var; o özet kullanılmadı. Tam PDF yöntemi okunmadı; oranlar yalnız yayıncıya atıfla, dar kapsamda."
+    },
+    {
+      "id": "A14",
+      "title": "Austin Howlett — A Very Personal Painting",
+      "url": "https://austinhowlett.com/blog/2026/5/29/a-very-personal-painting",
+      "publication_observed": "29 Mayıs 2026",
+      "accessed_at": "2026-10-16",
+      "access": "Sanatçı yazısı; önceki ayakta da kontrol edilmiş",
+      "scope": "Half Life satışı galeri sergisine bağlanıyor; Instagram kanalına atfedilmedi. Ödeme belgesi değil."
+    },
+    {
+      "id": "F30",
+      "title": "Reddit — 2026 sanatçı sitesi tartışması",
+      "url": "https://www.reddit.com/r/ContemporaryArt/comments/1r7mfwt/do_emerging_artists_need_websites_in_2026/",
+      "publication_observed": "Kesin gün teyitsiz; sayfa 8mo ago",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve seçilmiş yorumlar",
+      "scope": "smallbatchb belirli iş gövdesine doğrudan link faydasını; başlık sahibi maliyeti sorguluyor. Platform fiyatları ve teknik iddialar doğrulanmış ürün verisi yapılmadı."
+    },
+    {
+      "id": "F31",
+      "title": "Reddit — Diligent_Arachnid487 / Move the needle",
+      "url": "https://www.reddit.com/r/ContemporaryArt/comments/1rh7bmt/what_will_finally_move_the_needle/",
+      "publication_observed": "Kesin gün teyitsiz; sayfa 8mo ago",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve seçilmiş yorumlar",
+      "scope": "OddParticular209 mevcut bağlantılardan özgül görüşme/tanıştırma öneriyor; diğerleri genel açılış öneriyor. Başarısı ölçülmüş takip uygulaması yok."
+    },
+    {
+      "id": "F32",
+      "title": "Reddit — Massive_Work6741 / Online galleries",
+      "url": "https://www.reddit.com/r/artbusiness/comments/1rozuih/marketing_are_online_galleries_worth_it_to/",
+      "publication_observed": "Kesin gün teyitsiz; sayfa 7mo ago",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve karşı yorumlar",
+      "scope": "Sanatçıdan ücret alan listeleme modeli sorgulanıyor. ROHUarts sahte övgü ihtimalini kendisi spekülasyon diye yazıyor; bu iddia bulgu yapılmadı."
+    },
+    {
+      "id": "F33",
+      "title": "Reddit — Filbertine / Quit Instagram",
+      "url": "https://www.reddit.com/r/ContemporaryArt/comments/1quezw8/what_happens_if_you_quit_instagram/",
+      "publication_observed": "Kesin gün teyitsiz; sayfa 9mo ago",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin, editler ve seçilmiş yorumlar",
+      "scope": "Temsil ve başka sanat işi bulunduğu öz bildirimi; çevreyi izleme ile kendini yayımlama ayrılıyor. Meta/AI/telefon dinlemesi yorumları doğrulanmış bilgi değil."
+    },
+    {
+      "id": "F34",
+      "title": "ArtHelper — Anne-Theilke Grabow / GalleryTogether 5.0",
+      "url": "https://www.arthelper.com/es/community/collaborations/post/open-call-gallerytogether-5-0-it-s-that-time-again",
+      "publication_observed": "16 Eylül 2026; son tarih 20 Eylül 2026",
+      "accessed_at": "2026-10-16",
+      "access": "Tam çağrı ve görünen yorum",
+      "scope": "Ortak video ile yayın sonrası beğeni, yorum, Story ve cevaplama koşulları açık. Süresi geçmiş; açık fırsat önerilmez. Bağlı Reel izlenmedi; ticari galeri temsili sayılmadı."
+    },
+    {
+      "id": "F35",
+      "title": "ArtHelper — Linnie Aikens / Supporting one another",
+      "url": "https://www.arthelper.com/community/painting/post/supporting-one-another-getting-the-most-out-of-this-community",
+      "publication_observed": "18 Temmuz 2026",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve seçilmiş yorumlar",
+      "scope": "Karşılıklı bakma/beğenme desteği açık anlatı. Sanatçı ve satış kimlikleri bağımsız teyit değil. Topluluk desteği alıcı talebiyle eşitlenmedi."
+    },
+    {
+      "id": "F36",
+      "title": "ArtHelper — Reilly Thomson AMA",
+      "url": "https://www.arthelper.com/community/general/post/ask-a-gallery-expert-anything-3",
+      "publication_observed": "11 Mayıs 2026",
+      "accessed_at": "2026-10-16",
+      "access": "Giriş ve seçilmiş isimli cevaplar",
+      "scope": "Art Storefronts ekibine katılış ve ücretli değerlendirme tanıtımı var. David Zwirner iş geçmişi kendi beyanı; bağımsız teyit edilmedi. Arty asistanının cevapları insan deneyimi sayılmadı."
+    },
+    {
+      "id": "F37",
+      "title": "Reddit — Alternatif koleksiyoner yolları",
+      "url": "https://www.reddit.com/r/ContemporaryArt/comments/1nl2sqj/is_gallery_representation_the_only_way_to_reach/",
+      "publication_observed": "Yaklaşık 2025; sayfa 1y ago; kesin gün yok",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve RandoKaruza/fleurdesureau dahil seçilmiş yorumlar",
+      "scope": "Doğrudan danışmanla çalışma ve galeri çevresi farklı anlatılıyor. İşlemler doğrulanmadı; fiyat/başarı yüzdeleri alınmadı; komplo yorumları dışarıda."
+    },
+    {
+      "id": "F38",
+      "title": "Reddit — HidingFromMyWife1 / Commission search",
+      "url": "https://www.reddit.com/r/artcollecting/comments/1r7h46m/how_do_i_find_an_artist_for_a_commission_if_i/",
+      "publication_observed": "Kesin gün teyitsiz; sayfa 8mo ago",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve seçilmiş yorumlar",
+      "scope": "Alıcı aradığı konuyu biliyor, biçimi belirlemekte zorlanıyor; istenmeyen mesajlardan rahatsızlığını editliyor. Bot teşhisi doğrulanmadı; niyet/bütçe işlem kanıtı değil."
+    },
+    {
+      "id": "F39",
+      "title": "Reddit — moltosuggestivo / Gallery support stalled",
+      "url": "https://www.reddit.com/r/ContemporaryArt/comments/1wv8nhg/how_do_you_handle_a_gallery_relationship_you/",
+      "publication_observed": "Çelişkili göreli yaş: sayfa 25m ago, indeks haftalar; kesin gün teyitsiz",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve fleurdesureau yorumu",
+      "scope": "Satılmamış stok ve vaat edilen destek üzerine belirsizlik öz bildirimi; galeri kimliği/karşı yanıtı yok. Kusur veya kötü niyet hükmü kurulmadı."
+    },
+    {
+      "id": "N12",
+      "title": "Meta Engineering — SilverTorch",
+      "url": "https://engineering.fb.com/2026/05/26/ml-applications/silvertorch-index-as-model-new-retrieval-paradigm-recommendation-systems/",
+      "publication_observed": "26 Mayıs 2026",
+      "accessed_at": "2026-10-16",
+      "access": "Tam teknik metin; ilk beş cevapta da okunmuş",
+      "scope": "İlgi eşleşmesi ve çok eylemli aday bulma. Meta ailesi altyapısı; her Instagram yüzeyinin içerik alan ağırlıkları değil."
+    },
+    {
+      "id": "N13",
+      "title": "Meta Engineering — FFmpeg at Meta",
+      "url": "https://engineering.fb.com/2026/03/02/video-engineering/ffmpeg-at-meta-media-processing-at-scale/",
+      "publication_observed": "2 Mart 2026",
+      "accessed_at": "2026-10-16",
+      "access": "Tam ilgili teknik metin",
+      "scope": "Çoklu video sürümü ve ağ koşullarına uyarlanan oynatma; yaratıcı için evrensel export reçetesi veya 4K erişim bonusu değil."
+    },
+    {
+      "id": "N14",
+      "title": "Meta Engineering — Instagram iOS Dolby Vision",
+      "url": "https://engineering.fb.com/2025/11/17/ios/enhancing-hdr-on-instagram-for-ios-with-dolby-vision/",
+      "publication_observed": "17 Kasım 2025; anlatılan denemeler 2024/2025",
+      "accessed_at": "2026-10-16",
+      "access": "Tam ilgili teknik metin",
+      "scope": "HDR metadata ve iOS/codec kapsamı; bütün platform/cihazlar için aynı destek değil. İlk metadata testindeki yükleme gecikmesi ve sonraki değişiklik platform deneyi, creator export deneyi değil."
+    },
+    {
+      "id": "N15",
+      "title": "Instagram Help — Reel size and aspect ratio",
+      "url": "https://help.instagram.com/",
+      "publication_observed": "Tarihsiz güncel indeks",
+      "accessed_at": "2026-10-16",
+      "access": "Yalnız resmî arama indeksi; özgül Help URLsi çözülemedi",
+      "scope": "İndekste boyut/FPS bilgisi görüldü, fakat bu kaynak özgül güncel sayfa olarak açılamadı. Rakamlar cevaplara güncel zorunluluk diye taşınmadı."
+    },
+    {
+      "id": "W01",
+      "title": "W3C WAI — Captions/Subtitles",
+      "url": "https://www.w3.org/WAI/media/av/captions/",
+      "publication_observed": "17 Eylül 2024 güncellemesi; ilk yayın 2019",
+      "accessed_at": "2026-10-16",
+      "access": "İlgili tam rehber metni",
+      "scope": "İşitilen bilgiye metin alternatifi ve otomatik altyazıyı düzeltme. Erişilebilirlik rehberi; Instagram sıralama veya 2026 erişim deneyi değil."
+    },
+    {
+      "id": "W02",
+      "title": "W3C WAI — Multimedia content author module",
+      "url": "https://www.w3.org/WAI/curricula/content-author-modules/multimedia/",
+      "publication_observed": "Sayfa günü kullanılmıyor; erişim 16 Ekim 2026",
+      "accessed_at": "2026-10-16",
+      "access": "İlgili rehber bölümleri",
+      "scope": "Açık konuşma, metin kontrastı, arka plan sesini azaltma ve medya alternatifleri. İnsan kullanılabilirliğine dayanak; algoritmik bonus değil."
+    },
+    {
+      "id": "R40",
+      "title": "Reddit — Fun_Brain_6122 / faceless page",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1rcef58/my_faceless_page_wont_move/",
+      "publication_observed": "Kesin gün teyitsiz; sayfa 7mo ago",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve seçilmiş yorumlar",
+      "scope": "Yazar bazı yazıların görünmediğini kabul ediyor. Crescitaly yorumundaki sağlık, yüzde, saniye ve şablon cezası iddiaları doğrulanmadı; aktarılmadı. Teşekkür başarı kanıtı değil."
+    },
+    {
+      "id": "R41",
+      "title": "Reddit — WeiRyk / Multilingual strategy",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1qvf92g/am_i_overthinking_my_multilingual_social_strategy/",
+      "publication_observed": "Kesin gün teyitsiz; sayfa 8mo ago",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve famefacer yorumu",
+      "scope": "İki dilde metin/üretim yükü tartışması. Dil bazlı dağıtım ve sessiz izleyen çoğunluğu ölçülmüş değil; tavsiyeler sonuç yapılmadı."
+    },
+    {
+      "id": "R42",
+      "title": "Reddit — WildCurve0 / Retention edits",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1qirvak/your_good_videos_are_dying_at_1k_views_and_heres/",
+      "publication_observed": "Kesin gün teyitsiz; sayfa 8mo ago",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metnin ilgili kurgu başlıkları",
+      "scope": "Başarısız seçilmiş 50 video iddiası; ham tablo yok. Vaat gecikmesi, duraklama ve sabit kadraj için evrensel saniye/yüzde eşikleri kabul edilmedi."
+    },
+    {
+      "id": "R43",
+      "title": "Reddit — Birdztheman / Series part 3",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1vnclyc/made_reel_3_of_a_series_and_the_latest_is_getting/",
+      "publication_observed": "Kesin gün teyitsiz; sayfa 1mo ago",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve th3_sinner yorumu",
+      "scope": "Üç bölümün sayıları öz bildirim; 19-3 yazımı ve oran paydaları belirsiz. Yorumcunun taze batch/reset teorisi resmî kural yapılmadı."
+    },
+    {
+      "id": "R44",
+      "title": "Reddit — Crescitaly / Batch content and evergreen income",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1sib50n/instagram_content_batch_system_that_made_my/",
+      "publication_observed": "Kesin gün teyitsiz; sayfa 5mo ago",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin",
+      "scope": "Aynı yazarın başka başlıkta SMM paneli tanıtımı var; burada da tekrarlanan metin ve ham verisiz gelir anlatısı bulunuyor. Sabit ay/gün eşikleri kullanılmadı; yöntem önerisiyle başarı iddiası ayrıldı."
+    },
+    {
+      "id": "R45",
+      "title": "Reddit — Outrageous_Big1919 / Upload quality",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1w7x00c/how_to_get_higher_quality_uploads/",
+      "publication_observed": "Kesin gün teyitsiz; sayfa 1mo ago; yorumda Eylül 2026 beyanı",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve zubrinovic/famefacer dahil yorumlar",
+      "scope": "Her şey SDR ve 4K hiçbir şekilde desteklenmez gibi geniş iddialar resmî iOS HDR belgesiyle çelişiyor. Teknik tavsiye otomatik doğrulanmış sayılmadı; yükleme sonrası renk sorunu öz bildirim."
+    },
+    {
+      "id": "R46",
+      "title": "Reddit — Bocurl13 / Video quality uploads",
+      "url": "https://www.reddit.com/r/SocialMediaManagers/comments/1v2dqr6/video_quality_uploads/",
+      "publication_observed": "İndeks 21 Temmuz 2026; sayfa 3mo ago; kesin gün teyitsiz",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve seçilmiş yorumlar",
+      "scope": "Araçla yayın sonrası kalite şikâyeti; rakip satıcı cevapları ticari bağlı. Dosya, oynatma ve araç akışı doğrulanmadı; bütün schedulerlar sıkıştırır hükmü alınmadı."
+    },
+    {
+      "id": "R47",
+      "title": "Reddit — First 1000 followers / wesdacar seri önerisi",
+      "url": "https://en.reddit.com/r/InstagramMarketing/comments/1uylqa2/how_did_you_get_your_first_1000_instagram/?sort=qa",
+      "publication_observed": "Sayfada 17 Temmuz 2026 açık tarih",
+      "accessed_at": "2026-10-16",
+      "access": "Ana metin ve ilgili yorum bölümü",
+      "scope": "wesdacar belirli tekrar edilebilir seyahat açısı öneriyor; uygulanmış karşılaştırma değil. Diğer kullanıcıların bütün başarıları denetlenmiş sayılmadı."
+    },
+    {
+      "id": "E01",
+      "title": "Reddit — MarkLuther123 / Hook revision",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1wo8otl/0_followers_to_1180_followers_in_one_week_brand/",
+      "publication_observed": "İndeks ve göreli yaş çelişkili; kesin gün yok",
+      "accessed_at": "2026-10-16",
+      "access": "Önceki beş cevapta tam ana metin kontrolü",
+      "scope": "Aynı videoda süre ve yazı birlikte değişti. Sayısal hook etkisi çıkarılmadı; yeni bağımsız vaka olarak sayılmıyor."
+    },
+    {
+      "id": "E02",
+      "title": "Reddit — Particular_Invite840 / Sleep app video tests",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1utfybm/my_third_reel_got_3k_views_every_test_since_has/",
+      "publication_observed": "Göreli yaş belirsiz; kesin gün yok",
+      "accessed_at": "2026-10-16",
+      "access": "Önceki beş cevapta metin/yorum kontrolü",
+      "scope": "Kısa döngü ve birden çok değişken deneyimi; video ve retention grafiği görülmedi. Yeni bağımsız çalışma sayılmıyor."
+    },
+    {
+      "id": "E03",
+      "title": "Reddit — SavingsHumor4424 / Minimal editing",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1wr18c7/my_instagram_views_skyrocketed_after_4_months_of/",
+      "publication_observed": "İndeks ve göreli yaş çelişkili; kesin gün yok",
+      "accessed_at": "2026-10-16",
+      "access": "Önceki beş cevapta metin/yorum kontrolü",
+      "scope": "Sade kurgu, konu ve sıklık birlikte. İki platform büyümesi Instagram oranı yapılmadı; video izlenmedi."
+    }
+  ]
+}

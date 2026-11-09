@@ -1,0 +1,186 @@
+{
+  "date": "2026-10-16",
+  "baseline": "26844ca70b23183f2142ac462057caeb907f885a",
+  "scope": "1–18 metinleri, sistem kaynak/iddia eşleşmesi, güncellik, metrik tutarlılığı ve okuyucu verisi",
+  "claim_checks": [
+    {
+      "id": "R01",
+      "claim": "Feed için içerik türü girdisi ve göreli geçme tahmini",
+      "sources": [
+        "F31"
+      ],
+      "evidence": "Resmî indeks",
+      "result": "Doğrulandı; tam kart iddiası yok"
+    },
+    {
+      "id": "R02",
+      "claim": "Feed önerilerinde kamusal adaylar ve yakın dönem takip/etkileşim bilgisi",
+      "sources": [
+        "F27"
+      ],
+      "evidence": "Resmî indeks",
+      "result": "Doğrulandı; tam model listesi değil"
+    },
+    {
+      "id": "R03",
+      "claim": "Feed önerilerinde profil açma ve bilgilendiricilik tahmini",
+      "sources": [
+        "F27"
+      ],
+      "evidence": "Resmî indeks",
+      "result": "Doğrulandı; tahminlerden satış sonucu türetilmedi"
+    },
+    {
+      "id": "R04",
+      "claim": "Explore'da video süresinin %95'inden fazlasını izleme tahmini",
+      "sources": [
+        "F32"
+      ],
+      "evidence": "Resmî indeks",
+      "result": "Doğrulandı; viral eşik değil"
+    },
+    {
+      "id": "R05",
+      "claim": "Reels'te aynı uzunluktaki videoları izleyen kullanıcılarla %95 karşılaştırması",
+      "sources": [
+        "F25"
+      ],
+      "evidence": "Resmî indeks",
+      "result": "Doğrulandı; video tamamlanma yüzdesiyle ayrıldı"
+    },
+    {
+      "id": "R06",
+      "claim": "Stories'te üreticinin postlarına bakma ve soru yanıtıyla etkileşim",
+      "sources": [
+        "F33"
+      ],
+      "evidence": "Resmî indeks",
+      "result": "Doğrulandı; 2023 eylem listesi çıkarıldı"
+    },
+    {
+      "id": "R07",
+      "claim": "Search'te yazma sonrası hesabı açma ve ek eylem tahmini",
+      "sources": [
+        "F11"
+      ],
+      "evidence": "Resmî indeks",
+      "result": "Doğrulandı; 2021 SEO ağırlıkları taşınmadı"
+    },
+    {
+      "id": "R08",
+      "claim": "Hesap önerisinde yakınlık ve karşılıklı takip tahmini",
+      "sources": [
+        "F12"
+      ],
+      "evidence": "Resmî indeks",
+      "result": "Doğrulandı; tam sinyal listesi değil"
+    },
+    {
+      "id": "R09",
+      "claim": "Your Algorithm Feed/Reels/Explore kapsamı",
+      "sources": [
+        "F29"
+      ],
+      "evidence": "Haziran 2026 resmî indeks güncellemesi",
+      "result": "Mayıs kapsamı güncellendi"
+    },
+    {
+      "id": "R10",
+      "claim": "Aday arama, filtreleme ve çok eylemli değerlendirme",
+      "sources": [
+        "F30",
+        "F34"
+      ],
+      "evidence": "Teknik metin; makale özeti",
+      "result": "2026 dayanağıyla yenilendi; bütün yüzeyler aynı kod sayılmadı"
+    },
+    {
+      "id": "R11",
+      "claim": "Yeni içerik/özellik/uygunluk için indeks akışı",
+      "sources": [
+        "F30"
+      ],
+      "evidence": "Teknik metin",
+      "result": "Doğrulandı; başlangıç gösterim kotası eklenmedi"
+    },
+    {
+      "id": "R12",
+      "claim": "Bildirim çeşitliliği",
+      "sources": [
+        "F06"
+      ],
+      "evidence": "2025 mühendislik metni",
+      "result": "Doğrulandı; bütün Feed'e doğrudan genellenmedi"
+    },
+    {
+      "id": "R13",
+      "claim": "Fotoğraf/carousel özgünlük genişlemesi",
+      "sources": [
+        "F16"
+      ],
+      "evidence": "Nisan 2026 resmî indeks",
+      "result": "Doğrulandı; tam eşik/istisna listesi değil"
+    },
+    {
+      "id": "R14",
+      "claim": "Native repost ve Friends dağıtım yolu",
+      "sources": [
+        "F21"
+      ],
+      "evidence": "2025 ürün metni",
+      "result": "Doğrulandı; kopya yeniden yüklemeyle ayrıldı"
+    },
+    {
+      "id": "R15",
+      "claim": "Trial Reels takipçi dışı başlangıcı ve 72 saat ürün seçeneği",
+      "sources": [
+        "F13"
+      ],
+      "evidence": "2025 güncellemeli ürün metni",
+      "result": "Doğrulandı; genel organik süre kuralı yapılmadı"
+    },
+    {
+      "id": "R16",
+      "claim": "Reklamda geçmiş temsili ve taze adayla sıralama",
+      "sources": [
+        "F19",
+        "F20"
+      ],
+      "evidence": "Ağustos/Ekim 2026 teknik metin",
+      "result": "Doğrulandı; organik sıralama diye taşınmadı"
+    },
+    {
+      "id": "R17",
+      "claim": "İşletme etkinlik verisinin reklam dışı kullanım duyurusu",
+      "sources": [
+        "F22"
+      ],
+      "evidence": "Haziran 2026 ürün/veri kullanım metni",
+      "result": "Doğrulandı; Avrupa'nın tamamına uygulanmış durum sayılmadı"
+    },
+    {
+      "id": "R18",
+      "claim": "Ortalama izleme tamamlanma oranını belirlemez",
+      "sources": [
+        "Aritmetik"
+      ],
+      "evidence": "Karşı örnekle matematik kontrolü",
+      "result": "İki dağılımda aynı ortalama/farklı tamamlanma gösterildi"
+    }
+  ],
+  "validation": {
+    "documents": 48,
+    "questions": 18,
+    "claim_checks": 18,
+    "canonical_parallel_files": 16,
+    "checks": [
+      "relative_links",
+      "source_ids",
+      "current_source_usage",
+      "body_sync",
+      "document_dates",
+      "reader_js_syntax"
+    ],
+    "browser_visual_qa": false
+  }
+}

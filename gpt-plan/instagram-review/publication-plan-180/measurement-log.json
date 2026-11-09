@@ -1,0 +1,191 @@
+{
+  "baseline_followers": null,
+  "entries": [
+    {
+      "post_id": "V3-P01",
+      "planned_day": 1,
+      "actual_published_at": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "post_id": "V3-P02",
+      "planned_day": 3,
+      "actual_published_at": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "post_id": "V3-P03",
+      "planned_day": 5,
+      "actual_published_at": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "post_id": "V3-P04",
+      "planned_day": 8,
+      "actual_published_at": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "post_id": "V3-P05",
+      "planned_day": 10,
+      "actual_published_at": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "post_id": "V3-P06",
+      "planned_day": 12,
+      "actual_published_at": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    }
+  ]
+}

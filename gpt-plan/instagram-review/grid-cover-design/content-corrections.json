@@ -1,0 +1,224 @@
+[
+  {
+    "n": 11,
+    "severity": "source_claim",
+    "source_evidence": "A0134 bütün ve A0101 hazır detay görsel olarak kontrol edildi. Kırmızı zikzak alanı görülüyor; ağız okuması olası yorumdur, güvenilir anatomik etiket olarak kesinleştirilmemeli. A0096/A0097 bu kırmızı alanı göstermiyor.",
+    "replacements": {
+      "caption_en": "Pale strokes and red marks give the figure different points of definition."
+    }
+  },
+  {
+    "n": 30,
+    "severity": "pin_row_cover_consistency",
+    "source_evidence": "P001 already shows Angora; P005 shows Painstaking. Board is an existing P030 source and adds the scene pillar to the proposed fixed row.",
+    "replacements": {
+      "production_tr": "Kapakta A0592 Board karşılaşma sahnesi ve Body. Scene. Space. başlığı. Sonraki üç sayfada Angora, Gary ve Board ayrı bütünleri ve doğru künyeleriyle yer alır. P001 ile aynı Angora kapak görselini sabit üst sırada tekrar etme."
+    }
+  },
+  {
+    "n": 31,
+    "severity": "source_claim_and_wrong_detail",
+    "source_evidence": "A0101 kırmızı zikzak işaretleri ve çevresindeki açık izleri gösterir. Önceki A0096/A0097 gövde ve açık boya detaylarıdır, kırmızı alanı taşımaz. A0134 tüm bağlamı verir.",
+    "replacements": {
+      "assets": [
+        "A0134",
+        "A0101"
+      ],
+      "title_en": "Red marks, pale edges. What changes when one part disappears?",
+      "caption_en": "A closer look at the red marks and the pale strokes around them. Briefly covering this area on a reproduction lets us compare what remains visible.",
+      "idea_tr": "Sanatçı basılı s(t)lop reprodüksiyonunda küçük nötr kartla A0101 ayrıntısında görülen kırmızı zikzak alanını birkaç saniye kapatıp açar. Tek gerçek çekimde çevredeki açık izlerle ilişkisini gösterir; orijinal tuvale müdahale etmez. İşaretlerin anatomik olarak ağız olduğu iddia edilmez.",
+      "new_value_tr": "P011 genel bütün sunumundan kırmızı işaretler ile açık çevre izleri ilişkisine geçiş. Bir alanı geçici kapatma eylemi sabit detaydan farklı bir görme deneyi sunar; sonucu herkes aynı algılıyormuş gibi anlatma.",
+      "production_tr": "YENİ ÇEKİM: A0134 baskısı, nötr küçük kart, üstten/karşıdan telefon ve yeni İngilizce açıklama. A0101 hareketin hedef alanını doğrular. Şimdiki arşivde bu hareketin videosu yok. Kayıt yapılmazsa A0134 bütün ve A0101 hazır detayıyla carousel yedeği kullanılır.",
+      "fallback": {
+        "format": "Carousel",
+        "title_en": "Red marks, pale edges.",
+        "caption_en": "Red marks sit among pale strokes. The full painting and a closer view show how this area relates to the surrounding figure.",
+        "idea_tr": "A0134 bütün ve A0101 hazır detay üzerinden kırmızı işaretlerle açık boya izlerinin ilişkisini göster; ağız etiketi kullanma.",
+        "production_tr": "A0134 ve A0101 özgün arşiv görsellerinden hazırlanacak; sabit fotoğraf hareketli üretim kaydı diye sunulmayacak.",
+        "reason": "Yeni kayıt üretilemezse aynı gözlenebilir soru ve doğrulanmış kaynaklarla mevcut sabit görsel taslağı."
+      }
+    }
+  },
+  {
+    "n": 43,
+    "source_evidence": "Visual review of rendered cover and existing archive source; qa-first90.json",
+    "severity": "cover_content_consistency",
+    "replacements": {
+      "production_tr": "İlk sayfa/kapak A0262 gerçek ara aşaması: yeşil çevre ve açık figür, sarı akış henüz yok. Sonraki sayfalarda A0260 gerçek çizimi ve A0264 ileri boya aşaması gösterilir; her kaynak aşama olarak açıkça etiketlenir. A0260 soluk çizimi kapak yerine içeride büyük görüntüyle sunulur."
+    }
+  },
+  {
+    "n": 73,
+    "severity": "wrong_detail",
+    "source_evidence": "A1811 el ve blok köşesi. A1814 iki üst açık yüzü birlikte, A1818 alt figürün belirgin yüzünü, A1829 tek üst beyaz yüz alanını gösteriyor. Hepsi hazır arşiv detayları görsel olarak kontrol edildi.",
+    "replacements": {
+      "assets": [
+        "A1832",
+        "A1814",
+        "A1818"
+      ],
+      "idea_tr": "A1832 bütünüyle bağlamı kur; A1814 hazır detayında iki üst yüzün açık alanını, A1818 hazır detayında alt figürün belirgin göz/burun/ağız izlerini karşılaştır. Her detayın bütündeki yerini belirt.",
+      "production_tr": "Doğrulanmış kaynaklar: A1832 bütün, A1814 iki üst yüz, A1818 alt belirgin yüz. A1811 yüz olmadığı için çıkarıldı. Yeni tahmini master kırpması gerekmez."
+    }
+  },
+  {
+    "n": 78,
+    "severity": "unsupported_anatomical_label",
+    "source_evidence": "A2451 Wings bütününde uzayan sivri başlar ve spiral gövdeler görülüyor; resmin adı görünür kanatların kanıtı değildir. A1378 Angora kanatlı figürü açıkça gösteriyor.",
+    "replacements": {
+      "title_en": "Creatures in two different worlds.",
+      "idea_tr": "2019 Wings ve 2026 Angora bütünleriyle yaratıkların yönü ve mekânla ilişkisini karşılaştır: Wings içinde uzayan başlar/spiral bedenler, Angora içinde ev üstündeki kanatlı figür. İki eserde de kanat bulunduğu söylenmez; iki tarih ayrı gösterilir."
+    }
+  },
+  {
+    "n": 83,
+    "source_evidence": "Visual review of rendered cover and existing archive source; qa-first90.json",
+    "severity": "cover_content_consistency",
+    "replacements": {
+      "caption_en": "Three separate faces in Painstaking; a divided face within one figure in duality of the angelic summarization.\n\nThe opening image pairs the full triptych with a face detail. The complete duality painting follows. The two images are not shown at the same physical scale.",
+      "production_tr": "Kapak: A0025 Painstaking tam triptiği ve A1931 Duality hazır yüz detayı. Sonraki sayfalarda her eser kendi bütün görüntüsüyle gösterilir: A0025 ve A1945. A1931 kapak ayrıntısı auditten doğrulandı; yeni tahmini kırpma değildir. Bir bütün ile bir detayın kapaktaki gösterim büyüklükleri fiziksel eser ölçüsünü eşitlemez.",
+      "assets": [
+        "A0025",
+        "A1945",
+        "A1931"
+      ]
+    }
+  },
+  {
+    "n": 87,
+    "severity": "wrong_detail",
+    "source_evidence": "A1034 yalnız yeşil alan ve imza. A1045 mor gövde, üzerine binen sarı çizgiler, el ve koltuğu gerçekten gösteriyor. Hazır detay görsel olarak kontrol edildi.",
+    "replacements": {
+      "assets": [
+        "A0947",
+        "A1045"
+      ],
+      "idea_tr": "A0947 bütününden A1045 hazır gövde detayına geç; açık sarı çizgilerin mor bedenle üst üste gelmesini, el ve açık koltuk kenarıyla birlikte göster. İki ayrı ayrıntı varmış gibi sunma.",
+      "production_tr": "A0947 bütün ve A1045 hazır ayrıntı kullanılacak. A1034 imzalı yeşil alan olduğu için çıkarıldı. Görünmeyen kıyafet malzemesi veya kimlik iddiası ekleme."
+    }
+  },
+  {
+    "n": 91,
+    "source_evidence": "Rendered-cover visual review; qa-second90.json",
+    "severity": "cover_content_consistency",
+    "replacements": {
+      "production_tr": "Kapak iki formatı gösterir; fiziksel ölçü diyagramı sonraki sayfada katalogdaki120cm ortak yüksekliğe göre kurulacak."
+    }
+  },
+  {
+    "n": 128,
+    "severity": "source_order_correction",
+    "source_evidence": "Audit yolları: A0664 = İPHONE PROCESS/FRAMED/10.png; A0676 = İPHONE PROCESS/FRAMED/9.png. İki önizleme de zaten boyalı gelişmiş aşamalar. ID sırası sayısal aşama sırası değildir. Mevcut idea_tr erken A0664 / geç A0676 diye yanlış yön kuruyor.",
+    "replacements": {
+      "assets": [
+        "A0676",
+        "A0664",
+        "A0592"
+      ],
+      "title_en": "The same layout, changing faces.",
+      "caption_en": "Two recorded stages and the completed 7 fam board game. The table remains between the figures while the painted shapes within their heads and bodies change.",
+      "idea_tr": "Numaralı kayıtlarda 9.png A0676, ardından 10.png A0664 ve temiz final A0592. İki kayıt da boyalı aşamadır; ilk boya veya tüm sürecin başlangıcı diye sunma. Masa ve iki beden ilişkisini koru, yalnız görünen değişiklikleri adlandır; dosya numarası kesin tarih veya süre kanıtı değildir.",
+      "new_value_tr": "Film kaynağı anlatısından farklı olarak aynı sahne düzenindeki iki gerçek boyalı kaydın yerel biçim değişimleri karşılaştırılır. ID leksikografisi süreç sırası olarak kullanılmaz."
+    }
+  },
+  {
+    "n": 129,
+    "source_evidence": "Rendered-cover visual review; qa-second90.json",
+    "severity": "cover_content_consistency",
+    "replacements": {
+      "production_tr": "Kapak A2423 bütün; küçük el ve büyük baş birlikte görünür. Sonraki sayfada A2422 baş detayı."
+    }
+  },
+  {
+    "n": 132,
+    "source_evidence": "Rendered-cover visual review; qa-second90.json",
+    "severity": "cover_content_consistency",
+    "replacements": {
+      "production_tr": "Kapak A1695 büyük bütün; sonraki sayfada A1696 tarihsiz çizim, ardından iki kompozisyonun ayrı ve büyük karşılaştırması."
+    }
+  },
+  {
+    "n": 133,
+    "severity": "source_legibility_improvement",
+    "source_evidence": "A1314 PROCESS IPHONE/1.png, 1411×1881 gerçek açık tuval/çok soluk çizgi kaydı; küçük görüntüde çizgiler seçilmiyor. Aynı audit A1335 temiz-sketchü.png kaydını temiz taslak olarak tanımlar; çizgiler daha belirgin ve iki grup düzeni iddiasını daha iyi taşır. A1335 fiziksel erken tuval fotoğrafı gibi sunulmamalı.",
+    "replacements": {
+      "assets": [
+        "A1335",
+        "A0428",
+        "A1209",
+        "A0582"
+      ],
+      "title_en": "Two group arrangements in the drawings.",
+      "caption_en": "A clean drawing from the Gxd archive and a recorded drawing stage of Virgil show different group arrangements. One leans around a carried body; the other gathers beneath a central figure. The finished paintings follow for orientation.",
+      "idea_tr": "Gxd temiz çizimi A1335 ile Virgil çizim aşaması A0428 ayrı sayfalar; sonra ilgili finaller. A1335'i ilk fiziksel tuval aşaması diye etiketleme. A1314 arşivde korunur, okunurluğu düşük olduğu için karşılaştırmanın ana sayfası olmaz. Taslak tarihlerini kesinleştirme.",
+      "new_value_tr": "İki farklı arşiv çiziminde taşınan bedene yönelme ile merkez etrafında toplanma karşılaştırılır; temiz çizim ile fiziksel tuval aşaması aynı belge türü diye birleştirilmez.",
+      "production_tr": "Kapak A1335 temiz çizim kaydı; fiziksel ilk tuval aşaması veya kesin kronoloji iddia edilmez. Virgil A0428 ayrı büyük sayfada."
+    }
+  },
+  {
+    "n": 148,
+    "severity": "rationale_correction",
+    "source_evidence": "Mevcut new_value_tr '135sarırayın,139küçükeylemlerin' diyor. P135 tabak/teknedeki tekrar birimlerini karşılaştırıyor; P139 giysinin gövdeye çizdiği sınırı inceliyor. Önceki postların görevleri yanlış aktarılmış.",
+    "replacements": {
+      "new_value_tr": "P135 küçük birimlerin bir alanı doldurmasını, P139 giysinin gövdeyi çerçevelemesini inceliyordu. Burada tabak ile ızgaranın tamamlanmış figürün eylemini ve sahnesini farklı kurması karşılaştırılır."
+    }
+  },
+  {
+    "n": 151,
+    "source_evidence": "Rendered-cover visual review; qa-second90.json",
+    "severity": "cover_content_consistency",
+    "replacements": {
+      "production_tr": "Kapak Painstaking tek triptik eseridir; Gary ve STLOP sonraki sayfalarda kendi adlarıyla gösterilir. Üç panel üç ayrı eser diye sayılmaz."
+    }
+  },
+  {
+    "n": 156,
+    "source_evidence": "Rendered-cover visual review; qa-second90.json",
+    "severity": "cover_content_consistency",
+    "replacements": {
+      "production_tr": "Kapak A0211 notlu renk çalışması. A0428 çizimi ayrı tam sayfa; ardından doğru iki final. Kayıt türleri açıkça ayrılır."
+    }
+  },
+  {
+    "n": 161,
+    "source_evidence": "Rendered-cover visual review; qa-second90.json",
+    "severity": "cover_content_consistency",
+    "replacements": {
+      "production_tr": "Kapak A1695 Lucid bütünü; Guard A2050 sonraki tam sayfa; sonrasında oda yönleri karşılaştırılır. Özgün kaynak kenarları korunur."
+    }
+  },
+  {
+    "n": 165,
+    "severity": "rationale_and_claim_correction",
+    "source_evidence": "Mevcut new_value_tr P125'i insan yanında ölçek diye tanımlıyor; P125 aslında 120 cm kare ile üç 40×30 cm panelin ölçülü karşılaştırması. İnsanla ölçek P17'de. A2744/A2745 yakınlarında sarı çizginin belirli rotası küçük görüntüde doğrulanmıyor; bunu içeriğin zorunlu yeni değeri yapmak gereksiz kesinlik yaratıyor. Root görsel kontrolünde A2744 ve A2745 aynı eğik yakın fotoğrafın edit/ham çifti gibi görünüyor; ikinci bilgi sayfası olarak tekrarlanmaz. Nihai A2743 ile aynı sınırın aynı boya aşaması olduğu kesinleştirilmedi. Kayıt yüzey gözlemi olarak sunulacak.",
+    "replacements": {
+      "idea_tr": "İki sayfa: A2744 mevcut editli eğik stüdyo yakını; A2743 tamamlanmış resim bağlamı. Yakını finalin aynı gün veya aynı boya aşamasındaki detayı diye tanımlama. A2745 ham yakın fotoğraf aynı bilginin tekrarı olacağı için ayrı sayfa değil. Boya sırtları ve geniş açık izler görüldüğü kadar anlatılır.",
+      "new_value_tr": "P017 insanla ölçeği, P125 tuval/panel ölçülerini inceliyordu. Bu yayın eğik stüdyo fotoğrafındaki boya yüzeyini gösterir; aynı fotoğrafın edit ve ham kopyalarını farklı bilgi diye çoğaltmaz.",
+      "assets": [
+        "A2744",
+        "A2743"
+      ],
+      "title_en": "A close studio view of Penguin.",
+      "caption_en": "A close studio photograph of Penguin. Broad pale strokes sit beside darker passages. The completed painting follows for context.\n\nStudio photograph undated.",
+      "production_tr": "A2744 hazır editli yakın fotoğraf birinci sayfa; A2743 tamamlanmış bütün ikinci sayfa. Stüdyo fotoğrafının tarihi ve resmin o kayıttaki aşaması kesin değil; yalnız final künye yılını fotoğraf çekim tarihi diye kullanma."
+    }
+  },
+  {
+    "n": 166,
+    "severity": "unsupported_object_identification",
+    "source_evidence": "A0134 bütünü ve A0101 hazır yakını incelendi: sağ/üst bölgede kırmızı çizgisel işaretler var; küçük kırmızı ağız diye kesin bir anatomi tanımı desteklenmiyor. Walls A0224 yakınında şapka altındaki ağız bölgesi ve kırmızı boya açıkça görülüyor. İki ağız başlığı STLOP biçimini dayanaksız biçimde sabitliyor.",
+    "replacements": {
+      "assets": [
+        "A0134",
+        "A0101",
+        "A0258",
+        "A0224"
+      ],
+      "title_en": "Red marks, different edges.",
+      "caption_en": "Red linear marks interrupt the pale field in s(t)lop. In walls of perception, red sits around the mouth beneath the hat. Similar colour takes different roles within the surrounding painted forms.",
+      "idea_tr": "Önce iki bütün, ardından STLOP A0101 kırmızı çizgisel izleri ve Walls A0224 ağız çevresi. STLOP izlerini ağız veya başka kesin bir anatomik nesne diye tanımlama. Her hazır detayı bütünüyle bağla; ortak renk ve farklı kenar kuruluşunu karşılaştır.",
+      "new_value_tr": "STLOP dikey nesnesi veya Walls şapkasının tekrarı değil; iki bitmiş resimde kırmızı izlerin çevredeki boya alanına farklı bağlanışı. Benzer renk aynı nesne anlamına gelmez.",
+      "production_tr": "Kapak A0101 ve A0224 mevcut hazır detayları birlikte gösterir. A0134 ve A0258 bütünleri sonraki sayfalarda konumu açıklar. Yakınlar eş fiziksel ölçekli sunulmaz; STLOP kırmızı işaretleri ağız diye tanımlanmaz."
+    }
+  }
+]

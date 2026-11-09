@@ -1,0 +1,2251 @@
+{
+  "updated_at": "2026-10-16",
+  "answers_written": 60,
+  "experiments_run": 0,
+  "claims": [
+    {
+      "id": "T3-Q06-source_scope",
+      "question": 6,
+      "type": "source_scope",
+      "document": "tactics-q06-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N01",
+        "R10",
+        "R11"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q06-experience_comparison",
+      "question": 6,
+      "type": "experience_comparison",
+      "document": "tactics-q06-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N01",
+        "R10",
+        "R11"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q06-proposed_test",
+      "question": 6,
+      "type": "proposed_test",
+      "document": "tactics-q06-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N01",
+        "R10",
+        "R11"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q07-source_scope",
+      "question": 7,
+      "type": "source_scope",
+      "document": "tactics-q07-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N02",
+        "R12"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q07-experience_comparison",
+      "question": 7,
+      "type": "experience_comparison",
+      "document": "tactics-q07-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N02",
+        "R12"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q07-proposed_test",
+      "question": 7,
+      "type": "proposed_test",
+      "document": "tactics-q07-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N02",
+        "R12"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q08-source_scope",
+      "question": 8,
+      "type": "source_scope",
+      "document": "tactics-q08-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N01",
+        "R10",
+        "R11"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q08-experience_comparison",
+      "question": 8,
+      "type": "experience_comparison",
+      "document": "tactics-q08-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N01",
+        "R10",
+        "R11"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q08-proposed_test",
+      "question": 8,
+      "type": "proposed_test",
+      "document": "tactics-q08-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N01",
+        "R10",
+        "R11"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q09-source_scope",
+      "question": 9,
+      "type": "source_scope",
+      "document": "tactics-q09-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N01",
+        "R14",
+        "R24"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q09-experience_comparison",
+      "question": 9,
+      "type": "experience_comparison",
+      "document": "tactics-q09-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N01",
+        "R14",
+        "R24"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q09-proposed_test",
+      "question": 9,
+      "type": "proposed_test",
+      "document": "tactics-q09-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N01",
+        "R14",
+        "R24"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q10-source_scope",
+      "question": 10,
+      "type": "source_scope",
+      "document": "tactics-q10-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N03",
+        "N04",
+        "R14",
+        "R15"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q10-experience_comparison",
+      "question": 10,
+      "type": "experience_comparison",
+      "document": "tactics-q10-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N03",
+        "N04",
+        "R14",
+        "R15"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q10-proposed_test",
+      "question": 10,
+      "type": "proposed_test",
+      "document": "tactics-q10-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N03",
+        "N04",
+        "R14",
+        "R15"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q11-source_scope",
+      "question": 11,
+      "type": "source_scope",
+      "document": "tactics-q11-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N01",
+        "R16",
+        "R24"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q11-experience_comparison",
+      "question": 11,
+      "type": "experience_comparison",
+      "document": "tactics-q11-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N01",
+        "R16",
+        "R24"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q11-proposed_test",
+      "question": 11,
+      "type": "proposed_test",
+      "document": "tactics-q11-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N01",
+        "R16",
+        "R24"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q12-source_scope",
+      "question": 12,
+      "type": "source_scope",
+      "document": "tactics-q12-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N09",
+        "R17"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q12-experience_comparison",
+      "question": 12,
+      "type": "experience_comparison",
+      "document": "tactics-q12-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N09",
+        "R17"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q12-proposed_test",
+      "question": 12,
+      "type": "proposed_test",
+      "document": "tactics-q12-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N09",
+        "R17"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q13-source_scope",
+      "question": 13,
+      "type": "source_scope",
+      "document": "tactics-q13-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N01",
+        "R18",
+        "R19"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q13-experience_comparison",
+      "question": 13,
+      "type": "experience_comparison",
+      "document": "tactics-q13-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N01",
+        "R18",
+        "R19"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q13-proposed_test",
+      "question": 13,
+      "type": "proposed_test",
+      "document": "tactics-q13-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N01",
+        "R18",
+        "R19"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q14-source_scope",
+      "question": 14,
+      "type": "source_scope",
+      "document": "tactics-q14-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N01",
+        "R20",
+        "R23"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q14-experience_comparison",
+      "question": 14,
+      "type": "experience_comparison",
+      "document": "tactics-q14-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N01",
+        "R20",
+        "R23"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q14-proposed_test",
+      "question": 14,
+      "type": "proposed_test",
+      "document": "tactics-q14-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N01",
+        "R20",
+        "R23"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q15-source_scope",
+      "question": 15,
+      "type": "source_scope",
+      "document": "tactics-q15-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N02",
+        "R11",
+        "R24"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q15-experience_comparison",
+      "question": 15,
+      "type": "experience_comparison",
+      "document": "tactics-q15-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N02",
+        "R11",
+        "R24"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q15-proposed_test",
+      "question": 15,
+      "type": "proposed_test",
+      "document": "tactics-q15-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N02",
+        "R11",
+        "R24"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q16-source_scope",
+      "question": 16,
+      "type": "source_scope",
+      "document": "tactics-q16-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N06",
+        "R24"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q16-experience_comparison",
+      "question": 16,
+      "type": "experience_comparison",
+      "document": "tactics-q16-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N06",
+        "R24"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q16-proposed_test",
+      "question": 16,
+      "type": "proposed_test",
+      "document": "tactics-q16-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N06",
+        "R24"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q17-source_scope",
+      "question": 17,
+      "type": "source_scope",
+      "document": "tactics-q17-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N01",
+        "R11",
+        "R21"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q17-experience_comparison",
+      "question": 17,
+      "type": "experience_comparison",
+      "document": "tactics-q17-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N01",
+        "R11",
+        "R21"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q17-proposed_test",
+      "question": 17,
+      "type": "proposed_test",
+      "document": "tactics-q17-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N01",
+        "R11",
+        "R21"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q18-source_scope",
+      "question": 18,
+      "type": "source_scope",
+      "document": "tactics-q18-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N11",
+        "R12",
+        "R22"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q18-experience_comparison",
+      "question": 18,
+      "type": "experience_comparison",
+      "document": "tactics-q18-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N11",
+        "R12",
+        "R22"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q18-proposed_test",
+      "question": 18,
+      "type": "proposed_test",
+      "document": "tactics-q18-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N11",
+        "R12",
+        "R22"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q19-source_scope",
+      "question": 19,
+      "type": "source_scope",
+      "document": "tactics-q19-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N06",
+        "R13",
+        "R23"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q19-experience_comparison",
+      "question": 19,
+      "type": "experience_comparison",
+      "document": "tactics-q19-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N06",
+        "R13",
+        "R23"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q19-proposed_test",
+      "question": 19,
+      "type": "proposed_test",
+      "document": "tactics-q19-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N06",
+        "R13",
+        "R23"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q20-source_scope",
+      "question": 20,
+      "type": "source_scope",
+      "document": "tactics-q20-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N05",
+        "R13",
+        "R24"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q20-experience_comparison",
+      "question": 20,
+      "type": "experience_comparison",
+      "document": "tactics-q20-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N05",
+        "R13",
+        "R24"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q20-proposed_test",
+      "question": 20,
+      "type": "proposed_test",
+      "document": "tactics-q20-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N05",
+        "R13",
+        "R24"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q21-source_scope",
+      "question": 21,
+      "type": "source_scope",
+      "document": "tactics-q21-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N02",
+        "A01",
+        "A08",
+        "F31"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q21-experience_comparison",
+      "question": 21,
+      "type": "experience_comparison",
+      "document": "tactics-q21-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N02",
+        "A01",
+        "A08",
+        "F31"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q21-proposed_test",
+      "question": 21,
+      "type": "proposed_test",
+      "document": "tactics-q21-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N02",
+        "A01",
+        "A08",
+        "F31"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q22-source_scope",
+      "question": 22,
+      "type": "source_scope",
+      "document": "tactics-q22-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N10",
+        "A06",
+        "A07",
+        "F30"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q22-experience_comparison",
+      "question": 22,
+      "type": "experience_comparison",
+      "document": "tactics-q22-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N10",
+        "A06",
+        "A07",
+        "F30"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q22-proposed_test",
+      "question": 22,
+      "type": "proposed_test",
+      "document": "tactics-q22-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N10",
+        "A06",
+        "A07",
+        "F30"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q23-source_scope",
+      "question": 23,
+      "type": "source_scope",
+      "document": "tactics-q23-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N10",
+        "A02",
+        "A04",
+        "F36"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q23-experience_comparison",
+      "question": 23,
+      "type": "experience_comparison",
+      "document": "tactics-q23-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N10",
+        "A02",
+        "A04",
+        "F36"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q23-proposed_test",
+      "question": 23,
+      "type": "proposed_test",
+      "document": "tactics-q23-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N10",
+        "A02",
+        "A04",
+        "F36"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q24-source_scope",
+      "question": 24,
+      "type": "source_scope",
+      "document": "tactics-q24-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N02",
+        "A01",
+        "F35"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q24-experience_comparison",
+      "question": 24,
+      "type": "experience_comparison",
+      "document": "tactics-q24-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N02",
+        "A01",
+        "F35"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q24-proposed_test",
+      "question": 24,
+      "type": "proposed_test",
+      "document": "tactics-q24-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N02",
+        "A01",
+        "F35"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q25-source_scope",
+      "question": 25,
+      "type": "source_scope",
+      "document": "tactics-q25-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N02",
+        "A03",
+        "A10",
+        "F34"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q25-experience_comparison",
+      "question": 25,
+      "type": "experience_comparison",
+      "document": "tactics-q25-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N02",
+        "A03",
+        "A10",
+        "F34"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q25-proposed_test",
+      "question": 25,
+      "type": "proposed_test",
+      "document": "tactics-q25-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N02",
+        "A03",
+        "A10",
+        "F34"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q26-source_scope",
+      "question": 26,
+      "type": "source_scope",
+      "document": "tactics-q26-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N02",
+        "A01",
+        "A05",
+        "F31"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q26-experience_comparison",
+      "question": 26,
+      "type": "experience_comparison",
+      "document": "tactics-q26-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N02",
+        "A01",
+        "A05",
+        "F31"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q26-proposed_test",
+      "question": 26,
+      "type": "proposed_test",
+      "document": "tactics-q26-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N02",
+        "A01",
+        "A05",
+        "F31"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q27-source_scope",
+      "question": 27,
+      "type": "source_scope",
+      "document": "tactics-q27-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N04",
+        "A07",
+        "A08",
+        "F33"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q27-experience_comparison",
+      "question": 27,
+      "type": "experience_comparison",
+      "document": "tactics-q27-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N04",
+        "A07",
+        "A08",
+        "F33"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q27-proposed_test",
+      "question": 27,
+      "type": "proposed_test",
+      "document": "tactics-q27-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N04",
+        "A07",
+        "A08",
+        "F33"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q28-source_scope",
+      "question": 28,
+      "type": "source_scope",
+      "document": "tactics-q28-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N04",
+        "A07",
+        "A08",
+        "F31",
+        "F36"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q28-experience_comparison",
+      "question": 28,
+      "type": "experience_comparison",
+      "document": "tactics-q28-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N04",
+        "A07",
+        "A08",
+        "F31",
+        "F36"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q28-proposed_test",
+      "question": 28,
+      "type": "proposed_test",
+      "document": "tactics-q28-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N04",
+        "A07",
+        "A08",
+        "F31",
+        "F36"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q29-source_scope",
+      "question": 29,
+      "type": "source_scope",
+      "document": "tactics-q29-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "A05",
+        "A06",
+        "A12",
+        "F30",
+        "F33"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q29-experience_comparison",
+      "question": 29,
+      "type": "experience_comparison",
+      "document": "tactics-q29-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "A05",
+        "A06",
+        "A12",
+        "F30",
+        "F33"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q29-proposed_test",
+      "question": 29,
+      "type": "proposed_test",
+      "document": "tactics-q29-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "A05",
+        "A06",
+        "A12",
+        "F30",
+        "F33"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q30-source_scope",
+      "question": 30,
+      "type": "source_scope",
+      "document": "tactics-q30-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N04",
+        "A08",
+        "F39"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q30-experience_comparison",
+      "question": 30,
+      "type": "experience_comparison",
+      "document": "tactics-q30-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N04",
+        "A08",
+        "F39"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q30-proposed_test",
+      "question": 30,
+      "type": "proposed_test",
+      "document": "tactics-q30-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N04",
+        "A08",
+        "F39"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q31-source_scope",
+      "question": 31,
+      "type": "source_scope",
+      "document": "tactics-q31-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "A01",
+        "A08",
+        "A10",
+        "F31",
+        "F35"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q31-experience_comparison",
+      "question": 31,
+      "type": "experience_comparison",
+      "document": "tactics-q31-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "A01",
+        "A08",
+        "A10",
+        "F31",
+        "F35"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q31-proposed_test",
+      "question": 31,
+      "type": "proposed_test",
+      "document": "tactics-q31-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "A01",
+        "A08",
+        "A10",
+        "F31",
+        "F35"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q32-source_scope",
+      "question": 32,
+      "type": "source_scope",
+      "document": "tactics-q32-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "A03",
+        "A06",
+        "A12",
+        "F34"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q32-experience_comparison",
+      "question": 32,
+      "type": "experience_comparison",
+      "document": "tactics-q32-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "A03",
+        "A06",
+        "A12",
+        "F34"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q32-proposed_test",
+      "question": 32,
+      "type": "proposed_test",
+      "document": "tactics-q32-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "A03",
+        "A06",
+        "A12",
+        "F34"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q33-source_scope",
+      "question": 33,
+      "type": "source_scope",
+      "document": "tactics-q33-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "A02",
+        "A06",
+        "A10",
+        "F32"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q33-experience_comparison",
+      "question": 33,
+      "type": "experience_comparison",
+      "document": "tactics-q33-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "A02",
+        "A06",
+        "A10",
+        "F32"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q33-proposed_test",
+      "question": 33,
+      "type": "proposed_test",
+      "document": "tactics-q33-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "A02",
+        "A06",
+        "A10",
+        "F32"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q34-source_scope",
+      "question": 34,
+      "type": "source_scope",
+      "document": "tactics-q34-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "A01",
+        "A07",
+        "F30",
+        "F31"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q34-experience_comparison",
+      "question": 34,
+      "type": "experience_comparison",
+      "document": "tactics-q34-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "A01",
+        "A07",
+        "F30",
+        "F31"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q34-proposed_test",
+      "question": 34,
+      "type": "proposed_test",
+      "document": "tactics-q34-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "A01",
+        "A07",
+        "F30",
+        "F31"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q35-source_scope",
+      "question": 35,
+      "type": "source_scope",
+      "document": "tactics-q35-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "A03",
+        "A10",
+        "A14",
+        "F32",
+        "F39"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q35-experience_comparison",
+      "question": 35,
+      "type": "experience_comparison",
+      "document": "tactics-q35-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "A03",
+        "A10",
+        "A14",
+        "F32",
+        "F39"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q35-proposed_test",
+      "question": 35,
+      "type": "proposed_test",
+      "document": "tactics-q35-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "A03",
+        "A10",
+        "A14",
+        "F32",
+        "F39"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q36-source_scope",
+      "question": 36,
+      "type": "source_scope",
+      "document": "tactics-q36-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "A02",
+        "A09",
+        "A13",
+        "F38"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q36-experience_comparison",
+      "question": 36,
+      "type": "experience_comparison",
+      "document": "tactics-q36-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "A02",
+        "A09",
+        "A13",
+        "F38"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q36-proposed_test",
+      "question": 36,
+      "type": "proposed_test",
+      "document": "tactics-q36-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "A02",
+        "A09",
+        "A13",
+        "F38"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q37-source_scope",
+      "question": 37,
+      "type": "source_scope",
+      "document": "tactics-q37-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "A01",
+        "A06",
+        "A11",
+        "F37"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q37-experience_comparison",
+      "question": 37,
+      "type": "experience_comparison",
+      "document": "tactics-q37-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "A01",
+        "A06",
+        "A11",
+        "F37"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q37-proposed_test",
+      "question": 37,
+      "type": "proposed_test",
+      "document": "tactics-q37-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "A01",
+        "A06",
+        "A11",
+        "F37"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q38-source_scope",
+      "question": 38,
+      "type": "source_scope",
+      "document": "tactics-q38-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "A09",
+        "A12",
+        "F32",
+        "F36"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q38-experience_comparison",
+      "question": 38,
+      "type": "experience_comparison",
+      "document": "tactics-q38-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "A09",
+        "A12",
+        "F32",
+        "F36"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q38-proposed_test",
+      "question": 38,
+      "type": "proposed_test",
+      "document": "tactics-q38-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "A09",
+        "A12",
+        "F32",
+        "F36"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q39-source_scope",
+      "question": 39,
+      "type": "source_scope",
+      "document": "tactics-q39-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "A01",
+        "A05",
+        "A10",
+        "F31",
+        "F34"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q39-experience_comparison",
+      "question": 39,
+      "type": "experience_comparison",
+      "document": "tactics-q39-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "A01",
+        "A05",
+        "A10",
+        "F31",
+        "F34"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q39-proposed_test",
+      "question": 39,
+      "type": "proposed_test",
+      "document": "tactics-q39-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "A01",
+        "A05",
+        "A10",
+        "F31",
+        "F34"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q40-source_scope",
+      "question": 40,
+      "type": "source_scope",
+      "document": "tactics-q40-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "A05",
+        "A09",
+        "A10",
+        "A11",
+        "A13",
+        "F35",
+        "F39"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q40-experience_comparison",
+      "question": 40,
+      "type": "experience_comparison",
+      "document": "tactics-q40-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "A05",
+        "A09",
+        "A10",
+        "A11",
+        "A13",
+        "F35",
+        "F39"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q40-proposed_test",
+      "question": 40,
+      "type": "proposed_test",
+      "document": "tactics-q40-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "A05",
+        "A09",
+        "A10",
+        "A11",
+        "A13",
+        "F35",
+        "F39"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q41-source_scope",
+      "question": 41,
+      "type": "source_scope",
+      "document": "tactics-q41-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "R17",
+        "N12",
+        "R40"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q41-experience_comparison",
+      "question": 41,
+      "type": "experience_comparison",
+      "document": "tactics-q41-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "R17",
+        "N12",
+        "R40"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q41-proposed_test",
+      "question": 41,
+      "type": "proposed_test",
+      "document": "tactics-q41-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "R17",
+        "N12",
+        "R40"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q42-source_scope",
+      "question": 42,
+      "type": "source_scope",
+      "document": "tactics-q42-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "R23",
+        "N12",
+        "R40"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q42-experience_comparison",
+      "question": 42,
+      "type": "experience_comparison",
+      "document": "tactics-q42-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "R23",
+        "N12",
+        "R40"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q42-proposed_test",
+      "question": 42,
+      "type": "proposed_test",
+      "document": "tactics-q42-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "R23",
+        "N12",
+        "R40"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q43-source_scope",
+      "question": 43,
+      "type": "source_scope",
+      "document": "tactics-q43-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N01",
+        "R10",
+        "E01"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q43-experience_comparison",
+      "question": 43,
+      "type": "experience_comparison",
+      "document": "tactics-q43-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N01",
+        "R10",
+        "E01"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q43-proposed_test",
+      "question": 43,
+      "type": "proposed_test",
+      "document": "tactics-q43-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N01",
+        "R10",
+        "E01"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q44-source_scope",
+      "question": 44,
+      "type": "source_scope",
+      "document": "tactics-q44-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N10",
+        "R42",
+        "E02"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q44-experience_comparison",
+      "question": 44,
+      "type": "experience_comparison",
+      "document": "tactics-q44-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N10",
+        "R42",
+        "E02"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q44-proposed_test",
+      "question": 44,
+      "type": "proposed_test",
+      "document": "tactics-q44-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N10",
+        "R42",
+        "E02"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q45-source_scope",
+      "question": 45,
+      "type": "source_scope",
+      "document": "tactics-q45-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N10",
+        "R42",
+        "E01",
+        "E03"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q45-experience_comparison",
+      "question": 45,
+      "type": "experience_comparison",
+      "document": "tactics-q45-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N10",
+        "R42",
+        "E01",
+        "E03"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q45-proposed_test",
+      "question": 45,
+      "type": "proposed_test",
+      "document": "tactics-q45-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N10",
+        "R42",
+        "E01",
+        "E03"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q46-source_scope",
+      "question": 46,
+      "type": "source_scope",
+      "document": "tactics-q46-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N10",
+        "W02",
+        "R42",
+        "E03"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q46-experience_comparison",
+      "question": 46,
+      "type": "experience_comparison",
+      "document": "tactics-q46-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N10",
+        "W02",
+        "R42",
+        "E03"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q46-proposed_test",
+      "question": 46,
+      "type": "proposed_test",
+      "document": "tactics-q46-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N10",
+        "W02",
+        "R42",
+        "E03"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q47-source_scope",
+      "question": 47,
+      "type": "source_scope",
+      "document": "tactics-q47-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "W02",
+        "R40",
+        "R41"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q47-experience_comparison",
+      "question": 47,
+      "type": "experience_comparison",
+      "document": "tactics-q47-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "W02",
+        "R40",
+        "R41"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q47-proposed_test",
+      "question": 47,
+      "type": "proposed_test",
+      "document": "tactics-q47-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "W02",
+        "R40",
+        "R41"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q48-source_scope",
+      "question": 48,
+      "type": "source_scope",
+      "document": "tactics-q48-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "W01",
+        "R41",
+        "E03"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q48-experience_comparison",
+      "question": 48,
+      "type": "experience_comparison",
+      "document": "tactics-q48-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "W01",
+        "R41",
+        "E03"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q48-proposed_test",
+      "question": 48,
+      "type": "proposed_test",
+      "document": "tactics-q48-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "W01",
+        "R41",
+        "E03"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q49-source_scope",
+      "question": 49,
+      "type": "source_scope",
+      "document": "tactics-q49-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "R16",
+        "W02",
+        "R41"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q49-experience_comparison",
+      "question": 49,
+      "type": "experience_comparison",
+      "document": "tactics-q49-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "R16",
+        "W02",
+        "R41"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q49-proposed_test",
+      "question": 49,
+      "type": "proposed_test",
+      "document": "tactics-q49-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "R16",
+        "W02",
+        "R41"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q50-source_scope",
+      "question": 50,
+      "type": "source_scope",
+      "document": "tactics-q50-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N13",
+        "N14",
+        "N15",
+        "R45",
+        "R46"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q50-experience_comparison",
+      "question": 50,
+      "type": "experience_comparison",
+      "document": "tactics-q50-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N13",
+        "N14",
+        "N15",
+        "R45",
+        "R46"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q50-proposed_test",
+      "question": 50,
+      "type": "proposed_test",
+      "document": "tactics-q50-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N13",
+        "N14",
+        "N15",
+        "R45",
+        "R46"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q51-source_scope",
+      "question": 51,
+      "type": "source_scope",
+      "document": "tactics-q51-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N13",
+        "N15",
+        "R45",
+        "R46"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q51-experience_comparison",
+      "question": 51,
+      "type": "experience_comparison",
+      "document": "tactics-q51-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N13",
+        "N15",
+        "R45",
+        "R46"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q51-proposed_test",
+      "question": 51,
+      "type": "proposed_test",
+      "document": "tactics-q51-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N13",
+        "N15",
+        "R45",
+        "R46"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q52-source_scope",
+      "question": 52,
+      "type": "source_scope",
+      "document": "tactics-q52-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "R10",
+        "W02",
+        "E03"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q52-experience_comparison",
+      "question": 52,
+      "type": "experience_comparison",
+      "document": "tactics-q52-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "R10",
+        "W02",
+        "E03"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q52-proposed_test",
+      "question": 52,
+      "type": "proposed_test",
+      "document": "tactics-q52-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "R10",
+        "W02",
+        "E03"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q53-source_scope",
+      "question": 53,
+      "type": "source_scope",
+      "document": "tactics-q53-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "R11",
+        "W02",
+        "R40"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q53-experience_comparison",
+      "question": 53,
+      "type": "experience_comparison",
+      "document": "tactics-q53-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "R11",
+        "W02",
+        "R40"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q53-proposed_test",
+      "question": 53,
+      "type": "proposed_test",
+      "document": "tactics-q53-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "R11",
+        "W02",
+        "R40"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q54-source_scope",
+      "question": 54,
+      "type": "source_scope",
+      "document": "tactics-q54-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N01",
+        "R10",
+        "R12"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q54-experience_comparison",
+      "question": 54,
+      "type": "experience_comparison",
+      "document": "tactics-q54-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N01",
+        "R10",
+        "R12"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q54-proposed_test",
+      "question": 54,
+      "type": "proposed_test",
+      "document": "tactics-q54-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N01",
+        "R10",
+        "R12"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q55-source_scope",
+      "question": 55,
+      "type": "source_scope",
+      "document": "tactics-q55-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N07",
+        "N08",
+        "R22",
+        "R44"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q55-experience_comparison",
+      "question": 55,
+      "type": "experience_comparison",
+      "document": "tactics-q55-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N07",
+        "N08",
+        "R22",
+        "R44"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q55-proposed_test",
+      "question": 55,
+      "type": "proposed_test",
+      "document": "tactics-q55-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N07",
+        "N08",
+        "R22",
+        "R44"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q56-source_scope",
+      "question": 56,
+      "type": "source_scope",
+      "document": "tactics-q56-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N12",
+        "R43",
+        "R47"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q56-experience_comparison",
+      "question": 56,
+      "type": "experience_comparison",
+      "document": "tactics-q56-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N12",
+        "R43",
+        "R47"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q56-proposed_test",
+      "question": 56,
+      "type": "proposed_test",
+      "document": "tactics-q56-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N12",
+        "R43",
+        "R47"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q57-source_scope",
+      "question": 57,
+      "type": "source_scope",
+      "document": "tactics-q57-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "R12",
+        "N12",
+        "R43"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q57-experience_comparison",
+      "question": 57,
+      "type": "experience_comparison",
+      "document": "tactics-q57-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "R12",
+        "N12",
+        "R43"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q57-proposed_test",
+      "question": 57,
+      "type": "proposed_test",
+      "document": "tactics-q57-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "R12",
+        "N12",
+        "R43"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q58-source_scope",
+      "question": 58,
+      "type": "source_scope",
+      "document": "tactics-q58-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "R10",
+        "R11",
+        "N12",
+        "W02"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q58-experience_comparison",
+      "question": 58,
+      "type": "experience_comparison",
+      "document": "tactics-q58-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "R10",
+        "R11",
+        "N12",
+        "W02"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q58-proposed_test",
+      "question": 58,
+      "type": "proposed_test",
+      "document": "tactics-q58-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "R10",
+        "R11",
+        "N12",
+        "W02"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q59-source_scope",
+      "question": 59,
+      "type": "source_scope",
+      "document": "tactics-q59-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "R12",
+        "N12",
+        "R44"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q59-experience_comparison",
+      "question": 59,
+      "type": "experience_comparison",
+      "document": "tactics-q59-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "R12",
+        "N12",
+        "R44"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q59-proposed_test",
+      "question": 59,
+      "type": "proposed_test",
+      "document": "tactics-q59-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "R12",
+        "N12",
+        "R44"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q60-source_scope",
+      "question": 60,
+      "type": "source_scope",
+      "document": "tactics-q60-answer-20261016.md",
+      "section": 3,
+      "sources": [
+        "N01",
+        "R11",
+        "N14",
+        "R43",
+        "E01"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q60-experience_comparison",
+      "question": 60,
+      "type": "experience_comparison",
+      "document": "tactics-q60-answer-20261016.md",
+      "section": 5,
+      "sources": [
+        "N01",
+        "R11",
+        "N14",
+        "R43",
+        "E01"
+      ],
+      "experiment_run": false
+    },
+    {
+      "id": "T3-Q60-proposed_test",
+      "question": 60,
+      "type": "proposed_test",
+      "document": "tactics-q60-answer-20261016.md",
+      "section": 8,
+      "sources": [
+        "N01",
+        "R11",
+        "N14",
+        "R43",
+        "E01"
+      ],
+      "experiment_run": false
+    }
+  ]
+}

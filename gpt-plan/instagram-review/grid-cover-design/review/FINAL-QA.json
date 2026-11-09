@@ -1,0 +1,35 @@
+{
+  "scope": "180 main covers reviewed as contact sheets by two independent reviewers; selected difficult covers also full-size and 120px. Root reviewed all360 initial grid states in18sheets and final10 corrected covers. All states rebuilt after corrections with unchanged verified geometry.",
+  "cover_count": 180,
+  "initial_grid_states_visual_reviewed": 360,
+  "final_changed_covers_rechecked": [
+    43,
+    83,
+    91,
+    129,
+    132,
+    133,
+    151,
+    156,
+    161,
+    166
+  ],
+  "final_changed_cover_hashes": {
+    "P043": "2ce4986d3794840d4397916c30aff32238a7a5b6ed8793de7c051ac340242539",
+    "P083": "d44a44dc982793ab2b0ad7bf73da711e0c444bc7055ab6f385c3d8af3b00638c",
+    "P091": "8528735ddebe88929a253b41830ff503740b79a54977c4a086407e20cb2572b4",
+    "P129": "1d02187ee0319420136aa36aeaf225cf4c0403d4bfd98e3404ec3831ed416c8c",
+    "P132": "c01dbae647207060e07466b5d56eb8a3d0262f7e2837bfceec7fb521ca616122",
+    "P133": "40741ac98c2926345d7fc30a06d739d182b2f22f8ea104aba89cb61418d61cd5",
+    "P151": "3f7ace28abd38964ab98e99d3eab3bcb63465dfaae8fe088a31f1a58a99e56fb",
+    "P156": "934d21cf7275b5f7b857f45e7ec59fe61c20883bac97bed9b79c9330ed5eab6b",
+    "P161": "8ec56fcffb697d838d1466bc811dab65e2b8b90589de2d37d6181a1bac3b0e75",
+    "P166": "d1fcc789588159b3c23e13395e06c48e1fbe2587b048a99b3c5afd17a4bd9e3f"
+  },
+  "remaining_known_cover_design_defects": [],
+  "actual_instagram_upload_preview_checked": false,
+  "html_browser_visual_qa": false,
+  "finished_post_videos_or_carousel_interiors_complete": false,
+  "published": false,
+  "status": "superseded_palette_and_font; content/source review remains historical evidence"
+}

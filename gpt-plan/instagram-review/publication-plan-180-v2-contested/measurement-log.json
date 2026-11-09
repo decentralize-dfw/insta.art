@@ -1,0 +1,2814 @@
+{
+  "baseline_followers": null,
+  "actual_published_at": null,
+  "entries": [
+    {
+      "id": "V2-P001",
+      "planned_day": 1,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P002",
+      "planned_day": 3,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P003",
+      "planned_day": 5,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P004",
+      "planned_day": 8,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P005",
+      "planned_day": 10,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P006",
+      "planned_day": 12,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P007",
+      "planned_day": 15,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P008",
+      "planned_day": 17,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P009",
+      "planned_day": 19,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P010",
+      "planned_day": 22,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P011",
+      "planned_day": 24,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P012",
+      "planned_day": 26,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P013",
+      "planned_day": 29,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P014",
+      "planned_day": 31,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P015",
+      "planned_day": 33,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P016",
+      "planned_day": 36,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P017",
+      "planned_day": 38,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P018",
+      "planned_day": 40,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P019",
+      "planned_day": 43,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P020",
+      "planned_day": 45,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P021",
+      "planned_day": 47,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P022",
+      "planned_day": 50,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P023",
+      "planned_day": 52,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P024",
+      "planned_day": 54,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P025",
+      "planned_day": 57,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P026",
+      "planned_day": 59,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P027",
+      "planned_day": 61,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P028",
+      "planned_day": 64,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P029",
+      "planned_day": 66,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P030",
+      "planned_day": 68,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P031",
+      "planned_day": 71,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P032",
+      "planned_day": 73,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P033",
+      "planned_day": 75,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P034",
+      "planned_day": 78,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P035",
+      "planned_day": 80,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P036",
+      "planned_day": 82,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P037",
+      "planned_day": 85,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P038",
+      "planned_day": 87,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P039",
+      "planned_day": 89,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P040",
+      "planned_day": 92,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P041",
+      "planned_day": 94,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P042",
+      "planned_day": 96,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P043",
+      "planned_day": 99,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P044",
+      "planned_day": 101,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P045",
+      "planned_day": 103,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P046",
+      "planned_day": 106,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P047",
+      "planned_day": 108,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P048",
+      "planned_day": 110,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P049",
+      "planned_day": 113,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P050",
+      "planned_day": 115,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P051",
+      "planned_day": 117,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P052",
+      "planned_day": 120,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P053",
+      "planned_day": 122,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P054",
+      "planned_day": 124,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P055",
+      "planned_day": 127,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P056",
+      "planned_day": 129,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P057",
+      "planned_day": 131,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P058",
+      "planned_day": 134,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P059",
+      "planned_day": 136,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P060",
+      "planned_day": 138,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P061",
+      "planned_day": 141,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P062",
+      "planned_day": 143,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P063",
+      "planned_day": 145,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P064",
+      "planned_day": 148,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P065",
+      "planned_day": 150,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P066",
+      "planned_day": 152,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P067",
+      "planned_day": 155,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P068",
+      "planned_day": 157,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P069",
+      "planned_day": 159,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P070",
+      "planned_day": 162,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P071",
+      "planned_day": 164,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P072",
+      "planned_day": 166,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P073",
+      "planned_day": 169,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P074",
+      "planned_day": 171,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P075",
+      "planned_day": 173,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P076",
+      "planned_day": 176,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P077",
+      "planned_day": 178,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    },
+    {
+      "id": "V2-P078",
+      "planned_day": 180,
+      "actual_published_at": null,
+      "production_minutes": null,
+      "paid_spend_eur": null,
+      "observations": [
+        {
+          "age_hours": 24,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 72,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        },
+        {
+          "age_hours": 168,
+          "reach": null,
+          "views": null,
+          "shares": null,
+          "saves": null,
+          "attributed_follows": null,
+          "work_specific_questions": null
+        }
+      ]
+    }
+  ]
+}

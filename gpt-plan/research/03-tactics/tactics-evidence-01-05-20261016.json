@@ -1,0 +1,322 @@
+{
+  "updated_at": "2026-10-16",
+  "scope": "Questions 01–05 only",
+  "answers_written": 5,
+  "experiments_run": 0,
+  "sources": [
+    {
+      "id": "O01",
+      "title": "Meta Engineering — SilverTorch",
+      "url": "https://engineering.fb.com/2026/05/26/ml-applications/silvertorch-index-as-model-new-retrieval-paradigm-recommendation-systems/",
+      "publication_date_observed": "2026-05-26",
+      "event_date": "Ürün/teknik metin tarihi yukarıda",
+      "accessed_at": "2026-10-16",
+      "access_level": "Tam metin",
+      "evidence_type": "official_primary",
+      "limitations": "Meta uygulama ailesinin aday bulma mimarisi; tek tek Instagram yüzeylerinin eksiksiz sıralama kodu değil."
+    },
+    {
+      "id": "O02",
+      "title": "Meta — Trial Reels",
+      "url": "https://about.fb.com/news/2024/12/trial-reels-try-content-non-followers-first-see-what-perfoms-best/",
+      "publication_date_observed": "2024-12-10; sayfada ikinci tarih 2025-06-26",
+      "event_date": "Ürün/teknik metin tarihi yukarıda",
+      "accessed_at": "2026-10-16",
+      "access_level": "Tam metin",
+      "evidence_type": "official_primary",
+      "limitations": "Ürün açıklaması. 2026 duyurusu değil; özellik ve uygunluk canlı hesapta ayrıca kontrol edilmeli. Evrensel başarı eşiği açıklanmıyor."
+    },
+    {
+      "id": "O04",
+      "title": "Meta — Introducing Edits",
+      "url": "https://about.fb.com/news/2025/04/introducing-edits-streamlined-video-creation-app/",
+      "publication_date_observed": "2025-04-22; sayfada ikinci tarih 2025-12-17",
+      "event_date": "Ürün/teknik metin tarihi yukarıda",
+      "accessed_at": "2026-10-16",
+      "access_level": "Tam metin",
+      "evidence_type": "official_primary",
+      "limitations": "Skip rate ifadesi okunabildi. Ağırlık, evrensel eşik veya Edits kullanma bonusu açıklanmıyor."
+    },
+    {
+      "id": "O06",
+      "title": "Instagram Help — Reels insights",
+      "url": "https://www.facebook.com/help/instagram/202865988324236?locale=en_GB",
+      "publication_date_observed": "Yayın/güncelleme tarihi doğrulanamadı",
+      "event_date": "Ürün/teknik metin tarihi yukarıda",
+      "accessed_at": "2026-10-16",
+      "access_level": "Yalnız resmî arama indeksi; tam sayfa giriş/engelleme ekranına düştü",
+      "evidence_type": "official_primary",
+      "limitations": "İndeks average watch time için watch time / initial views diyor. Tam metin, güncel alan adları ve replay sayımı bu erişimle doğrulanmış sayılmaz."
+    },
+    {
+      "id": "U01",
+      "title": "Reddit — Alive_Economics4571 / first 30 minutes",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1so1x7i/anyone_else_feel_like_instagram_decides_your/",
+      "publication_date_observed": "Kesin gün doğrulanamadı; sayfada 6mo ago",
+      "event_date": "Olgudan ayrı, bağımsız doğrulanmadı",
+      "accessed_at": "2026-10-16",
+      "access_level": "Ana metin",
+      "evidence_type": "unverified_user_report",
+      "limitations": "Öz bildirim; gönderi bazlı ham seri ve kontrollü karşılaştırma yok."
+    },
+    {
+      "id": "U02",
+      "title": "Reddit — Loose_Thanks9873 / warm up",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1qpdn2f/was_not_aware_that_you_had_to_warm_up_instagram/",
+      "publication_date_observed": "Kesin gün doğrulanamadı; sayfada 9mo ago",
+      "event_date": "Olgudan ayrı, bağımsız doğrulanmadı",
+      "accessed_at": "2026-10-16",
+      "access_level": "Ana metin ve görünen yorumlar",
+      "evidence_type": "unverified_user_report",
+      "limitations": "Olumlu ve olumsuz deneyimler aynı tartışmada; hesaplar bağımsız denetlenmedi."
+    },
+    {
+      "id": "U03",
+      "title": "Reddit — Soft_Drive1646 / Trial Reels",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1w490kw/instagram_trial_reels_are_insane_gained_200/",
+      "publication_date_observed": "Kesin gün doğrulanamadı; arama indeksi 2026-09-01, sayfa 1mo ago",
+      "event_date": "Olgudan ayrı, bağımsız doğrulanmadı",
+      "accessed_at": "2026-10-16",
+      "access_level": "Ana metin ve görünen yorumlar",
+      "evidence_type": "unverified_user_report",
+      "limitations": "Başlık 200, gövde yaklaşık 100 takipçi diyor. Sayısal başarı kanıtı olarak alınmadı."
+    },
+    {
+      "id": "U04",
+      "title": "Reddit — MarkLuther123 / new page challenge",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1wo8otl/0_followers_to_1180_followers_in_one_week_brand/",
+      "publication_date_observed": "ÇELİŞKİ: arama indeksi 2026-09-23, açılan sayfa 42m ago; kesin gün çözülemedi",
+      "event_date": "Olgudan ayrı, bağımsız doğrulanmadı",
+      "accessed_at": "2026-10-16",
+      "access_level": "Ana metin ve görünen yorumlar",
+      "evidence_type": "unverified_user_report",
+      "limitations": "İlk üç saniye kesiliyor ve yazı ekleniyor; iki değişken birlikte. Video/Insights/YouTube incelenmedi."
+    },
+    {
+      "id": "U05",
+      "title": "Reddit — SavingsHumor4424 / music creator",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1wr18c7/my_instagram_views_skyrocketed_after_4_months_of/",
+      "publication_date_observed": "ÇELİŞKİ: arama indeksi 2026-09-26, açılan sayfa 7h ago; kesin gün çözülemedi",
+      "event_date": "Olgudan ayrı, bağımsız doğrulanmadı",
+      "accessed_at": "2026-10-16",
+      "access_level": "Ana metin ve görünen yorumlar",
+      "evidence_type": "unverified_user_report",
+      "limitations": "Konu, sıklık ve kurgu birlikte değişiyor. Bağlı video izlenmedi; büyüme yüzdesi iki platformu birleştiriyor."
+    },
+    {
+      "id": "U06",
+      "title": "Reddit — jjhils1 / Trial Reels experience",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1rg0mqa/trial_reels_experience/",
+      "publication_date_observed": "Kesin gün doğrulanamadı; indeks 2026-02-27, sayfa 8mo ago",
+      "event_date": "Olgudan ayrı, bağımsız doğrulanmadı",
+      "accessed_at": "2026-10-16",
+      "access_level": "Ana metin ve görünen yorumlar",
+      "evidence_type": "unverified_user_report",
+      "limitations": "Üç gönderilik öz bildirim; platform sayacı bağımsız doğrulanmadı."
+    },
+    {
+      "id": "U07",
+      "title": "Reddit — Particular_Invite840 / sleep app tests",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1utfybm/my_third_reel_got_3k_views_every_test_since_has/",
+      "publication_date_observed": "Kesin gün doğrulanamadı; sayfada 2mo ago; indeks göreli yaşı farklı",
+      "event_date": "Olgudan ayrı, bağımsız doğrulanmadı",
+      "accessed_at": "2026-10-16",
+      "access_level": "Ana metin ve görünen yorumlar",
+      "evidence_type": "unverified_user_report",
+      "limitations": "Süre, metin ve sunum birlikte değişiyor; retention grafiği ve videolar incelenmedi."
+    },
+    {
+      "id": "U08",
+      "title": "Reddit — MasterAge251 / 200 view jail",
+      "url": "https://www.reddit.com/r/InstagramMarketing/comments/1v4gf2n/stuck_in_200_view_jail/",
+      "publication_date_observed": "Kesin gün doğrulanamadı; sayfada 3mo ago",
+      "event_date": "Olgudan ayrı, bağımsız doğrulanmadı",
+      "accessed_at": "2026-10-16",
+      "access_level": "Ana metin ve görünen yorumlar",
+      "evidence_type": "unverified_user_report",
+      "limitations": "Ortalama süre iddiasının Insights görüntüsü görülmedi. TikTok sonucu Instagram kontrol grubu değil."
+    },
+    {
+      "id": "U09",
+      "title": "BlackHatWorld — lilyah / No Warmup Account",
+      "url": "https://www.blackhatworld.com/seo/instagrams-crazy-ai-algorithm-part-2-no-warmup-account-and-posting-reels.1806375/",
+      "publication_date_observed": "2026-04-06; sayfada açık gün",
+      "event_date": "Olgudan ayrı, bağımsız doğrulanmadı",
+      "accessed_at": "2026-10-16",
+      "access_level": "Ana metin ve görünen yorumlar",
+      "evidence_type": "unverified_user_report",
+      "limitations": "Çoklu hesap/önceki yaptırım bağlamı; kısa gözlem. Hesap güvenliği veya organik büyüme reçetesi değil."
+    }
+  ],
+  "claims": [
+    {
+      "id": "C01",
+      "question": 1,
+      "claim": "Yayın öncesi aktif olmanın veya ilk 30 dakikanın evrensel sıralama ödülü olduğu bu kaynaklarda belgelenmiyor.",
+      "type": "source_scope",
+      "sources": [
+        "O01",
+        "U01",
+        "U02",
+        "U09"
+      ],
+      "decision": "Yokluğu kanıtlama değil; incelenen kanıtın sınırı."
+    },
+    {
+      "id": "C02",
+      "question": 1,
+      "claim": "Erken ve geç görüntülenme arasındaki kullanıcı gözlemi nedensellik kurmaz.",
+      "type": "research_inference",
+      "sources": [
+        "U01"
+      ],
+      "decision": "Ham seri ve eşdeğer karşılaştırma bulunmuyor."
+    },
+    {
+      "id": "C03",
+      "question": 1,
+      "claim": "Story duyurusunu cevaplama rutininden ayrı karşılaştır.",
+      "type": "proposed_test",
+      "sources": [],
+      "decision": "Uygulanmadı; bu çalışmanın tasarımı."
+    },
+    {
+      "id": "C04",
+      "question": 2,
+      "claim": "Trial önce takipçi dışına gösterme ve daha sonra herkese açma seçeneği sunuyor.",
+      "type": "official_product_description",
+      "sources": [
+        "O02"
+      ],
+      "decision": "2024/2025 ürün açıklaması; canlı hesap uygunluğu kontrol edilmedi."
+    },
+    {
+      "id": "C05",
+      "question": 2,
+      "claim": "Trial 24/72 saatleri bütün organik gönderiler için dağıtım bitişi değildir.",
+      "type": "research_inference",
+      "sources": [
+        "O02"
+      ],
+      "decision": "Saatlerin anlatıldığı ürün bağlamı korunuyor."
+    },
+    {
+      "id": "C06",
+      "question": 2,
+      "claim": "U03 başlık ve gövdesindeki takipçi sayısı uyuşmuyor.",
+      "type": "source_internal_check",
+      "sources": [
+        "U03"
+      ],
+      "decision": "200/100; güvenilir performans oranı çıkarılmadı."
+    },
+    {
+      "id": "C07",
+      "question": 2,
+      "claim": "Kazananı önceden seçilen hedef eyleme göre belirle.",
+      "type": "proposed_test",
+      "sources": [],
+      "decision": "Çalışmanın karar önerisi; doğrulanmış sonuç değil."
+    },
+    {
+      "id": "C08",
+      "question": 3,
+      "claim": "Skip rate, Meta tarafından dağıtımı etkileyebilen faktör örneği olarak anılıyor.",
+      "type": "official_product_description",
+      "sources": [
+        "O04"
+      ],
+      "decision": "Katsayı, genel saniye eşiği veya kanca ailesi sıralaması yok."
+    },
+    {
+      "id": "C09",
+      "question": 3,
+      "claim": "U04 düzenlemesinde süre ve yazı birlikte değişiyor.",
+      "type": "source_internal_check",
+      "sources": [
+        "U04"
+      ],
+      "decision": "Büyüme farkı yalnız hook metnine atfedilmedi."
+    },
+    {
+      "id": "C10",
+      "question": 3,
+      "claim": "U05 sadeleştirme anlatısı konu ve sıklık değişiminden ayrışmıyor.",
+      "type": "source_internal_check",
+      "sources": [
+        "U05"
+      ],
+      "decision": "Sayısal Instagram dönüşüm oranı çıkarılmadı."
+    },
+    {
+      "id": "C11",
+      "question": 3,
+      "claim": "Açılış ve gövde devamını ayrı değerlendir.",
+      "type": "proposed_test",
+      "sources": [],
+      "decision": "Uygulanmadı; özgün kanca örnekleri sınanmış kazananlar değil."
+    },
+    {
+      "id": "C12",
+      "question": 4,
+      "claim": "Ortalama süre, normalize ortalama ve tamamlanma farklı değişkenlerdir.",
+      "type": "mathematical_reasoning",
+      "sources": [],
+      "decision": "Varsayımsal örnek; platformda ölçülmüş veri değil."
+    },
+    {
+      "id": "C13",
+      "question": 4,
+      "claim": "U07 kısa döngüleri düşük performansla anlatıyor; çok değişken değişiyor.",
+      "type": "unverified_user_report",
+      "sources": [
+        "U07"
+      ],
+      "decision": "Videolar ve retention grafiği bağımsız görülmedi."
+    },
+    {
+      "id": "C14",
+      "question": 4,
+      "claim": "Önce sabit uzunlukta ilerleme etiketi, sonra süre değişikliği ayrı denensin.",
+      "type": "proposed_test",
+      "sources": [],
+      "decision": "Uygulanmadı; evrensel kurgu reçetesi değil."
+    },
+    {
+      "id": "C15",
+      "question": 5,
+      "claim": "Help indeksindeki average watch time formülü tam sayfadan doğrulanamadı.",
+      "type": "official_index_only",
+      "sources": [
+        "O06"
+      ],
+      "decision": "Güncel replay sayımı ve bütün metrik alanları teyit edilmiş sayılmadı."
+    },
+    {
+      "id": "C16",
+      "question": 5,
+      "claim": "U08 ortalama süre uzunluğu aşarken erişimin durduğunu iddia ediyor.",
+      "type": "unverified_user_report",
+      "sources": [
+        "U08"
+      ],
+      "decision": "Insights görülmedi; gerçek görüntülenme tavanı kanıtı değil."
+    },
+    {
+      "id": "C17",
+      "question": 5,
+      "claim": "Ortalama süre/uzunluk tamamlanma yüzdesi veya tekrar eden kişi sayısı değildir.",
+      "type": "mathematical_reasoning",
+      "sources": [],
+      "decision": "Dağılım tek ortalamadan çözülemez; örnek varsayımsal."
+    },
+    {
+      "id": "C18",
+      "question": 5,
+      "claim": "Açık son ve döngü sonu, hedef sonuç ve maliyetle birlikte karşılaştırılsın.",
+      "type": "proposed_test",
+      "sources": [],
+      "decision": "Uygulanmadı; bir loop bonusu veya etki büyüklüğü iddia edilmiyor."
+    }
+  ]
+}

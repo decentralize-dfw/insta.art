@@ -1,0 +1,485 @@
+{
+  "schema": "instagram-system-evidence-v1",
+  "date": "2026-10-16",
+  "sources": [
+    {
+      "id": "F01",
+      "title": "Explore çok aşamalı öneri mimarisi",
+      "urls": [
+        "https://engineering.fb.com/2023/08/09/ml-applications/scaling-instagram-explore-recommendations-system/"
+      ],
+      "date": "2023-08-09",
+      "access": "Tam teknik metin",
+      "supports": "Aday bulma; erken/geç sıralama; değer modeli; son düzenleme.",
+      "limit": "Tarihsel Explore açıklaması. Bütün yüzeylerin güncel birebir kodu değil.",
+      "checked_at": "2026-10-16",
+      "use_in_current_model": false,
+      "role": "Denetim geçmişi; güncel modelin dayanağı değil"
+    },
+    {
+      "id": "F02",
+      "title": "Instagram model altyapısı",
+      "urls": [
+        "https://engineering.fb.com/2025/05/21/production-engineering/journey-to-1000-models-scaling-instagrams-recommendation-system/"
+      ],
+      "date": "2025-05-21",
+      "access": "Tam teknik metin",
+      "supports": "Çok sayıda yüzey, sıralama katmanı ve üretim modeli; eşzamanlı deneyler.",
+      "limit": "Model sayısı bir postun geçtiği model sayısı değildir.",
+      "checked_at": "2026-10-16",
+      "use_in_current_model": true,
+      "role": "Tarihi ve erişimi belirtilmiş güncel dayanak"
+    },
+    {
+      "id": "F03",
+      "title": "Bağlantısız öneriler",
+      "urls": [
+        "https://ai.meta.com/blog/ai-unconnected-content-recommendations-facebook-instagram/"
+      ],
+      "date": "2023-06-29",
+      "access": "Tam teknik açıklama",
+      "supports": "Çok modlu içerik anlama, kişiselleştirme, yeni içerik/kişi ve geri bildirim.",
+      "limit": "Facebook ve Instagram ortak açıklaması; eski Facebook istatistiği Instagram'a taşınmadı.",
+      "checked_at": "2026-10-16",
+      "use_in_current_model": false,
+      "role": "Denetim geçmişi; güncel modelin dayanağı değil"
+    },
+    {
+      "id": "F04",
+      "title": "Feed ranking system card",
+      "urls": [
+        "https://ai.meta.com/tools/system-cards/instagram-feed-ranking/"
+      ],
+      "date": "2022-02-23 son güncelleme",
+      "access": "Tam tarihsel kart",
+      "supports": "Takip edilen adaylar, eylem tahminleri, skor birleştirme ve çeşitlilik.",
+      "limit": "Eski ürün ayrıntıları veya sayısal kurallar güncel kural diye kullanılmadı.",
+      "checked_at": "2026-10-16",
+      "use_in_current_model": false,
+      "role": "Denetim geçmişi; güncel modelin dayanağı değil"
+    },
+    {
+      "id": "F05",
+      "title": "Sistem kartları kapsamı",
+      "urls": [
+        "https://ai.meta.com/blog/how-ai-powers-experiences-facebook-instagram-system-cards/"
+      ],
+      "date": "2023-06-29",
+      "access": "Tam metin",
+      "supports": "Sekiz Instagram sistem başlığı; sinyal ve tahmin ayrımı.",
+      "limit": "Sekiz kart bütün model envanteri değildir; kartlar bütün sinyalleri açıklamaz.",
+      "checked_at": "2026-10-14",
+      "use_in_current_model": false,
+      "role": "Denetim geçmişi; güncel modelin dayanağı değil"
+    },
+    {
+      "id": "F06",
+      "title": "Bildirim çeşitlilik modeli",
+      "urls": [
+        "https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/"
+      ],
+      "date": "2025-09-02",
+      "access": "Tam teknik metin",
+      "supports": "Bildirim alıcısı/zamanı/içeriği; tekrar benzerliğine göre çeşitlilik düzenlemesi.",
+      "limit": "Dinamik ceza ve LLM sonraki çalışma olarak anılır; uygulanmış özellik diye yazılmadı.",
+      "checked_at": "2026-10-16",
+      "use_in_current_model": true,
+      "role": "Tarihi ve erişimi belirtilmiş güncel dayanak"
+    },
+    {
+      "id": "F07",
+      "title": "Önerileri sıfırlama",
+      "urls": [
+        "https://about.fb.com/news/2024/11/introducing-recommendations-reset-instagram/"
+      ],
+      "date": "2024-11-19 / 2025-07-14",
+      "access": "Tam ürün metni",
+      "supports": "Sıfırlama sonrası yeniden kişiselleştirme; açık tercihler; Following/Favorites.",
+      "limit": "Başlangıç duyurusu ile küresel bütün arayüzlerin anlık durumu eşitlenmedi.",
+      "checked_at": "2026-10-14",
+      "use_in_current_model": false,
+      "role": "Denetim geçmişi; güncel modelin dayanağı değil"
+    },
+    {
+      "id": "F08",
+      "title": "Küçük üretici ve özgünlük dağıtımı",
+      "urls": [
+        "https://about.fb.com/ltam/news/2024/05/ayudando-a-los-creadores-a-encontrar-nuevas-audiencias/"
+      ],
+      "date": "2024-05-02",
+      "access": "Tam resmî İspanyolca metin",
+      "supports": "Takip bağımsız başlangıç kitleleri, genişleme, özgün–tekrar içerik ayrımı.",
+      "limit": "2024 kategori/eşik listesi güncel kapsamlı politika diye taşınmadı.",
+      "checked_at": "2026-10-14",
+      "use_in_current_model": false,
+      "role": "Denetim geçmişi; güncel modelin dayanağı değil"
+    },
+    {
+      "id": "F09",
+      "title": "Instagram Ranking Explained",
+      "urls": [
+        "https://about.instagram.com/blog/announcements/instagram-ranking-explained"
+      ],
+      "date": "2023-05-31 resmî indeks",
+      "access": "Resmî indeks parçaları; doğrudan açma 429",
+      "supports": "Yüzey ayrımı; Stories ve Reels için görünür tahmin örnekleri.",
+      "limit": "Tam yazı okundu denmiyor. Katsayı yok. İndeks bazen kök URL döndürüyor.",
+      "checked_at": "2026-10-14",
+      "use_in_current_model": false,
+      "role": "Denetim geçmişi; güncel modelin dayanağı değil"
+    },
+    {
+      "id": "F10",
+      "title": "Instagram Search açıklaması",
+      "urls": [
+        "https://about.instagram.com/blog/announcements/break-down-how-instagram-search-works"
+      ],
+      "date": "2021-08-25 resmî indeks",
+      "access": "Resmî indeks parçaları; doğrudan açma 429",
+      "supports": "Metin eşleşmesi; kullanıcı adı/profil adı/bio; geçmiş etkinlik.",
+      "limit": "Bütün 2026 arama mantığı veya popülerlik katsayısı doğrulanmadı.",
+      "checked_at": "2026-10-14",
+      "use_in_current_model": false,
+      "role": "Denetim geçmişi; güncel modelin dayanağı değil"
+    },
+    {
+      "id": "F11",
+      "title": "Instagram Search AI system",
+      "urls": [
+        "https://transparency.meta.com/features/explaining-ranking/ig-search/"
+      ],
+      "date": "İndekste 2026-06-23",
+      "access": "Resmî indeks; tam kart 429",
+      "supports": "2026 Search kartı; yazmaya başladıktan sonra çıkan hesabı açma ve ek eylem tahmini.",
+      "limit": "Metin/hashtag ağırlığı veya ideal etiket sayısı açıklanmıyor.",
+      "checked_at": "2026-10-16",
+      "use_in_current_model": true,
+      "role": "Tarihi ve erişimi belirtilmiş güncel dayanak"
+    },
+    {
+      "id": "F12",
+      "title": "Suggested Accounts AI system",
+      "urls": [
+        "https://transparency.meta.com/features/explaining-ranking/ig-suggested-accounts/"
+      ],
+      "date": "İndekste 2025-03-07",
+      "access": "Resmî indeks; tam kart 429",
+      "supports": "Hesap yakınlığı; önerilen hesabı takip etme ve onun geri takip etme olasılığı parçası.",
+      "limit": "Tam sinyal listesi veya girişlerin sırası verilmedi.",
+      "checked_at": "2026-10-16",
+      "use_in_current_model": true,
+      "role": "Tarihi ve erişimi belirtilmiş güncel dayanak"
+    },
+    {
+      "id": "F13",
+      "title": "Trial Reels",
+      "urls": [
+        "https://about.fb.com/news/2024/12/trial-reels-try-content-non-followers-first-see-what-perfoms-best/"
+      ],
+      "date": "2024-12-10 / 2025-06-26",
+      "access": "Tam ürün metni",
+      "supports": "Önce takipçi olmayanlara sunum; ürün özelinde 24/72 saat seçenekleri.",
+      "limit": "72 saat genel organik ömür değildir. Diğer yollarla takipçilerin görmesi mümkün.",
+      "checked_at": "2026-10-16",
+      "use_in_current_model": true,
+      "role": "Tarihi ve erişimi belirtilmiş güncel dayanak"
+    },
+    {
+      "id": "F14",
+      "title": "Trial Reels genişlemesi ve iç analiz",
+      "urls": [
+        "https://about.fb.com/news/2025/06/inspiring-creativity-that-brings-people-together/"
+      ],
+      "date": "2025-06-12 / 2025-06-26",
+      "access": "Tam metin ve yöntem notu",
+      "supports": "Herkese açılma beyanı; 400 binden fazla üreticide önce/sonra araştırması.",
+      "limit": "%80 daha sık yayınlayan %40 grubunun içindedir. Random deney diye kullanılmadı.",
+      "checked_at": "2026-10-14",
+      "use_in_current_model": true,
+      "role": "Tarihi ve erişimi belirtilmiş güncel dayanak"
+    },
+    {
+      "id": "F15",
+      "title": "2026 AI Drives Performance",
+      "urls": [
+        "https://about.fb.com/news/2026/01/2026-ai-drives-performance/"
+      ],
+      "date": "2026-01-28 / 2026-01-29; veri Q4 2025",
+      "access": "Tam ilgili metin",
+      "supports": "ABD Instagram önerilerinde özgün içerik payı; reklam modeli yönü.",
+      "limit": "%75 bütün dünya veya bir postun başarı olasılığı değildir. S013/ST12 ile aynı.",
+      "checked_at": "2026-10-14",
+      "use_in_current_model": true,
+      "role": "Tarihi ve erişimi belirtilmiş güncel dayanak"
+    },
+    {
+      "id": "F16",
+      "title": "2026 fotoğraf/carousel özgünlüğü",
+      "urls": [
+        "https://creators.instagram.com/blog/rewarding-original-creators-on-instagram"
+      ],
+      "date": "2026-04-30 resmî indeks",
+      "access": "Resmî indeks parçaları; tam sayfa 429",
+      "supports": "Fotoğraf ve carousel'e genişleme; ağırlıklı özgün olmayan hesapların öneri görünürlüğü.",
+      "limit": "Tam yönerge, güncel sayısal pencere ve tüm istisnalar doğrulanmış sayılmadı. Eski S015'in bu kapsamı yeniden doğrulandı.",
+      "checked_at": "2026-10-16",
+      "use_in_current_model": true,
+      "role": "Tarihi ve erişimi belirtilmiş güncel dayanak"
+    },
+    {
+      "id": "F17",
+      "title": "Your Algorithm kapsamı",
+      "urls": [
+        "https://about.fb.com/news/2026/05/new-supervision-tools-parents-insights-teens-algorithm/"
+      ],
+      "date": "2026-05-12",
+      "access": "Tam ilgili metin",
+      "supports": "Reels/Explore, İngilizce konuşulan ülkeler; açık konu tercihi.",
+      "limit": "Main Feed metinde gelecek genişleme. Ekim bütün ülkeler için mevcut diye yazılmadı. S001 ile aynı.",
+      "checked_at": "2026-10-14",
+      "use_in_current_model": false,
+      "role": "Denetim geçmişi; güncel modelin dayanağı değil"
+    },
+    {
+      "id": "F18",
+      "title": "GEM 2025",
+      "urls": [
+        "https://engineering.fb.com/2025/11/10/ml-applications/metas-generative-ads-model-gem-the-central-brain-accelerating-ads-recommendation-ai-innovation/"
+      ],
+      "date": "2025-11-10",
+      "access": "Tam teknik metin",
+      "supports": "Organik/reklam etkileşim verisi, davranış dizileri, yüzeye özel modellere aktarım.",
+      "limit": "Gelecekteki birleşik organik/reklam model hedefi mevcut durum diye kullanılmadı.",
+      "checked_at": "2026-10-14",
+      "use_in_current_model": true,
+      "role": "Tarihi ve erişimi belirtilmiş güncel dayanak"
+    },
+    {
+      "id": "F19",
+      "title": "Reklam sıralama ve dizisel öğrenme",
+      "urls": [
+        "https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking/"
+      ],
+      "date": "2026-08-05",
+      "access": "Tam teknik metin",
+      "supports": "Ağır ön hesaplama ve hızlı çevrimiçi sıralama; taze aday bilgisi.",
+      "limit": "Ads belgesi; organik Reels kodunun aynı olduğu iddia edilmedi.",
+      "checked_at": "2026-10-16",
+      "use_in_current_model": true,
+      "role": "Tarihi ve erişimi belirtilmiş güncel dayanak"
+    },
+    {
+      "id": "F20",
+      "title": "GEM 2026 güncel mimari",
+      "urls": [
+        "https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai/"
+      ],
+      "date": "2026-10-13",
+      "access": "Tam teknik metin",
+      "supports": "Merkezi temel model; farklı reklam yüzeyleri/amaçları; alt modellere aktarım ve ön hesaplama.",
+      "limit": "Şirketin toplu sonuçları tek kampanya garantisi değildir. Gelecek hedefler ayrıldı.",
+      "checked_at": "2026-10-16",
+      "use_in_current_model": true,
+      "role": "Tarihi ve erişimi belirtilmiş güncel dayanak"
+    },
+    {
+      "id": "F21",
+      "title": "Native repost, Friends ve Map",
+      "urls": [
+        "https://about.fb.com/news/2025/08/new-instagram-features-help-you-connect/"
+      ],
+      "date": "2025-08-06",
+      "access": "Tam ürün metni",
+      "supports": "Orijinale kredi; paylaşanın takipçilerine öneri; Friends sekmesi; konum yolu.",
+      "limit": "Map için duyurudaki ABD başlangıcı bütün ülkelerde anlık mevcut diye taşınmadı.",
+      "checked_at": "2026-10-16",
+      "use_in_current_model": true,
+      "role": "Tarihi ve erişimi belirtilmiş güncel dayanak"
+    },
+    {
+      "id": "F22",
+      "title": "İşletmelerden gelen etkinlik ve kişiselleştirme",
+      "urls": [
+        "https://about.fb.com/news/2026/06/better-personalization-and-changes-to-controls-for-your-activity-from-other-businesses/"
+      ],
+      "date": "2026-06-09 / 2026-06-08",
+      "access": "Tam metin",
+      "supports": "Etkinlik verisinin reklam dışı kullanım duyurusu; izin ve kullanım kontrolü.",
+      "limit": "Temmuzda ABD/bazı ülkeler duyurusu. Bütün Avrupa'ya veya belirli yayına neden diye yazılmadı.",
+      "checked_at": "2026-10-16",
+      "use_in_current_model": true,
+      "role": "Tarihi ve erişimi belirtilmiş güncel dayanak"
+    },
+    {
+      "id": "F23",
+      "title": "Teen Accounts içerik koşulları",
+      "urls": [
+        "https://about.fb.com/news/2026/06/strengthening-teen-accounts-with-new-safety-updates-on-instagram-and-facebook/"
+      ],
+      "date": "2026-06-17 / 2026-07-03",
+      "access": "Tam ilgili metin",
+      "supports": "13+ ayarlar ve izleyici yaşıyla değişen içerik deneyimi.",
+      "limit": "Facebook'a özel ayrıntılar Instagram'a aynen taşınmadı.",
+      "checked_at": "2026-10-14",
+      "use_in_current_model": true,
+      "role": "Tarihi ve erişimi belirtilmiş güncel dayanak"
+    },
+    {
+      "id": "F24",
+      "title": "Reklam açık artırma ve dağıtım yardım kayıtları",
+      "urls": [
+        "https://www.facebook.com/business/help/430291176997542",
+        "https://www.facebook.com/business/help/1000688343301256",
+        "https://www.facebook.com/business/help/163066663757985"
+      ],
+      "date": "Güncel indeks; yayın tarihi verilmedi",
+      "access": "Resmî indeks; ilk iki sayfa login",
+      "supports": "Tahmini eylem, kalite, istenen sonuç; maksimum teklif ve performansla seçim.",
+      "limit": "Tam formül veya öğrenme eşiği aktarılmadı.",
+      "checked_at": "2026-10-14",
+      "use_in_current_model": true,
+      "role": "Tarihi ve erişimi belirtilmiş güncel dayanak"
+    },
+    {
+      "id": "F25",
+      "title": "Reels Chaining AI system",
+      "urls": [
+        "https://transparency.meta.com/features/explaining-ranking/ig-reels-chaining/"
+      ],
+      "date": "İndekste 2025-11-11",
+      "access": "Resmî indeks; tam kart 429",
+      "supports": "Aynı uzunluktaki Reels'i izleyen kullanıcıların %95'inden daha uzun izleme olasılığı parçası.",
+      "limit": "Bu, video süresinin %95'ini tamamlama veya viral eşik değildir; tam kart 429.",
+      "checked_at": "2026-10-16",
+      "use_in_current_model": true,
+      "role": "Tarihi ve erişimi belirtilmiş güncel dayanak"
+    },
+    {
+      "id": "F26",
+      "title": "Mosseri 2025 sıralama videosu",
+      "urls": [
+        "https://www.instagram.com/p/DFFyRp-pINJ/"
+      ],
+      "date": "İkincil haber tarihi 2025-01-22",
+      "access": "Özgün gönderi 429; video bu turda izlenmedi",
+      "supports": "Kaynak izi kaydedildi; çekirdek modelin tek dayanağı yapılmadı.",
+      "limit": "İkincil haberdeki yorumların Mosseri sözü gibi taşınması önlendi.",
+      "checked_at": "2026-10-14",
+      "use_in_current_model": false,
+      "role": "Denetim geçmişi; güncel modelin dayanağı değil"
+    },
+    {
+      "id": "F27",
+      "title": "Feed Recommendations AI system",
+      "urls": [
+        "https://transparency.meta.com/features/explaining-ranking/ig-feed-recommendations/"
+      ],
+      "date": "Resmî indekste güncelleme 2026-06-29",
+      "access": "Resmî indeks parçaları; doğrudan tam kart 429",
+      "supports": "Kamusal içeriğin bir bölümünden adaylık; yakın dönem takip/etkileşim; bilgilendiricilik ve profil açma tahminleri.",
+      "limit": "Tam kart okunmadı; indeks tarihi model değişim tarihi sayılmaz.",
+      "checked_at": "2026-10-16",
+      "use_in_current_model": true,
+      "role": "Tarihi ve erişimi belirtilmiş güncel dayanak"
+    },
+    {
+      "id": "F28",
+      "title": "Platformda kalma ve önerilme ayrımı",
+      "urls": [
+        "https://about.fb.com/news/2020/08/recommendation-guidelines/"
+      ],
+      "date": "2020-08-31",
+      "access": "Tam ilgili metin",
+      "supports": "İzin verilen içerikle öneri uygunluğu ayrı.",
+      "limit": "2020 bütün kategori listesi güncel politika diye taşınmadı.",
+      "checked_at": "2026-10-14",
+      "use_in_current_model": false,
+      "role": "Denetim geçmişi; güncel modelin dayanağı değil"
+    },
+    {
+      "id": "F29",
+      "title": "Your Algorithm Haziran 2026 güncellemesi",
+      "urls": [
+        "https://about.instagram.com/blog/announcements/reels-algorithm-control"
+      ],
+      "date": "2025-12-10 ilk yayın; resmî indekste 2026-06-10 09:00 PT güncellemesi",
+      "access": "Resmî indeks parçaları; tam sayfa 429",
+      "supports": "Kapsamın Feed, Reels ve Explore'u birlikte içerdiği.",
+      "limit": "Bütün ülke/dil varyantları veya tam sayfa ayrıntıları okunmuş sayılmaz.",
+      "checked_at": "2026-10-16",
+      "use_in_current_model": true,
+      "role": "Tarihi ve erişimi belirtilmiş güncel dayanak"
+    },
+    {
+      "id": "F30",
+      "title": "SilverTorch güncel aday bulma altyapısı",
+      "urls": [
+        "https://engineering.fb.com/2026/05/26/ml-applications/silvertorch-index-as-model-new-retrieval-paradigm-recommendation-systems/"
+      ],
+      "date": "2026-05-26",
+      "access": "Tam teknik metin",
+      "supports": "İlgi benzerliği, uygunluk, çok eylemli değerlendirme ve akış halinde indeks güncelleme.",
+      "limit": "Genel Meta altyapısı; her Instagram yüzeyinin bütün kodu veya aynı dağıtım eşiği değil.",
+      "checked_at": "2026-10-16",
+      "use_in_current_model": true,
+      "role": "Tarihi ve erişimi belirtilmiş güncel dayanak"
+    },
+    {
+      "id": "F31",
+      "title": "Instagram Feed AI system",
+      "urls": [
+        "https://transparency.meta.com/features/explaining-ranking/ig-feed/"
+      ],
+      "date": "Resmî indekste güncelleme 2026-06-29",
+      "access": "Resmî indeks parçaları; tam kart 429",
+      "supports": "İçerik türü girdisi, kişiye ilgili/değerli içerik tahmini, diğer yayınlara göre geçme tahmini.",
+      "limit": "Tam kartın sinyal listesi veya katsayıları değil; güncelleme günü bütün modelin değiştiği gün değildir.",
+      "checked_at": "2026-10-16",
+      "use_in_current_model": true,
+      "role": "Tarihi ve erişimi belirtilmiş güncel dayanak"
+    },
+    {
+      "id": "F32",
+      "title": "Instagram Explore AI system",
+      "urls": [
+        "https://transparency.meta.com/features/explaining-ranking/ig-explore/"
+      ],
+      "date": "Resmî indekste güncelleme 2026-06-22",
+      "access": "Resmî indeks parçaları; tam kart 429",
+      "supports": "Üreticinin yayınlarına Explore'da bakmak için geçirilen süre; video süresinin %95'inden fazlasını izleme tahmini.",
+      "limit": "Reels kartındaki kullanıcılar arası %95 karşılaştırmasıyla aynı değil; tam liste veya viral baraj değil.",
+      "checked_at": "2026-10-16",
+      "use_in_current_model": true,
+      "role": "Tarihi ve erişimi belirtilmiş güncel dayanak"
+    },
+    {
+      "id": "F33",
+      "title": "Instagram Stories AI system",
+      "urls": [
+        "https://transparency.meta.com/features/explaining-ranking/ig-stories/"
+      ],
+      "date": "Resmî indekste 2025-09-18",
+      "access": "Resmî indeks parçaları; tam kart bu çalışmada açılamadı",
+      "supports": "Üreticinin postlarına ne sıklıkta bakıldığı; Story soru yanıtıyla etkileşim tahmini.",
+      "limit": "Tam liste/ağırlık değil; ST02 ile aynı URL, bağımsız çalışma değil.",
+      "checked_at": "2026-10-16",
+      "use_in_current_model": true,
+      "role": "Tarihi ve erişimi belirtilmiş güncel dayanak"
+    },
+    {
+      "id": "F34",
+      "title": "SilverTorch makalesinin güncel sürümü",
+      "urls": [
+        "https://arxiv.org/abs/2511.14881v5"
+      ],
+      "date": "İlk 2025-11-18; v5 son sürüm 2026-05-08",
+      "access": "Özet ve sürüm geçmişi okundu; tam makale bu turda incelenmedi",
+      "supports": "Model tabanlı indeks/filtreleme, benzerlik araması ve çok görevli aday değerlendirme yaklaşımının özeti.",
+      "limit": "F30 ile aynı çalışmanın teknik yayını; bağımsız teyit sayılmaz.",
+      "checked_at": "2026-10-16",
+      "use_in_current_model": true,
+      "role": "Tarihi ve erişimi belirtilmiş güncel dayanak"
+    }
+  ],
+  "policy": "2026 kaynakları öncelikli; 2025 kayıtları açık tarihle. Eski teknik kaynaklar güncel hüküm dayanağı değil."
+}

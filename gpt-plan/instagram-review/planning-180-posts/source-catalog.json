@@ -1,0 +1,1923 @@
+{
+  "works": {
+    "painstaking": {
+      "key": "painstaking",
+      "title": "Painstaking",
+      "year": 2026,
+      "medium": "Acrylic on canvas",
+      "height_cm": 40,
+      "width_cm": 30,
+      "panel_count": 3,
+      "master": "A0025",
+      "details": [
+        "A0018",
+        "A0019",
+        "A0015",
+        "A0008",
+        "A0017"
+      ],
+      "process": [],
+      "panels_left_to_right": [
+        "A0028",
+        "A0029",
+        "A0027"
+      ],
+      "metadata_source": "painstaking-publish-report.json",
+      "metadata_status": "local_publication_record",
+      "slug": "painstaking",
+      "audit": {
+        "group": "KOPSTAL/kopstal_10_painstaking",
+        "sheets": [
+          "G02-01",
+          "G02-02",
+          "G02-03"
+        ],
+        "description": "Üç panelli, biçimi bozulmuş yüzlerden oluşan triptik. Düzenlenmiş yatay detaylar, ayrı panel bütünleri, birleşik tam triptik ve daha erken karanlık/siyah-beyaz süreç hali var. Kamera arşivi yoğun yakın plan, triptiğin masada farklı yönlerde çekimleri ve boya yüzeyi içeriyor.",
+        "notes": "A0008–A0021 hazır seçili 14 detay. A0027–A0029 üç panel ayrı ve düzeltilmiş. A0024/A0025 beyaz aralıklı, A0026 siyah aralıklı birleşik sunum; A0023 daha erken süreç hali. A0022 dikey süreç kolajı. A0034 çok karanlık; ana detay olarak seçme. A0084 düşük çözünürlüklü WhatsApp erken süreç fotoğrafı. A0065–A0072 yönü değişmiş/çevreli kamera kayıtları; bitmiş bütün dosyalarının yerine kullanılmamalı.",
+        "masters": [
+          "A0025",
+          "A0026",
+          "A0027",
+          "A0028",
+          "A0029"
+        ],
+        "flags": [
+          "A0034: çok karanlık detay",
+          "A0084: 1200x1600 erken süreç WhatsApp sürümü"
+        ]
+      }
+    },
+    "stlop": {
+      "key": "stlop",
+      "title": "s(t)lop",
+      "year": 2026,
+      "medium": "Acrylic on canvas",
+      "height_cm": 75,
+      "width_cm": 55,
+      "master": "A0134",
+      "details": [
+        "A0095",
+        "A0096",
+        "A0097",
+        "A0098",
+        "A0099",
+        "A0100",
+        "A0101",
+        "A0102"
+      ],
+      "process": [],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "s-t-lop",
+      "audit": {
+        "group": "KOPSTAL/kopstal_1_stlop",
+        "sheets": [
+          "G03-01",
+          "G03-02"
+        ],
+        "description": "Pastel pembe, sarı ve turkuazla kurulu dikey figür/mekân resmi; göz, baş ve robotik dikey parça ayrıntıları. İki ayrı çözünürlükte sekiz seçili detay, bütün resmin birkaç çıkışı ve düzeltilmemiş kamera fotoğrafları bulunuyor.",
+        "notes": "A0087–A0094 2268x1512; A0095–A0102 aynı sekiz konunun 5184x3456 detayları. Yeni çekim gerekmiyor. A0134 7150x9758 en büyük bütün dışa aktarım; A0133 4724x6448, A0132/A0085 yaklaşık 4134x5642 ve A0086 2362x3224. Büyük piksel sayısı tek başına daha fazla gerçek ayrıntı kanıtı değil; master seçerken görüntü içeriği dikkate alınmalı. Kamera setinde ışık/kadraj değişiyor.",
+        "masters": [
+          "A0134",
+          "A0095",
+          "A0096",
+          "A0097",
+          "A0098",
+          "A0099",
+          "A0100",
+          "A0101",
+          "A0102"
+        ],
+        "flags": []
+      }
+    },
+    "angora": {
+      "key": "angora",
+      "title": "Angora Mergvs",
+      "year": 2026,
+      "medium": "Acrylic on canvas",
+      "height_cm": 120,
+      "width_cm": 100,
+      "master": "A1378",
+      "details": [
+        "A1408",
+        "A1409",
+        "A1410",
+        "A1411",
+        "A1412",
+        "A1413"
+      ],
+      "process": [
+        "A1554",
+        "A1555",
+        "A1560",
+        "A1561",
+        "A1562",
+        "A1563",
+        "A1564",
+        "A1565",
+        "A1566",
+        "A1567",
+        "A1556",
+        "A1557",
+        "A1558",
+        "A1559"
+      ],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "angora-mergvs",
+      "audit": {
+        "group": "KOPSTAL/kopstal_9_charizard angora",
+        "sheets": [
+          "G11-01",
+          "G11-02",
+          "G11-03",
+          "G11-04",
+          "G11-05",
+          "G11-06"
+        ],
+        "description": "Mavi/ters renkli evler ve büyük kanatlı karakter; evin mimarisi, ışık, bellek ve karakterin yüz/gövde ayrıntıları. Kontur baskıları, gerçek resim yapım aşamaları, hazır detaylar, katmanlı remiksler ve 3B/sentetik referanslar aynı iş klasöründe.",
+        "notes": "A1369–A1375 11811x14173 yüksek çözünürlüklü remix ailesi; kırmızı/mavi terslemeler ve çizgi katmanları var. A1376/A1377 MIX fotoğraf/render bileşimi; A1378 normal ve A1382 CHARCHAR4724x5669 bitmiş sunum adayları. A1408–A1413 A/B/C adlı detay seçkisi; A1385–A1401 ve kamera seti daha sıkı detaylar. A1554–A1567 4724x5669 aynı kadraja eşlenmiş gerçek süreç aşamaları; A1568 parça kolaj. A1551/A1571 A4 süreç dökümü, A1552/A1553 22904x29783 çok büyük beyaz/siyah zeminli süreç posterleri; tek eser fotoğrafı değil. A1601–A1620 render/AI/eskiz referans havuzu; fiziksel süreç diye kullanılmamalı. Kaynak fotoğraflarını koruyarak renk/efekt ailesi ayrı tutulmalı.",
+        "masters": [
+          "A1378",
+          "A1382",
+          "A1408",
+          "A1409",
+          "A1410",
+          "A1411",
+          "A1412",
+          "A1413"
+        ],
+        "flags": [
+          "A1369–A1377: remix/kompozit ailesi",
+          "A1552/A1553: süreç posteri",
+          "A1601–A1620: dijital/render referansları"
+        ]
+      }
+    },
+    "virgil": {
+      "key": "virgil",
+      "title": "Virgil on Virtual Cage (final_final-finalV9)",
+      "year": 2026,
+      "medium": "Acrylic on canvas",
+      "height_cm": 100,
+      "width_cm": 80,
+      "master": "A0582",
+      "details": [
+        "A0498",
+        "A0499",
+        "A0500",
+        "A0501",
+        "A0502",
+        "A0503",
+        "A0504",
+        "A0505",
+        "A0506",
+        "A0507"
+      ],
+      "process": [
+        "A0428",
+        "A0429",
+        "A0430",
+        "A0431",
+        "A0432",
+        "A0433",
+        "A0434",
+        "A0435",
+        "A0436",
+        "A0437",
+        "A0438",
+        "A0439"
+      ],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "virgil-on-virtual-cage-final-final-finalv9",
+      "audit": {
+        "group": "KOPSTAL/kopstal_5_virginonrocks",
+        "sheets": [
+          "G07-01",
+          "G07-02",
+          "G07-03",
+          "G07-04",
+          "G07-05",
+          "G07-06",
+          "G07-07"
+        ],
+        "description": "Kırmızı/pembe sanal mekânda Madonna/çocuk/melek figürleri; köşede sandalye. Eski ustanın referansı, parçalı kontur baskıları, ham telefon yapım kaydı, eşlenmiş süreç ve tamamlanmış resmin detay/bütün sunumları ayrı malzeme katmanları.",
+        "notes": "A0381–A0403 kontur çizimleri/baskı parçalarıdır; bitmiş eserin seçili renkli detaylarıyla karıştırma. A0427–A0439 yaklaşık2963x3702 yüksek çözünürlüklü referans/çizim/process; A0441–A0453 aynıların1200x1500 sürümleri. A0454/A0455 çizgi üst üste bindirme kompozitleri; gerçek yapım anı değil. A0488–A0497 on hazır renkli detay2657x1772; A0498–A0507 daha büyük PNG detaylar. A0579–A0581 8268x10333 renk/çözünürlük varyantları, A0582/A0584 yaklaşık2963x3702. A0376 paspartulu baskı sunumu; A0585/A0586 yakın kadraj aynı bütünle eşit değil. Referans A0427/A0441/A0473/A0536 kullanıcının tamamlanmış eseri değildir.",
+        "masters": [
+          "A0582",
+          "A0584",
+          "A0498",
+          "A0499",
+          "A0500",
+          "A0501",
+          "A0502",
+          "A0503",
+          "A0504",
+          "A0505",
+          "A0506",
+          "A0507"
+        ],
+        "flags": [
+          "A0454/A0455: overlay kompozit",
+          "A0579–A0581: yüksek çözünürlük/renk türevleri",
+          "A0427/A0441/A0473/A0536: tarihsel referans"
+        ]
+      }
+    },
+    "gxd": {
+      "key": "gxd",
+      "title": "Gxd is AFK, We banned it",
+      "year": 2026,
+      "medium": "Acrylic on canvas",
+      "height_cm": 80,
+      "width_cm": 60,
+      "master": "A1209",
+      "details": [],
+      "process": [
+        "A1314",
+        "A1315",
+        "A1316",
+        "A1317",
+        "A1318",
+        "A1319",
+        "A1320",
+        "A1321",
+        "A1322",
+        "A1323"
+      ],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "gxd-is-afk-we-banned-it",
+      "audit": {
+        "group": "KOPSTAL/kopstal_8_gxd-is-banned",
+        "sheets": [
+          "G10-01",
+          "G10-02",
+          "G10-03",
+          "G10-04",
+          "G10-05"
+        ],
+        "description": "Siyah fonda taşınan pembe beden ve renkli beş figür; Caravaggio sahnesinin yeniden kurulması. Tam eser çıkışları, yoğun yüz/el/kumaş detayları, karakalem taslak ve eşlenmiş process var.",
+        "notes": "A1205–A1207 7085x9448 büyük varyantlar; A1209 4724x6299, A1210/A1211 3543x4724. A1314–A1323 1411x1881 aynı kadraja getirilmiş süreç, A1325–A1334 ham telefon aşamaları. A1204 çizim FULL; A1335/A1336 temiz taslak, A1343–A1347 baskı parçaları. A1286 yalnız zemin/kadraj kaçmış fotoğraf; resim detayı olarak kullanma. Kamera ve seçili detay klasörlerindeki kopya ilişkileri dosya bazında hash ile ayrıca tutulur.",
+        "masters": [
+          "A1209",
+          "A1206",
+          "A1210"
+        ],
+        "flags": [
+          "A1286: kadraj kaçmış/zemin görüntüsü"
+        ]
+      }
+    },
+    "wall": {
+      "key": "wall",
+      "title": "walls of perception",
+      "year": 2026,
+      "medium": "Acrylic on canvas",
+      "height_cm": 70,
+      "width_cm": 50,
+      "master": "A0258",
+      "details": [
+        "A0224",
+        "A0225",
+        "A0226",
+        "A0227"
+      ],
+      "process": [
+        "A0260",
+        "A0261",
+        "A0262",
+        "A0263",
+        "A0264"
+      ],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "walls-of-perception",
+      "audit": {
+        "group": "KOPSTAL/kopstal_3_wall of perception",
+        "sheets": [
+          "G05-01",
+          "G05-02"
+        ],
+        "description": "Yeşil fonda şapkalı figür, sarı akış ve kırmızı masa/tabak. Dört seçili detayın iki çözünürlüğü; yüksek çözünürlüklü bütün, çizimden tamamlanmaya eşlenmiş aşamalar ve balkon/mekân fotoğrafları var.",
+        "notes": "A0220–A0223 2551x1701, A0224–A0227 aynı dört detay 5184x3456. A0260–A0264 4589x6423 process; A0265–A0269 1200x1680 karşılıkları. A0270–A0275 ham telefon process kayıtları. A0229/A0230 resim değil, mavi zemin üstünde böcek; sanat eseri detayı diye sayılmamalı. A0278 10167x14233 bütün büyütülmüş sunum; A0219/A0258/A0259 yaklaşık4588x6423 bütün.",
+        "masters": [
+          "A0258",
+          "A0259",
+          "A0224",
+          "A0225",
+          "A0226",
+          "A0227"
+        ],
+        "flags": [
+          "A0229/A0230: resim dışı böcek görüntüsü"
+        ]
+      }
+    },
+    "gary": {
+      "key": "gary",
+      "title": "gary grills cooper",
+      "year": 2026,
+      "medium": "Acrylic on canvas",
+      "height_cm": 75,
+      "width_cm": 55,
+      "master": "A0298",
+      "details": [
+        "A0288",
+        "A0289",
+        "A0290",
+        "A0291",
+        "A0292",
+        "A0293",
+        "A0294",
+        "A0295",
+        "A0296"
+      ],
+      "process": [],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "gary-grills-cooper",
+      "audit": {
+        "group": "KOPSTAL/kopstal_4_gary grills cooper",
+        "sheets": [
+          "G06-01",
+          "G06-02",
+          "G06-03"
+        ],
+        "description": "Turuncu fonda puro içen, hacimli mor/yeşil gövdeli barbekü figürü. Dokuz hazır seçili detay, yüksek çözünürlüklü bütünler, fotoğraf referansı, çizim ve aynı kadraja eşlenmiş süreç dizisi mevcut.",
+        "notes": "A0288–A0296 dokuz hazır detay 2657x1772. A0298/A0299 6496x8858 bütün; A0287/A0297 4331x5906. Process A0339–A0350 2598x3544, A0351–A0362 1100x1500 karşılıkları; 0 referans fotoğrafı, 1 çizim, sonraki numaralar resim aşamaları. Dosya sırası alfabetik olduğundan 10/11, 2'den önce geliyor; süreç montajında sayısal sırala. A0363 telefon ekran görüntüsü referans; fiziksel resim fotoğrafı değil.",
+        "masters": [
+          "A0298",
+          "A0299"
+        ],
+        "flags": [
+          "A0363: telefon ekran görüntüsü referans"
+        ]
+      }
+    },
+    "mandarin": {
+      "key": "mandarin",
+      "title": "articulo attack on mandarin",
+      "year": 2026,
+      "medium": "Acrylic on canvas",
+      "height_cm": 80,
+      "width_cm": 80,
+      "master": "A0192",
+      "details": [
+        "A0135",
+        "A0136",
+        "A0137",
+        "A0138",
+        "A0139",
+        "A0140",
+        "A0141"
+      ],
+      "process": [
+        "A0211",
+        "A0212",
+        "A0213",
+        "A0214",
+        "A0215",
+        "A0216",
+        "A0217",
+        "A0218"
+      ],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "articulo-attack-on-mandarin",
+      "audit": {
+        "group": "KOPSTAL/kopstal_2_mandarin articulo odisey",
+        "sheets": [
+          "G04-01",
+          "G04-02",
+          "G04-03",
+          "EXTRA-HEIC"
+        ],
+        "description": "Koyu fonda mavi uçan/akan formlar, beyaz dağ, asılı figür ve alt bölümde kayık/figür sırası. Yedi seçili detayın yüksek/düşük çıkışları, kamera bütünü, kareye oturtulmuş process aşamaları ve eskizler var.",
+        "notes": "A0135–A0141 5184x3456; A0142–A0148 aynı detayların 2126x1417 sürümleri. A0210–A0218 kare process/eskiz dizisi; perspektif eşlemesi hazır. A0206 12000x12000 genişletilmiş sunum; doğrudan fotoğraf masterı olduğu kanıtlanmıyor. A0191 adı image_gpt içeren, beyaz paspartulu farklı sunum; fiziksel eser fotoğrafıyla eşitleme. A0189/A0190/A0192 farklı ton/kontrastlı kare sunumlar. A0194 çekim çevresiyle tam fotoğraf; HEIC dosyalar ayrıca açılmalı. HEIC dosyaları ayrıca açıldı: A0193/A0195/A0202–A0204 bütün tuvalin ortamlı telefon çekimleri; A0196–A0201 dağ, kuşlar, sal/figür ve üstten asılı figürün yakın planları. Hazır seçili detaylardan ayrı kamera kaynakları.",
+        "masters": [
+          "A0160",
+          "A0161",
+          "A0135",
+          "A0136",
+          "A0137",
+          "A0138",
+          "A0139",
+          "A0140",
+          "A0141"
+        ],
+        "flags": [
+          "A0191: farklı/sentetik işlem olasılığı dosya adında; doğrulama gerek",
+          "A0206: çok büyük piksel boyutu özgün detay garantisi değil"
+        ]
+      },
+      "previous_planning_master": "A0160",
+      "master_selection_note_tr": "A0160 IMG_6639 copy.jpg 4686×3621 sıkı yatay kırpmadır; 80×80 cm kare tuvalin bütünü olarak kullanılmaz. A0192 fptp.jpg 1890×1890 tam kare fotoğraf sunumu; A0194 fiziksel stüdyo fotoğrafındaki kenar ve alt-sol çapalarla karşılaştırıldı. Renk kalibrasyonu ölçülmedi."
+    },
+    "sept": {
+      "key": "sept",
+      "title": "sept neuf",
+      "year": 2026,
+      "medium": "Acrylic on canvas",
+      "height_cm": 75,
+      "width_cm": 55,
+      "master": "A0947",
+      "details": [
+        "A1034",
+        "A1035",
+        "A1036",
+        "A1037",
+        "A1038",
+        "A1039",
+        "A1040",
+        "A1041",
+        "A1042",
+        "A1043",
+        "A1044",
+        "A1045"
+      ],
+      "process": [
+        "A1113",
+        "A1114",
+        "A1115",
+        "A1116",
+        "A1117",
+        "A1118",
+        "A1119",
+        "A1120",
+        "A1121",
+        "A1122",
+        "A1123",
+        "A1124",
+        "A1125",
+        "A1126",
+        "A1127",
+        "A1128",
+        "A1129",
+        "A1130",
+        "A1131"
+      ],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "sept-neuf",
+      "audit": {
+        "group": "KOPSTAL/kopstal_7_nine-eleven",
+        "sheets": [
+          "G09-01",
+          "G09-02",
+          "G09-03",
+          "G09-04",
+          "G09-05",
+          "G09-06",
+          "G09-07"
+        ],
+        "description": "Yeşil mekânda mor/şeffaf oturan figür ve tabure üstündeki kuş; boş beyaz göz, sarı kontur ve el/sigara ayrıntıları. Kamera yüzeyleri, hazır seçili detaylar, dijital katman/çizim çalışmaları, eşlenmiş process, arka yüz ve ayrıca AI referans denemeleri var.",
+        "notes": "A0947 3248x4430 düzeltilmiş bütün; A1157 6496x8859 büyük bütün, A1155/A1156 sfx sürümleri. A1034–A1045 12 numaralı seçili detayın seti; kamera setinde yakın kopya ve farklı çekimler var. A1112–A1131 2598x3543 framed süreç; A1132 süreç kolajı. A0945 ve A1011 arka yüz/yazılar. A1054 Otto Dix referansı; A0946 Marat ve A1158 Caravaggio farklı referanslar, bu eserin son hali değil. A1087–A1096 ayrı çizim/katman tasarımları. A1173–A1203 ChatGPT/Grok adlı sentetik figür/mekân denemeleri; fiziksel yapım fotoğraflarıyla karıştırılmamalı. A1192 düşük381x524 tarihsel resim referansı.",
+        "masters": [
+          "A0947",
+          "A1157"
+        ],
+        "flags": [
+          "A1155/A1156: sfx varyantları",
+          "A1132: süreç kompoziti",
+          "A1173–A1203: sentetik/dijital referans havuzu"
+        ]
+      }
+    },
+    "board": {
+      "key": "board",
+      "title": "7 fam board game",
+      "year": 2026,
+      "medium": "Acrylic on canvas",
+      "height_cm": 80,
+      "width_cm": 100,
+      "master": "A0592",
+      "details": [
+        "A0706",
+        "A0707",
+        "A0708",
+        "A0709",
+        "A0710",
+        "A0711",
+        "A0712",
+        "A0713",
+        "A0714"
+      ],
+      "process": [
+        "A0664",
+        "A0665",
+        "A0666",
+        "A0667",
+        "A0668",
+        "A0669",
+        "A0670",
+        "A0671",
+        "A0672",
+        "A0673",
+        "A0674",
+        "A0675",
+        "A0676"
+      ],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "7-fam-board-game",
+      "audit": {
+        "group": "KOPSTAL/kopstal_6_7thsela",
+        "sheets": [
+          "G08-01",
+          "G08-02",
+          "G08-03",
+          "G08-04",
+          "G08-05",
+          "G08-06"
+        ],
+        "description": "Satranç sahnesi: solda biçimi değişmiş baş, sağda kırmızı başlıklı figür; pembe ve mavi figür piyonları. Referans film karesi, kontur baskı parçaları, ham process fotoğrafları, düzeltilmiş süreç ve çok sayıda fiziksel detay mevcut.",
+        "notes": "A0589/A0590 efekt adlı, A0591 11811x9449 FULLSIZE ve A0592 4724x3780 bütün. A0603–A0618 çizim baskı parçaları. A0633 640x480 siyah-beyaz referans. A0649–A0662 1500x1200 ve A0663–A0676 4724x3780 eşlenmiş process seti. A0678–A0680 süreçleri parça parça üst üste bindiren kompozit; fiziksel tek aşama değil. A0715–A0723 dokuz hazır düşük detay1800x1200; A0706–A0714 büyük düzenlenmiş detaylar ve kamera setinde yakınları var. A0705 tek baş için hazırlanmış dikey kırpma5084x7190. İşlem dosyalarının adı aynı olsa da tarihsel farklı aşamalar korunmalı.",
+        "masters": [
+          "A0592",
+          "A0705",
+          "A0706",
+          "A0707",
+          "A0708",
+          "A0709",
+          "A0710",
+          "A0711",
+          "A0712",
+          "A0713",
+          "A0714"
+        ],
+        "flags": [
+          "A0589/A0590: efekt varyantı",
+          "A0678–A0680: süreç kompoziti",
+          "A0633: referans film karesi"
+        ]
+      }
+    },
+    "baby": {
+      "key": "baby",
+      "title": "baby rights 101",
+      "year": 2020,
+      "medium": "Acrylic on canvas",
+      "height_cm": 80,
+      "width_cm": 100,
+      "master": "A1809",
+      "details": [
+        "A1795",
+        "A1796",
+        "A1797",
+        "A1798",
+        "A1799",
+        "A1800",
+        "A1801",
+        "A1802",
+        "A1803",
+        "A1804",
+        "A1805",
+        "A1806",
+        "A1807",
+        "A1808"
+      ],
+      "process": [],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "baby-rights-101",
+      "audit": {
+        "group": "MILAN/baby rights 101",
+        "sheets": [
+          "G27-01"
+        ],
+        "description": "Siyah-beyaz kıvrılan çoklu beden, ince kırmızı çizgiler; yüz/el/gövde detayları ve arka yüz yazısı.",
+        "notes": "A1794 9115x6380; A1809 4724x3307 bütün. A1795–A1808 on dört detay. A1810 arka yüz kayıt; ayrı iş gibi sayma. Kök babyrights-v1 önceki çizim aşaması.",
+        "masters": [
+          "A1809"
+        ],
+        "flags": []
+      }
+    },
+    "capricorn": {
+      "key": "capricorn",
+      "title": "caprocorn sister: war, plague, earthquake",
+      "year": 2020,
+      "medium": "Acrylic on canvas",
+      "height_cm": 90,
+      "width_cm": 65,
+      "master": "A1832",
+      "details": [
+        "A1811",
+        "A1812",
+        "A1813",
+        "A1814",
+        "A1815",
+        "A1816",
+        "A1817",
+        "A1818",
+        "A1819",
+        "A1820",
+        "A1821",
+        "A1822",
+        "A1823",
+        "A1824",
+        "A1825",
+        "A1826",
+        "A1827",
+        "A1828",
+        "A1829"
+      ],
+      "process": [],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "caprocorn-sister-war-plague-earthquake",
+      "audit": {
+        "group": "MILAN/capricorn sisters",
+        "sheets": [
+          "G28-01",
+          "G28-02"
+        ],
+        "description": "Koyu fonda üç beden/iki dik figür ve yerde kıvrılan figür; yüzlerin bir kısmı beyaz boşluk. El, gövde ve ayak detayları; arka yüz çizimi.",
+        "notes": "A1811–A1829 on dokuz hazır detay; A1831 7677x10629, A1832 3071x4252 bütün. A1830 bu eserin arka yüz çizimi. A1833 ve A1834 Baby Rights bütün/arka yüz dosyalarıdır; Capricorn diye etiketleme. Video/CAPRİCORNSİSTERS aynı eser ailesi.",
+        "masters": [
+          "A1832",
+          "A1831"
+        ],
+        "flags": [
+          "A1833/A1834: yanlış klasörde Baby Rights materyali"
+        ]
+      }
+    },
+    "cellular": {
+      "key": "cellular",
+      "title": "cellular spleens",
+      "year": 2020,
+      "medium": "Acrylic on canvas",
+      "height_cm": 120,
+      "width_cm": 100,
+      "master": "A1862",
+      "details": [
+        "A1844",
+        "A1845",
+        "A1846",
+        "A1847",
+        "A1848",
+        "A1849",
+        "A1850",
+        "A1851",
+        "A1852",
+        "A1853",
+        "A1854",
+        "A1855",
+        "A1856",
+        "A1857",
+        "A1858",
+        "A1859",
+        "A1860"
+      ],
+      "process": [],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "cellular-spleens",
+      "audit": {
+        "group": "MILAN/cellular spleen",
+        "sheets": [
+          "G29-01"
+        ],
+        "description": "Beyaz fonda çok sayıda göz/hücre/organik çıkıntı ve altta kırmızı araba benzeri form.",
+        "notes": "A1844–A1860 on yedi numaralı detay; A1861 3149x3779, A1862 4724x5669 bütün. A1863/A1864 11810x14172 sfx türevleri; A1872/A1873 SAĞ/SOL çizgisel bölünmüş veya sunum varyantı. Eski cellular spleens1440px setiyle birleştir.",
+        "masters": [
+          "A1862"
+        ],
+        "flags": [
+          "A1863/A1864: sfx",
+          "A1872/A1873: sunum/kadraj türevi"
+        ]
+      }
+    },
+    "ciao": {
+      "key": "ciao",
+      "title": "ciao capo, sono squalo",
+      "year": 2020,
+      "medium": "Acrylic on canvas",
+      "height_cm": 90,
+      "width_cm": 65,
+      "master": "A1903",
+      "details": [
+        "A1874",
+        "A1875",
+        "A1876",
+        "A1877",
+        "A1878",
+        "A1879",
+        "A1880",
+        "A1881",
+        "A1882",
+        "A1883",
+        "A1884",
+        "A1885",
+        "A1886",
+        "A1887",
+        "A1888",
+        "A1889",
+        "A1890",
+        "A1891",
+        "A1892",
+        "A1893",
+        "A1894",
+        "A1895",
+        "A1896",
+        "A1897",
+        "A1898",
+        "A1899",
+        "A1900",
+        "A1901",
+        "A1902"
+      ],
+      "process": [],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "ciao-capo-sono-squalo",
+      "audit": {
+        "group": "MILAN/ciao capo sono squalo",
+        "sheets": [
+          "G30-01",
+          "G30-02"
+        ],
+        "description": "İki uzun mavi/beyaz figür; kırmızı-siyah fon, sivri yüz ve büyük eller. Yüksek çözünürlüklü detay serisi.",
+        "notes": "A1874–A1902 29 numaralı dosya; numara atlamaları olduğundan 31 detay varmış gibi sayma. A1903 3071x4252 bütün. A1904–A1906 kamera kısmi çekimleri. Virgüllü ciao capo klasöründeki eski aşamalar aynı işin tarihsel süreci.",
+        "masters": [
+          "A1903"
+        ],
+        "flags": []
+      }
+    },
+    "duality": {
+      "key": "duality",
+      "title": "duality of the angelic summarization",
+      "year": 2019,
+      "medium": "Acrylic on canvas",
+      "height_cm": 90,
+      "width_cm": 65,
+      "master": "A1945",
+      "details": [
+        "A1928",
+        "A1929",
+        "A1930",
+        "A1931",
+        "A1932",
+        "A1933",
+        "A1934",
+        "A1935",
+        "A1936",
+        "A1937",
+        "A1938",
+        "A1939",
+        "A1940",
+        "A1941",
+        "A1942"
+      ],
+      "process": [],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "duality-of-the-angelic-summarization",
+      "audit": {
+        "group": "MILAN/duality of angelic summarization",
+        "sheets": [
+          "G32-01",
+          "G32-02",
+          "G32-03"
+        ],
+        "description": "Mor-mavi ve yeşil fonda sakallı/çift yüzlü figür; açık renkli küçük figür, el, gövde silinmeleri ve arka yüz notları.",
+        "notes": "A1928–A1942 on beş seçili detay. A1944/A1946 7677x10632 JPG/PNG; A1945 3071x4253 bütün. A1943 arka yüz; A1996–A2003 arka yüz ve çiziktirmeler. A1947–A1995 çok sayıda benzer yüzey çekimi, birebir yeni içerik sayılmamalı.",
+        "masters": [
+          "A1945",
+          "A1946"
+        ],
+        "flags": []
+      }
+    },
+    "good": {
+      "key": "good",
+      "title": "good people helping bad ones (that’s why they’re bad too)",
+      "year": 2019,
+      "medium": "Acrylic on black paper",
+      "height_cm": 100,
+      "width_cm": 70,
+      "master": "A2014",
+      "details": [
+        "A2004",
+        "A2005",
+        "A2006",
+        "A2007",
+        "A2008",
+        "A2009",
+        "A2010",
+        "A2011",
+        "A2012",
+        "A2013"
+      ],
+      "process": [],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "good-people-helping-bad-ones-thats-why-theyre-bad-too",
+      "audit": {
+        "group": "MILAN/good ones",
+        "sheets": [
+          "G33-01"
+        ],
+        "description": "Büyük açık mavi-beyaz formlar, altta X gözlü turuncu figürler; on seçili detay ve kamera yakınları.",
+        "notes": "A2004–A2013 on detay; A2014 3307x4724 bütün. A2015–A2024 aynı konuların kamera çekimleri. Kök goodppl çizimi bu eserin erken çizim ailesi.",
+        "masters": [
+          "A2014"
+        ],
+        "flags": []
+      }
+    },
+    "guard": {
+      "key": "guard",
+      "title": "guarding holy mountains from malice",
+      "year": 2019,
+      "medium": "Acrylic on canvas",
+      "height_cm": 65,
+      "width_cm": 90,
+      "master": "A2050",
+      "details": [
+        "A2025",
+        "A2026",
+        "A2027",
+        "A2028",
+        "A2029",
+        "A2030",
+        "A2031",
+        "A2032",
+        "A2033",
+        "A2034"
+      ],
+      "process": [],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "guarding-holy-mountains-from-malice",
+      "audit": {
+        "group": "MILAN/guarding holy mountains from malice",
+        "sheets": [
+          "G34-01"
+        ],
+        "description": "Mor, kırmızı ve sarı bloklu oda; ters sarkan kırmızı figür, üç mavi figür ve büyük pembe kütle.",
+        "notes": "A2025–A2034 ve A2036 numaralı seçili detaylar; A2035 arka yüz. A2050 4252x3071 bütün. A2037–A2049 kamera yakınları.",
+        "masters": [
+          "A2050"
+        ],
+        "flags": []
+      }
+    },
+    "materialize": {
+      "key": "materialize",
+      "title": "How to materialize your loneliness by using an animal in somewhere concrete or technologic",
+      "year": 2019,
+      "medium": "Acrylic on canvas",
+      "height_cm": 65,
+      "width_cm": 90,
+      "master": "A2063",
+      "details": [
+        "A2051",
+        "A2052",
+        "A2053",
+        "A2054",
+        "A2055",
+        "A2056",
+        "A2057",
+        "A2058",
+        "A2059",
+        "A2060",
+        "A2061",
+        "A2062"
+      ],
+      "process": [],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "how-to-materialize-your-loneliness-by-using-an-animal-in-somewhere-concrete-or-technologic",
+      "audit": {
+        "group": "MILAN/how to materialize",
+        "sheets": [
+          "G35-01"
+        ],
+        "description": "Yatay yoğun renkli kompozisyon: solda yüz, sağda gülümseyen baş ve gövde/işaretler; katmanlı boya izi.",
+        "notes": "A2051–A2062 on iki numaralı detay; A2063 4252x3071 bütün. A2064/A2077 çevreli kamera bütünü; A2065–A2076 ilgili yakınlar. Yeni detay çekimine ihtiyaç görünmüyor.",
+        "masters": [
+          "A2063"
+        ],
+        "flags": []
+      }
+    },
+    "peachy": {
+      "key": "peachy",
+      "title": "victim psycho-logique II : the peachy pharaoh connects with the chair",
+      "year": 2019,
+      "medium": "Acrylic on canvas",
+      "height_cm": 65,
+      "width_cm": 90,
+      "master": "A2156",
+      "details": [
+        "A2135",
+        "A2136",
+        "A2137",
+        "A2138",
+        "A2139",
+        "A2140",
+        "A2141",
+        "A2142",
+        "A2143",
+        "A2144",
+        "A2145",
+        "A2146",
+        "A2147",
+        "A2148"
+      ],
+      "process": [],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "victim-psycho-logique-ii-the-peachy-pharaoh-connects-with-the-chair",
+      "audit": {
+        "group": "MILAN/peachy pharaoh",
+        "sheets": [
+          "G38-01"
+        ],
+        "description": "Mor/mavi fonda ters eğilmiş uzun turuncu-pembe beden, asılı küçük figür ve çizgisel beyaz sandalye.",
+        "notes": "A2135–A2148 on dört hazır detay; A2156 3307x2362 bütün; A2149–A2155 kamera kısmi görüntüler.",
+        "masters": [
+          "A2156"
+        ],
+        "flags": []
+      }
+    },
+    "morbid": {
+      "key": "morbid",
+      "title": "morbid forebodings triggered by childish landscape",
+      "year": 2019,
+      "medium": "Acrylic on grey carton",
+      "height_cm": 80,
+      "width_cm": 73,
+      "master": "A2182",
+      "details": [
+        "A2175",
+        "A2176",
+        "A2177",
+        "A2178",
+        "A2179",
+        "A2180",
+        "A2181"
+      ],
+      "process": [],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "morbid-forebodings-triggered-by-childish-landscape",
+      "audit": {
+        "group": "MILAN/sinner pegnuin",
+        "sheets": [
+          "G40-01"
+        ],
+        "description": "Mavi/pembe fonda yeşil-siyah bükülmüş organik beden, dallı/çiçekli sarı başlı form.",
+        "notes": "A2175–A2181 yedi hazır detay; A2182 3367x3780 bütünün adı morbid forebodings... ile başlıyor; klasör adıyla eser adı birebir değil. A2184 yere bırakılmış ve yönü dönük resim. PENGUIN klasöründeki gri/sarı büyük resim bu eserle görsel olarak aynı değil; ad benzerliğiyle birleştirilmemeli.",
+        "masters": [
+          "A2182"
+        ],
+        "flags": []
+      }
+    },
+    "transhumanism": {
+      "key": "transhumanism",
+      "title": "Century of 0 & 1 / Transhumanism",
+      "year": 2019,
+      "medium": "Acrylic on canvas",
+      "height_cm": 65,
+      "width_cm": 90,
+      "master": "A2213",
+      "details": [
+        "A2191",
+        "A2192",
+        "A2193",
+        "A2194",
+        "A2195",
+        "A2196",
+        "A2197"
+      ],
+      "process": [],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "century-of-0-1-transhumanism",
+      "audit": {
+        "group": "MILAN/transhumanism",
+        "sheets": [
+          "G41-01"
+        ],
+        "description": "Mavi fonda siyah mekanik/silah benzeri merkez, solda pembe ve sağda sarı beden, yazılar.",
+        "notes": "A2191–A2197 yedi numaralı detay; A2213 4252x3071 bütün. A2198/A2212 çevreli kamera bütünü; A2199–A2211 yakınlar. Yazı ve işaretler resmin fiziksel parçası.",
+        "masters": [
+          "A2213"
+        ],
+        "flags": []
+      }
+    },
+    "unemployed": {
+      "key": "unemployed",
+      "title": "cute but unemployed cartoon figure",
+      "year": 2020,
+      "medium": "Acrylic on canvas",
+      "height_cm": 90,
+      "width_cm": 65,
+      "master": "A2388",
+      "details": [
+        "A2375",
+        "A2376",
+        "A2377",
+        "A2378",
+        "A2379",
+        "A2380",
+        "A2381",
+        "A2382",
+        "A2383",
+        "A2384",
+        "A2385",
+        "A2386",
+        "A2387"
+      ],
+      "process": [],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "cute-but-unemployed-cartoon-figure",
+      "audit": {
+        "group": "MILAN/unemployed but cute cartoon figure",
+        "sheets": [
+          "G43-01"
+        ],
+        "description": "Kırmızı fonda sivri dişli, yuvarlak hacimli yeşil-gri çizgi karakter; yüz/gövde/el detayları.",
+        "notes": "A2375–A2387 on üç detay; A2388 noeffect ve A2389 normal 4983x6899 bütün sürümleri. Efekt ayrımı dosya adından ve yakın görsel benzerlikten; farkı yüksek çözünürlükte karşılaştırma adayına al.",
+        "masters": [
+          "A2388",
+          "A2389"
+        ],
+        "flags": []
+      }
+    },
+    "wings": {
+      "key": "wings",
+      "title": "wings of abyss",
+      "year": 2019,
+      "medium": "Acrylic on canvas",
+      "height_cm": 90,
+      "width_cm": 65,
+      "master": "A2451",
+      "details": [
+        "A2427",
+        "A2428",
+        "A2429",
+        "A2430",
+        "A2431",
+        "A2432",
+        "A2433",
+        "A2434",
+        "A2435",
+        "A2436",
+        "A2437"
+      ],
+      "process": [],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "wings-of-abyss",
+      "audit": {
+        "group": "MILAN/wings of abyss",
+        "sheets": [
+          "G46-01"
+        ],
+        "description": "Siyah/mavi/pembe fonda beyaz sivri başlı kuş/yaratık, spiral gövde ve üstte ters pembe figür.",
+        "notes": "A2427–A2437 on bir seçili detay; A2451 3071x4252 bütün. A2438–A2450 kamera yakınları. Kök wingsofabbyss-v1 eskiz; aynı aşama/fotoğraf değil.",
+        "masters": [
+          "A2451"
+        ],
+        "flags": []
+      }
+    },
+    "rompi": {
+      "key": "rompi",
+      "title": "il sbagliato di rompipalle",
+      "year": 2019,
+      "medium": "Acrylic on canvas",
+      "height_cm": 90,
+      "width_cm": 65,
+      "master": "A1750",
+      "details": [
+        "A1728",
+        "A1729",
+        "A1730",
+        "A1731",
+        "A1732",
+        "A1733",
+        "A1734",
+        "A1735",
+        "A1736",
+        "A1737",
+        "A1738",
+        "A1739",
+        "A1740",
+        "A1741",
+        "A1742",
+        "A1743",
+        "A1744",
+        "A1745",
+        "A1746"
+      ],
+      "process": [],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "il-sbagliato-di-rompipalle",
+      "audit": {
+        "group": "MILAN/0-sbagliato di rompipalle",
+        "sheets": [
+          "G22-01"
+        ],
+        "description": "Yeşil zeminde mor/sarı figür, parçalanmış yüz ve dişli form; 19 numaralı hazır detay, kamera kısmi görünüm ve düzeltilmiş bütün.",
+        "notes": "A1728–A1746 numaralı detaylar. A1747–A1749 kamera kısmi görüntü; A1750 ROMPI3075x4252 bütün. MILAN/rompi içindeki tek dosya aynı eser ailesi.",
+        "masters": [
+          "A1750"
+        ],
+        "flags": []
+      }
+    },
+    "penguin": {
+      "key": "penguin",
+      "title": "penguin is not a friend, only a sinner",
+      "year": 2023,
+      "medium": "Acrylic on canvas",
+      "height_cm": 120,
+      "width_cm": 120,
+      "master": "A2743",
+      "details": [
+        "A2744",
+        "A2745",
+        "A2746"
+      ],
+      "process": [
+        "A2740",
+        "A2741",
+        "A2742",
+        "A2743"
+      ],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "penguin-is-not-a-friend-only-a-sinner",
+      "audit": {
+        "group": "PENGUIN",
+        "sheets": [
+          "G50-01"
+        ],
+        "description": "Gri-bej ve sarı akışlı büyük, neredeyse kare resim; merkezde baş/beden çağrışımı. Masa üstünde yapım, çizgi başlangıcı, yakın planlar, düzeltilmiş süreç ve sanatçıyla ölçek fotoğrafları.",
+        "notes": "A2740–A2743 3543x3543 dört süreç/ton seçimi. A2744 2524x3222 seçilmiş yakın plan. A2745/A2746 fiziksel yüzey. A2747/A2748 çalışma anı; A2749–A2754 başlangıç ve gelişim; A2757/A2758 kişinin arkasında/yanında tuttuğu resimle gerçek ölçek kaydı; A2759/A2760 fiziksel duvar görünümü. MILAN/sinner pegnuin mavi-yeşil resimle aynı eser değil. Burada yeni video bulunmadı.",
+        "masters": [
+          "A2742",
+          "A2743",
+          "A2744",
+          "A2757",
+          "A2758",
+          "A2759"
+        ],
+        "flags": []
+      }
+    },
+    "viperella": {
+      "key": "viperella",
+      "title": "viperella",
+      "year": 2020,
+      "medium": "Acrylic on canvas",
+      "height_cm": 70,
+      "width_cm": 50,
+      "master": "A1772",
+      "details": [
+        "A1762",
+        "A1763",
+        "A1764",
+        "A1765",
+        "A1766",
+        "A1767",
+        "A1768",
+        "A1769",
+        "A1770",
+        "A1771"
+      ],
+      "process": [],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "viperella",
+      "audit": {
+        "group": "MILAN/0-viperella",
+        "sheets": [
+          "G24-01"
+        ],
+        "description": "Mor/pembe uzun figür, kalkık el ve kırmızı dudak; gri-beyaz fon. On hazır detay ve bütün.",
+        "notes": "A1762–A1771 5184x2912 detay; A1772 2362x3307 bütün. MILAN/viperella eski süreç seti ve video/viperella.mp4 ile birleştir.",
+        "masters": [
+          "A1772"
+        ],
+        "flags": []
+      }
+    },
+    "greatfire": {
+      "key": "greatfire",
+      "title": "When the Darkness surrounds, be among those who burn the Great Fire",
+      "year": 2020,
+      "medium": "Acrylic on canvas",
+      "height_cm": 90,
+      "width_cm": 65,
+      "master": "A2423",
+      "details": [
+        "A2403",
+        "A2404",
+        "A2405",
+        "A2406",
+        "A2407",
+        "A2408",
+        "A2409",
+        "A2410",
+        "A2411",
+        "A2412",
+        "A2413",
+        "A2414",
+        "A2415",
+        "A2416",
+        "A2417",
+        "A2418",
+        "A2419",
+        "A2420",
+        "A2421"
+      ],
+      "process": [],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "metadata_status": "local_catalogue_record",
+      "slug": "when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire",
+      "audit": {
+        "group": "MILAN/who fires the great light",
+        "sheets": [
+          "G45-01"
+        ],
+        "description": "Koyu yeşil fonda büyük başlı, pembe-kırmızı beden; el kaldıran figür ve koyu mavi/krem arka alan.",
+        "notes": "A2403–A2421 on dokuz detay, A2422 kafa detayı. A2423 3456x4786 bütün; A2424 arka yüz. A2425/A2426 7677x10630 büyük PNG ailesi; dosya adı when the darkness surrounds ile başlıyor, klasör adıyla birebir değil. UNDONE/A2307–A2311 yapım aşamaları; great fire ek detayları aynı iş.",
+        "masters": [
+          "A2423",
+          "A2425"
+        ],
+        "flags": []
+      }
+    },
+    "lucid": {
+      "key": "lucid",
+      "title": "remixed execution of lucid drowning",
+      "year": 2019,
+      "medium": "Acrylic on canvas",
+      "height_cm": 65,
+      "width_cm": 90,
+      "master": "A1695",
+      "details": [],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "audit": {
+        "group": "ROOT",
+        "sheets": [
+          "G01-01"
+        ],
+        "description": "Kök görseller karışık arşiv: babyrights, goodppl, societyscrewingbalance ve wingsofabbyss çizim/eskizleri; lucid drowning çizim ve renkli resim sürümleri; Damien Hirst portresi ve yakın planı; ayrıca üç ayrı eski eser fotoğrafı. Bir eserin varyantları olarak birleştirilmemeli.",
+        "notes": "A0002 tam portre/kolaj görünümü, A0003 yüz yakın planı; aynı boyut ama farklı kadraj. A1695 renkli bütün, A1696 çizim; çözünürlük kopyası değil.",
+        "masters": [
+          "A1695",
+          "A2762"
+        ],
+        "flags": []
+      }
+    },
+    "society": {
+      "key": "society",
+      "title": "society screwing balance",
+      "year": 2019,
+      "medium": "Acrylic on paper",
+      "height_cm": 59.4,
+      "width_cm": 42,
+      "master": "A2763",
+      "details": [],
+      "metadata_source": "yigit-site-repo/v3/content/works.json",
+      "audit": {
+        "group": "ROOT",
+        "sheets": [
+          "G01-01"
+        ],
+        "description": "Kök görseller karışık arşiv: babyrights, goodppl, societyscrewingbalance ve wingsofabbyss çizim/eskizleri; lucid drowning çizim ve renkli resim sürümleri; Damien Hirst portresi ve yakın planı; ayrıca üç ayrı eski eser fotoğrafı. Bir eserin varyantları olarak birleştirilmemeli.",
+        "notes": "A0002 tam portre/kolaj görünümü, A0003 yüz yakın planı; aynı boyut ama farklı kadraj. A1695 renkli bütün, A1696 çizim; çözünürlük kopyası değil.",
+        "masters": [
+          "A1695",
+          "A2762"
+        ],
+        "flags": []
+      },
+      "warning": "A2763 is an UNDated SKETCH; do not apply final2019medium/dimensions credit to it."
+    }
+  },
+  "videos": [
+    {
+      "id": "A0187",
+      "type": "framed_process_montage",
+      "description": "Tamamlanmış Mandarin resmiyle açılış; çizime geri dönüş; koyu zemin ve mavi alan, kayık/figürler, üstte uçan mavi formlar aşama aşama beliriyor; bitmiş resimle kapanış. Sabit kareye eşlenmiş fotoğraflar arasında yumuşak geçiş.",
+      "relation": "A0188 ile aynı süreç malzemesinin kısa/hızlı kurgusu; farklı eser veya yeni çekim değil.",
+      "segments": "0–3 sn bütün→eskiz; 3–13 sn süreç;13–16 sn tamamlanmış bütün."
+    },
+    {
+      "id": "A0188",
+      "type": "framed_process_montage",
+      "description": "Mandarin çizimden mavi/koyu resme aynı kadrajda dönüşüyor. Başta bitmiş eser, sonra eskiz, aşamalar ve tekrar sonuç.",
+      "relation": "A0187'nin daha yavaş/uzun versiyonu; ikisi de1890x1890.",
+      "segments": "0–8 sn sonuç→çizim;8–31 sn aşamalar;31–37 sn sonuç."
+    },
+    {
+      "id": "A0280",
+      "type": "framed_process_montage",
+      "description": "Wall of Perception tamamlanmış görünümden çizime, yeşil zemine, şapkalı figür ve kırmızı masanın katman katman tamamlanmasına geçiyor. Kamera önünde canlı boyama değil, eşlenmiş aşama fotoğrafları.",
+      "relation": "G05 process görselleriyle aynı malzeme ailesi.1350x1890 dikey.",
+      "segments": "0–6 sn sonuç→eskiz;6–25 sn yapım aşamaları;25–32 sn bitmiş hal."
+    },
+    {
+      "id": "A0301",
+      "type": "framed_process_montage_low_resolution",
+      "description": "Gary resminin son hali→barbekü başındaki fotoğraf referansı→mavi çizim→turuncu zemin→gövde/baş/ızgara gelişimi→bitmiş eser. Son karede küçülen resim çevresinde siyah alan.",
+      "relation": "A0303 ile aynı67.1sn akış,1100x1500 düşük çözünürlük çıktısı. Son çıkış sınırı farklı görünüyor; birebir dosya kopyası değil.",
+      "segments": "0–12 sn referans ve çizim;12–55 sn süreç;55–67 sn son hal."
+    },
+    {
+      "id": "A0303",
+      "type": "framed_process_montage_high_resolution",
+      "description": "Gary resminin bitmiş halinden fotoğraf referansına ve eskize dönüş; ardından turuncu fon, figür hacimleri ve yüz/ızgara gelişimi. Sabit kadrajlı geçiş kurgusu.",
+      "relation": "A0301'in2598x3544 yüksek çözünürlüklü karşılığı. Süre aynı; 705MB vs127MB. Ana kurgu kaynağı adayı.",
+      "segments": "0–12 sn referans/eskiz;12–55 sn aşamalar;55–67 sn son hal."
+    },
+    {
+      "id": "A0475",
+      "type": "framed_process_montage",
+      "description": "Tarihsel Virgin of the Rocks referansıyla açılıyor; çizim ve kırmızı zeminli yeniden yorumun süreç aşamalarından bitmiş sanal mekân sahnesine geliyor; sonda tarihsel referansa geri dönüyor.",
+      "relation": "A0477 ile aynı süreç ailesi ama farklı süre ve farklı açılış/kapanış; yalnız yavaşlatılmış birebir kopya denmemeli.",
+      "segments": "0–8 sn referans→çizim;8–43 sn yapım;43–61 sn sonuç→referans."
+    },
+    {
+      "id": "A0477",
+      "type": "framed_process_montage",
+      "description": "Çizim→kırmızı fonda ana hacimler→yüzler ve mekân çizgileri→bitmiş resim. Ortada tarihsel referans görünümü, tekrar bitmiş eser, sonda çizime dönüş var.",
+      "relation": "A0475'e göre41.6sn kısa, farklı kurgu sırası. İki bağımsız çekim değil.",
+      "segments": "0–18 sn süreç;19–22 sn referans;22–38 sn sonuç;39–41 sn çizime dönüş."
+    },
+    {
+      "id": "A0595",
+      "type": "painting_session_edited_effect",
+      "description": "Satranç resminin masa üzerinde gerçek boyanışı; farklı oturumlar ardışık kurgulanmış. Beyaz/mavi başlangıçtan kırmızı gövde alanlarına ilerliyor. VHS/Hi-Fi/Play yazıları ve ton efekti görülüyor.",
+      "relation": "A0597 ile aynı3598.73sn ve1280x720 kurgu; bu dosya efektli türev. Ayrı bir saatlik özgün çekim sayılmamalı.",
+      "segments": "Başta siyah kare; yaklaşık0–12dk erken alanlar,15–30dk kırmızı/gövde,30–59dk figür detayları. Son anda kameraya yaklaşma."
+    },
+    {
+      "id": "A0597",
+      "type": "painting_session_edited_clean",
+      "description": "Satranç resmi masa üstünde, sanatçı oturarak/ayakta boyuyor; kesmelerle farklı aşamalar ve oturumlar birleşiyor. Ekranda VHS yazıları görünmeyen daha temiz sunum.",
+      "relation": "A0595 efektli versiyonun temiz karşılığı; A0599 ve A0601 aynı malzemenin kısa montaj ailesi. Saatlik video ham tek kesintisiz oturum değil.",
+      "segments": "0–12dk erken katmanlar;15–30dk kırmızı alanlar;30–59dk gövde/yüz ayrıntıları."
+    },
+    {
+      "id": "A0599",
+      "type": "painting_timelapse_short",
+      "description": "Birden fazla satranç yapım oturumunu yaklaşık1dakikaya sıkıştıran hızlı masaüstü kurgu. Sanatçı, boya paleti, erken mavi alanlar ve kırmızı figürlerin gelişimi.",
+      "relation": "A0601 ve saatlik kurgu ile aynı görüntü ailesi; farklı hız/kurgu uzunluğu. Açılışta siyah kare var.",
+      "segments": "0–15sn erken aşama;15–60sn daha ileri gövde/yüz çalışması."
+    },
+    {
+      "id": "A0601",
+      "type": "painting_timelapse_medium",
+      "description": "Satranç resminin boş tuvalden başlayan masa üstü yapımı; oturumlar arasında kesmeler, sanatçı oturup kalkıyor. Sonda telefon ekranını kameraya gösteriyor.",
+      "relation": "A0599 kısa, A0597 uzun versiyonlarıyla aynı çekim ailesi.294.77sn.",
+      "segments": "0 boş tuval;0–65sn erken alanlar;65–240sn kırmızı/gövde;son kısım ince çalışma ve telefon."
+    },
+    {
+      "id": "A0620",
+      "type": "studio_conversation_visual",
+      "description": "Satranç resmi masada ileri aşamada duruyor; ikinci kişi masanın arkasına geliyor, iki kişi resme işaret ederek ve malzemeyle konuşma/inceleme yapıyor. Boyama ve sohbet arası stüdyo kaydı.",
+      "relation": "Satranç yapımından ayrı sohbet/geri bildirim malzemesi. Dosya adı yorum diyor ancak konuşma içeriği dinlenmedi; gerçek sözler veya dil doğrulanmadı.",
+      "segments": "0–40sn giriş/yer değiştirme;40–110sn ikinci kişi ve resim;110–266sn birlikte inceleme ve malzeme hareketi."
+    },
+    {
+      "id": "A0621",
+      "type": "raw_painting_session",
+      "description": "Satranç yapımının erken ham oturumu. Boş tuval masa üzerinde; sanatçı mavi ve açık sarı büyük alanları yerleştiriyor, son bölümde oturarak küçük çizgiler/alanlar ekliyor.",
+      "segments": "0–2dk boş→mavi;2–13dk büyük zeminler;13–21dk oturarak erken figür çizgileri.",
+      "relation": "7famboardgame ham oturum ailesi. Tam ses içeriği dinlenmedi; kurgulu 1dk/5dk/1saat çıktılarıyla kaynak ilişkisi var."
+    },
+    {
+      "id": "A0622",
+      "type": "raw_painting_session",
+      "description": "Satranç resminin daha ileri ham oturumu; kırmızı geniş gövde alanı ve mavi fonda küçük baş/figür ayrıntıları üzerinde çalışma. Uzun süre oturarak ince fırça kullanımı; son bölümde masa boş kalıyor.",
+      "segments": "0–12dk ayakta çalışma;12–55dk oturarak ayrıntı;yaklaşık61–72dk boş masa;sonda kameraya yaklaşma.",
+      "relation": "7famboardgame ham oturum ailesi. Tam ses içeriği dinlenmedi; kurgulu 1dk/5dk/1saat çıktılarıyla kaynak ilişkisi var."
+    },
+    {
+      "id": "A0623",
+      "type": "raw_painting_session",
+      "description": "İleri aşamadaki satranç tuvalinde oturarak kırmızı/orta figür bölgesi ve ince ayrıntıları boyama. Orta kısımda ayakta palet/malzeme arası geçişler; son kare örneklemesi boş.",
+      "segments": "0–30dk oturarak detay;30–43dk ayakta/ara;43–66dk yeniden detay.",
+      "relation": "7famboardgame ham oturum ailesi. Tam ses içeriği dinlenmedi; kurgulu 1dk/5dk/1saat çıktılarıyla kaynak ilişkisi var."
+    },
+    {
+      "id": "A0624",
+      "type": "raw_painting_session",
+      "description": "Aynı satranç resminde ileri aşama ham oturum; baş/figür çevresinde küçük fırça işleri, palet karıştırma; orta bölümde ayakta çalışıp yeniden oturuyor.",
+      "segments": "0–12dk oturarak;12–26dk ayakta palet/boyama;26–41dk tekrar ayrıntı.",
+      "relation": "7famboardgame ham oturum ailesi. Tam ses içeriği dinlenmedi; kurgulu 1dk/5dk/1saat çıktılarıyla kaynak ilişkisi var."
+    },
+    {
+      "id": "A0625",
+      "type": "raw_painting_session",
+      "description": "Satranç erken aşamasında mavi zemin ve açık sarı büyük baş/alan üstünde çalışıyor; çoğunlukla oturuyor, ortada ayakta gövde/arka alan düzenlemesi. Işık gün içinde değişiyor.",
+      "segments": "0–11dk oturarak erken şekiller;11–25dk ayakta aynı aşama.",
+      "relation": "7famboardgame ham oturum ailesi. Tam ses içeriği dinlenmedi; kurgulu 1dk/5dk/1saat çıktılarıyla kaynak ilişkisi var."
+    },
+    {
+      "id": "A0626",
+      "type": "raw_painting_session",
+      "description": "Erken satranç resminde mavi alanların arasına koyu siyah/kahverengi dikey zemin formu yerleştiriliyor. İlk bölüm ayakta geniş fırça, son bölüm oturarak ince çalışma.",
+      "segments": "0–7dk koyu formu doldurma;7–10dk oturarak düzeltme.",
+      "relation": "7famboardgame ham oturum ailesi. Tam ses içeriği dinlenmedi; kurgulu 1dk/5dk/1saat çıktılarıyla kaynak ilişkisi var."
+    },
+    {
+      "id": "A0627",
+      "type": "raw_studio_session",
+      "description": "Satranç erken aşama; siyah dikey kütle, mavi şerit ve açık sarı alanlarda ince fırça çalışması. İlk yaklaşık 29 dakika oturarak, son bölüm ayakta.",
+      "relation": "Satranç ham çekim serisi; başka kayıtlarla tam dosya eşitliği doğrulanmadı."
+    },
+    {
+      "id": "A0628",
+      "type": "raw_studio_session",
+      "description": "İlk yaklaşık 23 dakika kamera fazla yukarıda; tuval alt kadraj dışında. 23:50 civarında aşağı yeniden kadraj, ardından kırmızı alanlarda çalışma.",
+      "flags": "İlk 23 dakika eser süreci için elverişsiz kadraj.",
+      "relation": "Satranç ham çekim serisi; başka kayıtlarla tam dosya eşitliği doğrulanmadı."
+    },
+    {
+      "id": "A0630",
+      "type": "raw_studio_session",
+      "description": "Satranç kırmızı gövde ana aşaması; oturarak ve ayakta dönüşümlü boyama, baş/gövde alanlarında doldurma ve detay.",
+      "relation": "Satranç ham çekim serisi; başka kayıtlarla tam dosya eşitliği doğrulanmadı."
+    },
+    {
+      "id": "A0631",
+      "type": "raw_studio_session",
+      "description": "Satranç ileri aşama; ayakta ve oturarak ince boyama, kâğıt referanslarla çalışma. Son yaklaşık 49–57 dakikada boş masa/atölye.",
+      "relation": "Satranç ham çekim serisi; başka kayıtlarla tam dosya eşitliği doğrulanmadı."
+    },
+    {
+      "id": "A0632",
+      "type": "raw_studio_session",
+      "description": "Satranç ileri kırmızı gövde ve detay; son yaklaşık 44–48 dakikada ikinci kişi giriyor ve kameranın önüne geçiliyor.",
+      "relation": "Satranç ham çekim serisi; başka kayıtlarla tam dosya eşitliği doğrulanmadı."
+    },
+    {
+      "id": "A0768",
+      "type": "process_edit",
+      "description": "Satranç perspektife oturtulmuş hızlandırılmış süreç; bitmiş eser → boş/erken tuval → boyama → bitmiş eser. Yaklaşık 69 sn.",
+      "relation": "A0770 kısa sürüm; A0771/72 uzun ve çizim katmanlı alternatifler."
+    },
+    {
+      "id": "A0770",
+      "type": "process_edit",
+      "description": "A0768 ile aynı süreç ailesi, yaklaşık 27 sn kısa kurgu; final eser açılış/kapanış.",
+      "relation": "A0768 hız/süre alternatifi."
+    },
+    {
+      "id": "A0771",
+      "type": "process_edit",
+      "description": "Satranç yaklaşık 5 dk süreç; tuval kadraja perspektifle eşlenmiş, kenarlarda siyah boşluklar, çizim üst katmanı yok.",
+      "relation": "A0772 ile aynı zaman akışı, çizim katmansız sürüm."
+    },
+    {
+      "id": "A0772",
+      "type": "process_edit",
+      "description": "Satranç yaklaşık 5 dk süreç; resim üzerinde yarı saydam kontur çizimi belirgin biçimde bindirilmiş.",
+      "relation": "A0771 çizim katmansız eş sürüm."
+    },
+    {
+      "id": "A0885",
+      "type": "process_edit",
+      "description": "Satranç erken zemin boyama; boş tuvalden mavi ve sarı geniş alanlara. Küçük video alanı siyah tuval ortasında."
+    },
+    {
+      "id": "A0886",
+      "type": "process_edit",
+      "description": "Satranç erken mavi/sarı alanlarda oturarak ve ayakta ince çalışma; ilk klibin devam aşaması. Siyah geniş kenarlar."
+    },
+    {
+      "id": "A0888",
+      "type": "process_edit",
+      "description": "Satranç siyah dikey kütlenin boyandığı çok kısa hızlandırılmış bölüm; beden zaman zaman tuvali örtüyor."
+    },
+    {
+      "id": "A0890",
+      "type": "process_edit",
+      "description": "Satranç erken kontur ve açık alanlarda çizim/boyama; çoğunlukla oturarak. Siyah geniş kenarlar."
+    },
+    {
+      "id": "A0892",
+      "type": "process_segment",
+      "description": "Satranç çekiminde kötü kadraj: ilk kare sonrası tuval aşağıda kesiliyor; baş ve ahşap duvar görülüyor. Süreç anlatımı için zayıf.",
+      "relation": "Satranç birleşik kurgularının bölüm malzemesi; dosya adı sırası tek başına kronoloji kanıtı değil."
+    },
+    {
+      "id": "A0894",
+      "type": "process_segment",
+      "description": "Satranç kırmızı gövde doldurma; ilk kare kamera yaklaşımı, sonra tuvalde ayakta boyama; siyah kenarlar.",
+      "relation": "Satranç birleşik kurgularının bölüm malzemesi; dosya adı sırası tek başına kronoloji kanıtı değil."
+    },
+    {
+      "id": "A0896",
+      "type": "process_segment",
+      "description": "Satranç kırmızı gövde ve figür detaylarında oturarak/ayakta boyama; küçük ortalanmış çekim ve siyah kenarlar.",
+      "relation": "Satranç birleşik kurgularının bölüm malzemesi; dosya adı sırası tek başına kronoloji kanıtı değil."
+    },
+    {
+      "id": "A0902",
+      "type": "process_segment",
+      "description": "Satranç erken mavi/sarı zemin ve kontur; köşeleri perspektifle sabitlenen yakın tuval, başlangıçta kamera dönüşü/örtülme.",
+      "relation": "Satranç birleşik kurgularının bölüm malzemesi; dosya adı sırası tek başına kronoloji kanıtı değil."
+    },
+    {
+      "id": "A0904",
+      "type": "process_segment",
+      "description": "Satranç erken çizim ve sarı/mavi alanların devamı; perspektif düzeltmeli; ilk kare küçük döndürülmüş görüntü.",
+      "relation": "Satranç birleşik kurgularının bölüm malzemesi; dosya adı sırası tek başına kronoloji kanıtı değil."
+    },
+    {
+      "id": "A0906",
+      "type": "process_segment",
+      "description": "Satranç beyaz yüz ve kırmızı gövdeden daha boyalı sol başa geçiş; tuval perspektife oturtulmuş, eller/palet örtülmeleri var.",
+      "relation": "Satranç birleşik kurgularının bölüm malzemesi; dosya adı sırası tek başına kronoloji kanıtı değil."
+    },
+    {
+      "id": "A0908",
+      "type": "process_segment",
+      "description": "Satranç ileri sol baş ve sağ yüz detayları; perspektif eşlenmiş süreç, ilk kare dış çekim ölçeği, sondan önce beden örtülmesi.",
+      "relation": "Satranç birleşik kurgularının bölüm malzemesi; dosya adı sırası tek başına kronoloji kanıtı değil."
+    },
+    {
+      "id": "A0910",
+      "type": "process_segment",
+      "description": "Satranç ileri yüz/gövde ince işçiliği; perspektif eşlenmiş, palet ve el sıkça kadraja giriyor.",
+      "relation": "Satranç birleşik kurgularının bölüm malzemesi; dosya adı sırası tek başına kronoloji kanıtı değil."
+    },
+    {
+      "id": "A0912",
+      "type": "process_or_effect_edit",
+      "description": "Satranç son aşama yüz ve satranç figürlerinde ince boyama; perspektife eşlenmiş yakın kadraj.",
+      "relation": "A0902–14 bölümleriyle aynı süreç ailesi."
+    },
+    {
+      "id": "A0914",
+      "type": "process_or_effect_edit",
+      "description": "Satranç erken konturdan siyah fon ve sağ figür çizgilerine geçiş; el/kol yer yer büyük alan kaplıyor.",
+      "relation": "Birleşik kurgu ara aşaması."
+    },
+    {
+      "id": "A0916",
+      "type": "process_or_effect_edit",
+      "description": "Satranç masada boyama; görüntünün dış sınırları dalgalı/düzensiz, beyaz zemin üzerinde efektli çerçeve.",
+      "relation": "Wave warp efektli türev; ham kayıt değil."
+    },
+    {
+      "id": "A0919",
+      "type": "process_or_effect_edit",
+      "description": "Tuval çoğunlukla kadraj altında, sanatçı ve duvar. Büyütme/ışınsal bulanıklık ve VHS Play/Hi-Fi katmanı.",
+      "relation": "A0921/A0923/A0924 aynı 168.93 sn kaynak ailesi; magnify varyantı."
+    },
+    {
+      "id": "A0921",
+      "type": "process_or_effect_edit",
+      "description": "Tuval kadraj altında, sanatçı/duvar; büyütme/ışınsal bulanıklık, daha parlak sarı ton.",
+      "relation": "A0919/23/24 efekt varyantı; yeni süreç değil."
+    },
+    {
+      "id": "A0923",
+      "type": "process_or_effect_edit",
+      "description": "Tuval kadraj altında, sanatçı/duvar; yankılı zoom/bulanıklık ve VHS yazıları.",
+      "relation": "A0919/21/24 efekt varyantı."
+    },
+    {
+      "id": "A0924",
+      "type": "process_or_effect_edit",
+      "description": "Tuval kadraj altında kalan sanatçı/duvar çekimi, VHS gren ve Play/Hi-Fi yazıları; magnify sürümlerinden daha düz görüntü.",
+      "relation": "A0919/21/23 aynı akışın efekt alternatifi."
+    },
+    {
+      "id": "A0926",
+      "type": "process_or_effect_edit",
+      "description": "Satranç masada boyama ana görüntüsü üzerinde solda perspektife oturtulmuş tuval süreci küçük pencere olarak bindirilmiş.",
+      "relation": "A0771/72 ile aynı süreç ailesi; picture-in-picture kurgu."
+    },
+    {
+      "id": "A0928",
+      "type": "process_or_effect_edit",
+      "description": "Satranç fotoğraf aşamalarının sabit kadrajda yumuşak çözülmeleri; konturdan kırmızı gövdeye, deforme sol başa ve finale.",
+      "relation": "Framed süreç fotoğrafları; atölye hareketli çekiminden farklı içerik."
+    },
+    {
+      "id": "A0931",
+      "type": "process_or_explanation_edit",
+      "description": "Sept-Neuf yeşil zemin üzerinde oturan figür ve kuşun hızlı yapım süreci; solda tuval yakın görüntüsü bindirmesi, altta kaynak zaman kodu; final eser ve siyaha kapanış.",
+      "relation": "A0933 aynı double ailesi;66.4sn, final ekli."
+    },
+    {
+      "id": "A0933",
+      "type": "process_or_explanation_edit",
+      "description": "Sept-Neuf hızlı atölye süreci, solda tuvalin dikleştirilmiş küçük penceresi, kaynak zaman kodu.",
+      "relation": "A0931 66.4sn alternatif; bu59.1sn."
+    },
+    {
+      "id": "A0935",
+      "type": "process_or_explanation_edit",
+      "description": "Sept-Neuf yeşil tuvalin figür ve kuşla ilerlemesi; yalnız atölye geniş kadrajı, bindirme yok.",
+      "relation": "A0937 5dk sürüm aynı süreç ailesi."
+    },
+    {
+      "id": "A0937",
+      "type": "process_or_explanation_edit",
+      "description": "Sept-Neuf yaklaşık5dk hızlandırılmış boyama süreci; yalnız masa/tuval/ressam, bindirme yok.",
+      "relation": "A0935 kısa sürüm."
+    },
+    {
+      "id": "A0939",
+      "type": "process_or_explanation_edit",
+      "description": "Ekran kaydı: OBS arayüzü açılış, ardından süreç, tarihî kırmızı elbiseli figür referansı, Sept-Neuf bütün/detay fotoğrafları; sonda dosya gezgini ve OBS.",
+      "relation": "A0943 anlatımlı kurgusunun ekran malzemesi; konuşma dinlenmedi."
+    },
+    {
+      "id": "A0941",
+      "type": "process_or_explanation_edit",
+      "description": "Yeşil tişörtlü sanatçının kameraya anlatımı; solda süreç ve tarihî referans, sonra Sept-Neuf; sağüst logo ve açılış yazıları.",
+      "relation": "300.8sn kısa anlatım; A0943 909.5sn daha uzun, sadece hız kopyası değil. Ses içeriği dinlenmedi."
+    },
+    {
+      "id": "A0943",
+      "type": "process_or_explanation_edit",
+      "description": "Kameraya uzun anlatım; solda süreç, tarihî resim referansı, Sept-Neuf bütün ve yakın detaylar sırayla. Sonda siyah.",
+      "relation": "A0941 kısa anlatım sürümü; konuşmanın doğruluğu/konusu sesle teyit edilmedi."
+    },
+    {
+      "id": "A1047",
+      "type": "process_edit",
+      "description": "Sept-Neuf tuvale karşıdan/dikleştirilmiş yaklaşık1dk süreç; erken yeşilden figür ve kuş detaylarına; parlak ışık/ellerle örtülmeler."
+    },
+    {
+      "id": "A1049",
+      "type": "process_edit",
+      "description": "Sept-Neuf karşıdan süreç, çizimden yeşile ve finale; kare tuval içinde siyah çevre boşlukları.",
+      "relation": "A1051 aynı59.07sn akışın farklı çözünürlük/kırpma sürümü."
+    },
+    {
+      "id": "A1051",
+      "type": "process_edit",
+      "description": "Sept-Neuf karşıdan süreç; A1049 ile eşleşen anlar,900kare ve daha sıkı dolum,1200kare siyah kenarlı sürümden farklı yerleşim.",
+      "relation": "A1049 çözünürlük/kadraj alternatifi; piksel eşitliği iddiası yok."
+    },
+    {
+      "id": "A1053",
+      "type": "process_edit",
+      "description": "Sept-Neuf son mor figür aşamasından yaklaşık9sn örnek; el yakın detaylarda çalışıyor.",
+      "relation": "A1051 içinden kısa örnek bölümü."
+    },
+    {
+      "id": "A1152",
+      "type": "process_edit",
+      "description": "Sept-Neuf sabit hizalı fotoğraf aşamaları: kontur → yeşil → figür/kuş → mor final; sonda tarihî kırmızı figür ve -100 YEARS yazısı.",
+      "relation": "A1154 aynı süreç ve referans ailesi; yazı/kurgu farkı."
+    },
+    {
+      "id": "A1154",
+      "type": "process_edit",
+      "description": "Sept-Neuf sabit hizalı fotoğraf süreç geçişleri, sonda kırmızı elbiseli tarihî referans görseli.",
+      "relation": "A1152 -100YEARS yazılı alternatif."
+    },
+    {
+      "id": "A1159",
+      "type": "raw_studio_session",
+      "description": "Sept-Neuf ham01: beyaz tuvalden yeşil zemin boyamaya, merkez beyaz figür silueti bırakılıyor; yaklaşık23.dk oturarak merkez çizgilerinde çalışma."
+    },
+    {
+      "id": "A1160",
+      "type": "raw_studio_session",
+      "description": "Sept-Neuf ham02: yeşil zeminde beyaz merkez figürün ince çizim/boyanması; çoğunluk oturarak, sonda kameraya yaklaşım."
+    },
+    {
+      "id": "A1161",
+      "type": "raw_studio_session",
+      "description": "Ham03: Sept-Neuf yeşil zeminde figür ve arka plan çizgileri; tuval üstüne uzanan beyaz kâğıt kılavuz/referans, çoğunluk ayakta; son bölüm ince figür çalışması.",
+      "relation": "Sept-Neuf numaralı ham oturum; montajların kaynak ailesi."
+    },
+    {
+      "id": "A1162",
+      "type": "raw_studio_session",
+      "description": "Ham04: Sept-Neuf sarı/ten figür alanı ve yeşil fonda ince çalışma; çoğunluk oturarak; pencereden güçlü ışık değişimi.",
+      "relation": "Sept-Neuf numaralı ham oturum; montajların kaynak ailesi."
+    },
+    {
+      "id": "A1163",
+      "type": "raw_studio_session",
+      "description": "Ham05: Sept-Neuf sarı figür ve yeşil alanda kontur/gölge; çoğunluk oturarak, son3dk ayakta.",
+      "relation": "Sept-Neuf numaralı ham oturum; montajların kaynak ailesi."
+    },
+    {
+      "id": "A1164",
+      "type": "raw_studio_session",
+      "description": "Ham06: Sept-Neuf sarı figür/oturma alanı ve yeşil fonda ince işçilik; ilk6dk ayakta, devamında oturarak.",
+      "relation": "Sept-Neuf numaralı ham oturum; montajların kaynak ailesi."
+    },
+    {
+      "id": "A1165",
+      "type": "raw_studio_session",
+      "description": "Ham07: Sept-Neuf koltuk ve figürde daha belirgin açık/mavi konturlar; ilk21dk oturarak, sonunda ayakta.",
+      "relation": "Sept-Neuf numaralı ham oturum; montajların kaynak ailesi."
+    },
+    {
+      "id": "A1166",
+      "type": "raw_studio_session",
+      "description": "Ham08: Sept-Neuf beyaz/mavi koltuk, sarı figür ve sağ dairesel obje/kuş alanı;13.dk sonrası çoğunluk ayakta.",
+      "relation": "Sept-Neuf numaralı ham oturum; montajların kaynak ailesi."
+    },
+    {
+      "id": "A1167",
+      "type": "raw_studio_session",
+      "description": "Ham09: Sept-Neuf figürün sarıdan daha koyu/mor renk aşamasına ilerlemesi, çoğunluk oturarak; son10dk ayakta.",
+      "relation": "Sept-Neuf numaralı ham oturum; montajların kaynak ailesi."
+    },
+    {
+      "id": "A1168",
+      "type": "raw_studio_session",
+      "description": "Ham10: Sept-Neuf mor figür ve beyaz kuş/koltuk detayları; sıcak iç ışık, aralıklı mola; son~5dk boş masa.",
+      "relation": "Sept-Neuf numaralı ham oturum; montajların kaynak ailesi."
+    },
+    {
+      "id": "A1169",
+      "type": "raw_studio_session",
+      "description": "Sept-Neuf ham11: ileri mor figür, kuş/koltuk ince çalışması; ilk20dk oturma/ayakta dönüşümlü, ardından çoğunluk oturarak, son~17dk kâğıtla destekli detay."
+    },
+    {
+      "id": "A1170",
+      "type": "raw_studio_session",
+      "description": "Sept-Neuf ham12: ileri mor figür/sağ kuş alanında oturarak ince çalışma; ~26dk sonrası ayakta ve kâğıt destekli çalışma."
+    },
+    {
+      "id": "A1171",
+      "type": "raw_studio_session",
+      "description": "Sept-Neuf ham13: son figür ve kuş detayları; ilk2dk hazırlık, sonra çoğunluk oturarak; sonda boş masa."
+    },
+    {
+      "id": "A1172",
+      "type": "raw_studio_session",
+      "description": "Sept-Neuf ham14: son rötuşlar; ilk20dk oturarak/ara molalar, sonra ayakta ve tekrar oturarak detay."
+    },
+    {
+      "id": "A1338",
+      "type": "subtitle_layer",
+      "description": "Tam ekran parlak yeşil zemin üzerinde küçük Türkçe altyazı satırları; eser görüntüsü yok. Kompozitte chroma-key için altyazı katmanı.",
+      "relation": "Bağımsız yayın videosu sayılmaz; A1340 ile montajda eşleme gerektirir, süreler farklı."
+    },
+    {
+      "id": "A1340",
+      "type": "explanation_edit",
+      "description": "Masa başında sanatçı anlatımı, soldan kuvvetli ters ışık nedeniyle yüz karanlık; Gxd eser görseli ve tarihî resim/kapak referansları bindiriliyor; Türkçe ve İngilizce altyazılar mevcut.",
+      "relation": "Anlatım kaydı; seçili altyazı kareleri Caravaggio, değerler ve figürlere değiniyor; ses baştan sona dinlenmedi."
+    },
+    {
+      "id": "A1549",
+      "type": "preview_cache",
+      "description": "1.08sn Premiere önizleme render parçası: masa başında anlatım üzerine Gxd görsel bindirmesi. Ses akışı yok.",
+      "relation": "Angora klasöründe olsa da görüntü Gxd anlatımından; yayın dosyası değil önizleme önbelleği."
+    },
+    {
+      "id": "A1622",
+      "type": "subtitle_layer",
+      "description": "Siyah zemin üstünde el yazısı görünümlü Türkçe altyazı katmanı; resim/sanatçı görüntüsü yok.",
+      "relation": "A1624 aynı zamanlarda aynı metnin düz yazı tipi alternatifi. Bağımsız yayın değil."
+    },
+    {
+      "id": "A1624",
+      "type": "subtitle_layer",
+      "description": "Siyah zemin üstünde düz sans yazı Türkçe altyazı katmanı; eser görüntüsü yok.",
+      "relation": "A1622 el yazılı alternatif; Angora anlatımına eşlenebilir."
+    },
+    {
+      "id": "A1626",
+      "type": "explanation_edit",
+      "description": "Angora masa başı anlatımı, güçlü pencere ters ışığı; beyaz İngilizce altyazı, açılış logo/tarih ve sağüst logo.",
+      "relation": "A1628/30 çift dil sürümleri; A1632 altyazısız kaynak aile. Örnek altyazılar ev/isometrik düzen, figür ve Pokémon/Charizard ilişkisine değiniyor; ses dinlenmedi."
+    },
+    {
+      "id": "A1628",
+      "type": "explanation_edit",
+      "description": "Angora anlatımı; üstte Türkçe el yazılı, altta sarı İngilizce çift altyazı; başlangıçta eser görseli bindirilmiş.",
+      "relation": "A1630 ile aynı1053.36sn akış; V2 açılış eser bindirmesi gibi kurgu farkları."
+    },
+    {
+      "id": "A1630",
+      "type": "explanation_edit",
+      "description": "Angora anlatımı; çift dil altyazı, logo ve açılış tarih yazısı. Örneklenen22sn karesinde A1628 eser bindirmesi burada yok.",
+      "relation": "A1628 V2 alternatif; salt çözünürlük kopyası değil."
+    },
+    {
+      "id": "A1632",
+      "type": "explanation_edit",
+      "description": "Angora masa başı anlatımı, altyazısız; açılışta tarih yazısı, diğer karelerde yalnız sanatçı/masa.",
+      "relation": "A1626/28/30 altyazılı sürümlerinin kaynak ailesi;1051.72sn."
+    },
+    {
+      "id": "A1634",
+      "type": "process_edit",
+      "description": "Angora24sn dönüşüm: bitmiş resim → üç boyutlu/dijital ev/Charizard referansı → kontur → sarı/pembe fiziksel süreç → mavi final.",
+      "relation": "Dijital referansı fiziksel eser fotoğrafıyla karıştırmamalı; framed süreç kullanılıyor."
+    },
+    {
+      "id": "A1636",
+      "type": "process_edit",
+      "description": "Angora7sn kısa dönüşüm: dijital ev/Charizard → kontur çizim → mavi bitmiş tablo; son kareler siyah.",
+      "relation": "A1634 uzun süreçli alternatif; sadece hız değişikliği değil."
+    },
+    {
+      "id": "A2247",
+      "type": "effect_animation",
+      "description": "Siyah maskeli figürlü geometrik eserin renk/perspektif/zoom bozulmalarıyla kısa animasyonu; fiziksel boyama görüntüsü değil.",
+      "relation": "Efektli dijital türev."
+    },
+    {
+      "id": "A2330",
+      "type": "personal",
+      "description": "Verandada mangal ve yemek sofrası, iki kişi ve bahçe; eser/üretim görünmüyor.",
+      "relation": "Kişisel kayıt; sanat içerik havuzundan ayır."
+    },
+    {
+      "id": "A2362",
+      "type": "art_process",
+      "description": "Elde kamera açılırken beden/zemin, ardından yere serili siyah beyaz çok uzuvlu figür çizimi; titrek3.9sn.",
+      "relation": "A2363/64 aynı çizim ve çekim ortamı, farklı kayıtlar."
+    },
+    {
+      "id": "A2363",
+      "type": "art_process",
+      "description": "Yerde siyah beyaz çok uzuvlu figür çizimi ve yanındaki eskiz defteri; üstten el kamerası, sonunda kamera parmakla kapanıyor.",
+      "relation": "A2362/64 aynıeser; son~4sn örtülü."
+    },
+    {
+      "id": "A2364",
+      "type": "art_process",
+      "description": "Aynı siyah beyaz çizim, üstten dik kadraj; sanatçı başını kadraja sokup çizime işaret ediyor, sonda parmakla örtülme.",
+      "relation": "Dönüş/yerleşim yayında düzeltilmeli, ses dinlenmedi."
+    },
+    {
+      "id": "A2797",
+      "type": "art_process",
+      "description": "Capricorn Sisters sarı zeminli üçfigür tablosunun son boyama/rötuşu; ilk2sn siyah zeminli negatif/efektli final, sonra hızlandırılmış eller/figürler.",
+      "relation": "A2799 uzun ve farklı kadrajlı aynı süreç ailesi; tamamı beyaz tuvalden yapım değil."
+    },
+    {
+      "id": "A2799",
+      "type": "art_process",
+      "description": "Capricorn Sisters sarı zeminde ileri aşama boyama; el ve palet, perspektif köşelerinde siyah alanlar; sonlarda alttaki figürün siyaha boyanması.",
+      "relation": "A2797 kısa/perspektifi daha dolu sürüm;5dk."
+    },
+    {
+      "id": "A2800",
+      "type": "raw_studio_session",
+      "description": "Capricorn Sisters ham: ilk kare kamera/parmak, sonra sarı zeminli üçfigür resmine üstten boyama. Video yönü yan dönmüş; ince rötuşlar, son kare çıkarılamadı.",
+      "relation": "A2797/99 kurgu ailesinin ham malzemesi; otomatik dönme/kadraj gerekli."
+    },
+    {
+      "id": "A2801",
+      "type": "raw_studio_session",
+      "description": "Capricorn Sisters ham: sarı zeminde ileri figür ve siyah alt alanın boyanması; ilk kare hazırlık, sonra üstten geniş masa/tuval.",
+      "relation": "A2802 bu aileden2dk hızlandırılmış türev, birebir zaman eşlemesi yapılmadı."
+    },
+    {
+      "id": "A2802",
+      "type": "process_edit",
+      "description": "Capricorn Sisters2dk hızlandırılmış üstten boyama: kırmızı geometrik oturak/figürler, alt figürün siyah alana dönüşümü.",
+      "relation": "A2801 ham kaynak ailesi; A2799 5dk alternatif."
+    },
+    {
+      "id": "A2812",
+      "type": "process_edit",
+      "description": "Viperella yapımı: önce eski renkli resim zemini üzerine beyaz/açık örtme, pembe figür, gölgeler ve final; son6sn arka yüz imza/kırmızı-siyah boya. Beyaz çerçeve ve sağalt portföy etiketi.",
+      "relation": "A2815 aynı60sn akışın760x1080 dik/etiketsiz sürümü; bu1000kare çerçeveli."
+    },
+    {
+      "id": "A2813",
+      "type": "portfolio_animation",
+      "description": "Eski portföyün sayfa çevirme animasyonu; kapak, özgeçmiş/metinler, birden çok eser bütün/detay ve kapanış.",
+      "relation": "Yeni eser/çekim değil; eski portföy tanıtım videosu, metin güncelliği doğrulanmadı."
+    },
+    {
+      "id": "A2815",
+      "type": "process_edit",
+      "description": "Viperella60sn yapım ve arka yüz imza; eski tablonun üstüne açık zeminle yeni figür oluşumu, pembe/mor renklerden son gölgelere.",
+      "relation": "A2812 kare çerçeveli/etiketli aynı akış; bu dik dolu sürüm."
+    }
+  ]
+}

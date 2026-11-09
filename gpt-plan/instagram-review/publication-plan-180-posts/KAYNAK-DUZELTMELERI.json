@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-04",
+  "scope": "New 180-post planning files only; original archive and audit records preserved",
+  "work": "articulo attack on mandarin",
+  "rejected_as_whole": {
+    "asset_id": "A0160",
+    "path": "../../assets/art/A0160.webp",
+    "pixels": [
+      4686,
+      3621
+    ],
+    "finding": "Tight landscape crop; excludes parts of the square canvas, including lower-left anchor context. It remains usable as a labelled detail, not a whole painting."
+  },
+  "selected_whole": {
+    "asset_id": "A0192",
+    "path": "../../assets/art/A0192.webp",
+    "pixels": [
+      1890,
+      1890
+    ],
+    "finding": "Full square presentation, including lower-left anchors and upper-left suspended form."
+  },
+  "comparison_evidence": [
+    "A0189",
+    "A0190",
+    "A0192",
+    "A0194"
+  ],
+  "method": "Direct visual inspection of archive thumbnails, file dimensions and comparison against actual studio photograph A0194. No colour-calibration measurement.",
+  "colour_limit": "A0192 is an existing edited presentation, not a measured colourimetric reference; A0189 is a paler alternative. No AI/GPT render or unverified A0206 extension selected.",
+  "mandarin_process_correction": "A0218 is a clean black-line sketch; not a final painting stage. A0211 is an annotated colour study. A0214 is a painted intermediate state.",
+  "content_consequence": "P108 must compare the anchor motif retained across drawing and full painting; absence in A0160 was cropping, not an artistic removal.",
+  "updated_files": [
+    "source-catalog.json",
+    "posts-001-060.json",
+    "posts-061-120.json",
+    "posts-121-180.json",
+    "author_opening.py"
+  ],
+  "middle_file_update": "Completed: A0192 whole master; P108 anchor motif retained in drawing and painting.",
+  "structural_final_check": {
+    "all_180_pass": true,
+    "errors": [],
+    "asset_references_checked": 393,
+    "unique_asset_ids": 125
+  }
+}

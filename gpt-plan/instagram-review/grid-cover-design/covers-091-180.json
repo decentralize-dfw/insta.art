@@ -1,0 +1,1291 @@
+[
+  {
+    "n": 91,
+    "layout": "pair",
+    "hero_ids": [
+      "A2743",
+      "A1378"
+    ],
+    "headline_en": "Square and upright",
+    "why_visual_tr": "Kare Penguin ile dikey Angora iki formatı açıkça gösterir. Kapak fiziksel eş yüksekliği canlandırmaz; 120 cm yüksekliğin farklı enlere açılması ölçülü iç sayfada incelenir.",
+    "grid_role_tr": "P090 seçkisinden nesnenin ölçüsüne geçer; P092 panel sorusuna hazırlık yapar.",
+    "must_preserve_tr": "Penguin kare, Angora dikdörtgen oranları ve tüm kenarlar.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Bu çift yerleşim ölçülü şema değildir. Fiziksel eş yükseklik yalnız katalog verisine dayalı iç sayfada doğru oranlarla gösterilmeli."
+  },
+  {
+    "n": 92,
+    "layout": "pair",
+    "hero_ids": [
+      "A0028",
+      "A0582"
+    ],
+    "headline_en": "One panel, one canvas",
+    "why_visual_tr": "Tek panel ile Virgil bütünü gerçek karşılaştırma birimlerini gösterir. A0028 listedeki A0025 triptiğinin doğrulanmış sol panelidir.",
+    "grid_role_tr": "P091 iki bütünün ardından karşılaştırma birimini tek panele indirir; P093 üretime açılır.",
+    "must_preserve_tr": "Panelin yüzü ve Virgil üst oda çizgisi.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Panel ve büyük tuval aynı fiziksel boyda gösterilmiş sanılmamalı."
+  },
+  {
+    "n": 93,
+    "layout": "question",
+    "hero_ids": [
+      "A0592"
+    ],
+    "headline_en": "Painted on the table",
+    "why_visual_tr": "Bitmiş Board, yatay masada yapılan gerçek resmin nereye vardığını kapakta tanımlar.",
+    "grid_role_tr": "P092 ölçek çiftinden tek sahneye geçer; P094 odalarının öncesinde yoğun bir merkez kurar.",
+    "must_preserve_tr": "İki büyük baş, masa ve alt piyonlar.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Reel kapağı ilk video karesi değildir. A0621 içinden tuvalin yatay masa ve sanatçıyla ilişkisinin görüldüğü gerçek hareket; kesin kesit kurgu öncesi doğrulanmalı.",
+    "render_risk_tr": "Kapak bitmiş eser; yatay çalışma düzeni ilk video karesinde gösterilmeli."
+  },
+  {
+    "n": 94,
+    "layout": "pair",
+    "hero_ids": [
+      "A2050",
+      "A2156"
+    ],
+    "headline_en": "Bodies turned by rooms",
+    "why_visual_tr": "İki yatay bütün, ters ve eğilen bedenin odadan koparılmadan karşılaştırılmasını sağlar.",
+    "grid_role_tr": "P093 tek masa sahnesinden iki oda ilişkisine açılır; P095 grup düzenine bağlanır.",
+    "must_preserve_tr": "Guard tavanı ve ters beden; Peachy uzun beden ve sandalyesi.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Yatay eserler çift kutuda küçülürse gövde yönü okunmaz."
+  },
+  {
+    "n": 95,
+    "layout": "question",
+    "hero_ids": [
+      "A0582"
+    ],
+    "headline_en": "Where bodies gather",
+    "why_visual_tr": "Virgil'in tamamı bir araya toplanmayı açar; Gxd karşılığı iç sayfada gelir.",
+    "grid_role_tr": "P094 iki geniş resimden dikey gruba geçer; P096 boş üst alana bağlanır.",
+    "must_preserve_tr": "Merkez figür ve çevresindeki tüm bedenler.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Koyu çevreyi otomatik kontrastla açmak eserin tonunu değiştirir."
+  },
+  {
+    "n": 96,
+    "layout": "question",
+    "hero_ids": [
+      "A1209"
+    ],
+    "headline_en": "Space above the bodies",
+    "why_visual_tr": "Gxd bütünü üstteki boşluğun gerçek oranını doğrudan gösterir.",
+    "grid_role_tr": "P095 kalabalık merkezin ardından boşluk belirginleşir; P097 beden sınırlarına geçer.",
+    "must_preserve_tr": "Üst koyu alanın tamamı ve alttaki ayaklar.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Görseli gövdelere kırpmak kapak iddiasını yok eder."
+  },
+  {
+    "n": 97,
+    "layout": "pair",
+    "hero_ids": [
+      "A1832",
+      "A1809"
+    ],
+    "headline_en": "Separate or overlapping?",
+    "why_visual_tr": "Ayrı beden sınırlarıyla kesişen çizgileri iki bütün birlikte görünür kılar.",
+    "grid_role_tr": "P096 tek grubun boşluğundan iki grubun sınırına geçer; P098 fiziksel aracı açar.",
+    "must_preserve_tr": "Capricorn üç figürü; Baby dış uzuvları ve kırmızı çizgileri.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Baby kaynağı katalog oranına zorlanmamalı."
+  },
+  {
+    "n": 98,
+    "layout": "question",
+    "hero_ids": [
+      "A0947"
+    ],
+    "headline_en": "Paper meets the canvas",
+    "why_visual_tr": "Sept bütünü kâğıt kılavuz kullanılan gerçek resmin kimliğini korur; olmayan kâğıt fotoğrafı eklenmez.",
+    "grid_role_tr": "P097 iki çizgisel eserden yeşil tek sahneye geçer; P099 boyut karşılaştırmasına yer açar.",
+    "must_preserve_tr": "Baş, sigara tutan el, oturak ve kuş.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Reel kapağı ilk video karesi değildir. A1161 içinden kâğıt kılavuz ve tuvalin birlikte göründüğü gerçek hareket.",
+    "render_risk_tr": "Kapakta olmayan kâğıt videonun ilk hareketinde açıkça gösterilmeli."
+  },
+  {
+    "n": 99,
+    "layout": "pair",
+    "hero_ids": [
+      "A0298",
+      "A1862"
+    ],
+    "headline_en": "Similar screens. Different canvases.",
+    "why_visual_tr": "Benzer ekran doluluğunun farklı gerçek boyutları gizleyebildiğini iki bütün açar.",
+    "grid_role_tr": "P098 tek portreden iki yuvarlak bedene geçer; P100 rengin görevini açar.",
+    "must_preserve_tr": "Gary alt elleri; Cellular araba ve dış beden sınırı.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Eş kutular ölçü diyagramı değildir; santimetre kanıtı sonraki sayfada."
+  },
+  {
+    "n": 100,
+    "layout": "pair",
+    "hero_ids": [
+      "A1750",
+      "A2388"
+    ],
+    "headline_en": "Green body, green ground",
+    "why_visual_tr": "Yeşilin zemin veya beden görevi görmesi bütünler korunarak karşılaştırılır.",
+    "grid_role_tr": "P099 boyut sorusundan iki eski eserde renk görevine geçer; P101 genişliği açar.",
+    "must_preserve_tr": "Rompi yeşil çevresi; Unemployed yeşil gövdesi ve kırmızı zemini.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Dosyaları aynı tona çevirmek karşılaştırmayı bozar."
+  },
+  {
+    "n": 101,
+    "layout": "question",
+    "hero_ids": [
+      "A0192"
+    ],
+    "headline_en": "How much room?",
+    "why_visual_tr": "Tam kare Mandarin, sahne genişliği sorusunu kendi oranıyla açar; Board içeride karşılık verir.",
+    "grid_role_tr": "P100 dikey gövdelerden kare kalabalığa geçer; P102 Board yüzünü yakına alır.",
+    "must_preserve_tr": "Sol alt çapa, üst uçan şekiller ve teknenin bütünü.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "A0160 yatay kırpması kullanılmamalı; küçük figürler gridde okunmayabilir."
+  },
+  {
+    "n": 102,
+    "layout": "question",
+    "hero_ids": [
+      "A0705"
+    ],
+    "headline_en": "Two faces, unequal forms",
+    "why_visual_tr": "Hazır sol baş detayı asimetri sorusunu somut yüzle açar; karşı yüz içeride yer alır.",
+    "grid_role_tr": "P101 kare bütünden yakın yüze geçer; P103 geniş iki başlı resimle açılır.",
+    "must_preserve_tr": "Baş, gözler, ağız ve alttaki piyon bağlamı.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Detayı tekrar kırpmak küçük piyon bağlamını yok eder."
+  },
+  {
+    "n": 103,
+    "layout": "gallery",
+    "hero_ids": [
+      "A2063"
+    ],
+    "headline_en": "",
+    "why_visual_tr": "Yatay bütün iki uçtaki yüz ilişkisini kurar; ek başlık görsel okumanın önüne geçmez.",
+    "grid_role_tr": "P102 yakın baştan tüm alana geçer; P104 yoğun ve açık boya alanını ilişkilendirir.",
+    "must_preserve_tr": "Büyük sol baş, sağ baş ve aradaki tüm işaret alanı.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım tek görsel gönderinin kendisidir; ayrı bir sonraki slayt yoktur.",
+    "render_risk_tr": "Yatay resmin portre kapakta küçük kalması için oran bozulmamalı."
+  },
+  {
+    "n": 104,
+    "layout": "question",
+    "hero_ids": [
+      "A0134"
+    ],
+    "headline_en": "Where the body dissolves",
+    "why_visual_tr": "STLOP bütünü yumuşayan kenarı gösterir; yoğun Materialize karşılığı içeridedir.",
+    "grid_role_tr": "P103 yoğun yatay yüzeyden açık dikey bedene geçer; P105 uzuv bağlantısını açar.",
+    "must_preserve_tr": "Dış fırça alanı ve yanındaki sert dikey parçalar.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Açık pastel tonların kâğıt zeminde kaybolması kontrol edilmeli."
+  },
+  {
+    "n": 105,
+    "layout": "question",
+    "hero_ids": [
+      "A1209"
+    ],
+    "headline_en": "Whose feet are those?",
+    "why_visual_tr": "Gxd bütünü ayakların bedene bağlantısı sorusunun gerekli bağlamını korur.",
+    "grid_role_tr": "P104 dış sınırdan grup içi bağlantıya geçer; P106 iki eserde teması açar.",
+    "must_preserve_tr": "Alt ayaklar, bacaklar ve taşıyan grup.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Reel kapağı ilk video karesi değildir. A1340 anlatısında ayak bağlantısı sorusu görünür kılınır; cevap aynı Reel içinde verilir.",
+    "render_risk_tr": "Gridde ayakların cevabı okunmayabilir; cevap videoda açık olmalı."
+  },
+  {
+    "n": 106,
+    "layout": "pair",
+    "hero_ids": [
+      "A1809",
+      "A1903"
+    ],
+    "headline_en": "Where bodies touch",
+    "why_visual_tr": "Kalabalık beden bağlantısı ile ikili temas, iki tamamlanmış bütünle karşılaştırılır.",
+    "grid_role_tr": "P105 tek gruptaki bağlantıyı iki eski esere genişletir; P107 arka yüze döner.",
+    "must_preserve_tr": "Baby çapraz uzuvları; Ciao iki figürünün dış sınırları.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Baby oranı korunmalı; yakınlaştırma anatomik bağ uydurmamalı."
+  },
+  {
+    "n": 107,
+    "layout": "question",
+    "hero_ids": [
+      "A0945"
+    ],
+    "headline_en": "The other side",
+    "why_visual_tr": "Sept'in gerçek arka yüz kaydı nesnenin öteki tarafını doğrudan gösterir.",
+    "grid_role_tr": "P106 boyalı ön yüzlerden ham arka yüze geçer; P108 çizim kaydına bağlanır.",
+    "must_preserve_tr": "Şase kenarları, yatay destek ve mevcut yazılar.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Reel kapağı ilk video karesi değildir. Yeni gerçek çekimde önce ön yüz görülür, nesne arka yüze döner; kapak dönüş çekimi değildir.",
+    "render_risk_tr": "Soluk yazıları okunmuş gibi sunmamak; yeni dönüş çekimi henüz yok."
+  },
+  {
+    "n": 108,
+    "layout": "question",
+    "hero_ids": [
+      "A0218"
+    ],
+    "headline_en": "The anchor stays",
+    "why_visual_tr": "Mandarin çiziminde sol alt çapa motif sorusunu boyalı finale geçmeden açar.",
+    "grid_role_tr": "P107 arka yüzden çizime geçer; P109 yaratıkların bütününe döner.",
+    "must_preserve_tr": "Sol alt çapa, tekne ve bütün kare sınır.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Çapa küçük kalırsa iç sayfada bütün içindeki konumla bağlanmalı."
+  },
+  {
+    "n": 109,
+    "layout": "question",
+    "hero_ids": [
+      "A2451"
+    ],
+    "headline_en": "An unsettled silhouette",
+    "why_visual_tr": "Wings bütünü sivri başlarla dönen gövdeleri beraber gösterir; Morbid içeridedir.",
+    "grid_role_tr": "P108 çizgisel kareden uzun mavi figürlere geçer; P110 tek göze iner.",
+    "must_preserve_tr": "Tüm sivri başlar, spiral bedenler ve üst soldaki küçük figür.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Birden çok başın tek canlı olduğu iddia edilmemeli."
+  },
+  {
+    "n": 110,
+    "layout": "question",
+    "hero_ids": [
+      "A0019"
+    ],
+    "headline_en": "Inside a small canvas",
+    "why_visual_tr": "A0019 listedeki Painstaking merkez panelinin hazır göz detayıdır; geri çekilme çekiminin sorusunu açar.",
+    "grid_role_tr": "P109 bütün bedenlerden bir göze iner; P111 atölye hareketiyle açılır.",
+    "must_preserve_tr": "Göz çevresi ve görünen komşu yüz parçası.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Reel kapağı ilk video karesi değildir. Yeni gerçek çekim göz detayında başlayıp panel bütününe geri çekilir.",
+    "render_risk_tr": "Yakın kaynak gerçek boyutu kanıtlamaz; yeni çekim olmadan Reel hazır değildir."
+  },
+  {
+    "n": 111,
+    "layout": "question",
+    "hero_ids": [
+      "A0592"
+    ],
+    "headline_en": "Between palette and canvas",
+    "why_visual_tr": "A0624 video kaydıyla aynı Board eserinin A0592 bütünü sonuç kimliğini korur; hayali palet fotoğrafı eklenmez.",
+    "grid_role_tr": "P110 göz yakınından çalışma düzenine açılır; P112 el eylemlerine bağlanır.",
+    "must_preserve_tr": "İki baş, masa ve piyonların tümü.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Reel kapağı ilk video karesi değildir. A0624 içinden palet ve tuval arasında gerçek bağlantılı eylem seçilir; kesin kesit kurgu öncesi doğrulanmalı.",
+    "render_risk_tr": "Videoda palet-tuval bağlantılı eylem doğrulanmadan vaat kabul edilmez."
+  },
+  {
+    "n": 112,
+    "layout": "pair",
+    "hero_ids": [
+      "A1772",
+      "A0298"
+    ],
+    "headline_en": "Hands doing different things",
+    "why_visual_tr": "Açık el ile küçük el hareketi her bedenin bütünüyle birlikte görülür.",
+    "grid_role_tr": "P111 çalışma elinden resmedilmiş ellere geçer; P113 yüz ve nesneye daralır.",
+    "must_preserve_tr": "Viperella yukarı eli; Gary alttaki elleri ve kibrit.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Eller gridde küçük kalabilir; gövdeden koparan kırpma yapılmamalı."
+  },
+  {
+    "n": 113,
+    "layout": "question",
+    "hero_ids": [
+      "A0289"
+    ],
+    "headline_en": "Cigar or cigarette?",
+    "why_visual_tr": "A0289 listedeki Gary bütününün hazır yüz-puro detayıdır; nesneden farklı portre kuruluşuna giriş yapar.",
+    "grid_role_tr": "P112 tam bedenlerden bir yakın yüze iner; P114 erken renk alanına geçer.",
+    "must_preserve_tr": "Göz, ağız, puro ve yanağın bağlantısı.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Puroyla sigarayı aynı nesne diye etiketlememek; Sept içeride görünmeli."
+  },
+  {
+    "n": 114,
+    "layout": "question",
+    "hero_ids": [
+      "A0433"
+    ],
+    "headline_en": "A group takes shape",
+    "why_visual_tr": "Gerçek orta aşamadaki açık figür grubun boya kütlesi kazanmasını açar.",
+    "grid_role_tr": "P113 bitmiş yüzün ardından açık siluet gelir; P115 başka gerçek aşamaya bağlanır.",
+    "must_preserve_tr": "Beyaz merkez figür ve pembe/kırmızı alanlar.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Bu kaydı bitmiş Virgil gibi sunmamak; aşama olduğu açıklanmalı."
+  },
+  {
+    "n": 115,
+    "layout": "question",
+    "hero_ids": [
+      "A2311"
+    ],
+    "headline_en": "Before the darker ground",
+    "why_visual_tr": "Great Fire'ın gerçek aşaması baş ve çevre alanını birlikte gösterir; final içeride karşılaştırılır.",
+    "grid_role_tr": "P114 açık siluetten kırmızı gövdeye geçer; P116 yüzeyin fiziksel ışığına döner.",
+    "must_preserve_tr": "Büyük baş, küçük kalkık el ve çevre zemin.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Kamera ışığı farkını kesin boya değişimi sanmamak."
+  },
+  {
+    "n": 116,
+    "layout": "question",
+    "hero_ids": [
+      "A1408"
+    ],
+    "headline_en": "Paint, light, architecture",
+    "why_visual_tr": "Hazır ev detayı mimariyle fiziksel tuval kenarını birlikte içerir; yeni açılı çekime bağlanır.",
+    "grid_role_tr": "P115 bütün figürden mimari yakına geçer; P117 iki sahneyle yeniden açılır.",
+    "must_preserve_tr": "Ev, tuval alt kenarı ve mevcut ahşap çevre.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Reel kapağı ilk video karesi değildir. Yeni gerçek çekimde tuval üzerinde ışık veya açı değişir; mevcut ev detayı hareket kanıtı değildir.",
+    "render_risk_tr": "Ahşap kısmı boyalı ev sanılmamalı; yeni açı çekimi olmadan hareket iddia edilmez."
+  },
+  {
+    "n": 117,
+    "layout": "pair",
+    "hero_ids": [
+      "A1209",
+      "A0592"
+    ],
+    "headline_en": "Tall groups, wide encounters",
+    "why_visual_tr": "İki bütün taşıma ve masa karşılaşmasının farklı yatay alanını açar.",
+    "grid_role_tr": "P116 küçük yüzeyden grup okumaya açılır; P118 tek esere döner.",
+    "must_preserve_tr": "Gxd üst boşluğu ve ayakları; Board başları ve masa.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Eş kutular fiziksel eş yüksekliği kanıtlamaz; ölçülü şema içeride yapılmalı."
+  },
+  {
+    "n": 118,
+    "layout": "question",
+    "hero_ids": [
+      "A0947"
+    ],
+    "headline_en": "Beyond my explanation",
+    "why_visual_tr": "Yazısız bütüne varacak konuşmanın kapağında eser öne çıkarılır.",
+    "grid_role_tr": "P117 grup çiftinden tek resme döner; P119 seçkisinden önce durak sağlar.",
+    "must_preserve_tr": "Figür, kuş ve aralarındaki mekân.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Reel kapağı ilk video karesi değildir. A0943 784–812 saniye konuşmasının İngilizce uyarlaması gerçek anlatıyla açılır; sonunda yazısız bütün gösterilir.",
+    "render_risk_tr": "Yapay gizem vaadi olmamalı; Reel düşünceyi kendi içinde tamamlamalı."
+  },
+  {
+    "n": 119,
+    "layout": "question",
+    "hero_ids": [
+      "A2156"
+    ],
+    "headline_en": "Three kinds of pressure",
+    "why_visual_tr": "Peachy'nin yatay bedeni üç mekân seçkisinin ilk örneğidir; diğerleri gerçek sunumda açılır.",
+    "grid_role_tr": "P118 oturan figürden yatay bedene geçer; P120 geometrik seçkiyi açar.",
+    "must_preserve_tr": "Uzun beden, yüksek topuk, baş ve sağ sandalye.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Reel kapağı ilk video karesi değildir. Yeni gerçek çekimde baskılar ve sanatçının eli masada birlikte görünür; slayt montajı kullanılmaz.",
+    "render_risk_tr": "Yeni masa sunumu henüz yok; kapak mevcut video varmış anlamına gelmez."
+  },
+  {
+    "n": 120,
+    "layout": "question",
+    "hero_ids": [
+      "A1378"
+    ],
+    "headline_en": "House, enclosure, box",
+    "why_visual_tr": "Angora'nın evi üç geometri seçkisinin girişidir; diğer eserler içeride kendi oranında görünür.",
+    "grid_role_tr": "P119 üç mekân baskısını üç geometrik nesneye bağlar; P121 yüz çevresine geçer.",
+    "must_preserve_tr": "Ev alt sınırı, üst figür ve çatı ilişkisi.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Üç nesnenin tek resimde olduğu sanılmamalı; iç sayfa seçkiyi açıklar."
+  },
+  {
+    "n": 121,
+    "layout": "pair",
+    "hero_ids": [
+      "A1945",
+      "A2063"
+    ],
+    "headline_en": "What surrounds a face?",
+    "why_visual_tr": "Aynı yılın iki eseri geniş boş alan ile yoğun işaret alanını karşılaştırır.",
+    "grid_role_tr": "P120 mimari çevreden boya alanına geçer; P122 üst-alt ilişkiyi açar.",
+    "must_preserve_tr": "Duality baş altındaki açık alan; Materialize yoğun yüzeyi.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Küçük Materialize işaretleri çamurlaşırsa çift kapak yeniden değerlendirilmeli."
+  },
+  {
+    "n": 122,
+    "layout": "pair",
+    "hero_ids": [
+      "A1378",
+      "A0192"
+    ],
+    "headline_en": "Above the scene",
+    "why_visual_tr": "Ev ve tekne üstündeki figürler bütünler korununca farklı yanıt verir.",
+    "grid_role_tr": "P121 yüz alanlarından iki katmanlı sahneye geçer; P123 baş sayısına daralır.",
+    "must_preserve_tr": "Angora evi ve figürü; Mandarin teknesi ve üst biçimler.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Üst-alt ilişkisi için alt unsurlar kesilmemeli."
+  },
+  {
+    "n": 123,
+    "layout": "question",
+    "hero_ids": [
+      "A2451"
+    ],
+    "headline_en": "Many heads, one head",
+    "why_visual_tr": "Wings tüm sivri başlarıyla çoklu tarafı gösterir; Great Fire içeride tek büyük başla karşılık verir.",
+    "grid_role_tr": "P122 bütün sahnelerden baş-gövde oranına yoğunlaşır; P124 dokuya iner.",
+    "must_preserve_tr": "Tüm başlar ve bağlı gövde alanları.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Figürler aynı canlı diye birleştirilmemeli."
+  },
+  {
+    "n": 124,
+    "layout": "question",
+    "hero_ids": [
+      "A0102"
+    ],
+    "headline_en": "The canvas shows through",
+    "why_visual_tr": "Hazır STLOP alanı dokuyu ve geniş yuvarlak izleri gösterir.",
+    "grid_role_tr": "P123 koyu sivri figürden açık pastel yakına geçer; P125 ölçü farkını açar.",
+    "must_preserve_tr": "Dokuma ve gerçek renkli fırça izleri.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Dokuma gridde seçilmezse yapay keskinlik yerine tam boy incelenir."
+  },
+  {
+    "n": 125,
+    "layout": "pair",
+    "hero_ids": [
+      "A2743",
+      "A0025"
+    ],
+    "headline_en": "Square canvas, separate panels",
+    "why_visual_tr": "Kare tek tuval ile üç parçalı bütün fiziksel nesne farkını gösterir.",
+    "grid_role_tr": "P124 dokudan bütün nesneye uzaklaşır; P126 kare sahnede durur.",
+    "must_preserve_tr": "Kare bütün; triptiğin doğru sırası ve beyaz aralıkları.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Triptik çift kutuda ince kalabilir; bu kapak gerçek boyut şeması değildir."
+  },
+  {
+    "n": 126,
+    "layout": "gallery",
+    "hero_ids": [
+      "A0192"
+    ],
+    "headline_en": "",
+    "why_visual_tr": "Yoğun kare sahne kendi başına inceleme görevini taşır; başlık küçük figürlerle yarışmaz.",
+    "grid_role_tr": "P125 iki nesneden tek yoğun kareye geçer; P127 mor gövdelerden önce başlıksız durak olur.",
+    "must_preserve_tr": "Çapa, uçuş yönleri ve teknenin tamamı.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım tek görsel gönderinin kendisidir; ayrı bir sonraki slayt yoktur.",
+    "render_risk_tr": "Gridde figürler ayrışmazsa eser kırpılarak sadeleştirilmez."
+  },
+  {
+    "n": 127,
+    "layout": "pair",
+    "hero_ids": [
+      "A1750",
+      "A0298"
+    ],
+    "headline_en": "Purple takes different shapes",
+    "why_visual_tr": "Mor gövdelerin farklı kütle kuruluşları iki bütünle görünür olur.",
+    "grid_role_tr": "P126 mavi kalabalıktan mor gövdelere geçer; P128 karşıt figür aşamasını açar.",
+    "must_preserve_tr": "Rompi açıklıkları; Gary kütlesi ve alt elleri.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Morları dijital eşitlemek gerçek farkı gizler."
+  },
+  {
+    "n": 128,
+    "layout": "question",
+    "hero_ids": [
+      "A0664"
+    ],
+    "headline_en": "Before the opponents settle",
+    "why_visual_tr": "Gerçek Board boyalı aşaması iki rakibin ortak sahne düzenindeki yüzlerini gösterir; ilk aşama olduğu iddia edilmez.",
+    "grid_role_tr": "P127 bitmiş gövdelerden ara yüzeye geçer; P129 tek baş yakınlığına iner.",
+    "must_preserve_tr": "İki baş, masa ve piyon konumları.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Bu aşama çizim veya ilk boya diye etiketlenmemeli."
+  },
+  {
+    "n": 129,
+    "layout": "question",
+    "hero_ids": [
+      "A2423"
+    ],
+    "headline_en": "Small hand. Large head.",
+    "why_visual_tr": "Tam Great Fire görseli küçük kalkık eli ve büyük başı aynı ilk görüntüde görünür kılar. Hazır baş detayı A2422 sonraki sayfada bu oranı yakından inceletir.",
+    "grid_role_tr": "P128 iki yüzlü sahnenin ardından tek gövdede baş-el oranını açar; P130 küçük parmak izlerine geçer.",
+    "must_preserve_tr": "Büyük baş, sağdaki küçük kalkık el, bütün gövde ve ayaklar.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Kapakta başı tek başına büyütmek el-baş oranını yok eder; bütün kaynak korunmalı."
+  },
+  {
+    "n": 130,
+    "layout": "question",
+    "hero_ids": [
+      "A1036"
+    ],
+    "headline_en": "Small marks, clear fingers",
+    "why_visual_tr": "Sept hazır el detayı açık parmak ucu izlerini gösterir.",
+    "grid_role_tr": "P129 büyük yüzden küçük açık izlere geçer; P131 nesne ilişkisini açar.",
+    "must_preserve_tr": "Parmaklar, açık uçlar ve komşu beden rengi.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Kuş ayağıyla insan eli aynı uzuv gibi eşlenmemeli."
+  },
+  {
+    "n": 131,
+    "layout": "question",
+    "hero_ids": [
+      "A0502"
+    ],
+    "headline_en": "An unoccupied chair",
+    "why_visual_tr": "A0502 listedeki Virgil bütününün hazır sandalye detayıdır; boş kullanımı gösterir.",
+    "grid_role_tr": "P130 parmak yakınından boş nesneye geçer; P132 oda bütününü açar.",
+    "must_preserve_tr": "Tüm sandalye ve beyaz mekân çizgisi.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Sandalye gerçek mobilya fotoğrafı diye sunulmamalı; yönü çevrilmez."
+  },
+  {
+    "n": 132,
+    "layout": "question",
+    "hero_ids": [
+      "A1695"
+    ],
+    "headline_en": "A room gains weight",
+    "why_visual_tr": "Renkli Lucid bütünü tek büyük kaynak olarak gösterilir; sarı kütlenin odadaki ağırlığı okunur. Başlıktaki değişim, sonraki sayfada gerçek A1696 çizimiyle karşılaştırılarak tamamlanır.",
+    "grid_role_tr": "P131 tek sandalye yakınından renkli oda bütününe açılır; P133 temiz çizimle kayıt türünü değiştirir.",
+    "must_preserve_tr": "Özgün beyaz kaynak kenarı, oda düzlemleri, sarı kütle ve bütün figürler.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; A1696 çizimi ve A1695 finali iç sayfalarda ayrı ve büyük gösterilerek başlıktaki değişim kanıtlanır.",
+    "render_risk_tr": "Kaynağın mevcut beyaz sınırı korunur. Tek görüntüye büyütülen kapakta boyalı alanın okunurluğu yeniden incelenmeli; otomatik kenar kırpması yapılmamalı."
+  },
+  {
+    "n": 133,
+    "layout": "question",
+    "hero_ids": [
+      "A1335"
+    ],
+    "headline_en": "A group in lines",
+    "why_visual_tr": "Gxd arşivindeki doğrulanmış temiz çizim, grubun çizgilerle kurulmasını küçük görünümde A0428'den daha açık gösterir. Fiziksel ilk tuval fotoğrafı değil, temiz çizim kaydıdır; Virgil çizim aşaması içeride karşılaştırılır.",
+    "grid_role_tr": "P132 renkli oda bütününden açık temiz grup çizimine geçer; P134 yoğun siyah-beyaz beden bağlantısını açar.",
+    "must_preserve_tr": "Taşınan gövde, onu çevreleyen figürlerin tüm çizgileri ve kaynak beyaz alanı.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Temiz çizim fiziksel tuvaldeki ilk aşama diye sunulmamalı. İnce çizgilerin yeni kapakta küçük görünümü yeniden kontrol edilmeli; yapay karartma yapılmamalı."
+  },
+  {
+    "n": 134,
+    "layout": "question",
+    "hero_ids": [
+      "A1809"
+    ],
+    "headline_en": "Follow this arm",
+    "why_visual_tr": "Bütün, kol rotasının hangi kalabalıkta izleneceğini gösterir; kapak yeni anatomi çizmez.",
+    "grid_role_tr": "P133 açık çizimden yoğun siyah-beyaz bedene geçer; P135 tekrarları açar.",
+    "must_preserve_tr": "Kesişen beden sınırları ve kırmızı hatlar.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Reel kapağı ilk video karesi değildir. Yeni gerçek çekim ayrı açıklama katmanında kol rotasını kalemle izlemeye başlar.",
+    "render_risk_tr": "Katalog oranı dosyaya dayatılmaz; yeni canlı izleme çekimi henüz yok."
+  },
+  {
+    "n": 135,
+    "layout": "pair",
+    "hero_ids": [
+      "A0258",
+      "A0192"
+    ],
+    "headline_en": "What fills the space?",
+    "why_visual_tr": "Tabak ve teknedeki tekrar farklı sahne görevleriyle görünür.",
+    "grid_role_tr": "P134 çizgi kalabalığından tekrarlı alanlara geçer; P136 ayıran nesneyi açar.",
+    "must_preserve_tr": "Walls tabak ve akış; Mandarin alt grup.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Gridde küçük birimleri saymak mümkün olmayabilir; madde kimliği iddia edilmez."
+  },
+  {
+    "n": 136,
+    "layout": "question",
+    "hero_ids": [
+      "A2213"
+    ],
+    "headline_en": "Between the bodies",
+    "why_visual_tr": "Merkez nesne iki beden arasında ayrım kurar; Virgil çevresi içeride karşılaştırılır.",
+    "grid_role_tr": "P135 küçük tekrarlardan büyük ayırıcıya geçer; P137 rengi açar.",
+    "must_preserve_tr": "Siyah nesne, iki beden ve gerçek yazılar.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Yazıları fontla yeniden yazmak eseri değiştirmiş olur."
+  },
+  {
+    "n": 137,
+    "layout": "pair",
+    "hero_ids": [
+      "A1378",
+      "A0298"
+    ],
+    "headline_en": "Where warm colour lives",
+    "why_visual_tr": "Figürdeki ve çevredeki sıcak renk dağılımı bütünlerle karşılaştırılır.",
+    "grid_role_tr": "P136 mavi boşluktan sıcak/serin dağılıma geçer; P138 yüz sınırına iner.",
+    "must_preserve_tr": "Angora sıcak figür ve serin ev; Gary sıcak zemin ve mor gövde.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Ortak sıcak filtre asıl farkı yok eder."
+  },
+  {
+    "n": 138,
+    "layout": "question",
+    "hero_ids": [
+      "A2063"
+    ],
+    "headline_en": "The face's painted border",
+    "why_visual_tr": "Sol büyük başın kalın çevresi bağlamında kalır; yakın okuma içeride açılır.",
+    "grid_role_tr": "P137 iki figürden yoğun yüz alanına geçer; P139 giysi sınırına bağlanır.",
+    "must_preserve_tr": "Sol baş dış çeperi ve iç ince çizgiler.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Baş küçük görünse de tahmini yeni kırpma yapılmamalı."
+  },
+  {
+    "n": 139,
+    "layout": "question",
+    "hero_ids": [
+      "A0294"
+    ],
+    "headline_en": "Clothing redraws the body",
+    "why_visual_tr": "A0294 listedeki Gary bütününün hazır yaka detayıdır; kumaşın gövdeyi çevreleyişini gösterir.",
+    "grid_role_tr": "P138 baş çeperinden giysi çeperine geçer; P140 farklı yüz ağırlığını açar.",
+    "must_preserve_tr": "Açık yaka, mor omuz ve koyu kıvrım.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Kısmi yüz yüzünden portre kimliği sorusu diye etiketlenmemeli."
+  },
+  {
+    "n": 140,
+    "layout": "pair",
+    "hero_ids": [
+      "A2388",
+      "A2182"
+    ],
+    "headline_en": "Two faces, different weight",
+    "why_visual_tr": "Keskin ağızlı ve küçük/kapalı yüzlü iki eser başın gövdeye oranını gösterir.",
+    "grid_role_tr": "P139 giysi detayından iki yaratığa açılır; P141 imza yakınıyla ölçeği değiştirir.",
+    "must_preserve_tr": "Her baş ve kendi gövdesinin bütünü.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Morbid yüzüne kesin duygu veya tür atanmamalı."
+  },
+  {
+    "n": 141,
+    "layout": "question",
+    "hero_ids": [
+      "A1034"
+    ],
+    "headline_en": "Signed into the surface",
+    "why_visual_tr": "Hazır imza detayı gerçek fırça izi ve tuval dokusunu gösterir.",
+    "grid_role_tr": "P140 koyu gövdelerden boş yeşil yüzeye geçer; P142 figür sınırına döner.",
+    "must_preserve_tr": "Gerçek imza ve yeşil boya dokusu.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Okunmayan harf veya tarih tamamlanmamalı; fontla çizilmez."
+  },
+  {
+    "n": 142,
+    "layout": "question",
+    "hero_ids": [
+      "A1717"
+    ],
+    "headline_en": "Blue keeps bodies apart",
+    "why_visual_tr": "İleri Ciao aşaması iki gövdenin mavi-beyaz sınırını beraber gösterir.",
+    "grid_role_tr": "P141 yüzey yakınından figür bütününe geçer; P143 yüz çevresini açar.",
+    "must_preserve_tr": "İki dış sınır ve aralarındaki boşluk.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Bu dosya final veya tarihli eskiz diye etiketlenmemeli."
+  },
+  {
+    "n": 143,
+    "layout": "pair",
+    "hero_ids": [
+      "A0025",
+      "A0298"
+    ],
+    "headline_en": "Beyond the face",
+    "why_visual_tr": "Tam triptik ve Gary yüz çevresinde ne kadar beden gösterildiğini karşılaştırır.",
+    "grid_role_tr": "P142 bedenlerden yüz/beden kapsamına geçer; P144 küçük gruba iner.",
+    "must_preserve_tr": "Üç yüzün tamamı; Gary ellerine kadar gövde.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Başları eşitlemek veya triptiği kırpmak soruyu değiştirir."
+  },
+  {
+    "n": 144,
+    "layout": "question",
+    "hero_ids": [
+      "A0004"
+    ],
+    "headline_en": "Small figures remain",
+    "why_visual_tr": "Gerçek çizim alt grubun başlangıç konumunu gösterir; devamlılık finalde kontrol edilir.",
+    "grid_role_tr": "P143 bitmiş bütünlerden çizim kaydına geçer; P145 mekân çizgisini açar.",
+    "must_preserve_tr": "Alt küçük figürler ve üst ana kütle.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Çizim tarihi bilinmiyor; final yılı çizime yazılmaz."
+  },
+  {
+    "n": 145,
+    "layout": "question",
+    "hero_ids": [
+      "A0504"
+    ],
+    "headline_en": "Trace this room",
+    "why_visual_tr": "Hazır tavan köşesi beyaz çizgi rotasının başlangıcını gösterir.",
+    "grid_role_tr": "P144 organik çizimden mimari çizgiye geçer; P146 beden çevresini karşılaştırır.",
+    "must_preserve_tr": "Beyaz çizgiler, köşe ve alttaki figür başı.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Reel kapağı ilk video karesi değildir. Yeni gerçek kalem hareketi oda köşesinden başlar; açıklama katmanı eser yüzeyinden ayrıdır.",
+    "render_risk_tr": "Yeni izleme kaydı henüz yok; yapay geometri eklenmez."
+  },
+  {
+    "n": 146,
+    "layout": "pair",
+    "hero_ids": [
+      "A2182",
+      "A0134"
+    ],
+    "headline_en": "Standing out or blending in",
+    "why_visual_tr": "Bütünler dış sınırın bedeni zeminden ayırma gücünü karşılaştırır.",
+    "grid_role_tr": "P145 köşeden beden çevresine açılır; P147 nesne düzenine geçer.",
+    "must_preserve_tr": "Morbid dış konturu; STLOP açık fırça kenarı.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Pastel eser kâğıtla kaynaşırsa incelenir; renk değiştirilmez."
+  },
+  {
+    "n": 147,
+    "layout": "pair",
+    "hero_ids": [
+      "A1832",
+      "A0592"
+    ],
+    "headline_en": "What organises the group?",
+    "why_visual_tr": "Kutu ve tahtanın grubu farklı biçimde düzenlemesi bütünlerle görülür.",
+    "grid_role_tr": "P146 boya sınırından geometrik nesneye geçer; P148 küçük nesneye iner.",
+    "must_preserve_tr": "Yeşil kutu ve üç beden; tahta ve iki büyük baş.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Eş kutu eş fiziksel boyut anlamına gelmez."
+  },
+  {
+    "n": 148,
+    "layout": "question",
+    "hero_ids": [
+      "A0225"
+    ],
+    "headline_en": "Objects change the action",
+    "why_visual_tr": "A0225 listedeki Walls bütününün hazır tabak-çatal detayıdır; sahne kuran nesneyi somutlaştırır.",
+    "grid_role_tr": "P147 büyük tahtadan küçük tabağa iner; P149 gerçek boyamaya döner.",
+    "must_preserve_tr": "Tabak, sarı parçalar ve çatalın tümü.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Sarı parçalar belirli yemek veya madde diye etiketlenmez."
+  },
+  {
+    "n": 149,
+    "layout": "question",
+    "hero_ids": [
+      "A1772"
+    ],
+    "headline_en": "Painted over, painted again",
+    "why_visual_tr": "Final, gerçek örtme kaydının sonunda oluşan figürü tanımlar.",
+    "grid_role_tr": "P148 nesne detayından figüre açılır; P150 farklı kenarlara bağlanır.",
+    "must_preserve_tr": "Yukarı el, tüm gövde ve ayaklar.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Reel kapağı ilk video karesi değildir. A2815 içinden gerçek örtülme hareketi seçilir; kesin kesit ve final bağlantısı kurgu öncesi doğrulanmalı.",
+    "render_risk_tr": "Örtülmenin kanıtı gerçek videodan seçilmeli."
+  },
+  {
+    "n": 150,
+    "layout": "question",
+    "hero_ids": [
+      "A2743"
+    ],
+    "headline_en": "Three dates, different edges",
+    "why_visual_tr": "Penguin eriyen sınırıyla üç tarihli karşılaştırmanın orta tarihini öne çıkarır.",
+    "grid_role_tr": "P149 net figürden eriyen figüre geçer; P151 seçkisine giriş olur.",
+    "must_preserve_tr": "Baş çevresi, alt işaretler ve kare sınır.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Tarihsel ilerleme vaadi olmamalı; üç çözüm eşit değer taşır."
+  },
+  {
+    "n": 151,
+    "layout": "question",
+    "hero_ids": [
+      "A0025"
+    ],
+    "headline_en": "Ways to build bodies",
+    "why_visual_tr": "Painstaking parçalı yapısıyla seçkinin ilk yaklaşımını gösterir. Kapak üç paneli üç ayrı eser veya seçkideki üç yol diye adlandırmaz; Gary ve STLOP iç sayfalarda kendi bütünleriyle ayrışır.",
+    "grid_role_tr": "P150 tarih seçkisinden beden seçkisine geçer; P152 baş biçimini açar.",
+    "must_preserve_tr": "Doğru panel sırası ve bütün yüzler.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "İç sayfalar üç farklı eseri ayrı adlandırmalı; triptiğin üç paneli üç ayrı eser olarak sayılmamalı."
+  },
+  {
+    "n": 152,
+    "layout": "pair",
+    "hero_ids": [
+      "A2451",
+      "A1903"
+    ],
+    "headline_en": "Pointed heads, different bodies",
+    "why_visual_tr": "Sivri başlar gövdelerle beraber görünerek benzerliğin sınırını kurar.",
+    "grid_role_tr": "P151 seçkiden iki eski figüre daralır; P153 dağ detayına iner.",
+    "must_preserve_tr": "Wings başlar ve spiraller; Ciao iki bütün figür.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Yalnız baş kırpması iki eseri gereğinden fazla benzetir."
+  },
+  {
+    "n": 153,
+    "layout": "question",
+    "hero_ids": [
+      "A0137"
+    ],
+    "headline_en": "Above the mountain",
+    "why_visual_tr": "Hazır detayda küçük dallı açık şekil ve dağ tepesi birlikte görünür.",
+    "grid_role_tr": "P152 figürlerden küçük uzak şekle geçer; P154 grup sahnelerini açar.",
+    "must_preserve_tr": "Açık şekil, tepe ve koyu çevre dokusu.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Mitolojik kimlik veya tür kesinleştirilmez."
+  },
+  {
+    "n": 154,
+    "layout": "question",
+    "hero_ids": [
+      "A0592"
+    ],
+    "headline_en": "Carrying. Facing. Gathering.",
+    "why_visual_tr": "Board karşılaşması üç grup fiilinden birini gösterir; diğer sahneler içeride görünür.",
+    "grid_role_tr": "P153 küçük biçimden kalabalık sahneye geçer; P155 tavanı inceler.",
+    "must_preserve_tr": "Karşılıklı başlar ve aradaki masa.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Üç fiil tek resimdeymiş gibi sunulmamalı; seçki açık olmalı."
+  },
+  {
+    "n": 155,
+    "layout": "question",
+    "hero_ids": [
+      "A2050"
+    ],
+    "headline_en": "The ceiling has a role",
+    "why_visual_tr": "Guard tavan çizgisi ve ters bedeni bir arada korur.",
+    "grid_role_tr": "P154 karşılıklı sahneden odaya geçer; P156 çizim kayıtlarını açar.",
+    "must_preserve_tr": "Tavan, askılı nesneler, kırmızı beden ve sağ grup.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Ters bedenin öyküsü veya niyeti çıkarılmamalı."
+  },
+  {
+    "n": 156,
+    "layout": "question",
+    "hero_ids": [
+      "A0211"
+    ],
+    "headline_en": "Colour notes, drawn lines",
+    "why_visual_tr": "Mandarin'in notlu renk çalışması büyük ve açık ilk görüntü olur; temiz renk notları ile Virgil çizim aşamasının farklı kayıt görevleri iç sayfalarda karşılaştırılır.",
+    "grid_role_tr": "P155 renkli oda bütününden tek okunur çalışma kaydına geçer; P157 iki boyalı gövdeye döner.",
+    "must_preserve_tr": "Çizimin bütün kare sınırı, mevcut renk notları, sol alt çapa ve tekne.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; A0428 çizim aşaması sonraki tam sayfada, ardından iki ilgili final gösterilir. Kapak tüm karşılaştırmayı küçük kutulara sıkıştırmaz.",
+    "render_risk_tr": "Notlar yeni açıklama gibi alıntılanmamalı. A0428 iç sayfada tam boy da soluk kalırsa içerik üretiminde okunurluk yeniden değerlendirilir."
+  },
+  {
+    "n": 157,
+    "layout": "pair",
+    "hero_ids": [
+      "A2156",
+      "A2423"
+    ],
+    "headline_en": "Across or upwards?",
+    "why_visual_tr": "Yatay ve dikey iki bütün gövdenin alanı doldurma yönünü gösterir.",
+    "grid_role_tr": "P156 soluk çizimlerden yoğun gövdelere döner; P158 mekânı açar.",
+    "must_preserve_tr": "Peachy uzun gövde ve iki ucu; Great Fire baştan ayağa.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Oranları aynı doluluğa kırpmak karşılaştırmayı bozar."
+  },
+  {
+    "n": 158,
+    "layout": "question",
+    "hero_ids": [
+      "A0582"
+    ],
+    "headline_en": "House, enclosure, room",
+    "why_visual_tr": "Virgil çevresi üç mekân örneğinin ortasını oluşturur; başlık seçkiyi adlandırır.",
+    "grid_role_tr": "P157 gövde yönünden çevreye geçer; P159 temasa iner.",
+    "must_preserve_tr": "Üst köşe, alt sınır ve tüm grup.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Üç mekân tek resimde sanılmamalı; iç sayfalar ayrı eserleri adlandırır."
+  },
+  {
+    "n": 159,
+    "layout": "pair",
+    "hero_ids": [
+      "A1809",
+      "A1209"
+    ],
+    "headline_en": "Bodies in contact",
+    "why_visual_tr": "İç içe bedenlerle taşıyan bedenlerin farkı iki bütünle karşılaştırılır.",
+    "grid_role_tr": "P158 mekândan temasa geçer; P160 tek yüze daralır.",
+    "must_preserve_tr": "Baby uzuvlar; Gxd taşıyan kol ve gövde.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Belirsiz anatomi kesin bağ diye açıklanmaz; Baby oranı değişmez."
+  },
+  {
+    "n": 160,
+    "layout": "question",
+    "hero_ids": [
+      "A0289"
+    ],
+    "headline_en": "What keeps it recognisable?",
+    "why_visual_tr": "Hazır yüz detayı göz-ağız-puro ilişkisini anlatacak yeni sunumun odağıdır.",
+    "grid_role_tr": "P159 gruplardan tek yüze iner; P161 oda bütünlerine açılır.",
+    "must_preserve_tr": "Gözler, ağız, puro ve yüz çeperi.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Reel kapağı ilk video karesi değildir. Yeni İngilizce gerçek sanatçı anlatımı göz–ağız–puro bağlantısını işaret ederek açılır.",
+    "render_risk_tr": "Yeni İngilizce gerçek anlatım henüz yok; kapak hareketin yerini tutmaz."
+  },
+  {
+    "n": 161,
+    "layout": "question",
+    "hero_ids": [
+      "A1695"
+    ],
+    "headline_en": "Rooms that change direction",
+    "why_visual_tr": "Lucid bütünü tek büyük kaynak olarak oda ve beden yönünü ilk görüntüde okunur kılar. Başlıktaki çoğul, sonraki sayfada Guard ile yapılacak iki oda karşılaştırmasına aittir.",
+    "grid_role_tr": "P160 tek yüz yakınından bütün odaya açılır; P162 yüz görünürlüğüne döner. P132'ye kıyasla çizim/final değil iki tamamlanmış odanın yönü okunur.",
+    "must_preserve_tr": "Lucid oda köşeleri, bütün figürler, sarı kütle ve özgün beyaz sınır.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; Guard bütünü bir sonraki sayfada ayrı gösterilir, sonra yön farkı karşılaştırılır.",
+    "render_risk_tr": "Özgün beyaz kenar korunurken boyalı alanın yeni büyük kapaktaki okunurluğu kontrol edilmeli; karşılaştırma iç sayfası olmadan çoğul vaat tamamlanmaz."
+  },
+  {
+    "n": 162,
+    "layout": "question",
+    "hero_ids": [
+      "A0258"
+    ],
+    "headline_en": "Hidden eyes. Open mouth.",
+    "why_visual_tr": "Walls bütünü korunur; P015 bütün tanışmasından farklı olarak başlık şapka altındaki gizlenmiş gözlerle açık ağız arasındaki görünürlük farkına bakmayı önerir. Aynı esere yeni bölgesel okuma ekler.",
+    "grid_role_tr": "P161 iki oda çiftinden tek figürün yüz görünürlüğüne geçer; P163 parçalı gövdeye bağlanır. Başlık P015 ile aynı kapak tekrarını önler.",
+    "must_preserve_tr": "Şapka, ağızdan tabağa akış, çatal ve ceket.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım tek görsel gönderinin kendisidir; ayrı bir sonraki slayt yoktur.",
+    "render_risk_tr": "Gözleri açmak veya yalnız yüz kırpmak gözlemi değiştirir."
+  },
+  {
+    "n": 163,
+    "layout": "question",
+    "hero_ids": [
+      "A1862"
+    ],
+    "headline_en": "How parts become bodies",
+    "why_visual_tr": "Bütün yuvarlak parçaların kümelenmesini gösterir; Unemployed karşılığı içeride gelir.",
+    "grid_role_tr": "P162 örtülü yüzden parçalı bedene geçer; P164 grup alanını açar.",
+    "must_preserve_tr": "Tüm parçalar, alt destek ve kırmızı araba.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Parçalar gridde birleşebilir; bütün kırpılarak çözülmez."
+  },
+  {
+    "n": 164,
+    "layout": "question",
+    "hero_ids": [
+      "A1209"
+    ],
+    "headline_en": "Same height, different room",
+    "why_visual_tr": "Gxd dar en tarafını gösterir; Mandarin içeride ölçüyle karşılaştırılır.",
+    "grid_role_tr": "P163 kütleden gruba geçer; P165 yüzey yakınına iner.",
+    "must_preserve_tr": "Üst alan, yan sınırlar ve tüm ayaklar.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Fiziksel yükseklik katalog bilgisi; kapak ölçülü şema değildir."
+  },
+  {
+    "n": 165,
+    "layout": "question",
+    "hero_ids": [
+      "A2744"
+    ],
+    "headline_en": "A close studio view",
+    "why_visual_tr": "Eğik arşiv fotoğrafı geniş açık boya izleri ve yüzey hareketini doğrudan gösterir. Finalin aynı aşamasından olduğu iddia edilmez; tamamlanmış bütün ikinci sayfada bağlamdır.",
+    "grid_role_tr": "Gxd bütününün ardından gerçek eğik yüzey görünümü; sonraki kırmızı işaret karşılaştırması başka bir görme işi açar.",
+    "must_preserve_tr": "Hazır yakın fotoğrafın tamamı ve doğal eğik perspektifi; düzleştirme veya yeni boya izi üretimi yapılmaz.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "A2744 ve ham A2745 ayrı içerik sayfaları yapılmaz. Fotoğrafın kesin tarihi/aşaması bilinmediğinden undated studio photograph açıklaması korunur."
+  },
+  {
+    "n": 166,
+    "layout": "pair",
+    "hero_ids": [
+      "A0101",
+      "A0224"
+    ],
+    "headline_en": "Red marks, different edges",
+    "why_visual_tr": "İki mevcut hazır detay, STLOP kırmızı çizgisel izleriyle Walls ağız çevresindeki kırmızı alanı ilk görüntüde karşılaştırır. STLOP biçimine ağız kimliği verilmez; bütünler içeride bağlamı tamamlar.",
+    "grid_role_tr": "P162'nin Walls bütününü dört post sonra tekrarlamak yerine farklı ölçek ve iki hazır detay getirir; P165 yakın yüzeyden P167 küçük figürlerin bütününe bağlanır.",
+    "must_preserve_tr": "A0101 kırmızı çizgisel izler ve çevresindeki pastel alan; A0224 şapka altı ağız ve komşu boya izleri.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; A0134 ve A0258 bütünleri sonraki sayfalarda detayları gerçek yerlerine bağlar.",
+    "render_risk_tr": "İki yakın görüntü aynı fiziksel büyütme ölçeğinde değildir; renk benzerliği nesne özdeşliği sayılmaz. Yeni kırpma veya renklendirme yapılmamalı."
+  },
+  {
+    "n": 167,
+    "layout": "question",
+    "hero_ids": [
+      "A2014"
+    ],
+    "headline_en": "Small figures, whole scenes",
+    "why_visual_tr": "Küçük alt grup ana bedenle birlikte görünerek sahnedeki görevini açar.",
+    "grid_role_tr": "P166 tek figürden küçük gruba geçer; P168 yüz işaretlerine iner.",
+    "must_preserve_tr": "Alttaki üç figür ve üst ana kütle.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Küçükleri büyütmek için ana kütle kesilmez."
+  },
+  {
+    "n": 168,
+    "layout": "pair",
+    "hero_ids": [
+      "A0139",
+      "A1038"
+    ],
+    "headline_en": "Crosses. One empty circle.",
+    "why_visual_tr": "Hazır detaylar X işaretli yüzlerle beyaz daire alanını karşılaştırır.",
+    "grid_role_tr": "P167 grubu yüz işaretlerinde yakına alır; P169 el-gövdeye açılır.",
+    "must_preserve_tr": "X işaretleri; Sept beyaz göz ve komşu yüz alanı.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Ölüm veya körlük teşhisi atanmamalı."
+  },
+  {
+    "n": 169,
+    "layout": "pair",
+    "hero_ids": [
+      "A1772",
+      "A2423"
+    ],
+    "headline_en": "Raised hands, different bodies",
+    "why_visual_tr": "Bütünler kalkık elin gövde çevresinde kapladığı alanı gösterir.",
+    "grid_role_tr": "P168 yakınlardan gövdelere açılır; P170 koyu alanlara geçer.",
+    "must_preserve_tr": "Her el ve kendi gövdesinin bütünü.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Jestlere selamlama veya korku niyeti yüklenmez."
+  },
+  {
+    "n": 170,
+    "layout": "pair",
+    "hero_ids": [
+      "A0137",
+      "A1209"
+    ],
+    "headline_en": "Two kinds of dark",
+    "why_visual_tr": "Hazır dağ üstü alanıyla geniş Gxd alanı karanlığın aynı yüzey olmadığını açar.",
+    "grid_role_tr": "P169 pembe figürlerden koyu alanlara geçer; P171 çizgi yönünü açar.",
+    "must_preserve_tr": "Mandarin küçük şekil ve koyu doku; Gxd üst alanı.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Detay ile bütün karşılaştırıldığı belirtilmeli; keskinlik eşitlenmez."
+  },
+  {
+    "n": 171,
+    "layout": "question",
+    "hero_ids": [
+      "A1945"
+    ],
+    "headline_en": "Marks connect face and body",
+    "why_visual_tr": "Bütün yüzden gövdeye uzanan izleri korur; Penguin içeride görünür.",
+    "grid_role_tr": "P170 koyu alanlardan açık izlere geçer; P172 yoğunluğu karşılaştırır.",
+    "must_preserve_tr": "Baş altından aşağıya devam eden uzun izler.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Penguin izleri kesin saç veya sakal diye adlandırılmaz."
+  },
+  {
+    "n": 172,
+    "layout": "pair",
+    "hero_ids": [
+      "A2063",
+      "A2213"
+    ],
+    "headline_en": "Dense marks, open ground",
+    "why_visual_tr": "İki 2019 bütünü yoğun işaret ve geniş mavi alan farkını gösterir.",
+    "grid_role_tr": "P171 tek rotadan iki yoğunluğa geçer; P173 fiziksel nesneye döner.",
+    "must_preserve_tr": "Materialize yüzeyi; Transhumanism mavi çevresi ve yazıları.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Gridde tüm işaretler okunmuş sayılmaz; renk değiştirilmez."
+  },
+  {
+    "n": 173,
+    "layout": "question",
+    "hero_ids": [
+      "A0025"
+    ],
+    "headline_en": "One work, three canvases",
+    "why_visual_tr": "Doğru sıradaki triptik yeni kamera hareketinin göstereceği tek eserin üç nesnesini tanımlar.",
+    "grid_role_tr": "P172 iki tuvalden üç parçalı esere geçer; P174 yüzey kelimelerine iner.",
+    "must_preserve_tr": "Panel sırası ve üç tam kenar.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Reel kapağı ilk video karesi değildir. Yeni çekimde gerçek panel kenarları ve aralıkları tek kamera hareketinde görünür.",
+    "render_risk_tr": "Beyaz montaj aralığı gerçek kurulum değildir; yeni çekim henüz yok."
+  },
+  {
+    "n": 174,
+    "layout": "question",
+    "hero_ids": [
+      "A2213"
+    ],
+    "headline_en": "Words in the paint",
+    "why_visual_tr": "Bütün kelimeleri ait oldukları boyalı yüzeyin içinde bırakır; yakın okuma içeridedir.",
+    "grid_role_tr": "P173 panelden yüzey yazısına geçer; P175 el yönlerini açar.",
+    "must_preserve_tr": "NO GENDER ve NO FAMILY IN 21ST CENTURY alanları ve tüm eser.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Gridde yazılar okunmayabilir; fontla yeniden eklenmez."
+  },
+  {
+    "n": 175,
+    "layout": "question",
+    "hero_ids": [
+      "A0507"
+    ],
+    "headline_en": "Where the hands reach",
+    "why_visual_tr": "Hazır grup detayı açık eli diğer bedenlerle gösterir; Gxd kolları içeride karşılaştırılır.",
+    "grid_role_tr": "P174 yazılı bütünden ilişki yakınına geçer; P176 süreç çiftini açar.",
+    "must_preserve_tr": "Açık el, bağlı kol ve çevre figürler.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Kutsama veya yas rolü verilmez; el gövdeden koparılmaz."
+  },
+  {
+    "n": 176,
+    "layout": "pair",
+    "hero_ids": [
+      "A1716",
+      "A1903"
+    ],
+    "headline_en": "The ground changed",
+    "why_visual_tr": "Gerçek erken mavi-yeşil aşama ve final kırmızı alan zemin değişimini gösterir.",
+    "grid_role_tr": "P175 detaydan erken/final çiftine geçer; P177 eylemleri karşılaştırır.",
+    "must_preserve_tr": "Her iki zemin ve iki figür.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Kaydedilmemiş boya hareketi veya kesin süre iddia edilmez."
+  },
+  {
+    "n": 177,
+    "layout": "pair",
+    "hero_ids": [
+      "A0258",
+      "A0947"
+    ],
+    "headline_en": "Objects give bodies actions",
+    "why_visual_tr": "Tabak-çatal ve sigara figürlerin eylemine katkılarını bütünlerde gösterir.",
+    "grid_role_tr": "P176 zeminden bitmiş eyleme geçer; P178 seçki girişini açar.",
+    "must_preserve_tr": "Walls tabak ve çatal; Sept el ve oturuş.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Jestler aynı anlamı taşımaz; küçük nesneler içeride okunur."
+  },
+  {
+    "n": 178,
+    "layout": "question",
+    "hero_ids": [
+      "A0298"
+    ],
+    "headline_en": "Selected works: bodies",
+    "why_visual_tr": "Gary künyeli yüz ve yuvarlak beden seçkisine açık giriş görüntüsüdür.",
+    "grid_role_tr": "P177 karşılaştırmadan seçkiye geçer; P179 aynı başlık diliyle farklılaşır.",
+    "must_preserve_tr": "Yüz, gövde ve alt ellerin bütünü.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Gerçek seçki yolu tamamlanmadan yayıma hazır değildir."
+  },
+  {
+    "n": 179,
+    "layout": "question",
+    "hero_ids": [
+      "A0192"
+    ],
+    "headline_en": "Selected works: scenes",
+    "why_visual_tr": "Mandarin kalabalık sahnesi grup ilişkili künyeli seçkiye giriş verir.",
+    "grid_role_tr": "P178 tek bedenden kalabalık sahneye geçer; P180 üçüncü yolu tamamlar.",
+    "must_preserve_tr": "Tekne, üst hareketler ve sol alt çapanın bütünü.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Seçki bağlantısı ve künyeler çalışmalı; kapak bunu doğrulamaz."
+  },
+  {
+    "n": 180,
+    "layout": "question",
+    "hero_ids": [
+      "A1378"
+    ],
+    "headline_en": "Selected works: spaces",
+    "why_visual_tr": "Angora ev-çevre-geometrik nesne seçkisine açık mimari giriş verir.",
+    "grid_role_tr": "P178 beden ve P179 sahneden sonra mekânı açar; ortak metin dili farklı eserleri korur.",
+    "must_preserve_tr": "Ev, figür, çatı ve tüm alt sınır.",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Bu tasarım carousel ilk sayfasıdır; içeride planlanan gerçek kaynaklar ve karşılaştırma tamamlanır.",
+    "render_risk_tr": "Portföy yolu olmadan sırf son postu doldurmak için yayımlanmaz."
+  }
+]

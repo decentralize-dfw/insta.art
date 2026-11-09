@@ -1,0 +1,83 @@
+[
+  {
+    "n": 31,
+    "goal": "G1",
+    "title_en": "One red mouth. What changes when it disappears?",
+    "caption_en": "A closer look at the red mouth and the pale marks around it. Briefly covering one part of a reproduction changes what remains to be read.",
+    "idea_tr": "Sanatçı basılı STLOP reprodüksiyonunda küçük nötr kartla yalnız kırmızı ağzı birkaç saniye kapatıp açar. Tek gerçek çekimde çevredeki izleri gösterir; orijinal tuvale müdahale etmez.",
+    "production_tr": "YENİ ÇEKİM: A0134 baskısı, nötr küçük kart, üstten/karşıdan telefon ve yeni İngilizce açıklama. Şimdiki arşivde bu hareketin videosu yok. Kayıt yapılmazsa mevcut A0096/A0097 ağız-çevre karşılaştırmalı carousel yedeği kullanılır.",
+    "benefit_tr": "Yüzü okumaya katkı veren parçayı geçici kapatma eylemi, sabit detaydan farklı bir görme deneyi sunar. Sonucu herkes aynı algılıyormuş gibi anlatma."
+  },
+  {
+    "n": 65,
+    "goal": "G1",
+    "title_en": "Cover the orange. What changes?",
+    "caption_en": "The orange field gives the figure room. Briefly covering its edges changes how much space the body seems to occupy.",
+    "idea_tr": "Gary'nin basılı bütününün önüne iki nötr kartı getirip turuncu kenar alanını geçici daralt; tek çekimde açıp kapatırken oval gövdenin çevresiyle ilişkisini anlat.",
+    "production_tr": "YENİ ÇEKİM: A0298 baskısı ve elde iki nötr kart; yeni İngilizce konuşma. Filtre/yeniden boyama değil, bugün yapılan inceleme. Video üretilemezse turuncu alanı işaretleyen mevcut carousel yedeği.",
+    "benefit_tr": "Negatif alan miktarı bir el hareketiyle değişir; video hareketi doğrudan incelenen soruyu taşır."
+  },
+  {
+    "n": 74,
+    "goal": "G1",
+    "title_en": "Follow the edge until it disappears.",
+    "caption_en": "Some parts of s(t)lop have a clear edge. Elsewhere, the same colours and marks continue into the surrounding field.",
+    "idea_tr": "Sanatçı kendi eser görselinin üstündeki ayrı şeffaf dijital katmanda bir sınırı canlı kalem hareketiyle takip eder; figür/zemin birleştiği yerde durup bölgeyi işaret eder. Bu, bugünkü eser incelemesidir.",
+    "production_tr": "YENİ EKRAN/KAMERA KAYDI: A0134 açık, ayrı açıklama katmanı, gerçek kalem hareketi ve İngilizce ses. Hazır fotoğrafların animasyonu yapılmaz. Çekim olmazsa aynı iki sınırı karşılaştıran carousel yedeği.",
+    "benefit_tr": "Sınırın kesintiye uğradığı noktaya varma eylemi anlatıyı ileri taşır; yalnız yakınlaşma değil."
+  },
+  {
+    "n": 107,
+    "goal": "G4",
+    "title_en": "The painting has another side.",
+    "caption_en": "A painting has a front and a reverse. The reverse carries another part of the object’s record.",
+    "idea_tr": "Eser fiziksel olarak erişilebiliyorsa ön yüzden arkasına tek yavaş dönüş; mevcut arka yüz kaydındaki künye bölgesinde dur, sonra tekrar ön yüz. Okunmayan yazıyı tamamlayarak yazma.",
+    "production_tr": "YENİ FİZİKSEL ÇEKİM: sept neuf'e erişim gerekir. A0945/A1011 arka yüz fotoğrafları doğrulama kaynağıdır, hareketli kayıt değildir. Erişim yoksa ön/arka fotoğraflı mevcut carousel yedeği.",
+    "benefit_tr": "Dönüş hareketi aynı nesnenin iki yüzü arasındaki bağı kurar. Resmi yalnız ön görüntü olarak görmeye yeni maddi bilgi ekler."
+  },
+  {
+    "n": 110,
+    "goal": "G4",
+    "title_en": "This close-up belongs to a 40 × 30 cm canvas.",
+    "caption_en": "A close view of a face, followed back to the canvas it belongs to. Each panel of Painstaking measures 40 × 30 cm.",
+    "idea_tr": "Gerçek panelde göz detayıyla başla; kamera tek kesintisiz geri çekilişle panelin bütününü ve yanında duran kişiyi açsın. Kişinin boyundan yeni ölçü çıkarmadan kayıtlı panel ölçüsünü ver.",
+    "production_tr": "YENİ FİZİKSEL ÇEKİM: Painstaking paneline erişim, telefon ve sabit ışık. Mevcut fotoğrafa dijital zoom uygulanarak bu hareket yapılmış sayılmaz. Erişim yoksa mevcut detay-konum/ölçü carousel yedeği.",
+    "benefit_tr": "Kamera mesafesinin gerçekten değişmesi, detayın ayrı bir resim değil küçük bir panelin parçası olduğunu doğrudan gösterir."
+  },
+  {
+    "n": 116,
+    "goal": "G4",
+    "title_en": "A painted surface, seen from another angle.",
+    "caption_en": "A close look at the painted surface of Angora Mergvs, then back to the house and figure within it.",
+    "idea_tr": "Gerçek Angora tuvalinin önünde kamera/ışık açısı hafif değişir; görünen boya yüzeyi gösterilir, sonra aynı bölgenin ev/figür içindeki yerine geri çekilinir. Yüzeyde olmayan kabarıklık iddia edilmez.",
+    "production_tr": "YENİ FİZİKSEL ÇEKİM: Angora'ya erişim ve gerçek hareketli yakın plan gerekir. Arşivdeki fotoğrafa yapay ışık efekti verilmez. Erişim yoksa mevcut fiziksel fotoğraf/ayrıntı carousel yedeği.",
+    "benefit_tr": "Görünen ışık ve mesafe değişimi, nesnenin boyalı yüzeyini bir görüntü dosyasından farklı biçimde inceletir."
+  },
+  {
+    "n": 119,
+    "goal": "G2",
+    "title_en": "Three spaces, three different pressures.",
+    "caption_en": "A table-top look at three reproductions from the archive. Each painting gives the body a different relation to the space around it.",
+    "idea_tr": "Peachy, Guard ve Materialize baskıları masada. Sanatçı ilk iki baskıda bedenin yönünü eliyle izler; üçüncüyü ekleyip çevrenin başka şekilde kurulmasını anlatır. Her resmin bütünü ve yılı görünür.",
+    "production_tr": "YENİ ÇEKİM: mevcut masterlardan üç baskı, masada eller ve İngilizce anlatım. Görülenler açıkça reproductions diye etiketlenir; gerçek sergi/kurulum iddiası yok. Çekim yoksa mevcut üç-eser carousel yedeği.",
+    "benefit_tr": "Seçkiyi kuran karşılaştırma gerçek el hareketi ve eşzamanlı anlatıyla görünür olur; sayfaların rastgele video geçişine dönüşmesi değil."
+  },
+  {
+    "n": 134,
+    "goal": "G1",
+    "title_en": "Can you follow this arm?",
+    "caption_en": "An arm travels into a tangle of other bodies. A closer look at how the contours meet in baby rights 101, 2020.",
+    "idea_tr": "Eser görseli üzerinde ayrı açıklama katmanında bir kolun konturu gerçek kalem hareketiyle takip edilir. Birleştiği/kesiştiği yerde durulur, diğer bedenin sınırı ayrı renkle kısa gösterilir. Anatomi sonucu uydurulmaz.",
+    "production_tr": "YENİ EKRAN KAYDI: A1809 üzerindeki ayrı açıklama katmanı ve İngilizce ses. Orijinal görüntüye kalıcı çizim yapılmaz. Kayıt olmazsa mevcut bütün/kol detayı carousel yedeği; dijital slayt Reel değil.",
+    "benefit_tr": "Gözün izleyeceği rotayı gerçek hareket kurar; tek karedeki karışıklığın nerede oluştuğu görünür olur."
+  },
+  {
+    "n": 145,
+    "goal": "G1",
+    "title_en": "Trace the room, then look at the bodies.",
+    "caption_en": "The white edges continue above and below the group. Following those lines reveals how the room holds the figures together.",
+    "idea_tr": "Virgil görselinin ayrı şeffaf açıklama katmanında beyaz odanın kenarlarını canlı kalem hareketiyle izleme; üst köşeden alt sınıra tek rota, ardından çizimi kapatıp aynı sınırları boyalı eserde gösterme.",
+    "production_tr": "YENİ EKRAN KAYDI ve İngilizce ses. A0582 yalnız kaynak görüntü; açıklama bugün kaydedilecek, tarihsel resim yapma kaydı değil. Üretilemezse üst/alt oda ayrıntılı mevcut carousel yedeği.",
+    "benefit_tr": "Bir geometrinin izlenerek kurulması, ayrı detay sayfalarından farklı mekânsal bir açıklama sağlar; geometrinin eksiksiz perspektif modeli olduğu iddia edilmez."
+  }
+]

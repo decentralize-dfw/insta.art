@@ -1,0 +1,146 @@
+{
+  "task": "Design EACH180post cover and its profile-grid appearance; first14detailed. Use PLAN-180-POST.json as authoritative current180order. No Instagram mutation or publishing. Produce code-native vector editorial layouts with existing art unchanged, no AI repainting.",
+  "canvas": {
+    "feed": [
+      1080,
+      1350
+    ],
+    "reel": [
+      1080,
+      1920
+    ],
+    "profile_tile_ratio": "3:4",
+    "profile_ratio_evidence": "Measured public yigitozen.art web DOM2026-11-04:310.6625×414.2125pixels; account's mobile/upload previews not verified",
+    "feed_grid_safe_x": [
+      60,
+      1020
+    ],
+    "reel_central_core_y": [
+      285,
+      1635
+    ],
+    "note": "Project geometry, not universal platform safe-zone guidance. Export previews include3:4 and square stress crops."
+  },
+  "visual_system": "User-specified white background #FFFFFF and black text #000000 only. Hanken Grotesk regular400 and medium500, verified on yigitozen.art and its Paintings page. Original artwork retains its own colours, ratio and orientation. No invented cream/olive palette, no Segoe/Georgia, no applied shadows or ornamental framing.",
+  "layouts": {
+    "gallery": "One full source, no headline, large contain fit; onlySingleorfullyvisualspecificpost.",
+    "question": "One fullsource ormeaningfulselecteddetail; 2–5Englishwords, max2lines, textinblankbandbelowart, neveronface/art.",
+    "pair": "Two sources, eachfullinownarea, clear separation; 2–5wordheadline. Comparablevisuals, not falselysamephysicalscale. Useonlywherebothnecessarytothequestion; don'tmakeall120carouselslookthe same."
+  },
+  "selection_rules": [
+    "Use image IDs from eachpost.assets whenpossible. Forartistvideo chooseownrelatedwhole/detail; no blackbacklit talkingheadjustbecauseReel. IfselectingIDoutsidepostassets, justifyexplicitlyandmustbeinthatsamework'saudit.",
+    "Samework repeatedneedscovernewfocusmatchingnewpostclaim; don'tforceuniqueartificialcrop. Exactduplicatecoverlayouts flagged forreview; public firstslide stillmatchesactualcontent.",
+    "PubliccoverheadlinesEnglish. Internalreason Turkish. Existingselecteddetails maybeusedintact; no newcropofmasters byguess.",
+    "Mandarin fullmasterA0192, neverA0160aswhole. Painstaking combinedA0025;L→C→R A0028/A0029/A0027. Sourcecatalogcorrected inplanning-180-posts/source-catalog.json.",
+    "No fakeprocessframe/voice/intent. Do notincludeunverifiedageorprivateinformation. Oldsketchdatesunknown notassigned."
+  ],
+  "per_cover_schema": {
+    "n": "postinteger",
+    "layout": "gallery|question|pair",
+    "hero_ids": "1or2 existingimageIDs",
+    "headline_en": "2–5wordsmaxnormally; emptygallery",
+    "why_visual_tr": "whythisimage/coverpromiseforthispost",
+    "grid_role_tr": "specificlocalneighbourvisualrelation; nofixedrowdependency",
+    "must_preserve_tr": "specificface/hand/wholepanel/lettering nottolose",
+    "source_status": "verified_archive_image",
+    "first_frame_tr": "Reel firstframe hasownjob; covernotautomaticallyfirstframe. FornonReelstateitisthefeedimage/firstslide.",
+    "render_risk_tr": "concreteproblemwatchfor(e.gwideimage smallinportrait); don'tclaimtestedbeforegenerated"
+  },
+  "first6_locked": [
+    {
+      "n": 1,
+      "layout": "question",
+      "hero_ids": [
+        "A1378"
+      ],
+      "headline_en": "My childhood home"
+    },
+    {
+      "n": 2,
+      "layout": "gallery",
+      "hero_ids": [
+        "A0298"
+      ],
+      "headline_en": ""
+    },
+    {
+      "n": 3,
+      "layout": "gallery",
+      "hero_ids": [
+        "A1862"
+      ],
+      "headline_en": ""
+    },
+    {
+      "n": 4,
+      "layout": "question",
+      "hero_ids": [
+        "A0947"
+      ],
+      "headline_en": "The body changed colour"
+    },
+    {
+      "n": 5,
+      "layout": "question",
+      "hero_ids": [
+        "A0025"
+      ],
+      "headline_en": "Three faces. Three balances."
+    },
+    {
+      "n": 6,
+      "layout": "gallery",
+      "hero_ids": [
+        "A1718"
+      ],
+      "headline_en": ""
+    }
+  ],
+  "not_done": "Generated cover != uploaded preview checked. Original artwork neveredited; physicalpaintingcolourcalibrationunverified; userreaction/growthcannotbeguaranted.",
+  "baseline": {
+    "observed_date": "2026-11-04",
+    "followers": 710,
+    "following": 89,
+    "scope": "Publicloggedoutprofile; threeimagesvisibleafterShowmore. Exactcompleteness/currentpinsnotconfirmed",
+    "items": [
+      {
+        "id": "B01",
+        "path": "baseline/B01.webp",
+        "url": "https://www.instagram.com/yigitozen.art/p/DfDXzNzkSIC/",
+        "date": "2026-10-28",
+        "description": "Gallery wall with three framed paintings; carousel icon. Notautomaticallyuser'sPainstaking."
+      },
+      {
+        "id": "B02",
+        "path": "baseline/B02.webp",
+        "url": "https://www.instagram.com/yigitozen.art/p/CITkrEznUYJ/",
+        "date": "2020-12-02",
+        "description": "Monochrome still-life with mug androundcontainer."
+      },
+      {
+        "id": "B03",
+        "path": "baseline/B03.webp",
+        "url": "https://www.instagram.com/yigitozen.art/p/nDobhoNf0Y/",
+        "date": "2014-04-21",
+        "description": "Monochrome folded/curvingmaterial."
+      }
+    ]
+  },
+  "style_evidence": {
+    "date": "2026-11-04",
+    "urls": [
+      "https://yigitozen.art/",
+      "https://yigitozen.art/paintings/"
+    ],
+    "observed_font": "Hanken Grotesk",
+    "body_weight": 400,
+    "heading_weight": 500,
+    "observed_background": "rgb(255,255,255)",
+    "site_text": "rgb(36,36,36)",
+    "user_override": "pure black text on pure white",
+    "font_sources": [
+      "https://yigitozen.art/fonts/hanken-normal-latin.woff2",
+      "https://yigitozen.art/fonts/hanken-normal-latin-ext.woff2"
+    ]
+  }
+}

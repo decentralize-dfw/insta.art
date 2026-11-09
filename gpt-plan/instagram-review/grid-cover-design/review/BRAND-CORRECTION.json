@@ -1,0 +1,26 @@
+{
+  "style_id": "website-hanken-400-500-white-black-v2",
+  "instruction": "User rejected invented cream/Segoe system; white background and black text only, main website reference.",
+  "evidence": {
+    "date": "2026-11-04",
+    "urls": [
+      "https://yigitozen.art/",
+      "https://yigitozen.art/paintings/"
+    ],
+    "observed_font": "Hanken Grotesk",
+    "body_weight": 400,
+    "heading_weight": 500,
+    "observed_background": "rgb(255,255,255)",
+    "site_text": "rgb(36,36,36)",
+    "user_override": "pure black text on pure white",
+    "font_sources": [
+      "https://yigitozen.art/fonts/hanken-normal-latin.woff2",
+      "https://yigitozen.art/fonts/hanken-normal-latin-ext.woff2"
+    ]
+  },
+  "covers_regenerated": 180,
+  "grid_states_regenerated": 362,
+  "source_artwork_colour_or_shape_changed": false,
+  "platform_upload_preview_checked": false,
+  "published": false
+}

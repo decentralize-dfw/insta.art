@@ -1,0 +1,402 @@
+{
+  "date": "2026-10-16",
+  "schema": "career-working-sample-v1",
+  "groups": {
+    "1": 5,
+    "2": 5,
+    "3": 5,
+    "4": 5,
+    "5": 5
+  },
+  "sample_completed": true,
+  "universal_hierarchy_asserted": false,
+  "artists": [
+    {
+      "id": "S1-01",
+      "artist": "Stephanie Man",
+      "working_level": 1,
+      "level_definition": "İlk profesyonel sunum döngüsü",
+      "positive_evidence": "2026 ilk tam zamanlı resim yılı ve kendi düzenlediği sergi.",
+      "analysis_document": "network-25-01-project-careers-20261016.md",
+      "source_urls": [
+        "https://stephaniemanart.substack.com/p/reflections-from-my-first-self-organised",
+        "https://www.stephaniemanart.com/",
+        "https://www.instagram.com/reel/Dca4ynhs9xb/"
+      ],
+      "previous_case_id": "N25-A01",
+      "instagram_sequence_reviewed": false,
+      "classification_type": "editorial comparison by documented career infrastructure, not a validated universal ranking"
+    },
+    {
+      "id": "S1-02",
+      "artist": "Olmo Gasperini",
+      "working_level": 1,
+      "level_definition": "İlk profesyonel sunum döngüsü",
+      "positive_evidence": "2024 mezuniyet sonrası 2026 ikili sergi.",
+      "analysis_document": "network-25-01-project-careers-20261016.md",
+      "source_urls": [
+        "https://www.artribune.com/professioni-e-professionisti/who-is-who/2026/04/intervista-giovane-artista-olmo-gasperini/",
+        "https://vonburencontemporary.com/gasperini-and-norenko-inside-out-june-26/"
+      ],
+      "previous_case_id": "N25-A02",
+      "instagram_sequence_reviewed": false,
+      "classification_type": "editorial comparison by documented career infrastructure, not a validated universal ranking"
+    },
+    {
+      "id": "S1-03",
+      "artist": "Emma Masut",
+      "working_level": 1,
+      "level_definition": "İlk profesyonel sunum döngüsü",
+      "positive_evidence": "Devam eden öğrenim, 2025/2026 ilk kişisel sunumlar.",
+      "analysis_document": "market-career-s1-03-20261016.md",
+      "source_urls": [
+        "https://www.climagallery.com/exhibition/emma-masut-solo-show/",
+        "https://www.fondazionezucchelli.it/arte-fiera-2026/"
+      ],
+      "previous_case_id": null,
+      "instagram_sequence_reviewed": false,
+      "classification_type": "editorial comparison by documented career infrastructure, not a validated universal ranking"
+    },
+    {
+      "id": "S1-04",
+      "artist": "Anastasia Norenko",
+      "working_level": 1,
+      "level_definition": "İlk profesyonel sunum döngüsü",
+      "positive_evidence": "2024 mezuniyet sonrası 2026 ikili galeri sunumu.",
+      "analysis_document": "market-career-s1-04-20261016.md",
+      "source_urls": [
+        "https://vonburencontemporary.com/artists/anastasia-norenko",
+        "https://vonburencontemporary.com/gasperini-and-norenko-inside-out-june-26/",
+        "https://vonburencontemporary.com/wp-content/uploads/2026/06/Price-List_Inside-out_June26-1.pdf"
+      ],
+      "previous_case_id": null,
+      "instagram_sequence_reviewed": false,
+      "classification_type": "editorial comparison by documented career infrastructure, not a validated universal ranking"
+    },
+    {
+      "id": "S1-05",
+      "artist": "Kaja Podgoršek",
+      "working_level": 1,
+      "level_definition": "İlk profesyonel sunum döngüsü",
+      "positive_evidence": "2025 mezuniyet, 2024 ilk kişisel sergi ve 2026 kurum projesi.",
+      "analysis_document": "market-career-s1-05-20261016.md",
+      "source_urls": [
+        "https://www.kinosiska.si/en/dogodek/umetnica-na-mesec-i-kaja-podgorsek-kevdr/"
+      ],
+      "previous_case_id": null,
+      "instagram_sequence_reviewed": false,
+      "classification_type": "editorial comparison by documented career infrastructure, not a validated universal ranking"
+    },
+    {
+      "id": "S2-01",
+      "artist": "Rae Klein",
+      "working_level": 2,
+      "level_definition": "Süreklileşmiş galeri dolaşımı",
+      "positive_evidence": "2022–2026 Nicodim kişisel sergileri ve açık temsil beyanı.",
+      "analysis_document": "network-25-02-gallery-circulation-20261016.md",
+      "source_urls": [
+        "https://www.raeklein.com/about",
+        "https://mepaintsme.substack.com/p/rae-klein"
+      ],
+      "previous_case_id": "N25-B01",
+      "instagram_sequence_reviewed": false,
+      "classification_type": "editorial comparison by documented career infrastructure, not a validated universal ranking"
+    },
+    {
+      "id": "S2-02",
+      "artist": "Lee Gihun",
+      "working_level": 2,
+      "level_definition": "Süreklileşmiş galeri dolaşımı",
+      "positive_evidence": "2025 kentler arası galeri kişisel sunumları, 2026 New York galeri sergisi.",
+      "analysis_document": "network-25-02-gallery-circulation-20261016.md",
+      "source_urls": [
+        "https://thehole.com/exhibitions/lee-gihun",
+        "https://www.theartnewspaper.com/2026/04/06/pressures-squeezing-gallery-sector-the-hole-new-york-los-angeles"
+      ],
+      "previous_case_id": "N25-B02",
+      "instagram_sequence_reviewed": false,
+      "classification_type": "editorial comparison by documented career infrastructure, not a validated universal ranking"
+    },
+    {
+      "id": "S2-03",
+      "artist": "Martin Lukáč",
+      "working_level": 2,
+      "level_definition": "Süreklileşmiş galeri dolaşımı",
+      "positive_evidence": "Birden fazla ülkede tarihli galeri geçmişi ve isimli ilişki anlatısı; tam 2026 CV’si teyit edilmedi.",
+      "analysis_document": "network-25-02-gallery-circulation-20261016.md",
+      "source_urls": [
+        "https://lukacmartin.com/",
+        "https://www.collectorsagenda.com/en/in-the-studio/martin-luk%C3%A1%C4%8D",
+        "https://duveberlin.com/Id_rather_be_with_you"
+      ],
+      "previous_case_id": "N25-B03",
+      "instagram_sequence_reviewed": false,
+      "classification_type": "editorial comparison by documented career infrastructure, not a validated universal ranking"
+    },
+    {
+      "id": "S2-04",
+      "artist": "Nick McPhail",
+      "working_level": 2,
+      "level_definition": "Süreklileşmiş galeri dolaşımı",
+      "positive_evidence": "Tekrarlanan galeri kişisel sergileri ve 2026 grup sunumu; müze grup kaydı kişisel sergi sayılmadı.",
+      "analysis_document": "network-25-02-gallery-circulation-20261016.md",
+      "source_urls": [
+        "https://nickmcphail.com/CV",
+        "https://zidoun-bossuyt.com/exhibitions/fragments-of-paradise-feipel-bechameil-lucas-georges-christian-louis-granet-nick-mcphail-brian-rochefort-and-summer-wheat/",
+        "https://hopperprize.org/nick-mcphail-interview/"
+      ],
+      "previous_case_id": "N25-B05",
+      "instagram_sequence_reviewed": false,
+      "classification_type": "editorial comparison by documented career infrastructure, not a validated universal ranking"
+    },
+    {
+      "id": "S2-05",
+      "artist": "Dana Lok",
+      "working_level": 2,
+      "level_definition": "Süreklileşmiş galeri dolaşımı",
+      "positive_evidence": "Clima 2016–2026 ve Miguel Abreu tekrar eden kişisel sunumları; müze grup katılımı kişisel sunum sayılmadı.",
+      "analysis_document": "network-25-03-institutional-expansion-20261016.md",
+      "source_urls": [
+        "https://www.climagallery.com/exhibition/a-body-for-your-thoughts/",
+        "https://www.climagallery.com/artist/dana-lok/",
+        "https://www.danalok.com/cvandcontact"
+      ],
+      "previous_case_id": "N25-C02",
+      "instagram_sequence_reviewed": false,
+      "classification_type": "editorial comparison by documented career infrastructure, not a validated universal ranking"
+    },
+    {
+      "id": "S3-01",
+      "artist": "Robin F. Williams",
+      "working_level": 3,
+      "level_definition": "Kişisel kurumsal/müze sunumuyla genişleyen kariyer",
+      "positive_evidence": "2024 ilk kişisel kurumsal sergi; 2026 galeri sunumu.",
+      "analysis_document": "network-25-03-institutional-expansion-20261016.md",
+      "source_urls": [
+        "https://www.ppowgallery.com/artists/robin-f-williams",
+        "https://www.ppowgallery.com/exhibitions/robin-f-williams6"
+      ],
+      "previous_case_id": "N25-C01",
+      "instagram_sequence_reviewed": false,
+      "classification_type": "editorial comparison by documented career infrastructure, not a validated universal ranking"
+    },
+    {
+      "id": "S3-02",
+      "artist": "Danielle Mckinney",
+      "working_level": 3,
+      "level_definition": "Kişisel kurumsal/müze sunumuyla genişleyen kariyer",
+      "positive_evidence": "Norton kişisel sergisi ve galerinin süren yayın/temsil altyapısı.",
+      "analysis_document": "network-25-03-institutional-expansion-20261016.md",
+      "source_urls": [
+        "https://www.norton.org/exhibitions/danielle-mckinney-shelter",
+        "https://bombmagazine.org/articles/2026/08/26/danielle-mckinney-by-salom%C3%A9-g%C3%B3mez-upegui/",
+        "https://marianneboeskygallery.com/press/631-time100-art-2026-danielle-mckinney-painter-of/"
+      ],
+      "previous_case_id": "N25-C03",
+      "instagram_sequence_reviewed": false,
+      "classification_type": "editorial comparison by documented career infrastructure, not a validated universal ranking"
+    },
+    {
+      "id": "S3-03",
+      "artist": "Issy Wood",
+      "working_level": 3,
+      "level_definition": "Kişisel kurumsal/müze sunumuyla genişleyen kariyer",
+      "positive_evidence": "NPG/ICA/Kistefos kişisel programları; farklı kurumsal araçlar.",
+      "analysis_document": "network-25-03-institutional-expansion-20261016.md",
+      "source_urls": [
+        "https://www.npg.org.uk/whatson/display/2026/artist-focus-issy-wood",
+        "https://ica.art/live/issy-wood",
+        "https://www.kistefosmuseum.com/exhibitions/issy-wood"
+      ],
+      "previous_case_id": "N25-C04",
+      "instagram_sequence_reviewed": false,
+      "classification_type": "editorial comparison by documented career infrastructure, not a validated universal ranking"
+    },
+    {
+      "id": "S3-04",
+      "artist": "Nat Meade",
+      "working_level": 3,
+      "level_definition": "Kişisel kurumsal/müze sunumuyla genişleyen kariyer",
+      "positive_evidence": "Galeri CV’sinde The Wait, Schneider Museum, 2017; Hesse Flatow’da 2026 üçüncü kişisel sunum.",
+      "analysis_document": "network-25-02-gallery-circulation-20261016.md",
+      "source_urls": [
+        "https://www.nosbaumreding.com/en/artists/exhibitiondetails/16324/nat-meade-shed-works-on-paper?iae=399",
+        "https://www.maakemagazine.com/nat-meade"
+      ],
+      "previous_case_id": "N25-B04",
+      "instagram_sequence_reviewed": false,
+      "classification_type": "editorial comparison by documented career infrastructure, not a validated universal ranking"
+    },
+    {
+      "id": "S3-05",
+      "artist": "Monica Ikegwu",
+      "working_level": 3,
+      "level_definition": "Kişisel kurumsal/müze sunumuyla genişleyen kariyer",
+      "positive_evidence": "2024 müze edinim kararı ve 2026 ilk müze tarafından düzenlenmiş kişisel sergi.",
+      "analysis_document": "market-career-s3-05-20261016.md",
+      "source_urls": [
+        "https://comuga.org/exhibition/monica-ikegwu-through-the-veil/",
+        "https://www.monicaikegwu.com/cv"
+      ],
+      "previous_case_id": null,
+      "instagram_sequence_reviewed": false,
+      "classification_type": "editorial comparison by documented career infrastructure, not a validated universal ranking"
+    },
+    {
+      "id": "S4-01",
+      "artist": "Louise Giovanelli",
+      "working_level": 4,
+      "level_definition": "Geniş uluslararası ticari temsil altyapısı",
+      "positive_evidence": "White Cube’un uluslararası ticari temsil/yayın ağı; kurum kayıtları ayrıca mevcut.",
+      "analysis_document": "network-25-03-institutional-expansion-20261016.md",
+      "source_urls": [
+        "https://www.whitecube.com/artists/louise-giovanelli",
+        "https://www.wallpaper.com/art/exhibitions-shows/louise-giovanelli-at-white-cube-interview"
+      ],
+      "previous_case_id": "N25-C05",
+      "instagram_sequence_reviewed": false,
+      "classification_type": "editorial comparison by documented career infrastructure, not a validated universal ranking"
+    },
+    {
+      "id": "S4-02",
+      "artist": "Louise Bonnet",
+      "working_level": 4,
+      "level_definition": "Geniş uluslararası ticari temsil altyapısı",
+      "positive_evidence": "Gagosian’ın ticari ve çok biçimli yayın ağı; kurum koleksiyon kayıtları.",
+      "analysis_document": "network-25-04-global-gallery-20261016.md",
+      "source_urls": [
+        "https://gagosian.com/artists/louise-bonnet/",
+        "https://gagosian.com/news/museum-exhibitions/in-these-times-recent-acquisitions-at-moca-la/",
+        "https://gagosian.com/quarterly/2025/04/21/interview-louise-bonnet-and-elizabeth-king/"
+      ],
+      "previous_case_id": "N25-D01",
+      "instagram_sequence_reviewed": false,
+      "classification_type": "editorial comparison by documented career infrastructure, not a validated universal ranking"
+    },
+    {
+      "id": "S4-03",
+      "artist": "Jadé Fadojutimi",
+      "working_level": 4,
+      "level_definition": "Geniş uluslararası ticari temsil altyapısı",
+      "positive_evidence": "Gagosian programı, 2026 kitap ve katkı kredileri.",
+      "analysis_document": "network-25-04-global-gallery-20261016.md",
+      "source_urls": [
+        "https://gagosian.com/artists/jade-fadojutimi/",
+        "https://gagosian.com/exhibitions/2026/selections/",
+        "https://gagosianshop.com/products/jade-fadojutimi-dwelve-a-goosebump-in-memory-book"
+      ],
+      "previous_case_id": "N25-D02",
+      "instagram_sequence_reviewed": false,
+      "classification_type": "editorial comparison by documented career infrastructure, not a validated universal ranking"
+    },
+    {
+      "id": "S4-04",
+      "artist": "Julie Curtiss",
+      "working_level": 4,
+      "level_definition": "Geniş uluslararası ticari temsil altyapısı",
+      "positive_evidence": "Gagosian kişisel sergi duyurusu ve White Cube kaydı.",
+      "analysis_document": "network-25-04-global-gallery-20261016.md",
+      "source_urls": [
+        "https://gagosian.com/exhibitions/2026/julie-curtiss-unreal/",
+        "https://www.whitecube.com/artists/julie-curtiss"
+      ],
+      "previous_case_id": "N25-D04",
+      "instagram_sequence_reviewed": false,
+      "classification_type": "editorial comparison by documented career infrastructure, not a validated universal ranking"
+    },
+    {
+      "id": "S4-05",
+      "artist": "Amoako Boafo",
+      "working_level": 4,
+      "level_definition": "Geniş uluslararası ticari temsil altyapısı",
+      "positive_evidence": "Gagosian programı ve Palazzo Grimani proje ortaklığı.",
+      "analysis_document": "network-25-04-global-gallery-20261016.md",
+      "source_urls": [
+        "https://gagosian.com/artists/amoako-boafo/",
+        "https://cultura.gov.it/evento/la-prima-mostra-personale-di-amoako-boafo-in-italia-museo-di-palazzo-grimani",
+        "https://heni.com/news/article/amoako-boafo-five-things-venice-show-january-19"
+      ],
+      "previous_case_id": "N25-D05",
+      "instagram_sequence_reviewed": false,
+      "classification_type": "editorial comparison by documented career infrastructure, not a validated universal ranking"
+    },
+    {
+      "id": "S5-01",
+      "artist": "George Condo",
+      "working_level": 5,
+      "level_definition": "Uzun kariyerin müze ve arşivle değerlendirilmesi",
+      "positive_evidence": "Dört on yılı aşan kariyer ve 2025–2026 retrospektif.",
+      "analysis_document": "network-25-05-museum-history-20261016.md",
+      "source_urls": [
+        "https://www.mam.paris.fr/fr/expositions/exposition-george-condo",
+        "https://www.hauserwirth.com/artists/26942-george-condo/",
+        "https://www.sothebys.com/en/buy/auction/2026/the-now-contemporary-evening-auction/figure-on-a-red-field?locale=en",
+        "https://help.sothebys.com/en/support/solutions/articles/44002518844-guide-for-buyers-symbol-key"
+      ],
+      "previous_case_id": "N25-E01",
+      "instagram_sequence_reviewed": false,
+      "classification_type": "editorial comparison by documented career infrastructure, not a validated universal ranking"
+    },
+    {
+      "id": "S5-02",
+      "artist": "Cecily Brown",
+      "working_level": 5,
+      "level_definition": "Uzun kariyerin müze ve arşivle değerlendirilmesi",
+      "positive_evidence": "2026 kurum sunumunda eski/yeni üretimin birlikte okunması.",
+      "analysis_document": "network-25-05-museum-history-20261016.md",
+      "source_urls": [
+        "https://www.serpentinegalleries.org/whats-on/cecily-brown-picture-making/",
+        "https://www.serpentinegalleries.org/whats-on/2026-at-serpentine/"
+      ],
+      "previous_case_id": "N25-E02",
+      "instagram_sequence_reviewed": false,
+      "classification_type": "editorial comparison by documented career infrastructure, not a validated universal ranking"
+    },
+    {
+      "id": "S5-03",
+      "artist": "Peter Doig",
+      "working_level": 5,
+      "level_definition": "Uzun kariyerin müze ve arşivle değerlendirilmesi",
+      "positive_evidence": "Uzun kariyerin House of Music müze programı ve arşiv bağlantıları.",
+      "analysis_document": "network-25-05-museum-history-20261016.md",
+      "source_urls": [
+        "https://www.serpentinegalleries.org/whats-on/peter-doig-house-of-music/",
+        "https://www.serpentinegalleries.org/whats-on/peter-doig-house-of-music-sound-service/"
+      ],
+      "previous_case_id": "N25-E03",
+      "instagram_sequence_reviewed": false,
+      "classification_type": "editorial comparison by documented career infrastructure, not a validated universal ranking"
+    },
+    {
+      "id": "S5-04",
+      "artist": "Marlene Dumas",
+      "working_level": 5,
+      "level_definition": "Uzun kariyerin müze ve arşivle değerlendirilmesi",
+      "positive_evidence": "Uzun kurum/koleksiyon geçmişi, Louvre 2025 sipariş/edinim kaydı.",
+      "analysis_document": "network-25-05-museum-history-20261016.md",
+      "source_urls": [
+        "https://www.marlenedumas.nl/current-exhibitions-events/",
+        "https://www.louvre.fr/decouvrir/vie-du-musee/liaisons-marlene-dumas-entre-au-louvre",
+        "https://collections.louvre.fr/en/ark%3A/53355/cl010535766"
+      ],
+      "previous_case_id": "N25-E04",
+      "instagram_sequence_reviewed": false,
+      "classification_type": "editorial comparison by documented career infrastructure, not a validated universal ranking"
+    },
+    {
+      "id": "S5-05",
+      "artist": "Kerry James Marshall",
+      "working_level": 5,
+      "level_definition": "Uzun kariyerin müze ve arşivle değerlendirilmesi",
+      "positive_evidence": "Uzun kariyeri değerlendiren kurumlar arası sergi ve 2026 panel.",
+      "analysis_document": "network-25-05-museum-history-20261016.md",
+      "source_urls": [
+        "https://www.mam.paris.fr/fr/expositions/exposition-kerry-james-marshall",
+        "https://www.ucl.ac.uk/social-historical-sciences/news/2026/jan/curating-kerry-james-marshall-event"
+      ],
+      "previous_case_id": "N25-E05",
+      "instagram_sequence_reviewed": false,
+      "classification_type": "editorial comparison by documented career infrastructure, not a validated universal ranking"
+    }
+  ]
+}

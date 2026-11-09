@@ -1,0 +1,420 @@
+id,day,week,time,timezone,format,work_key,title_en,asset_ids,caption_en,why_this_post_tr,content_kind,status,music_id,duration_seconds,music_window_seconds,is_archive,actual_published_at,rendered_media_path,story,story_text_en,measurement_ages_hours,editorial_language,source_selection_status,repeated_work_check,edit_tr,source_video_id,cover_en,voiceover_en,sound_tr,detailed,export_tr,caption_status,alt_text_en,caption_file
+V2-P001,1,1,19:00,Europe/Paris,Reel,capricorn,The lower figure changes.,"[""A2802"", ""A1832""]","From the 2020 studio archive. Watch the dark paint take over the lower figure.
+
+The clip records an intermediate stage of the painting. The final image shows the later finished work.
+
+caprocorn sister: war, plague, earthquake
+2020 · Acrylic on canvas
+90 × 65 cm (h × w).
+
+Music: Signal to Noise — Scott Buckley. CC BY 4.0. Excerpt; volume adjusted.
+https://www.scottbuckley.com.au/library/signal-to-noise/
+https://creativecommons.org/licenses/by/4.0/",Alt figürün koyu alanla değişmesi; son eser ile çekim aşamasını ayır.,actual_painting,detailed_plan_not_rendered,M1,32,"[30, 62]",True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,A painting stage from the 2020 studio archive.,"[24, 72, 168]",en,kesin üretim kartı,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A2802,A FIGURE IN CHANGE,,"Kaynak sesi kapat; arka plandaki müziği taşıma. Signal to Noise 00:30–01:02, düşük seviyede; müzik bölümü final kurguda dinlenerek eşlenecek.",True,"Video 1080 × 1920; kaynak yataysa el, tablo ve kişi ilişkisini koruyan yatay pencereyi dikey alana yerleştir. Ekranı doldurmak uğruna tabloyu kesme. Statik yayın 1080 × 1350 sRGB JPEG; oranı koru.",İngilizce yayın taslağı. Ses metni olan iki Reel’de İngilizce kayıt gerekli; henüz medya export edilmedi.,A filmed painting session shows dark paint spreading over the lower figure in a yellow-ground stage of caprocorn sister. The finished dark-field work appears at the end.,captions-v2/GUN-001.txt
+V2-P002,3,1,19:00,Europe/Paris,Carousel,painstaking,Painstaking,"[""A0025"", ""A0028"", ""A0029"", ""A0027""]","Painstaking
+2026 · Acrylic on canvas
+Triptych · 3 panels, each 40 × 30 cm (h × w).",Bağımsız tamamlanmış eser sunumu. Haftanın Reel’inin başka formatta tekrarı değil; farklı eser.,finished_work,detailed_plan_not_rendered,M0,0,,False,,,Otomatik destek Story’si yok. Aynı triptiğin ayrıntılarını başka günlere dağıtma.,Painstaking,"[24, 72, 168]",en,kesin üretim kartı,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Tam eser ve gerekliyse gerçekten farklı bilgi taşıyan 2–3 ek görüntü. Tek görsel yetiyorsa carousel yapma; açıklayıcı slogan kotası yok.,,Painstaking,,Müzik yok. Tamamlanmış eser kendi başına durur.,True,"Video 1080 × 1920; kaynak yataysa el, tablo ve kişi ilişkisini koruyan yatay pencereyi dikey alana yerleştir. Ekranı doldurmak uğruna tabloyu kesme. Statik yayın 1080 × 1350 sRGB JPEG; oranı koru.",İngilizce yayın taslağı. Ses metni olan iki Reel’de İngilizce kayıt gerekli; henüz medya export edilmedi.,"Painstaking, 2026, a triptych of distorted faces. Four images show the whole arrangement followed by the left, centre and right panels.",captions-v2/GUN-003.txt
+V2-P003,5,1,19:00,Europe/Paris,Single,baby,Archive drawing,"[""A0001""]","An undated study from the baby rights 101 files. The drawing keeps the overlapping bodies and red passage visible at an early stage. The painting is dated 2020; a date for this study has not been established.
+
+Archive drawing · undated
+Yiğit Özen",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_study,detailed_plan_not_rendered,M0,0,,True,,,Story gerekmez. Bu çizim bir sonraki postun tanıtımı olarak kullanılmaz.,Archive drawing,"[24, 72, 168]",en,kesin üretim kartı,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,Müzik yok.,True,"Video 1080 × 1920; kaynak yataysa el, tablo ve kişi ilişkisini koruyan yatay pencereyi dikey alana yerleştir. Ekranı doldurmak uğruna tabloyu kesme. Statik yayın 1080 × 1350 sRGB JPEG; oranı koru.",İngilizce yayın taslağı. Ses metni olan iki Reel’de İngilizce kayıt gerekli; henüz medya export edilmedi.,"An archive drawing with overlapping bodies, long reaching arms and a red passage at the centre.",captions-v2/GUN-005.txt
+V2-P004,8,2,19:00,Europe/Paris,Reel,board,What would you leave alone?,"[""A0620"", ""A0592""]","The studio conversation came down to two things: darken the pieces, and leave the background alone.
+
+A moment from working on 7 fam board game.
+
+7 fam board game
+2026 · Acrylic on canvas
+80 × 100 cm (h × w).",Piyonlar ve arka plan üzerine gerçek atölye konuşması.,studio_conversation,detailed_plan_not_rendered,M0,28,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,One thing to change. One thing to leave alone.,"[24, 72, 168]",en,kesin üretim kartı,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A0620,WHAT WOULD YOU LEAVE ALONE?,"The suggestion was to darken the pieces, but leave the background alone. This studio conversation is about two decisions: what still needs work, and what already holds together.","Müzik yok. İngilizce anlatım taslağı sanatçı tarafından kaydedilecek; Türkçe kaynak sesini alıntı/dublaj gibi dudakla eşleme. Anlatım, A0620 28–84 sn dökümündeki konuşmanın editoryal özetidir.",True,"Video 1080 × 1920; kaynak yataysa el, tablo ve kişi ilişkisini koruyan yatay pencereyi dikey alana yerleştir. Ekranı doldurmak uğruna tabloyu kesme. Statik yayın 1080 × 1350 sRGB JPEG; oranı koru.",İngilizce yayın taslağı. Ses metni olan iki Reel’de İngilizce kayıt gerekli; henüz medya export edilmedi.,Two people discuss a painting laid on a studio table. The completed chess-scene painting appears once during the excerpt.,captions-v2/GUN-008.txt
+V2-P005,10,2,19:00,Europe/Paris,Reel,angora,I put a childhood character above my childhood home.,"[""A1632"", ""A1378""]","I put a childhood character above the house I grew up in. The house began to take over the painting.
+
+A familiar visitor can carry a feeling of return, but also a sense of threat.
+
+Angora Mergvs
+2026 · Acrylic on canvas
+120 × 100 cm (h × w).","Sanatçı anlatısındaki kişisel sebep. Önceki Satranç sohbetinden farklı eser, bilgi ve ritim.",artist_story,detailed_plan_not_rendered,M0,38,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,The house in this painting is the house I grew up in.,"[24, 72, 168]",en,kesin üretim kartı,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Gerçek konuşma videosu + ev/figürün en fazla iki sabit bindirmesi. Kişisel anlatı taşıyan İngilizce ses metni; slayt sırası yok.,A1632,"MY CHILDHOOD HOME, REVISITED","I put a childhood character above the house I grew up in. I wanted the house to be a main character too. The visitor is familiar, but there is something uncertain about its arrival: is it coming back, or coming to attack?","Müzik yok. Yeni İngilizce ses kaydı metni, mevcut Türkçe anlatının 196–224 / 308–364 / 616–644 sn bölümlerinden yaratıcı uyarlama. Henüz kayıt alınmadı; onaylanmış birebir çeviri veya eski videoda söylenmiş İngilizce söz değil.",True,"Video 1080 × 1920; kaynak yataysa el, tablo ve kişi ilişkisini koruyan yatay pencereyi dikey alana yerleştir. Ekranı doldurmak uğruna tabloyu kesme. Statik yayın 1080 × 1350 sRGB JPEG; oranı koru.",İngilizce yayın taslağı. Ses metni olan iki Reel’de İngilizce kayıt gerekli; henüz medya export edilmedi.,"The artist speaks at a desk. The painting Angora Mergvs appears over the footage, showing a blue house with an orange winged figure above it.",captions-v2/GUN-010.txt
+V2-P006,12,2,19:00,Europe/Paris,Single,ciao,"ciao capo, sono squalo","[""A1903""]","From the Milan archive.
+
+ciao capo, sono squalo
+2020 · Acrylic on canvas
+90 × 65 cm (h × w).",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_work,detailed_plan_not_rendered,M0,0,,True,,,Story zorunlu değil; tamamlanmış eski eser için izleyiciye bakma alanı bırak.,"ciao capo, sono squalo","[24, 72, 168]",en,kesin üretim kartı,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,Müzik yok.,True,"Video 1080 × 1920; kaynak yataysa el, tablo ve kişi ilişkisini koruyan yatay pencereyi dikey alana yerleştir. Ekranı doldurmak uğruna tabloyu kesme. Statik yayın 1080 × 1350 sRGB JPEG; oranı koru.",İngilizce yayın taslağı. Ses metni olan iki Reel’de İngilizce kayıt gerekli; henüz medya export edilmedi.,"ciao capo, sono squalo, 2020: two elongated blue and white figures against a red-and-black field.",captions-v2/GUN-012.txt
+V2-P007,15,3,19:00,Europe/Paris,Reel,sept,The figure is the part left unpainted.,"[""A1159"", ""A0947""]","The green goes down around the figure. This part of the painting is built by leaving an area open while working on what surrounds it.
+
+sept neuf
+2026 · Acrylic on canvas
+75 × 55 cm (h × w).
+
+Music: Signal to Noise — Scott Buckley. CC BY 4.0. Excerpt; volume adjusted.
+https://www.scottbuckley.com.au/library/signal-to-noise/
+https://creativecommons.org/licenses/by/4.0/",Yeşil zemin boyanırken açık figür alanının bırakılması.,actual_painting,draft_revalidate_before_production,M1,28,"[30, 58]",False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,The figure is the part left unpainted.,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A1159,,,,False,,,,captions-v2/GUN-015.txt
+V2-P008,17,3,19:00,Europe/Paris,Single,wall,walls of perception,"[""A0258""]","walls of perception
+2026 · Acrylic on canvas
+70 × 50 cm (h × w).",Bağımsız tamamlanmış eser sunumu. Haftanın Reel’inin başka formatta tekrarı değil; farklı eser.,finished_work,draft_revalidate_before_production,M0,0,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,walls of perception,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Tam eser ve gerekliyse gerçekten farklı bilgi taşıyan 2–3 ek görüntü. Tek görsel yetiyorsa carousel yapma; açıklayıcı slogan kotası yok.,,,,,False,,,,captions-v2/GUN-017.txt
+V2-P009,19,3,19:00,Europe/Paris,Single,wings,Archive drawing,"[""A2795""]","An undated drawing from the archive. The working lines and notes remain visible. Filed as wingsofabbyss-v1; the drawing is presented on its own.
+
+Archive drawing · undated
+Yiğit Özen",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_study,draft_revalidate_before_production,M0,0,,True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,Archive drawing,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,,False,,,,captions-v2/GUN-019.txt
+V2-P010,22,4,19:00,Europe/Paris,Reel,gxd,How did an album cover enter this painting?,"[""A1340"", ""A1209""]","An album cover became part of the route into Gxd is AFK, We banned it. This short account follows the reference back into the painting.
+
+Gxd is AFK, We banned it
+2026 · Acrylic on canvas
+80 × 60 cm (h × w).",Sanatçının kendi resmine giden referans yolunu kısa anlatıya çevir.,artist_story,draft_revalidate_before_production,M0,28,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,How did an album cover enter this painting?,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A1340,,,,False,,,,captions-v2/GUN-022.txt
+V2-P011,24,4,19:00,Europe/Paris,Single,stlop,s(t)lop,"[""A0134""]","s(t)lop
+2026 · Acrylic on canvas
+75 × 55 cm (h × w).",Bağımsız tamamlanmış eser sunumu. Haftanın Reel’inin başka formatta tekrarı değil; farklı eser.,finished_work,draft_revalidate_before_production,M0,0,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,s(t)lop,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Tam eser ve gerekliyse gerçekten farklı bilgi taşıyan 2–3 ek görüntü. Tek görsel yetiyorsa carousel yapma; açıklayıcı slogan kotası yok.,,,,,False,,,,captions-v2/GUN-024.txt
+V2-P012,26,4,19:00,Europe/Paris,Single,duality,duality of the angelic summarization,"[""A1945""]","From the 2019 archive. A divided figure in purple, blue and green.
+
+duality of the angelic summarization
+2019 · Acrylic on canvas
+90 × 65 cm (h × w).",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_work,draft_revalidate_before_production,M0,0,,True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,duality of the angelic summarization,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,,False,,,,captions-v2/GUN-026.txt
+V2-P013,29,5,19:00,Europe/Paris,Reel,capricorn,This yellow stage came before the dark painting.,"[""A2800"", ""A1832""]","A yellow stage from the studio archive, followed by the finished dark-field painting. The archive preserves how far apart two states of one work can be.
+
+caprocorn sister: war, plague, earthquake
+2020 · Acrylic on canvas
+90 × 65 cm (h × w).
+
+Music: Signal to Noise — Scott Buckley. CC BY 4.0. Excerpt; volume adjusted.
+https://www.scottbuckley.com.au/library/signal-to-noise/
+https://creativecommons.org/licenses/by/4.0/",Sarı zeminli kaydı tarihli ara aşama olarak göster; son kararmayı filme alınmış gibi sunma.,actual_painting,draft_revalidate_before_production,M1,28,"[30, 58]",True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,This yellow stage came before the dark painting.,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A2800,,,,False,,,,captions-v2/GUN-029.txt
+V2-P014,31,5,19:00,Europe/Paris,Carousel,virgil,Virgil on Virtual Cage (final_final-finalV9),"[""A0582"", ""A0498"", ""A0499""]","Virgil on Virtual Cage (final_final-finalV9)
+2026 · Acrylic on canvas
+100 × 80 cm (h × w).",Bağımsız tamamlanmış eser sunumu. Haftanın Reel’inin başka formatta tekrarı değil; farklı eser.,finished_work,draft_revalidate_before_production,M0,0,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,Virgil on Virtual Cage (final_final-finalV9),"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Tam eser ve gerekliyse gerçekten farklı bilgi taşıyan 2–3 ek görüntü. Tek görsel yetiyorsa carousel yapma; açıklayıcı slogan kotası yok.,,,,,False,,,,captions-v2/GUN-031.txt
+V2-P015,33,5,19:00,Europe/Paris,Single,good,Archive drawing,"[""A0004""]","An undated drawing from the good people files. The loose pencil lines are part of what is being shown here.
+
+Archive drawing · undated
+Yiğit Özen",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_study,draft_revalidate_before_production,M0,0,,True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,Archive drawing,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,,False,,,,captions-v2/GUN-033.txt
+V2-P016,36,6,19:00,Europe/Paris,Reel,board,A red shape becomes part of the figure.,"[""A0630"", ""A0592""]","The brush keeps returning to the red figure. This excerpt stays with one area rather than trying to compress the whole painting into a few seconds.
+
+7 fam board game
+2026 · Acrylic on canvas
+80 × 100 cm (h × w).
+
+Music: Signal to Noise — Scott Buckley. CC BY 4.0. Excerpt; volume adjusted.
+https://www.scottbuckley.com.au/library/signal-to-noise/
+https://creativecommons.org/licenses/by/4.0/",Kırmızı gövde alanındaki gerçek çalışma hareketini tek ilerleme olarak kur.,actual_painting,draft_revalidate_before_production,M1,28,"[30, 58]",False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,A red shape becomes part of the figure.,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A0630,,,,False,,,,captions-v2/GUN-036.txt
+V2-P017,38,6,19:00,Europe/Paris,Single,gary,gary grills cooper,"[""A0298""]","gary grills cooper
+2026 · Acrylic on canvas
+75 × 55 cm (h × w).",Bağımsız tamamlanmış eser sunumu. Haftanın Reel’inin başka formatta tekrarı değil; farklı eser.,finished_work,draft_revalidate_before_production,M0,0,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,gary grills cooper,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Tam eser ve gerekliyse gerçekten farklı bilgi taşıyan 2–3 ek görüntü. Tek görsel yetiyorsa carousel yapma; açıklayıcı slogan kotası yok.,,,,,False,,,,captions-v2/GUN-038.txt
+V2-P018,40,6,19:00,Europe/Paris,Single,cellular,cellular spleens,"[""A1862""]","From the 2020 archive. A pale field filled with eyes and organic forms.
+
+cellular spleens
+2020 · Acrylic on canvas
+120 × 100 cm (h × w).",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_work,draft_revalidate_before_production,M0,0,,True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,cellular spleens,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,,False,,,,captions-v2/GUN-040.txt
+V2-P019,43,7,19:00,Europe/Paris,Reel,angora,"A visitor, or a threat?","[""A1632"", ""A1378""]","A childhood character above a childhood home. The figure in Angora Mergvs can read as a visitor, but it can also feel like a threat.
+
+Angora Mergvs
+2026 · Acrylic on canvas
+120 × 100 cm (h × w).",Çocukluk evi ve kahramanı arasındaki ikiliği anlatan kaynak bölüm: yaklaşık 616–672 sn.,artist_story,draft_revalidate_before_production,M0,28,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,"A visitor, or a threat?","[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A1632,,,,False,,,,captions-v2/GUN-043.txt
+V2-P020,45,7,19:00,Europe/Paris,Carousel,mandarin,articulo attack on mandarin,"[""A0160"", ""A0135"", ""A0136""]","articulo attack on mandarin
+2026 · Acrylic on canvas
+80 × 80 cm (h × w).",Bağımsız tamamlanmış eser sunumu. Haftanın Reel’inin başka formatta tekrarı değil; farklı eser.,finished_work,draft_revalidate_before_production,M0,0,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,articulo attack on mandarin,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Tam eser ve gerekliyse gerçekten farklı bilgi taşıyan 2–3 ek görüntü. Tek görsel yetiyorsa carousel yapma; açıklayıcı slogan kotası yok.,,,,,False,,,,captions-v2/GUN-045.txt
+V2-P021,47,7,19:00,Europe/Paris,Single,rompi,il sbagliato di rompipalle,"[""A1750""]","From the 2019 archive. A face broken into coloured passages.
+
+il sbagliato di rompipalle
+2019 · Acrylic on canvas
+90 × 65 cm (h × w).",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_work,draft_revalidate_before_production,M0,0,,True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,il sbagliato di rompipalle,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,,False,,,,captions-v2/GUN-047.txt
+V2-P022,50,8,19:00,Europe/Paris,Reel,sept,The paper guide enters the painting session.,"[""A1161"", ""A0947""]","A paper guide, paint on the table, the figure taking shape. A working moment from the sept neuf recordings.
+
+sept neuf
+2026 · Acrylic on canvas
+75 × 55 cm (h × w).",Kâğıt kılavuzun gerçekten kullanıldığı bölümü seç; sahneleme yok.,studio_method,draft_revalidate_before_production,M0,28,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,The paper guide enters the painting session.,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A1161,,,,False,,,,captions-v2/GUN-050.txt
+V2-P023,52,8,19:00,Europe/Paris,Single,painstaking,An earlier state of Painstaking,"[""A0023""]","An earlier recorded state of Painstaking. The finished triptych was shown earlier; this image preserves a different stage.
+
+Painstaking
+2026 · Acrylic on canvas
+Triptych · 3 panels, each 40 × 30 cm (h × w).",Önceki bütün sunumundan farklı görüntü/bilgi: An earlier recorded state of Painstaking. The finished triptych was shown earlier; this image preserves a different stage.,finished_work,draft_revalidate_before_production,M0,0,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,Painstaking,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Tam eser ve gerekliyse gerçekten farklı bilgi taşıyan 2–3 ek görüntü. Tek görsel yetiyorsa carousel yapma; açıklayıcı slogan kotası yok.,,,,,False,,,,captions-v2/GUN-052.txt
+V2-P024,54,8,19:00,Europe/Paris,Single,lucid,Archive drawing,"[""A1696""]","An undated study from the lucid drowning files. Colour notes and drawn furniture remain in the image.
+
+Archive drawing · undated
+Yiğit Özen",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_study,draft_revalidate_before_production,M0,0,,True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,Archive drawing,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,,False,,,,captions-v2/GUN-054.txt
+V2-P025,57,9,19:00,Europe/Paris,Reel,gxd,Why put AFK in a painting title?,"[""A1340"", ""A1209""]","The title of Gxd is AFK, We banned it brings another language into a painted group. A short excerpt from the account behind the work.
+
+Gxd is AFK, We banned it
+2026 · Acrylic on canvas
+80 × 60 cm (h × w).",Başlığın sanatçı anlatısındaki anlamını aç; kaynaktaki sözleri doğrulamadan alıntı kurma.,artist_story,draft_revalidate_before_production,M0,28,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,Why put AFK in a painting title?,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A1340,,,,False,,,,captions-v2/GUN-057.txt
+V2-P026,59,9,19:00,Europe/Paris,Carousel,wall,"A hat, a plate, a different viewing distance","[""A0224"", ""A0225"", ""A0258""]","Two details from walls of perception: the hat and face, then the plate and fork. The last image locates both within the whole painting.
+
+walls of perception
+2026 · Acrylic on canvas
+70 × 50 cm (h × w).","Önceki bütün sunumundan farklı görüntü/bilgi: Two details from walls of perception: the hat and face, then the plate and fork. The last image locates both within the whole painting.",finished_work,draft_revalidate_before_production,M0,0,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,walls of perception,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Tam eser ve gerekliyse gerçekten farklı bilgi taşıyan 2–3 ek görüntü. Tek görsel yetiyorsa carousel yapma; açıklayıcı slogan kotası yok.,,,,,False,,,,captions-v2/GUN-059.txt
+V2-P027,61,9,19:00,Europe/Paris,Single,unemployed,cute but unemployed cartoon figure,"[""A2388""]","From the 2020 archive. A rounded figure held against red.
+
+cute but unemployed cartoon figure
+2020 · Acrylic on canvas
+90 × 65 cm (h × w).",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_work,draft_revalidate_before_production,M0,0,,True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,cute but unemployed cartoon figure,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,,False,,,,captions-v2/GUN-061.txt
+V2-P028,64,10,19:00,Europe/Paris,Reel,capricorn,One passage at the speed it was painted.,"[""A2801"", ""A1832""]","The same passage at two speeds. The real-time section stays long enough to see the hand working before the edit changes pace.
+
+caprocorn sister: war, plague, earthquake
+2020 · Acrylic on canvas
+90 × 65 cm (h × w).
+
+Music: Signal to Noise — Scott Buckley. CC BY 4.0. Excerpt; volume adjusted.
+https://www.scottbuckley.com.au/library/signal-to-noise/
+https://creativecommons.org/licenses/by/4.0/",Bir fırça hareketini gerçek hızda tut; ardından aynı kaynak aralığının hızlandırılmış kısa karşılığını göster.,actual_painting,draft_revalidate_before_production,M1,28,"[30, 58]",True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,One passage at the speed it was painted.,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A2801,,,,False,,,,captions-v2/GUN-064.txt
+V2-P029,66,10,19:00,Europe/Paris,Single,angora,Angora Mergvs,"[""A1378""]","Angora Mergvs
+2026 · Acrylic on canvas
+120 × 100 cm (h × w).",Bağımsız tamamlanmış eser sunumu. Haftanın Reel’inin başka formatta tekrarı değil; farklı eser.,finished_work,draft_revalidate_before_production,M0,0,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,Angora Mergvs,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Tam eser ve gerekliyse gerçekten farklı bilgi taşıyan 2–3 ek görüntü. Tek görsel yetiyorsa carousel yapma; açıklayıcı slogan kotası yok.,,,,,False,,,,captions-v2/GUN-066.txt
+V2-P030,68,10,19:00,Europe/Paris,Single,peachy,victim psycho-logique II : the peachy pharaoh connects with the chair,"[""A2156""]","From the 2019 archive. An elongated body and a drawn chair occupy the same field.
+
+victim psycho-logique II : the peachy pharaoh connects with the chair
+2019 · Acrylic on canvas
+65 × 90 cm (h × w).",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_work,draft_revalidate_before_production,M0,0,,True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,victim psycho-logique II : the peachy pharaoh connects with the chair,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,,False,,,,captions-v2/GUN-068.txt
+V2-P031,71,11,19:00,Europe/Paris,Reel,board,The reference stays beside the canvas.,"[""A0631"", ""A0592""]","The reference remains beside the canvas during this session. The painting is still being decided, one small passage at a time.
+
+7 fam board game
+2026 · Acrylic on canvas
+80 × 100 cm (h × w).",Resim ve kâğıt referansın aynı çekimde görünmesini kullan; yaklaşık 49–57 dk boş kısmı çıkar.,studio_method,draft_revalidate_before_production,M0,28,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,The reference stays beside the canvas.,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A0631,,,,False,,,,captions-v2/GUN-071.txt
+V2-P032,73,11,19:00,Europe/Paris,Carousel,gxd,"Gxd is AFK, We banned it","[""A1209""]","Gxd is AFK, We banned it
+2026 · Acrylic on canvas
+80 × 60 cm (h × w).",Bağımsız tamamlanmış eser sunumu. Haftanın Reel’inin başka formatta tekrarı değil; farklı eser.,finished_work,draft_revalidate_before_production,M0,0,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,"Gxd is AFK, We banned it","[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Tam eser ve gerekliyse gerçekten farklı bilgi taşıyan 2–3 ek görüntü. Tek görsel yetiyorsa carousel yapma; açıklayıcı slogan kotası yok.,,,,,False,,,,captions-v2/GUN-073.txt
+V2-P033,75,11,19:00,Europe/Paris,Single,greatfire,"When the Darkness surrounds, be among those who burn the Great Fire","[""A2423""]","From the 2020 archive. The complete work, with the surrounding dark field preserved.
+
+When the Darkness surrounds, be among those who burn the Great Fire
+2020 · Acrylic on canvas
+90 × 65 cm (h × w).",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_work,draft_revalidate_before_production,M0,0,,True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,"When the Darkness surrounds, be among those who burn the Great Fire","[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,,False,,,,captions-v2/GUN-075.txt
+V2-P034,78,12,19:00,Europe/Paris,Reel,sept,The figure changes colour during the session.,"[""A1167"", ""A0947""]","The figure is changing while the session continues. These are moments from the recorded painting process, with the original sequence preserved.
+
+sept neuf
+2026 · Acrylic on canvas
+75 × 55 cm (h × w).
+
+Music: Signal to Noise — Scott Buckley. CC BY 4.0. Excerpt; volume adjusted.
+https://www.scottbuckley.com.au/library/signal-to-noise/
+https://creativecommons.org/licenses/by/4.0/",Sarıdan koyu/mor figüre ilerleyen gerçek kayıttan iki anlamlı an; süreç fotoğraflarıyla taklit etme.,actual_painting,draft_revalidate_before_production,M1,28,"[30, 58]",False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,The figure changes colour during the session.,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A1167,,,,False,,,,captions-v2/GUN-078.txt
+V2-P035,80,12,19:00,Europe/Paris,Single,virgil,The complete room and group,"[""A0582""]","The complete Virgil on Virtual Cage, with the room kept around the figures.
+
+Virgil on Virtual Cage (final_final-finalV9)
+2026 · Acrylic on canvas
+100 × 80 cm (h × w).","Önceki bütün sunumundan farklı görüntü/bilgi: The complete Virgil on Virtual Cage, with the room kept around the figures.",finished_work,draft_revalidate_before_production,M0,0,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,Virgil on Virtual Cage (final_final-finalV9),"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Tam eser ve gerekliyse gerçekten farklı bilgi taşıyan 2–3 ek görüntü. Tek görsel yetiyorsa carousel yapma; açıklayıcı slogan kotası yok.,,,,,False,,,,captions-v2/GUN-080.txt
+V2-P036,82,12,19:00,Europe/Paris,Single,materialize,How to materialize your loneliness by using an animal in somewhere concrete or technologic,"[""A2063""]","From the 2019 archive. A route across a crowded surface, from one head to another.
+
+How to materialize your loneliness by using an animal in somewhere concrete or technologic
+2019 · Acrylic on canvas
+65 × 90 cm (h × w).",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_work,draft_revalidate_before_production,M0,0,,True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,How to materialize your loneliness by using an animal in somewhere concrete or technologic,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,,False,,,,captions-v2/GUN-082.txt
+V2-P037,85,13,19:00,Europe/Paris,Reel,angora,A blue world with an orange visitor.,"[""A1632"", ""A1378""]","The blue setting and orange figure carry different associations into Angora Mergvs. The colour story is part of the account behind the painting.
+
+Angora Mergvs
+2026 · Acrylic on canvas
+120 × 100 cm (h × w).",Renk ve çocukluk referansını bağla; kaynak yaklaşık 672–756 sn. Karakteri tek başına popüler kültür yemi yapma.,artist_story,draft_revalidate_before_production,M0,28,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,A blue world with an orange visitor.,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A1632,,,,False,,,,captions-v2/GUN-085.txt
+V2-P038,87,13,19:00,Europe/Paris,Single,stlop,Inside the face of s(t)lop,"[""A0096""]","A close view of the face in s(t)lop. The surrounding marks stay visible.
+
+s(t)lop
+2026 · Acrylic on canvas
+75 × 55 cm (h × w).",Önceki bütün sunumundan farklı görüntü/bilgi: A close view of the face in s(t)lop. The surrounding marks stay visible.,finished_work,draft_revalidate_before_production,M0,0,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,s(t)lop,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Tam eser ve gerekliyse gerçekten farklı bilgi taşıyan 2–3 ek görüntü. Tek görsel yetiyorsa carousel yapma; açıklayıcı slogan kotası yok.,,,,,False,,,,captions-v2/GUN-087.txt
+V2-P039,89,13,19:00,Europe/Paris,Single,society,Archive drawing,"[""A2763""]","An undated drawing from the society screwing balance files. Working lines, boxes and small forms remain visible.
+
+Archive drawing · undated
+Yiğit Özen",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_study,draft_revalidate_before_production,M0,0,,True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,Archive drawing,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,,False,,,,captions-v2/GUN-089.txt
+V2-P040,92,14,19:00,Europe/Paris,Reel,gxd,The weight of the group.,"[""A1340"", ""A1209""]","The grouping gives the scene its weight. This excerpt follows the account behind the bodies and the spaces between them.
+
+Gxd is AFK, We banned it
+2026 · Acrylic on canvas
+80 × 60 cm (h × w).",Taşıma/grup ilişkisini sanatçının anlatımı ve kendi eseriyle aç; üçüncü taraf eser görüntüsü gerekmiyor.,artist_story,draft_revalidate_before_production,M0,28,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,The weight of the group.,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A1340,,,,False,,,,captions-v2/GUN-092.txt
+V2-P041,94,14,19:00,Europe/Paris,Single,gary,"The face, close up","[""A0289""]","The face and cigar in gary grills cooper. A close view from the full painting shown earlier.
+
+gary grills cooper
+2026 · Acrylic on canvas
+75 × 55 cm (h × w).",Önceki bütün sunumundan farklı görüntü/bilgi: The face and cigar in gary grills cooper. A close view from the full painting shown earlier.,finished_work,draft_revalidate_before_production,M0,0,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,gary grills cooper,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Tam eser ve gerekliyse gerçekten farklı bilgi taşıyan 2–3 ek görüntü. Tek görsel yetiyorsa carousel yapma; açıklayıcı slogan kotası yok.,,,,,False,,,,captions-v2/GUN-094.txt
+V2-P042,96,14,19:00,Europe/Paris,Single,viperella,viperella,"[""A1772""]","From the 2020 archive. The complete figure in viperella.
+
+viperella
+2020 · Acrylic on canvas
+70 × 50 cm (h × w).",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_work,draft_revalidate_before_production,M0,0,,True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,viperella,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,,False,,,,captions-v2/GUN-096.txt
+V2-P043,99,15,19:00,Europe/Paris,Reel,capricorn,The brush returns to the same figure.,"[""A2801"", ""A1832""]","Another return to the lower figure in the studio archive. A painting can change through several visits to the same small area.
+
+caprocorn sister: war, plague, earthquake
+2020 · Acrylic on canvas
+90 × 65 cm (h × w).
+
+Music: Signal to Noise — Scott Buckley. CC BY 4.0. Excerpt; volume adjusted.
+https://www.scottbuckley.com.au/library/signal-to-noise/
+https://creativecommons.org/licenses/by/4.0/",Alt figüre geri dönülen ayrı kaydı seç. Önceki Reel ile aynı saniyeleri yeniden kullanma.,actual_painting,draft_revalidate_before_production,M1,28,"[30, 58]",True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,The brush returns to the same figure.,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A2801,,,,False,,,,captions-v2/GUN-099.txt
+V2-P044,101,15,19:00,Europe/Paris,Single,mandarin,The complete square,"[""A0160""]","The complete square of articulo attack on mandarin. A quiet full view after the selected details shown earlier.
+
+articulo attack on mandarin
+2026 · Acrylic on canvas
+80 × 80 cm (h × w).",Önceki bütün sunumundan farklı görüntü/bilgi: The complete square of articulo attack on mandarin. A quiet full view after the selected details shown earlier.,finished_work,draft_revalidate_before_production,M0,0,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,articulo attack on mandarin,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Tam eser ve gerekliyse gerçekten farklı bilgi taşıyan 2–3 ek görüntü. Tek görsel yetiyorsa carousel yapma; açıklayıcı slogan kotası yok.,,,,,False,,,,captions-v2/GUN-101.txt
+V2-P045,103,15,19:00,Europe/Paris,Single,baby,baby rights 101,"[""A1809""]","baby rights 101, 2020. The finished painting returns after the earlier study shown at the start of this selection.
+
+baby rights 101
+2020 · Acrylic on canvas
+80 × 100 cm (h × w).",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_work,draft_revalidate_before_production,M0,0,,True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,baby rights 101,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,,False,,,,captions-v2/GUN-103.txt
+V2-P046,106,16,19:00,Europe/Paris,Reel,board,A small correction inside a large painting.,"[""A0632"", ""A0592""]","One correction inside a larger composition. The wide studio view stays in the edit so the gesture has somewhere to belong.
+
+7 fam board game
+2026 · Acrylic on canvas
+80 × 100 cm (h × w).
+
+Music: Signal to Noise — Scott Buckley. CC BY 4.0. Excerpt; volume adjusted.
+https://www.scottbuckley.com.au/library/signal-to-noise/
+https://creativecommons.org/licenses/by/4.0/",Kişiler gelmeden önce gerçek ince çalışma; son sohbet bölümünü D08 gibi tekrar kullanma.,actual_painting,draft_revalidate_before_production,M1,28,"[30, 58]",False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,A small correction inside a large painting.,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A0632,,,,False,,,,captions-v2/GUN-106.txt
+V2-P047,108,16,19:00,Europe/Paris,Single,painstaking,"A painted eye, close up","[""A0017""]","A close view of a painted eye in Painstaking. The surface has its own pace.
+
+Painstaking
+2026 · Acrylic on canvas
+Triptych · 3 panels, each 40 × 30 cm (h × w).",Önceki bütün sunumundan farklı görüntü/bilgi: A close view of a painted eye in Painstaking. The surface has its own pace.,finished_work,draft_revalidate_before_production,M0,0,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,Painstaking,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Tam eser ve gerekliyse gerçekten farklı bilgi taşıyan 2–3 ek görüntü. Tek görsel yetiyorsa carousel yapma; açıklayıcı slogan kotası yok.,,,,,False,,,,captions-v2/GUN-108.txt
+V2-P048,110,16,19:00,Europe/Paris,Single,guard,guarding holy mountains from malice,"[""A2050""]","From the 2019 archive. Bodies suspended against a room divided into blocks of colour.
+
+guarding holy mountains from malice
+2019 · Acrylic on canvas
+65 × 90 cm (h × w).",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_work,draft_revalidate_before_production,M0,0,,True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,guarding holy mountains from malice,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,,False,,,,captions-v2/GUN-110.txt
+V2-P049,113,17,19:00,Europe/Paris,Reel,sept,The smaller figure gets its own attention.,"[""A1169"", ""A0947""]","A smaller figure receives the same slow attention as the larger one. A working excerpt from the sept neuf archive.
+
+sept neuf
+2026 · Acrylic on canvas
+75 × 55 cm (h × w).
+
+Music: Signal to Noise — Scott Buckley. CC BY 4.0. Excerpt; volume adjusted.
+https://www.scottbuckley.com.au/library/signal-to-noise/
+https://creativecommons.org/licenses/by/4.0/",Kuş/yan alan üzerindeki gerçek çalışma anını seç; arka plandaki medya sesini temizle.,actual_painting,draft_revalidate_before_production,M1,28,"[30, 58]",False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,The smaller figure gets its own attention.,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A1169,,,,False,,,,captions-v2/GUN-113.txt
+V2-P050,115,17,19:00,Europe/Paris,Single,wall,A small flower in the green field,"[""A0226""]","A flower within walls of perception. A small passage from the complete painting shown earlier.
+
+walls of perception
+2026 · Acrylic on canvas
+70 × 50 cm (h × w).",Önceki bütün sunumundan farklı görüntü/bilgi: A flower within walls of perception. A small passage from the complete painting shown earlier.,finished_work,draft_revalidate_before_production,M0,0,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,walls of perception,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Tam eser ve gerekliyse gerçekten farklı bilgi taşıyan 2–3 ek görüntü. Tek görsel yetiyorsa carousel yapma; açıklayıcı slogan kotası yok.,,,,,False,,,,captions-v2/GUN-115.txt
+V2-P051,117,17,19:00,Europe/Paris,Single,transhumanism,Century of 0 & 1 / Transhumanism,"[""A2213""]","From the 2019 archive. A dark mechanical centre, coloured bodies and painted signs.
+
+Century of 0 & 1 / Transhumanism
+2019 · Acrylic on canvas
+65 × 90 cm (h × w).",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_work,draft_revalidate_before_production,M0,0,,True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,Century of 0 & 1 / Transhumanism,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,,False,,,,captions-v2/GUN-117.txt
+V2-P052,120,18,19:00,Europe/Paris,Reel,angora,When the house becomes the main character.,"[""A1632"", ""A1378""]","The house began to take over the painting. A short account of how architecture became central to Angora Mergvs.
+
+Angora Mergvs
+2026 · Acrylic on canvas
+120 × 100 cm (h × w).",Mekânın ağırlığını anlatan yaklaşık 196–224 ve 504–560 sn kaynaklarını tek düşüncede birleştir.,artist_story,draft_revalidate_before_production,M0,28,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,When the house becomes the main character.,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A1632,,,,False,,,,captions-v2/GUN-120.txt
+V2-P053,122,18,19:00,Europe/Paris,Single,gary,The hands and the match,"[""A0296""]","The hands and match in gary grills cooper. Another part of the figure comes forward at this distance.
+
+gary grills cooper
+2026 · Acrylic on canvas
+75 × 55 cm (h × w).",Önceki bütün sunumundan farklı görüntü/bilgi: The hands and match in gary grills cooper. Another part of the figure comes forward at this distance.,finished_work,draft_revalidate_before_production,M0,0,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,gary grills cooper,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Tam eser ve gerekliyse gerçekten farklı bilgi taşıyan 2–3 ek görüntü. Tek görsel yetiyorsa carousel yapma; açıklayıcı slogan kotası yok.,,,,,False,,,,captions-v2/GUN-122.txt
+V2-P054,124,18,19:00,Europe/Paris,Single,morbid,morbid forebodings triggered by childish landscape,"[""A2182""]","From the 2019 archive. This work is distinct from the square penguin painting dated 2023.
+
+morbid forebodings triggered by childish landscape
+2019 · Acrylic on grey carton
+80 × 73 cm (h × w).",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_work,draft_revalidate_before_production,M0,0,,True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,morbid forebodings triggered by childish landscape,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,,False,,,,captions-v2/GUN-124.txt
+V2-P055,127,19,19:00,Europe/Paris,Reel,gxd,A familiar arrangement with a different context.,"[""A1340"", ""A1209""]","A familiar grouping entered a different context. This excerpt stays with the route into the painting rather than treating the reference as the whole explanation.
+
+Gxd is AFK, We banned it
+2026 · Acrylic on canvas
+80 × 60 cm (h × w).",Referansın yeniden yorumunu açıkla; önceki AFK/başlık bölümünden farklı kaynak cümleleri.,artist_story,draft_revalidate_before_production,M0,28,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,A familiar arrangement with a different context.,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A1340,,,,False,,,,captions-v2/GUN-127.txt
+V2-P056,129,19,19:00,Europe/Paris,Single,virgil,The hanging chair,"[""A0502""]","The hanging chair in Virgil on Virtual Cage. A small object within the room surrounding the group.
+
+Virgil on Virtual Cage (final_final-finalV9)
+2026 · Acrylic on canvas
+100 × 80 cm (h × w).",Önceki bütün sunumundan farklı görüntü/bilgi: The hanging chair in Virgil on Virtual Cage. A small object within the room surrounding the group.,finished_work,draft_revalidate_before_production,M0,0,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,Virgil on Virtual Cage (final_final-finalV9),"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Tam eser ve gerekliyse gerçekten farklı bilgi taşıyan 2–3 ek görüntü. Tek görsel yetiyorsa carousel yapma; açıklayıcı slogan kotası yok.,,,,,False,,,,captions-v2/GUN-129.txt
+V2-P057,131,19,19:00,Europe/Paris,Carousel,ciao,"ciao capo, sono squalo","[""A1716"", ""A1718"", ""A1717"", ""A1903""]","Three recorded states of ciao capo, sono squalo. The final painting is dated 2020; the individual photographs are not independently dated.
+
+ciao capo, sono squalo
+2020 · Acrylic on canvas
+90 × 65 cm (h × w).",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_work,draft_revalidate_before_production,M0,0,,True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,"ciao capo, sono squalo","[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,,False,,,,captions-v2/GUN-131.txt
+V2-P058,134,20,19:00,Europe/Paris,Reel,capricorn,A filmed session from the 2020 archive.,"[""A2800"", ""A1832""]","A filmed painting session from 2020. The movements belong to the original archive; this is a new edit of that record.
+
+caprocorn sister: war, plague, earthquake
+2020 · Acrylic on canvas
+90 × 65 cm (h × w).",Boyama hızından önce stüdyodaki gerçek çalışma hâli; arşivi yeni çekim gibi göstermeden.,archive_session,draft_revalidate_before_production,M0,28,,True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,A filmed session from the 2020 archive.,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A2800,,,,False,,,,captions-v2/GUN-134.txt
+V2-P059,136,20,19:00,Europe/Paris,Single,stlop,Beside the figure,"[""A0098""]","A different passage from s(t)lop: the upright object beside the figure.
+
+s(t)lop
+2026 · Acrylic on canvas
+75 × 55 cm (h × w).",Önceki bütün sunumundan farklı görüntü/bilgi: A different passage from s(t)lop: the upright object beside the figure.,finished_work,draft_revalidate_before_production,M0,0,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,s(t)lop,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Tam eser ve gerekliyse gerçekten farklı bilgi taşıyan 2–3 ek görüntü. Tek görsel yetiyorsa carousel yapma; açıklayıcı slogan kotası yok.,,,,,False,,,,captions-v2/GUN-136.txt
+V2-P060,138,20,19:00,Europe/Paris,Single,wings,wings of abyss,"[""A2451""]","wings of abyss, 2019. The complete painting follows the undated archive drawing shown earlier in the selection.
+
+wings of abyss
+2019 · Acrylic on canvas
+90 × 65 cm (h × w).",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_work,draft_revalidate_before_production,M0,0,,True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,wings of abyss,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,,False,,,,captions-v2/GUN-138.txt
+V2-P061,141,21,19:00,Europe/Paris,Reel,board,The palette and the painting share a frame.,"[""A0627"", ""A0592""]","The palette, the hand and the canvas share the same frame. A working passage from 7 fam board game.
+
+7 fam board game
+2026 · Acrylic on canvas
+80 × 100 cm (h × w).","Palet, el ve tuvali aynı çekimde tutan erken dönem parçayı seç.",studio_method,draft_revalidate_before_production,M0,28,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,The palette and the painting share a frame.,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A0627,,,,False,,,,captions-v2/GUN-141.txt
+V2-P062,143,21,19:00,Europe/Paris,Single,gary,"The grill, close up","[""A0293""]","The grill in gary grills cooper. A surface detail from the painting.
+
+gary grills cooper
+2026 · Acrylic on canvas
+75 × 55 cm (h × w).",Önceki bütün sunumundan farklı görüntü/bilgi: The grill in gary grills cooper. A surface detail from the painting.,finished_work,draft_revalidate_before_production,M0,0,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,gary grills cooper,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Tam eser ve gerekliyse gerçekten farklı bilgi taşıyan 2–3 ek görüntü. Tek görsel yetiyorsa carousel yapma; açıklayıcı slogan kotası yok.,,,,,False,,,,captions-v2/GUN-143.txt
+V2-P063,145,21,19:00,Europe/Paris,Carousel,duality,duality of the angelic summarization,"[""A1930"", ""A1931"", ""A1945""]","Two details from duality of the angelic summarization, 2019. The full painting remains in the last frame for orientation.
+
+duality of the angelic summarization
+2019 · Acrylic on canvas
+90 × 65 cm (h × w).",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_work,draft_revalidate_before_production,M0,0,,True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,duality of the angelic summarization,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,,False,,,,captions-v2/GUN-145.txt
+V2-P064,148,22,19:00,Europe/Paris,Reel,sept,The outline changes what the green surrounds.,"[""A1165"", ""A0947""]","A small outline changes the relation between the figure and the green field. A later passage from the sept neuf recordings.
+
+sept neuf
+2026 · Acrylic on canvas
+75 × 55 cm (h × w).
+
+Music: Signal to Noise — Scott Buckley. CC BY 4.0. Excerpt; volume adjusted.
+https://www.scottbuckley.com.au/library/signal-to-noise/
+https://creativecommons.org/licenses/by/4.0/",Beyaz/mavi kontur işçiliğinin gerçek hareketi; ilk yeşil zemin videosundan farklı olay.,actual_painting,draft_revalidate_before_production,M1,28,"[30, 58]",False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,The outline changes what the green surrounds.,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A1165,,,,False,,,,captions-v2/GUN-148.txt
+V2-P065,150,22,19:00,Europe/Paris,Single,mandarin,A detail from articulo attack on mandarin,"[""A0139""]","A selected detail from articulo attack on mandarin. The square painting was shown in full earlier in this selection.
+
+articulo attack on mandarin
+2026 · Acrylic on canvas
+80 × 80 cm (h × w).",Önceki bütün sunumundan farklı görüntü/bilgi: A selected detail from articulo attack on mandarin. The square painting was shown in full earlier in this selection.,finished_work,draft_revalidate_before_production,M0,0,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,articulo attack on mandarin,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Tam eser ve gerekliyse gerçekten farklı bilgi taşıyan 2–3 ek görüntü. Tek görsel yetiyorsa carousel yapma; açıklayıcı slogan kotası yok.,,,,,False,,,,captions-v2/GUN-150.txt
+V2-P066,152,22,19:00,Europe/Paris,Single,good,good people helping bad ones (that’s why they’re bad too),"[""A2014""]","good people helping bad ones (that’s why they’re bad too), 2019. The finished work follows the earlier archive drawing.
+
+good people helping bad ones (that’s why they’re bad too)
+2019 · Acrylic on black paper
+100 × 70 cm (h × w).",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_work,draft_revalidate_before_production,M0,0,,True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,good people helping bad ones (that’s why they’re bad too),"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,,False,,,,captions-v2/GUN-152.txt
+V2-P067,155,23,19:00,Europe/Paris,Reel,angora,The character belongs to a personal place.,"[""A1632"", ""A1378""]","The place in Angora Mergvs is personal. This excerpt returns to the memories behind the architecture, through a different part of the recorded account.
+
+Angora Mergvs
+2026 · Acrylic on canvas
+120 × 100 cm (h × w).",Çocukluk hafızası ve mekânı bağlayan başka anlatım parçası; D10 metnini yeniden okumak değil.,artist_story,draft_revalidate_before_production,M0,28,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,The character belongs to a personal place.,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A1632,,,,False,,,,captions-v2/GUN-155.txt
+V2-P068,157,23,19:00,Europe/Paris,Single,painstaking,Across the gap between panels,"[""A0008""]","Two faces meet across the physical gap between the panels of Painstaking.
+
+Painstaking
+2026 · Acrylic on canvas
+Triptych · 3 panels, each 40 × 30 cm (h × w).",Önceki bütün sunumundan farklı görüntü/bilgi: Two faces meet across the physical gap between the panels of Painstaking.,finished_work,draft_revalidate_before_production,M0,0,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,Painstaking,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Tam eser ve gerekliyse gerçekten farklı bilgi taşıyan 2–3 ek görüntü. Tek görsel yetiyorsa carousel yapma; açıklayıcı slogan kotası yok.,,,,,False,,,,captions-v2/GUN-157.txt
+V2-P069,159,23,19:00,Europe/Paris,Carousel,cellular,cellular spleens,"[""A1844"", ""A1847"", ""A1862""]","Two details from cellular spleens, 2020. The full painting locates them without turning the details into separate works.
+
+cellular spleens
+2020 · Acrylic on canvas
+120 × 100 cm (h × w).",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_work,draft_revalidate_before_production,M0,0,,True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,cellular spleens,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,,False,,,,captions-v2/GUN-159.txt
+V2-P070,162,24,19:00,Europe/Paris,Reel,gxd,One reference led to another.,"[""A1340"", ""A1209""]","One reference led to another, and then into a painting. The short account keeps that route visible without replacing the work with its references.
+
+Gxd is AFK, We banned it
+2026 · Acrylic on canvas
+80 × 60 cm (h × w).",Caravaggio → albüm kapağı → kendi resmine geçişi kaynağa bağlı kısa sözlü hikâye olarak kur.,artist_story,draft_revalidate_before_production,M0,28,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,One reference led to another.,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A1340,,,,False,,,,captions-v2/GUN-162.txt
+V2-P071,164,24,19:00,Europe/Paris,Single,wall,Where yellow meets red,"[""A0227""]","A close view of the yellow passage and the red table in walls of perception.
+
+walls of perception
+2026 · Acrylic on canvas
+70 × 50 cm (h × w).",Önceki bütün sunumundan farklı görüntü/bilgi: A close view of the yellow passage and the red table in walls of perception.,finished_work,draft_revalidate_before_production,M0,0,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,walls of perception,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Tam eser ve gerekliyse gerçekten farklı bilgi taşıyan 2–3 ek görüntü. Tek görsel yetiyorsa carousel yapma; açıklayıcı slogan kotası yok.,,,,,False,,,,captions-v2/GUN-164.txt
+V2-P072,166,24,19:00,Europe/Paris,Single,lucid,remixed execution of lucid drowning,"[""A1695""]","remixed execution of lucid drowning, 2019. The complete painting returns after its undated study.
+
+remixed execution of lucid drowning
+2019 · Acrylic on canvas
+65 × 90 cm (h × w).",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_work,draft_revalidate_before_production,M0,0,,True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,remixed execution of lucid drowning,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,,False,,,,captions-v2/GUN-166.txt
+V2-P073,169,25,19:00,Europe/Paris,Reel,capricorn,A figure can be lost inside its own repainting.,"[""A2799"", ""A1832""]","Repainting can make a figure less certain. This excerpt follows another passage from the 2020 studio record.
+
+caprocorn sister: war, plague, earthquake
+2020 · Acrylic on canvas
+90 × 65 cm (h × w).
+
+Music: Signal to Noise — Scott Buckley. CC BY 4.0. Excerpt; volume adjusted.
+https://www.scottbuckley.com.au/library/signal-to-noise/
+https://creativecommons.org/licenses/by/4.0/",Önceki alt figür siyahlaştırma kurgusundan farklı fırça aralığı; aynı anın hızlı kopyası olmaz.,actual_painting,draft_revalidate_before_production,M1,28,"[30, 58]",True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,A figure can be lost inside its own repainting.,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A2799,,,,False,,,,captions-v2/GUN-169.txt
+V2-P074,171,25,19:00,Europe/Paris,Carousel,angora,Angora Mergvs: recorded stages,"[""A1560"", ""A1564"", ""A1559"", ""A1378""]","Recorded stages of Angora Mergvs. The buildings remain recognisable while their colour relationships change.
+
+Angora Mergvs
+2026 · Acrylic on canvas
+120 × 100 cm (h × w).",Önceki bütün sunumundan farklı görüntü/bilgi: Recorded stages of Angora Mergvs. The buildings remain recognisable while their colour relationships change.,finished_work,draft_revalidate_before_production,M0,0,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,Angora Mergvs,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Tam eser ve gerekliyse gerçekten farklı bilgi taşıyan 2–3 ek görüntü. Tek görsel yetiyorsa carousel yapma; açıklayıcı slogan kotası yok.,,,,,False,,,,captions-v2/GUN-171.txt
+V2-P075,173,25,19:00,Europe/Paris,Single,rompi,il sbagliato di rompipalle,"[""A2452""]","A close view from il sbagliato di rompipalle, 2019. A new viewing distance for a work shown earlier in this selection.
+
+il sbagliato di rompipalle
+2019 · Acrylic on canvas
+90 × 65 cm (h × w).",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_work,draft_revalidate_before_production,M0,0,,True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,il sbagliato di rompipalle,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,,False,,,,captions-v2/GUN-173.txt
+V2-P076,176,26,19:00,Europe/Paris,Reel,board,A session ends before the painting is a finished post.,"[""A0631"", ""A0592""]","A pause in a painting session. The archive keeps the working time around the image, including the moment when the hand stops.
+
+7 fam board game
+2026 · Acrylic on canvas
+80 × 100 cm (h × w).",Boyama anından gerçek mola/masadan ayrılmaya geç; kaydı bitmiş eserin tamamlanma anı diye etiketleme.,studio_method,draft_revalidate_before_production,M0,28,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,A session ends before the painting is a finished post.,"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Olayın gerçekleştiği hareketli kayıt açılışta. Yalnız yeni bilgi taşıyan kesmeler; en fazla son 3–5 saniye tamamlanmış eser. Fotoğraf yakınlaştırmalarından Reel üretme.,A0631,,,,False,,,,captions-v2/GUN-176.txt
+V2-P077,178,26,19:00,Europe/Paris,Carousel,virgil,The room around the group,"[""A0504"", ""A0582""]","The ceiling and corner in Virgil on Virtual Cage. The second image restores their position within the room.
+
+Virgil on Virtual Cage (final_final-finalV9)
+2026 · Acrylic on canvas
+100 × 80 cm (h × w).",Önceki bütün sunumundan farklı görüntü/bilgi: The ceiling and corner in Virgil on Virtual Cage. The second image restores their position within the room.,finished_work,draft_revalidate_before_production,M0,0,,False,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,Virgil on Virtual Cage (final_final-finalV9),"[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Tam eser ve gerekliyse gerçekten farklı bilgi taşıyan 2–3 ek görüntü. Tek görsel yetiyorsa carousel yapma; açıklayıcı slogan kotası yok.,,,,,False,,,,captions-v2/GUN-178.txt
+V2-P078,180,26,19:00,Europe/Paris,Single,penguin,"penguin is not a friend, only a sinner","[""A2743""]","From the 2023 archive. The complete square painting, with all four edges preserved.
+
+penguin is not a friend, only a sinner
+2023 · Acrylic on canvas
+120 × 120 cm (h × w).",Eski iş/eskiz kendi başına bir yayın. Yeni Reel’e köprü veya ders olmak zorunda değil.,archive_work,draft_revalidate_before_production,M0,0,,True,,,İsteğe bağlı. Bu gönderiyi tekrar anlatmayan tek ayrıntı varsa 19.20; yoksa Story yok.,"penguin is not a friend, only a sinner","[24, 72, 168]",en,eser ve kaynak seçildi; kesim noktası haftalık üretimde kesinleşecek,"Aynı esere yeni olay/bilgi olmadan dönüş yok; 14 gün editoryal alt aralık, algoritma eşiği değil.",Çizim/tarihsel fotoğrafı olduğu gibi sun. Belirsiz çizim tarihini tamamlanmış eserin yılıyla doldurma. Tamamlanmış işte künye; eskizde yalnız doğrulanmış bilgi.,,,,,False,,,,captions-v2/GUN-180.txt

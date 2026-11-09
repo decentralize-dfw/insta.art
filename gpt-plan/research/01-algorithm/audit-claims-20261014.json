@@ -1,0 +1,670 @@
+{
+  "schema": "instagram-claim-audit-v1",
+  "date": "2026-10-14",
+  "claims": [
+    {
+      "id": "Q1-01",
+      "question": "1",
+      "previous_claim_or_risk": "Niş içerik beğenmek kendi dağıtımını ressam kitlesine taşır",
+      "disposition": "Doğrulanmadı",
+      "corrected_result": "İzleyici kişiselleştirmesi ters yönde üretici ödülü kanıtı değil",
+      "evidence": "S001,S059"
+    },
+    {
+      "id": "Q1-02",
+      "question": "1",
+      "previous_claim_or_risk": "Yayın öncesi/sonrası etkileşim kotası ve warm-up zorunlu",
+      "disposition": "Çıkarıldı",
+      "corrected_result": "Dakika/gün eşiği ve trust score iddiası yok",
+      "evidence": "S004,S005"
+    },
+    {
+      "id": "Q1-03",
+      "question": "1",
+      "previous_claim_or_risk": "Takipten çıkma takipçi kitlesini temizler",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Takip edilenler ile takipçiler farklı kümeler",
+      "evidence": "Mantıksal ayrım"
+    },
+    {
+      "id": "Q1-04",
+      "question": "1",
+      "previous_claim_or_risk": "Haziran 2026 sistem kartı tarihleri kesin doğrulandı",
+      "disposition": "Geri çekildi",
+      "corrected_result": "429; güncelleme günleri kullanılmıyor",
+      "evidence": "S002,S003,S011,S012"
+    },
+    {
+      "id": "Q2-01",
+      "question": "2",
+      "previous_claim_or_risk": "Eski web3 takipçileri ilgisizdir; hesap kalıcı cezalıdır",
+      "disposition": "Doğrulanmadı",
+      "corrected_result": "Uyumsuzluk hipotezi; hesap verisi yok",
+      "evidence": "Kullanıcı beyanı; S063"
+    },
+    {
+      "id": "Q2-02",
+      "question": "2",
+      "previous_claim_or_risk": "Keşif için önce takipçi beğeni barajı şart",
+      "disposition": "Doğrulanmadı",
+      "corrected_result": "Trial dış kitle yolu belgeli; sabit baraj yok",
+      "evidence": "S063"
+    },
+    {
+      "id": "Q2-03",
+      "question": "2",
+      "previous_claim_or_risk": "Takipçi silerek engagement yükselmesi yeni ilgi kanıtı",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Payda küçülmesi tek başına yeni izleyici getirmez",
+      "evidence": "Aritmetik"
+    },
+    {
+      "id": "Q2-04",
+      "question": "2",
+      "previous_claim_or_risk": "Dört kötü post/14–30 gün hesap kararını kesinleştirir",
+      "disposition": "Çıkarıldı",
+      "corrected_result": "Sabit yeterlilik/iyileşme eşiği yok",
+      "evidence": "S047; yöntem"
+    },
+    {
+      "id": "Q2-05",
+      "question": "2",
+      "previous_claim_or_risk": "Trial gizli ve random A/B'dir; 700 takipçiye kesin açık",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Dolaylı follower maruziyeti; hesap erişimi bilinmiyor",
+      "evidence": "S063"
+    },
+    {
+      "id": "Q2-06",
+      "question": "2",
+      "previous_claim_or_risk": "Forum ara verme örnekleri kalıcı ceza kanıtı",
+      "disposition": "Çıkarıldı",
+      "corrected_result": "Özbildirim, konu/ülke/dil ve reklam farkları; güncel kanıt yapılmadı",
+      "evidence": "S070–S072"
+    },
+    {
+      "id": "Q3-01",
+      "question": "3",
+      "previous_claim_or_risk": "2026 başlıklı saat raporları tamamen 2026 verisi",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Yayın tarihi ile veri dönemi ayrı",
+      "evidence": "S006,S032,S033"
+    },
+    {
+      "id": "Q3-02",
+      "question": "3",
+      "previous_claim_or_risk": "Sprout genel örneklemi Instagram örneklemi",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Altı platform toplamı; IG alt n yok",
+      "evidence": "S006"
+    },
+    {
+      "id": "Q3-03",
+      "question": "3",
+      "previous_claim_or_risk": "Sociality saatleri hedef izleyicinin yerel saati",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Takım ayarı; çoğunluk UTC; Luxembourg aktarımı yok",
+      "evidence": "S033"
+    },
+    {
+      "id": "Q3-04",
+      "question": "3",
+      "previous_claim_or_risk": "%52–%48,7 farkı %3,3 erişim artışı",
+      "disposition": "Düzeltildi",
+      "corrected_result": "3,3 yüzde puan; medyanı aşma oranı",
+      "evidence": "S033"
+    },
+    {
+      "id": "Q3-05",
+      "question": "3",
+      "previous_claim_or_risk": "Kaynaklar tek saat optimumunda birleşir",
+      "disposition": "Reddedildi",
+      "corrected_result": "Payda ve ağırlıklar farklı; ortalama zirve üretilemez",
+      "evidence": "S006,S032,S033"
+    },
+    {
+      "id": "Q3-06",
+      "question": "3",
+      "previous_claim_or_risk": "Gün gün öneri tablosu kanıtlanmış takvim",
+      "disposition": "Kaldırıldı",
+      "corrected_result": "Operasyon seçimi ayrı; saat testi yeniden yazıldı",
+      "evidence": "Yöntem"
+    },
+    {
+      "id": "Q3-07",
+      "question": "3",
+      "previous_claim_or_risk": "Saat metodolojisi kusursuz",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Örneklem eşiği tutarsızlığı, çoklu pencere seçimi, CI eksikliği",
+      "evidence": "S033"
+    },
+    {
+      "id": "Q4-01",
+      "question": "4",
+      "previous_claim_or_risk": "Tanınma hook ailesi 1,29",
+      "disposition": "Hata düzeltildi",
+      "corrected_result": "Aile 1,18; 1,29 tek teknik",
+      "evidence": "S009"
+    },
+    {
+      "id": "Q4-02",
+      "question": "4",
+      "previous_claim_or_risk": "Aynı hesap karşılaştırması yalnız hook'u değiştirir",
+      "disposition": "Hata düzeltildi",
+      "corrected_result": "Konu/kurgu/kalite/süre sabit değil; nedensellik yok",
+      "evidence": "S009"
+    },
+    {
+      "id": "Q4-03",
+      "question": "4",
+      "previous_claim_or_risk": "Hook sonucu erken tutma, takip veya satış artışı",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Ölçülen normalize views",
+      "evidence": "S009"
+    },
+    {
+      "id": "Q4-04",
+      "question": "4",
+      "previous_claim_or_risk": "%25 yüksek ile %25 düşük aynı karşılaştırma",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Bölme tabanı farklı; 1,18/0,94 ve tersi ayrıldı",
+      "evidence": "S009; aritmetik"
+    },
+    {
+      "id": "Q4-05",
+      "question": "4",
+      "previous_claim_or_risk": "Sık kullanılan hook etkisini yitirir",
+      "disposition": "Doğrulanmadı",
+      "corrected_result": "Teknik düzeyindeki ilişki nedensel doygunluk değil",
+      "evidence": "S009"
+    },
+    {
+      "id": "Q4-06",
+      "question": "4",
+      "previous_claim_or_risk": "Merak boşluğu makalesi IG2026 etkinliğini kanıtlar",
+      "disposition": "Çıkarıldı",
+      "corrected_result": "Tam metin/abstract bu denetimde doğrulanamadı",
+      "evidence": "S084,S085"
+    },
+    {
+      "id": "Q4-07",
+      "question": "4",
+      "previous_claim_or_risk": "14 mekanizma ve örnek cümleler ölçülmüş başarı sıralaması",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Çalışma sınıflandırması ve özgün örnekler; sıralı başarı iddiası yok",
+      "evidence": "Yazar tasarımı"
+    },
+    {
+      "id": "Q4-08",
+      "question": "4",
+      "previous_claim_or_risk": "İlk üç saniye, yüz, trend ses veya negatiflik zorunlu",
+      "disposition": "Doğrulanmadı",
+      "corrected_result": "Üretim kontrolü ile platform barajı ayrıldı",
+      "evidence": "S050; sınırlı kaynaklar çıkarıldı"
+    },
+    {
+      "id": "Q5-01",
+      "question": "5",
+      "previous_claim_or_risk": "CTA katsayıları nedensel kazanç",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Gözlemsel farklı gruplar; alt n/CI eksik",
+      "evidence": "S087,S088"
+    },
+    {
+      "id": "Q5-02",
+      "question": "5",
+      "previous_claim_or_risk": "Basın raporu yanlış TikTok'a bağlanıyor",
+      "disposition": "Geri çekildi",
+      "corrected_result": "Güncel sayfada IG raporu mevcut; karşılaştırma linki ayrı",
+      "evidence": "S087"
+    },
+    {
+      "id": "Q5-03",
+      "question": "5",
+      "previous_claim_or_risk": "Her yorum CTA'sı engagement bait cezası alır",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Bağlama uygun çağrı ile bait eşit değil; kesin yaptırım listesi yok",
+      "evidence": "S060"
+    },
+    {
+      "id": "Q5-04",
+      "question": "5",
+      "previous_claim_or_risk": "Yorum/paylaşım/takip aynı başarı",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Eylem, payda, özgün kişi ve anlamlı görüşme ayrı",
+      "evidence": "Yöntem"
+    },
+    {
+      "id": "Q5-05",
+      "question": "5",
+      "previous_claim_or_risk": "Link-in-bio otomatik erişim cezası",
+      "disposition": "Doğrulanmadı",
+      "corrected_result": "Forum genellemesi kullanılmıyor",
+      "evidence": "S094"
+    },
+    {
+      "id": "Q6-01",
+      "question": "6",
+      "previous_claim_or_risk": "Dağıtım sabit kişi basamaklarıyla ilerler",
+      "disposition": "Çıkarıldı",
+      "corrected_result": "Tarihsel aday/ranking açıklaması sabit eşik vermiyor",
+      "evidence": "S059,S060"
+    },
+    {
+      "id": "Q6-02",
+      "question": "6",
+      "previous_claim_or_risk": "Viral videoların erken yükselmesi genel viral olasılık",
+      "disposition": "Hata düzeltildi",
+      "corrected_result": "Başarıya ve trending seçimine koşullu örneklem",
+      "evidence": "S061"
+    },
+    {
+      "id": "Q6-03",
+      "question": "6",
+      "previous_claim_or_risk": "İlk 72 saat sonrası gönderi biter",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Yoğunluk bulgusu ve ürün paylaşım akışı son tarih değil",
+      "evidence": "S088,S063"
+    },
+    {
+      "id": "Q6-04",
+      "question": "6",
+      "previous_claim_or_risk": "Süre × tamamlanma oranı ortalama izleme süresi",
+      "disposition": "Hata düzeltildi",
+      "corrected_result": "Yalnız ortalama izlenen süre yüzdesiyse çarpılabilir",
+      "evidence": "Metrik tanımı"
+    },
+    {
+      "id": "Q6-05",
+      "question": "6",
+      "previous_claim_or_risk": "Paylaşım/erişim yayılım katsayısıdır",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Yeni izleyici ve örtüşme bilinmeden hesaplanamaz",
+      "evidence": "Yöntem"
+    },
+    {
+      "id": "Q6-06",
+      "question": "6",
+      "previous_claim_or_risk": "Viral erişim sanat değeri veya doğru kitle garantisi",
+      "disposition": "Reddedildi",
+      "corrected_result": "İlgili hesap eylemi ve eser değeri ayrı",
+      "evidence": "Yöntem"
+    },
+    {
+      "id": "Q7-01",
+      "question": "7",
+      "previous_claim_or_risk": "Düşük erişim ceza veya kötü eser tanısı",
+      "disposition": "Düzeltildi",
+      "corrected_result": "En az iki alternatif ve sonraki kontrol tablosu",
+      "evidence": "S060; yöntem"
+    },
+    {
+      "id": "Q7-02",
+      "question": "7",
+      "previous_claim_or_risk": "Eksik metrik sıfır, views reach veya DM share'dir",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Ekran tanımları ve kapsam korunur; N/A ayrı",
+      "evidence": "S048 erişim kısıtı; yöntem"
+    },
+    {
+      "id": "Q7-03",
+      "question": "7",
+      "previous_claim_or_risk": "Düşük ortalama süre ilk saniye kaybını kanıtlar",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Retention yoksa kayıp yeri bilinmiyor",
+      "evidence": "Metrik mantığı"
+    },
+    {
+      "id": "Q7-04",
+      "question": "7",
+      "previous_claim_or_risk": "Birkaç post veya büyük views sayısı yeterli veri",
+      "disposition": "Tamamlandı",
+      "corrected_result": "Bağımsızlık, atama birimi, pratik fark ve güç analizi eklendi",
+      "evidence": "Yöntem; hesap örneği"
+    },
+    {
+      "id": "Q7-05",
+      "question": "7",
+      "previous_claim_or_risk": "3/300 ile 8/400 kesin iki kat başarı",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Belirsizlik aralıkları ve seçilmiş organik dağıtım sınırı",
+      "evidence": "Aritmetik; varsayımsal veri"
+    },
+    {
+      "id": "Q7-06",
+      "question": "7",
+      "previous_claim_or_risk": "Sıfır olay gerçek olasılık sıfır demek",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Koşullu üst sınır ve uygun fırsat varsayımı",
+      "evidence": "İstatistiksel yöntem"
+    },
+    {
+      "id": "Q7-07",
+      "question": "7",
+      "previous_claim_or_risk": "Eski web3 medyanı yeni resim ölçütüdür",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Yeni dönem ve benzer format ayrı; sıfır medyandan çarpan yok",
+      "evidence": "Yöntem"
+    },
+    {
+      "id": "Q8-01",
+      "question": "8",
+      "previous_claim_or_risk": "Carousel'e dönüştürmek 9 kat kazandırır",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Gözlemsel grup ortalaması; views tekil erişim değil",
+      "evidence": "S087,S088"
+    },
+    {
+      "id": "Q8-02",
+      "question": "8",
+      "previous_claim_or_risk": "35M Socialinsider örneklemi Q2 2026'ya aittir",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Ana veri 2025; ayrı Q2 n yok",
+      "evidence": "S025"
+    },
+    {
+      "id": "Q8-03",
+      "question": "8",
+      "previous_claim_or_risk": "%0,50 ve %0,48 farkı %0,02 göreli",
+      "disposition": "Düzeltildi",
+      "corrected_result": "0,02 yüzde puan; yaklaşık %4,17 göreli",
+      "evidence": "S025; aritmetik"
+    },
+    {
+      "id": "Q8-04",
+      "question": "8",
+      "previous_claim_or_risk": "Save/follower erişen kişinin save olasılığı",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Takipçi paydası; farklı oranlar kıyaslanmaz",
+      "evidence": "S089"
+    },
+    {
+      "id": "Q8-05",
+      "question": "8",
+      "previous_claim_or_risk": "%60–70 Reel optimumdur",
+      "disposition": "Çıkarıldı",
+      "corrected_result": "Uzman görüşü kontrollü optimum testi değil",
+      "evidence": "S025"
+    },
+    {
+      "id": "Q8-06",
+      "question": "8",
+      "previous_claim_or_risk": "Organik lider ücretli satış lideridir",
+      "disposition": "Reddedildi",
+      "corrected_result": "Format, yerleşim, optimizasyon ve sonuç ayrı",
+      "evidence": "Yöntem"
+    },
+    {
+      "id": "Q8-07",
+      "question": "8",
+      "previous_claim_or_risk": "40×3 hazır ve bağımsız 120 içerik",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Yaklaşık fırsat; malzeme/ek değer/üretim maliyeti gerekir",
+      "evidence": "Kullanıcı tahmini; yöntem"
+    },
+    {
+      "id": "Q9-01",
+      "question": "9",
+      "previous_claim_or_risk": "Profil ziyareti hedefi takip/satış getirir",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Ara olay ile gerçek sonuç ayrı; hesap menüsü görülmedi",
+      "evidence": "S034"
+    },
+    {
+      "id": "Q9-02",
+      "question": "9",
+      "previous_claim_or_risk": "Optimizasyon olayı faturalandırma olayıdır",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Kurulumda ayrı doğrulanacak alanlar",
+      "evidence": "Yöntem"
+    },
+    {
+      "id": "Q9-03",
+      "question": "9",
+      "previous_claim_or_risk": "Daha çok harcama ROAS düşüşüne neden oldu",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Bileşim ve dönem farkı; rastgele deney değil",
+      "evidence": "S043"
+    },
+    {
+      "id": "Q9-04",
+      "question": "9",
+      "previous_claim_or_risk": "ROAS kâr veya ek satıştır",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Gelir/reklam harcaması; marj ve nedensel etki ayrı",
+      "evidence": "Metrik tanımı"
+    },
+    {
+      "id": "Q9-05",
+      "question": "9",
+      "previous_claim_or_risk": "5 €/gün kabul edilmiş kullanıcı bütçesi",
+      "disposition": "Geri çekildi",
+      "corrected_result": "Yalnız aritmetik senaryo; harcama yetkisi değil",
+      "evidence": "Kayıt tutarlılığı"
+    },
+    {
+      "id": "Q9-06",
+      "question": "9",
+      "previous_claim_or_risk": "50 olay/7 gün, %20 artış ve günlük tavan kesindir",
+      "disposition": "Doğrulanmadı",
+      "corrected_result": "Tam güncel koşullar erişilemedi; eşik kullanılmıyor",
+      "evidence": "S039–S041"
+    },
+    {
+      "id": "Q9-07",
+      "question": "9",
+      "previous_claim_or_risk": "Aynı sette iki reklam random A/B'dir",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Eşit/rasgele dağıtım varsayılmaz",
+      "evidence": "Deney tasarımı"
+    },
+    {
+      "id": "Q9-08",
+      "question": "9",
+      "previous_claim_or_risk": "Öğrenmeden çıkış ticari başarıdır",
+      "disposition": "Reddedildi",
+      "corrected_result": "Olay kalitesi ve ekonomik sınır ayrı",
+      "evidence": "Yöntem"
+    },
+    {
+      "id": "Q9-09",
+      "question": "9",
+      "previous_claim_or_risk": "Kabul edilebilir CPA ve yeterli bütçe hazırdır",
+      "disposition": "Tamamlandı",
+      "corrected_result": "Marj/olasılık/maliyet senaryosu ve toplam kayıp sınırı; sayı atanmadı",
+      "evidence": "Yöntem"
+    },
+    {
+      "id": "Q10-01",
+      "question": "10",
+      "previous_claim_or_risk": "Sanat ilgisi eklemek kesin dar hedeftir",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Kontrol/öneri ve gerçek dağıtım ayrılır",
+      "evidence": "S074"
+    },
+    {
+      "id": "Q10-02",
+      "question": "10",
+      "previous_claim_or_risk": "Varsayılan genişleme ve tüm kontrol listesi kesin",
+      "disposition": "Geri çekildi",
+      "corrected_result": "Tam sayfa/hesap ekranı görülmedi; koşullu yazıldı",
+      "evidence": "S073–S076"
+    },
+    {
+      "id": "Q10-03",
+      "question": "10",
+      "previous_claim_or_risk": "Şehir hedefi yerleşik koleksiyonerleri gösterir",
+      "disposition": "Reddedildi",
+      "corrected_result": "Konum tanımı ikamet/niyet belgesi değil",
+      "evidence": "S076; yöntem"
+    },
+    {
+      "id": "Q10-04",
+      "question": "10",
+      "previous_claim_or_risk": "700 takipçi hazır 700 kişilik reklam kitlesi",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Olay, pencere, eşleşme ve kullanılabilirlik bilinmiyor",
+      "evidence": "S077–S080"
+    },
+    {
+      "id": "Q10-05",
+      "question": "10",
+      "previous_claim_or_risk": "Eski kitle kesin kötü lookalike kaynağı",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Uyum belirsizliği; köken değersizlik kanıtı değil",
+      "evidence": "Yöntem"
+    },
+    {
+      "id": "Q10-06",
+      "question": "10",
+      "previous_claim_or_risk": "Ucuz ülkedeki beğeni hedef pazar ilgisini kanıtlar",
+      "disposition": "Reddedildi",
+      "corrected_result": "Örneklem–amaç uyuşmazlığı; kalıcı zehirlenme iddiası yok",
+      "evidence": "Yöntem"
+    },
+    {
+      "id": "Q10-07",
+      "question": "10",
+      "previous_claim_or_risk": "Kitle testinde eşit bütçe eşit insan/dağıtım",
+      "disposition": "Tamamlandı",
+      "corrected_result": "Örtüşme, genişleme ve dağıtım bileşimi eklendi",
+      "evidence": "Yöntem"
+    },
+    {
+      "id": "Q11-01",
+      "question": "11",
+      "previous_claim_or_risk": "18 gün reklamın optimum ömrüdür",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Gözlenen aktif süre, yönetici kapatma ve seçilim",
+      "evidence": "S056"
+    },
+    {
+      "id": "Q11-02",
+      "question": "11",
+      "previous_claim_or_risk": "Düşük toplam gösterim yorgunluğu dışlar",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Reach yok; tekrar ölçülmüyor",
+      "evidence": "S056"
+    },
+    {
+      "id": "Q11-03",
+      "question": "11",
+      "previous_claim_or_risk": "Frequency 3 veya 7 gün evrensel kapatma eşiği",
+      "disposition": "Doğrulanmadı",
+      "corrected_result": "Amaç maliyeti, kalite ve dönem birlikte",
+      "evidence": "S051–S055 erişim sınırı"
+    },
+    {
+      "id": "Q11-04",
+      "question": "11",
+      "previous_claim_or_risk": "CPC artışı kesin yorgunluk; CPM içerikten bağımsız",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Aritmetik bileşenler neden kanıtı değil",
+      "evidence": "Yöntem"
+    },
+    {
+      "id": "Q11-05",
+      "question": "11",
+      "previous_claim_or_risk": "Birbirini izleyen kaydırmalı raporlar bağımsız teyit",
+      "disposition": "Tamamlandı",
+      "corrected_result": "Örtüşen günler ve atıf olgunluğu açıklandı",
+      "evidence": "Yöntem"
+    },
+    {
+      "id": "Q11-06",
+      "question": "11",
+      "previous_claim_or_risk": "Kopyalama/aç–kapa bütçe reseti garantili fayda",
+      "disposition": "Doğrulanmadı",
+      "corrected_result": "Evrensel fayda ve güvenli yüzde yok",
+      "evidence": "S039,S041"
+    },
+    {
+      "id": "Q11-07",
+      "question": "11",
+      "previous_claim_or_risk": "Her yeni post eski reklamı kapatır/eser tüketilir",
+      "disposition": "Reddedildi",
+      "corrected_result": "Organik takvim, reklam ömrü, eser ve sunum ayrı",
+      "evidence": "Yöntem"
+    },
+    {
+      "id": "ALG-01",
+      "question": "Çerçeve",
+      "previous_claim_or_risk": "Search/Feed kesin 2026 sinyal listesi okundu",
+      "disposition": "Geri çekildi",
+      "corrected_result": "Tam kartlar doğrulanmadı; tarihsel Explore modeli sınırlı tutuldu",
+      "evidence": "S002,S003,S011,S012,S059"
+    },
+    {
+      "id": "ALG-02",
+      "question": "Çerçeve",
+      "previous_claim_or_risk": "%75 özgünlük ve 2026 fotoğraf değişimi güncel kesin kural",
+      "disposition": "Düzeltildi; kısmen yeniden doğrulandı",
+      "corrected_result": "S013: %75 ABD Q4 2025 bileşimidir. S015/F16 fotoğraf/carousel özgünlük güncellemesi resmî indeksle sınırlı doğrulandı; sabit katsayı veya tam güncel politika dökümü değildir.",
+      "evidence": "S013/F15; S015/F16; S014,S068 bu turda tam teyit edilmedi"
+    },
+    {
+      "id": "ALG-03",
+      "question": "Çerçeve",
+      "previous_claim_or_risk": "Sends beğeninin X katı; süre/ses/filigran kesin eşikler",
+      "disposition": "Doğrulanmadı",
+      "corrected_result": "Sabit ağırlık/teknik baraj kullanılmıyor",
+      "evidence": "S016–S018"
+    },
+    {
+      "id": "ALG-04",
+      "question": "Çerçeve",
+      "previous_claim_or_risk": "Eylül 2026 Mosseri dört videosu izlenip doğrulandı",
+      "disposition": "Geri çekildi",
+      "corrected_result": "Birincil videolar doğrulanmadı; ikincil anlatım teknik kanıt değil",
+      "evidence": "S067; eski kapanış"
+    },
+    {
+      "id": "ALG-05",
+      "question": "Çerçeve",
+      "previous_claim_or_risk": "Teen içerik ayarı yetişkin nü/sanat kuralıdır",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Topluluk, öneri, reklam ve yaş katmanları ayrı",
+      "evidence": "S023,S060,S095,S096"
+    },
+    {
+      "id": "ALG-06",
+      "question": "Çerçeve",
+      "previous_claim_or_risk": "Sanat istisnası reklam ve müzik kullanımını da kapsar",
+      "disposition": "Tamamlandı",
+      "corrected_result": "Müzik/organik/reklam ayrı; indeks sınırı ve dosya bazlı kontrol",
+      "evidence": "S095–S098"
+    },
+    {
+      "id": "ALG-07",
+      "question": "Çerçeve",
+      "previous_claim_or_risk": "Business hesap, eski eser, sessizlik veya tekrar otomatik ceza",
+      "disposition": "Doğrulanmadı",
+      "corrected_result": "Evrensel yasak/eşik yok iddiası değil, yeterli kanıt yok",
+      "evidence": "Kanıt sınırı"
+    },
+    {
+      "id": "ALG-08",
+      "question": "Çerçeve",
+      "previous_claim_or_risk": "Works sayfasındaki 10 eser bağımsız bu turda incelendi",
+      "disposition": "Geri çekildi",
+      "corrected_result": "Bu denetimde eser/site incelemesi yapılmadı; kullanıcı tahmini ayrı",
+      "evidence": "Önceki ana belge"
+    },
+    {
+      "id": "ALG-09",
+      "question": "Durum",
+      "previous_claim_or_risk": "Ayak 1 tamamlandı; Ayak 2 durduruldu",
+      "disposition": "Düzeltildi",
+      "corrected_result": "1–12 yazılmış olması kapsamlı sistem kapanışı değildi. Devam turunda birleşik model ve eksik sistem yüzeyleri yazıldı. Hesap erişimi araştırma tamamlanma koşulu değil; paralel Ayak 2 yetkili.",
+      "evidence": "Güncel kullanıcı talimatı"
+    },
+    {
+      "id": "ALG-10",
+      "question": "Durum",
+      "previous_claim_or_risk": "Eski JSON/okuyucu güncel sonuçları gösterir",
+      "disposition": "Düzeltildi",
+      "corrected_result": "Markdown ile yeniden üretim ve gezinme kontrolü eklendi",
+      "evidence": "Dosya doğrulaması"
+    }
+  ]
+}

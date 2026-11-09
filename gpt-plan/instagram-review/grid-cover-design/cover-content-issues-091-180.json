@@ -1,0 +1,74 @@
+[
+  {
+    "n": 128,
+    "severity": "source_order_correction",
+    "evidence": "Audit yolları: A0664 = İPHONE PROCESS/FRAMED/10.png; A0676 = İPHONE PROCESS/FRAMED/9.png. İki önizleme de zaten boyalı gelişmiş aşamalar. ID sırası sayısal aşama sırası değildir. Mevcut idea_tr erken A0664 / geç A0676 diye yanlış yön kuruyor.",
+    "safe_replacement_fields": {
+      "assets": [
+        "A0676",
+        "A0664",
+        "A0592"
+      ],
+      "title_en": "The same layout, changing faces.",
+      "caption_en": "Two recorded stages and the completed 7 fam board game. The table remains between the figures while the painted shapes within their heads and bodies change.",
+      "idea_tr": "Numaralı kayıtlarda 9.png A0676, ardından 10.png A0664 ve temiz final A0592. İki kayıt da boyalı aşamadır; ilk boya veya tüm sürecin başlangıcı diye sunma. Masa ve iki beden ilişkisini koru, yalnız görünen değişiklikleri adlandır; dosya numarası kesin tarih veya süre kanıtı değildir.",
+      "new_value_tr": "Film kaynağı anlatısından farklı olarak aynı sahne düzenindeki iki gerçek boyalı kaydın yerel biçim değişimleri karşılaştırılır. ID leksikografisi süreç sırası olarak kullanılmaz."
+    },
+    "cover_followup": "A0664 gerçek aşama olarak kapakta kalabilir; neden cümlesindeki erken ifadesi kaldırıldı. Before the opponents settle başlığı finalden önceki kaydı belirtir, ilk aşama iddiası taşımaz."
+  },
+  {
+    "n": 133,
+    "severity": "source_legibility_improvement",
+    "evidence": "A1314 PROCESS IPHONE/1.png, 1411×1881 gerçek açık tuval/çok soluk çizgi kaydı; küçük görüntüde çizgiler seçilmiyor. Aynı audit A1335 temiz-sketchü.png kaydını temiz taslak olarak tanımlar; çizgiler daha belirgin ve iki grup düzeni iddiasını daha iyi taşır. A1335 fiziksel erken tuval fotoğrafı gibi sunulmamalı.",
+    "safe_replacement_fields": {
+      "assets": [
+        "A1335",
+        "A0428",
+        "A1209",
+        "A0582"
+      ],
+      "title_en": "Two group arrangements in the drawings.",
+      "caption_en": "A clean drawing from the Gxd archive and a recorded drawing stage of Virgil show different group arrangements. One leans around a carried body; the other gathers beneath a central figure. The finished paintings follow for orientation.",
+      "idea_tr": "Gxd temiz çizimi A1335 ile Virgil çizim aşaması A0428 ayrı sayfalar; sonra ilgili finaller. A1335'i ilk fiziksel tuval aşaması diye etiketleme. A1314 arşivde korunur, okunurluğu düşük olduğu için karşılaştırmanın ana sayfası olmaz. Taslak tarihlerini kesinleştirme.",
+      "new_value_tr": "İki farklı arşiv çiziminde taşınan bedene yönelme ile merkez etrafında toplanma karşılaştırılır; temiz çizim ile fiziksel tuval aşaması aynı belge türü diye birleştirilmez."
+    },
+    "cover_followup": "Kapak A0428 kalıyor; kaynak rolü çizim kaydı. Kendi küçük görünüm okunurluğu render incelemesinde ayrıca denetlenmeli."
+  },
+  {
+    "n": 148,
+    "severity": "rationale_correction",
+    "evidence": "Mevcut new_value_tr '135sarırayın,139küçükeylemlerin' diyor. P135 tabak/teknedeki tekrar birimlerini karşılaştırıyor; P139 giysinin gövdeye çizdiği sınırı inceliyor. Önceki postların görevleri yanlış aktarılmış.",
+    "safe_replacement_fields": {
+      "new_value_tr": "P135 küçük birimlerin bir alanı doldurmasını, P139 giysinin gövdeyi çerçevelemesini inceliyordu. Burada tabak ile ızgaranın tamamlanmış figürün eylemini ve sahnesini farklı kurması karşılaştırılır."
+    },
+    "cover_followup": "A0225 tabak-çatal detayı bu farklı nesne görevini taşır; mevcut kapak değişmez."
+  },
+  {
+    "n": 165,
+    "severity": "rationale_and_claim_correction",
+    "evidence": "Mevcut new_value_tr P125'i insan yanında ölçek diye tanımlıyor; P125 aslında 120 cm kare ile üç 40×30 cm panelin ölçülü karşılaştırması. İnsanla ölçek P17'de. A2744/A2745 yakınlarında sarı çizginin belirli rotası küçük görüntüde doğrulanmıyor; bunu içeriğin zorunlu yeni değeri yapmak gereksiz kesinlik yaratıyor.",
+    "safe_replacement_fields": {
+      "idea_tr": "Bütün A2743, hazır yakın A2744, fiziksel yüzey kaydı A2745. Yakın kayıtları ışık veya açı farkından yeni boya aşaması sayma. Aynı sınırın gösterildiği tam boy görsel incelemede doğrulanırsa üç sayfa korunur; aksi halde kanıtlamayan ek sayfa çıkarılır. Yeni çizgi animasyonu ekleme.",
+      "new_value_tr": "P125 kare tuval ile üç panelin ölçülü nesne karşılaştırmasıydı. Burada seçili yakın görüntü, figür ve zeminin benzer gri-bej fırça hareketleriyle zor ayrılan sınırını inceletir. Görüntüde doğrulanmamış sarı çizgi rotası yeni bilgi diye yazılmaz."
+    },
+    "cover_followup": "Where ground meets figure / A2744, görünmeyen sarı çizgi vaadini taşımıyor."
+  },
+  {
+    "n": 166,
+    "severity": "unsupported_object_identification",
+    "evidence": "A0134 bütünü ve A0101 hazır yakını incelendi: sağ/üst bölgede kırmızı çizgisel işaretler var; küçük kırmızı ağız diye kesin bir anatomi tanımı desteklenmiyor. Walls A0224 yakınında şapka altındaki ağız bölgesi ve kırmızı boya açıkça görülüyor. İki ağız başlığı STLOP biçimini dayanaksız biçimde sabitliyor.",
+    "safe_replacement_fields": {
+      "assets": [
+        "A0134",
+        "A0101",
+        "A0258",
+        "A0224"
+      ],
+      "title_en": "Red marks, different edges.",
+      "caption_en": "Red linear marks interrupt the pale field in s(t)lop. In walls of perception, red sits around the mouth beneath the hat. Similar colour takes different roles within the surrounding painted forms.",
+      "idea_tr": "Önce iki bütün, ardından STLOP A0101 kırmızı çizgisel izleri ve Walls A0224 ağız çevresi. STLOP izlerini ağız veya başka kesin bir anatomik nesne diye tanımlama. Her hazır detayı bütünüyle bağla; ortak renk ve farklı kenar kuruluşunu karşılaştır.",
+      "new_value_tr": "STLOP dikey nesnesi veya Walls şapkasının tekrarı değil; iki bitmiş resimde kırmızı izlerin çevredeki boya alanına farklı bağlanışı. Benzer renk aynı nesne anlamına gelmez."
+    },
+    "cover_followup": "Kapak şimdiden Red marks, different edges olarak düzeltildi. A0258 bütünü korunuyor; A0101 iç sayfada hazır kaynak olarak kullanılmalı."
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "checked_on": "2026-11-04",
+  "scope": "Instagram grid and cover evidence for a local, unpublished 180-post design. Only primary sources support verified claims. No account UI was inspected by this research agent.",
+  "verified_primary_evidence": [
+    {
+      "id": "pinning",
+      "url": "https://about.fb.com/ja/news/2022/06/grid_pinning_on_profile/",
+      "title": "Instagram introduces profile grid pinning",
+      "published": "2022-06-08",
+      "status": "Primary article body read",
+      "finding": "Instagram announced that up to three feed posts or Reels can be pinned at the top of a profile. The article also describes unpinning.",
+      "limit": "This verifies the published feature, not the current account's pinned posts, pin order or interface."
+    },
+    {
+      "id": "grid_reorder_announcement",
+      "url": "https://about.fb.com/news/2025/06/inspiring-creativity-that-brings-people-together/",
+      "title": "Inspiring Creativity That Brings People Together",
+      "published": "2025-06-12",
+      "updated": "2025-06-26",
+      "status": "Primary article body read",
+      "finding": "Meta announced the intention to let people reorder their profile posts.",
+      "limit": "The text uses future tense. It alone does not establish current availability or current account behavior."
+    }
+  ],
+  "primary_sources_located_but_not_verified": [
+    {
+      "id": "photo_resolution",
+      "url": "https://help.instagram.com/1631821640426723",
+      "title": "Image resolution of photos you share on Instagram",
+      "access_result": "Direct Help Center request returned 429; Facebook Help mirror redirected to a login/block page.",
+      "claim_pending_primary_or_account_verification": "Current accepted native photo aspect range and resolution, including 3:4 photos. Do not label exact dimensions as officially verified from this research."
+    },
+    {
+      "id": "reel_size_and_cover",
+      "url": "https://help.instagram.com/1038071743007909",
+      "title": "Reel size and aspect ratios on Instagram",
+      "access_result": "Direct Help Center request returned 429; Facebook Help mirror redirected to a login/block page.",
+      "claim_pending_primary_or_account_verification": "Accepted Reel ratios, minimum resolution/frame rate, recommended cover size and post-publication cover editing. In particular, a commonly repeated 420 x 654 cover recommendation is not directly verified here and is not used as a universal design requirement."
+    },
+    {
+      "id": "native_3_4_photo_announcement",
+      "url": "https://www.threads.com/@mosseri/post/DKOIbJkRNIb",
+      "title": "Adam Mosseri's May 2025 native-photo aspect announcement",
+      "access_result": "Official account URL located through a secondary citation; direct fetch returned 429/unavailable.",
+      "claim_pending_primary_or_account_verification": "Native support for 3:4 photos. Secondary claims are not promoted to verified evidence."
+    },
+    {
+      "id": "tall_grid_announcement",
+      "url": "https://www.threads.com/@mosseri/post/DFBmsT0SKO6",
+      "title": "Adam Mosseri's January 2025 profile-grid explanation",
+      "access_result": "Official account URL located through a secondary citation; direct fetch returned 429.",
+      "claim_pending_primary_or_account_verification": "Exact present-day profile tile ratio and Adjust Preview behavior."
+    },
+    {
+      "id": "grid_reorder_2026",
+      "url": "https://x.com/instagram/status/2064039209397309891",
+      "title": "Instagram's June 2026 grid-reorder announcement",
+      "access_result": "Official account URL located through a secondary embedded post; direct fetch returned 403.",
+      "claim_pending_primary_or_account_verification": "Actual rollout of drag-and-drop grid reordering and interaction with pins. Do not rely on reordering to repair the planned sequence."
+    }
+  ],
+  "design_assumptions_not_platform_guarantees": {
+    "feed_canvas": "1080 x 1440 (3:4) may be used as a provisional local design canvas, with a 1080 x 1350 (4:5) adaptation if the actual publishing route requires it. Verify the route before export lock.",
+    "reel_canvas": "1080 x 1920 (9:16) is a chosen production canvas. Treat the cover, profile thumbnail and full-screen Reel as separate compositions and previews.",
+    "grid_model": "Use 3:4 as a labelled provisional profile-thumbnail model; also stress-test 1:1 and 4:5 crops. These are design tests, not a claim that every Instagram surface currently uses those ratios.",
+    "artwork_integrity": "Keep an uncropped source master. Use contain/padding when showing an entire work; identify intentional details as details. Never stretch an artwork to a canvas ratio.",
+    "critical_content": "Place essential visual information and any text away from edges as a project design choice. No universal officially verified safe-zone coordinates were recovered.",
+    "grid_order": "Simulate newest-first publication order and explicit pin states. Do not build a puzzle that requires perfect alignment or rely on unverified reorder availability.",
+    "route_difference": "Native app, desktop, Business Suite and API constraints must be checked separately; do not infer API acceptance from native app acceptance."
+  },
+  "publication_preview_checks": [
+    "Record the actual account's current visible grid, pins and interface before merging a plan with existing posts.",
+    "In the intended publishing route, inspect the full feed post, each carousel page, Reel cover, profile thumbnail and full-screen Reel separately.",
+    "Confirm crop position, cover choice and any Adjust Preview control in the actual account; do not assume desktop and mobile controls match.",
+    "Verify text legibility, artwork edges, faces, signatures and intentional detail labels at thumbnail size.",
+    "Verify current pinned-row order against each simulated grid state and ensure pinned posts are not duplicated in the model.",
+    "Keep preview-checked status separate from local-file-generated status. These checks are QA before publication, not a new permission request."
+  ],
+  "risk_statement": "A complete local preview reduces composition and sequencing risk; it cannot guarantee platform rendering, future feature stability, reach or growth. No posting or account mutation was performed by this research task."
+}

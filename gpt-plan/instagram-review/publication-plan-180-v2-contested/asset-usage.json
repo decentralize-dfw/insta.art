@@ -1,0 +1,619 @@
+[
+  {
+    "asset_id": "A2802",
+    "path": "../../assets/source-notes/A2802.html",
+    "days": [
+      1
+    ]
+  },
+  {
+    "asset_id": "A1832",
+    "path": "../../assets/art/A1832.webp",
+    "days": [
+      1,
+      29,
+      64,
+      99,
+      134,
+      169
+    ]
+  },
+  {
+    "asset_id": "A0025",
+    "path": "../../assets/art/A0025.webp",
+    "days": [
+      3
+    ]
+  },
+  {
+    "asset_id": "A0028",
+    "path": "../../assets/art/A0028.webp",
+    "days": [
+      3
+    ]
+  },
+  {
+    "asset_id": "A0029",
+    "path": "../../assets/art/A0029.webp",
+    "days": [
+      3
+    ]
+  },
+  {
+    "asset_id": "A0027",
+    "path": "../../assets/art/A0027.webp",
+    "days": [
+      3
+    ]
+  },
+  {
+    "asset_id": "A0001",
+    "path": "../../assets/art/A0001.webp",
+    "days": [
+      5
+    ]
+  },
+  {
+    "asset_id": "A0620",
+    "path": "../../assets/source-notes/A0620.html",
+    "days": [
+      8
+    ]
+  },
+  {
+    "asset_id": "A0592",
+    "path": "../../assets/art/A0592.webp",
+    "days": [
+      8,
+      36,
+      71,
+      106,
+      141,
+      176
+    ]
+  },
+  {
+    "asset_id": "A1632",
+    "path": "../../assets/source-notes/A1632.html",
+    "days": [
+      10,
+      43,
+      85,
+      120,
+      155
+    ]
+  },
+  {
+    "asset_id": "A1378",
+    "path": "../../assets/art/A1378.webp",
+    "days": [
+      10,
+      43,
+      66,
+      85,
+      120,
+      155,
+      171
+    ]
+  },
+  {
+    "asset_id": "A1903",
+    "path": "../../assets/art/A1903.webp",
+    "days": [
+      12,
+      131
+    ]
+  },
+  {
+    "asset_id": "A1159",
+    "path": "../../assets/source-notes/A1159.html",
+    "days": [
+      15
+    ]
+  },
+  {
+    "asset_id": "A0947",
+    "path": "../../assets/art/A0947.webp",
+    "days": [
+      15,
+      50,
+      78,
+      113,
+      148
+    ]
+  },
+  {
+    "asset_id": "A0258",
+    "path": "../../assets/art/A0258.webp",
+    "days": [
+      17,
+      59
+    ]
+  },
+  {
+    "asset_id": "A2795",
+    "path": "../../assets/art/A2795.webp",
+    "days": [
+      19
+    ]
+  },
+  {
+    "asset_id": "A1340",
+    "path": "../../assets/source-notes/A1340.html",
+    "days": [
+      22,
+      57,
+      92,
+      127,
+      162
+    ]
+  },
+  {
+    "asset_id": "A1209",
+    "path": "../../assets/art/A1209.webp",
+    "days": [
+      22,
+      57,
+      73,
+      92,
+      127,
+      162
+    ]
+  },
+  {
+    "asset_id": "A0134",
+    "path": "../../assets/art/A0134.webp",
+    "days": [
+      24
+    ]
+  },
+  {
+    "asset_id": "A1945",
+    "path": "../../assets/art/A1945.webp",
+    "days": [
+      26,
+      145
+    ]
+  },
+  {
+    "asset_id": "A2800",
+    "path": "../../assets/source-notes/A2800.html",
+    "days": [
+      29,
+      134
+    ]
+  },
+  {
+    "asset_id": "A0582",
+    "path": "../../assets/art/A0582.webp",
+    "days": [
+      31,
+      80,
+      178
+    ]
+  },
+  {
+    "asset_id": "A0498",
+    "path": "../../assets/art/A0498.webp",
+    "days": [
+      31
+    ]
+  },
+  {
+    "asset_id": "A0499",
+    "path": "../../assets/art/A0499.webp",
+    "days": [
+      31
+    ]
+  },
+  {
+    "asset_id": "A0004",
+    "path": "../../assets/art/A0004.webp",
+    "days": [
+      33
+    ]
+  },
+  {
+    "asset_id": "A0630",
+    "path": "../../assets/source-notes/A0630.html",
+    "days": [
+      36
+    ]
+  },
+  {
+    "asset_id": "A0298",
+    "path": "../../assets/art/A0298.webp",
+    "days": [
+      38
+    ]
+  },
+  {
+    "asset_id": "A1862",
+    "path": "../../assets/art/A1862.webp",
+    "days": [
+      40,
+      159
+    ]
+  },
+  {
+    "asset_id": "A0160",
+    "path": "../../assets/art/A0160.webp",
+    "days": [
+      45,
+      101
+    ]
+  },
+  {
+    "asset_id": "A0135",
+    "path": "../../assets/art/A0135.webp",
+    "days": [
+      45
+    ]
+  },
+  {
+    "asset_id": "A0136",
+    "path": "../../assets/art/A0136.webp",
+    "days": [
+      45
+    ]
+  },
+  {
+    "asset_id": "A1750",
+    "path": "../../assets/art/A1750.webp",
+    "days": [
+      47
+    ]
+  },
+  {
+    "asset_id": "A1161",
+    "path": "../../assets/source-notes/A1161.html",
+    "days": [
+      50
+    ]
+  },
+  {
+    "asset_id": "A0023",
+    "path": "../../assets/art/A0023.webp",
+    "days": [
+      52
+    ]
+  },
+  {
+    "asset_id": "A1696",
+    "path": "../../assets/art/A1696.webp",
+    "days": [
+      54
+    ]
+  },
+  {
+    "asset_id": "A0224",
+    "path": "../../assets/art/A0224.webp",
+    "days": [
+      59
+    ]
+  },
+  {
+    "asset_id": "A0225",
+    "path": "../../assets/art/A0225.webp",
+    "days": [
+      59
+    ]
+  },
+  {
+    "asset_id": "A2388",
+    "path": "../../assets/art/A2388.webp",
+    "days": [
+      61
+    ]
+  },
+  {
+    "asset_id": "A2801",
+    "path": "../../assets/source-notes/A2801.html",
+    "days": [
+      64,
+      99
+    ]
+  },
+  {
+    "asset_id": "A2156",
+    "path": "../../assets/art/A2156.webp",
+    "days": [
+      68
+    ]
+  },
+  {
+    "asset_id": "A0631",
+    "path": "../../assets/source-notes/A0631.html",
+    "days": [
+      71,
+      176
+    ]
+  },
+  {
+    "asset_id": "A2423",
+    "path": "../../assets/art/A2423.webp",
+    "days": [
+      75
+    ]
+  },
+  {
+    "asset_id": "A1167",
+    "path": "../../assets/source-notes/A1167.html",
+    "days": [
+      78
+    ]
+  },
+  {
+    "asset_id": "A2063",
+    "path": "../../assets/art/A2063.webp",
+    "days": [
+      82
+    ]
+  },
+  {
+    "asset_id": "A0096",
+    "path": "../../assets/art/A0096.webp",
+    "days": [
+      87
+    ]
+  },
+  {
+    "asset_id": "A2763",
+    "path": "../../assets/art/A2763.webp",
+    "days": [
+      89
+    ]
+  },
+  {
+    "asset_id": "A0289",
+    "path": "../../assets/art/A0289.webp",
+    "days": [
+      94
+    ]
+  },
+  {
+    "asset_id": "A1772",
+    "path": "../../assets/art/A1772.webp",
+    "days": [
+      96
+    ]
+  },
+  {
+    "asset_id": "A1809",
+    "path": "../../assets/art/A1809.webp",
+    "days": [
+      103
+    ]
+  },
+  {
+    "asset_id": "A0632",
+    "path": "../../assets/source-notes/A0632.html",
+    "days": [
+      106
+    ]
+  },
+  {
+    "asset_id": "A0017",
+    "path": "../../assets/art/A0017.webp",
+    "days": [
+      108
+    ]
+  },
+  {
+    "asset_id": "A2050",
+    "path": "../../assets/art/A2050.webp",
+    "days": [
+      110
+    ]
+  },
+  {
+    "asset_id": "A1169",
+    "path": "../../assets/source-notes/A1169.html",
+    "days": [
+      113
+    ]
+  },
+  {
+    "asset_id": "A0226",
+    "path": "../../assets/art/A0226.webp",
+    "days": [
+      115
+    ]
+  },
+  {
+    "asset_id": "A2213",
+    "path": "../../assets/art/A2213.webp",
+    "days": [
+      117
+    ]
+  },
+  {
+    "asset_id": "A0296",
+    "path": "../../assets/art/A0296.webp",
+    "days": [
+      122
+    ]
+  },
+  {
+    "asset_id": "A2182",
+    "path": "../../assets/art/A2182.webp",
+    "days": [
+      124
+    ]
+  },
+  {
+    "asset_id": "A0502",
+    "path": "../../assets/art/A0502.webp",
+    "days": [
+      129
+    ]
+  },
+  {
+    "asset_id": "A1716",
+    "path": "../../assets/art/A1716.webp",
+    "days": [
+      131
+    ]
+  },
+  {
+    "asset_id": "A1718",
+    "path": "../../assets/art/A1718.webp",
+    "days": [
+      131
+    ]
+  },
+  {
+    "asset_id": "A1717",
+    "path": "../../assets/art/A1717.webp",
+    "days": [
+      131
+    ]
+  },
+  {
+    "asset_id": "A0098",
+    "path": "../../assets/art/A0098.webp",
+    "days": [
+      136
+    ]
+  },
+  {
+    "asset_id": "A2451",
+    "path": "../../assets/art/A2451.webp",
+    "days": [
+      138
+    ]
+  },
+  {
+    "asset_id": "A0627",
+    "path": "../../assets/source-notes/A0627.html",
+    "days": [
+      141
+    ]
+  },
+  {
+    "asset_id": "A0293",
+    "path": "../../assets/art/A0293.webp",
+    "days": [
+      143
+    ]
+  },
+  {
+    "asset_id": "A1930",
+    "path": "../../assets/art/A1930.webp",
+    "days": [
+      145
+    ]
+  },
+  {
+    "asset_id": "A1931",
+    "path": "../../assets/art/A1931.webp",
+    "days": [
+      145
+    ]
+  },
+  {
+    "asset_id": "A1165",
+    "path": "../../assets/source-notes/A1165.html",
+    "days": [
+      148
+    ]
+  },
+  {
+    "asset_id": "A0139",
+    "path": "../../assets/art/A0139.webp",
+    "days": [
+      150
+    ]
+  },
+  {
+    "asset_id": "A2014",
+    "path": "../../assets/art/A2014.webp",
+    "days": [
+      152
+    ]
+  },
+  {
+    "asset_id": "A0008",
+    "path": "../../assets/art/A0008.webp",
+    "days": [
+      157
+    ]
+  },
+  {
+    "asset_id": "A1844",
+    "path": "../../assets/art/A1844.webp",
+    "days": [
+      159
+    ]
+  },
+  {
+    "asset_id": "A1847",
+    "path": "../../assets/art/A1847.webp",
+    "days": [
+      159
+    ]
+  },
+  {
+    "asset_id": "A0227",
+    "path": "../../assets/art/A0227.webp",
+    "days": [
+      164
+    ]
+  },
+  {
+    "asset_id": "A1695",
+    "path": "../../assets/art/A1695.webp",
+    "days": [
+      166
+    ]
+  },
+  {
+    "asset_id": "A2799",
+    "path": "../../assets/source-notes/A2799.html",
+    "days": [
+      169
+    ]
+  },
+  {
+    "asset_id": "A1560",
+    "path": "../../assets/art/A1560.webp",
+    "days": [
+      171
+    ]
+  },
+  {
+    "asset_id": "A1564",
+    "path": "../../assets/art/A1564.webp",
+    "days": [
+      171
+    ]
+  },
+  {
+    "asset_id": "A1559",
+    "path": "../../assets/art/A1559.webp",
+    "days": [
+      171
+    ]
+  },
+  {
+    "asset_id": "A2452",
+    "path": "../../assets/art/A2452.webp",
+    "days": [
+      173
+    ]
+  },
+  {
+    "asset_id": "A0504",
+    "path": "../../assets/art/A0504.webp",
+    "days": [
+      178
+    ]
+  },
+  {
+    "asset_id": "A2743",
+    "path": "../../assets/art/A2743.webp",
+    "days": [
+      180
+    ]
+  }
+]

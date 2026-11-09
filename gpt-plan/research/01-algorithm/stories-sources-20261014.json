@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-14",
+  "sources": [
+    {
+      "id": "ST01",
+      "title": "Instagram Ranking Explained",
+      "url": "https://about.instagram.com/blog/announcements/instagram-ranking-explained",
+      "date_or_period": "31 Mayıs 2023",
+      "access": "Resmî indeks parçası; tam sayfa 429",
+      "limitation": "Açma/yanıt/sonraki Story tahminleri. Güncel katsayı veya tam sinyal listesi değil."
+    },
+    {
+      "id": "ST02",
+      "title": "Instagram Stories AI system",
+      "url": "https://transparency.meta.com/features/explaining-ranking/ig-stories/",
+      "date_or_period": "İndekste 18 Eylül 2025",
+      "access": "Resmî indeks; tam sayfa 429",
+      "limitation": "Tarih ve görünür sınırlı parça; kartın tamamı okundu denmiyor."
+    },
+    {
+      "id": "ST03",
+      "title": "Metricool Instagram Stories Guide",
+      "url": "https://metricool.com/stories-instagram/",
+      "date_or_period": "27 Temmuz 2026",
+      "access": "Tam rehber okundu; ham veri yok",
+      "limitation": "S087–S088 ile aynı araştırmaya dayanır. Ayrı Story alt örneklemi/eşleşme/yanıt paydası açıklığı yetersiz; sticker nedenselliği kabul edilmedi."
+    },
+    {
+      "id": "ST04",
+      "title": "Socialinsider Stories Benchmarks",
+      "url": "https://www.socialinsider.io/social-media-benchmarks/instagram-stories-benchmarks",
+      "date_or_period": "26 Haziran 2025; veri Ocak–Mayıs 2024/2025",
+      "access": "Tam metin ve yöntem okundu",
+      "limitation": "161.180 Story; günlük seri uzunluğu random deney değil. Gösterim tanımı ve erişim tabloları arasında açıklanmamış uyumsuzluk var."
+    },
+    {
+      "id": "ST05",
+      "title": "Meta New Stickers in Instagram Stories",
+      "url": "https://about.fb.com/news/2024/05/new-stickers-in-instagram-stories/",
+      "date_or_period": "Mayıs 2024",
+      "access": "Tam duyuru okundu",
+      "limitation": "Araçların varlığını anlatır; erişim veya nitelikli talep artışı deneyi değil."
+    },
+    {
+      "id": "ST06",
+      "title": "Instagram Help — Stories",
+      "url": "https://help.instagram.com/",
+      "date_or_period": "Tarihsiz; erişim 14 Ekim 2026",
+      "access": "Arama indeksinde Stories başlığı; sonuç kök adrese gidiyor",
+      "limitation": "24 saat ve Highlights istisnası görüldü. Kesin alt sayfa kimliği bulunmadığından uydurulmadı; menü/özel hesap koşulu kanıtı değil."
+    },
+    {
+      "id": "ST07",
+      "title": "Meta Instagram Stories video ad specs",
+      "url": "https://www.facebook.com/business/ads-guide/update/video/instagram-story",
+      "date_or_period": "Tarihsiz; erişim 14 Ekim 2026",
+      "access": "Resmî indeks; tam sayfa giriş duvarı",
+      "limitation": "9:16 ve dosya/video ayarları. Tam teknik sınırlar okunmadı; hedef/dil varyantları tek zorunlu çözünürlük kuralına çevrilmedi."
+    },
+    {
+      "id": "ST08",
+      "title": "Meta safe zones",
+      "url": "https://www.facebook.com/business/help/980593475366490",
+      "date_or_period": "Tarihsiz; erişim 14 Ekim 2026",
+      "access": "Resmî indeks; tam sayfa giriş duvarı",
+      "limitation": "Önizleme bindirmesi tanımı; bütün yerleşimlere sabit piksel kuralı çıkarılmadı."
+    },
+    {
+      "id": "ST09",
+      "title": "Troubleshoot Boosting Instagram Stories",
+      "url": "https://www.facebook.com/business/help/411192286082878",
+      "date_or_period": "Tarihsiz; erişim 14 Ekim 2026",
+      "access": "Resmî indeks; tam sayfa giriş duvarı",
+      "limitation": "Mevcut post boost ile post olmadan reklamın sticker koşulları farklı. Tam izin listesi doğrulanmadı."
+    },
+    {
+      "id": "ST10",
+      "title": "Meta About Ads In Review",
+      "url": "https://www.facebook.com/business/help/204798856225114",
+      "date_or_period": "Tarihsiz; erişim 14 Ekim 2026",
+      "access": "Resmî indeks; tam sayfa giriş duvarı",
+      "limitation": "Çoğu 24 saat içinde, daha uzun olabilir; canlı reklam da tekrar incelenebilir. Süre garantisi değil."
+    },
+    {
+      "id": "ST11",
+      "title": "Meta Troubleshoot a rejected ad",
+      "url": "https://www.facebook.com/business/help/1210227555661027",
+      "date_or_period": "Tarihsiz; erişim 14 Ekim 2026",
+      "access": "Resmî indeks; tam sayfa giriş duvarı",
+      "limitation": "Business Support Home inceleme yolu; gerçek hesap ekranı ve yetkileri görülmedi."
+    },
+    {
+      "id": "ST12",
+      "title": "Meta 2026: AI Drives Performance — S013 yeniden kontrolü",
+      "url": "https://about.fb.com/news/2026/01/2026-ai-drives-performance/",
+      "date_or_period": "28–29 Ocak 2026; ilgili veri Q4 2025 ABD",
+      "access": "İlgili tam metin okundu",
+      "limitation": "Özgün Instagram öneri payı %75. Yeni sanatçı/Avrupa erişim garantisi değil; S013 ile aynı kaynak, bağımsız teyit sayılmaz."
+    }
+  ]
+}

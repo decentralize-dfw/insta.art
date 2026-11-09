@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-04",
+  "superseded_feed_count": 129,
+  "new_feed_count": 78,
+  "superseded_first_14_days": 10,
+  "new_first_14_days": 6,
+  "painstaking_first_14_days": [
+    3
+  ],
+  "reason": "Aynı triptiğin tekrarını kaldırmak; gerçek videoyu olay/anlatı ile kullanmak; arşiv ve eskize yer açmak; yayın dışı günleri korumak.",
+  "preserved": [
+    "Gün numarası",
+    "İngilizce yayın dili",
+    "Niş ve ilgili devam hedefi",
+    "Europe/Paris 19.00 başlangıç saati",
+    "Reklamın organik sonuçtan sonra değerlendirilmesi",
+    "24/72/168 saat ölçümü"
+  ],
+  "sources": [
+    {
+      "name": "T17 · Saat ve sıklık",
+      "url": "../../research/03-tactics/tactics-q17-answer-20261016.md",
+      "finding": "Günlük kota veya ideal saat yok; sürdürülebilir kapasite ve dönem toplamı/gönderi başına sonuç birlikte."
+    },
+    {
+      "name": "T23 · Eserin inceleme ihtiyacı",
+      "url": "../../research/03-tactics/tactics-q23-answer-20261016.md",
+      "finding": "Bitmiş eser, süreç ve anlatı farklı soruları karşılar; hepsini her postta zorunlu kılma."
+    },
+    {
+      "name": "T55 · Yeniden kullanım",
+      "url": "../../research/03-tactics/tactics-q55-answer-20261016.md",
+      "finding": "Aynı görüntünün dosyasını değiştirmek yetmez; yeni bilgi ve inceleme değeri gerekir."
+    },
+    {
+      "name": "T45 · Kurgu ve süre",
+      "url": "../../research/03-tactics/tactics-q45-answer-20261016.md",
+      "finding": "Her kesmenin bilgi işi olmalı; hızlı kurgu ve kısa süre kendi başına amaç değil."
+    }
+  ]
+}
