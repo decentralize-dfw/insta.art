@@ -31,6 +31,11 @@ GROUPS = [
 ]
 NESTED = ("kopstal", "milan", "editorial", "single", "details")
 
+# Videos are served from a second GitHub Pages site (same paths under posts/),
+# so this site stays under the 1 GB Pages limit. Full quality, nothing re-encoded.
+# Empty string: videos are loaded from this site (local use).
+MEDIA_BASE = os.environ.get("MEDIA_BASE", "https://decentralize-dfw.github.io/insta-media/")
+
 
 def read(path):
     try:
@@ -160,7 +165,8 @@ const GROUPS = __GROUPS__;
 let group = "all";
 const $ = s => document.querySelector(s);
 const esc = s => s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const url = (it, f) => it.path + "/" + f;
+const MEDIA = __MEDIA__;
+const url = (it, f) => (MEDIA && f.endsWith(".mp4") ? MEDIA : "") + it.path + "/" + f;
 
 function toast(m) { const t = $("#toast"); t.textContent = m; t.classList.add("on"); setTimeout(() => t.classList.remove("on"), 1600); }
 
@@ -280,7 +286,8 @@ if (location.hash) { const it = DATA.find(d => d.id === location.hash.slice(1));
 def main():
     data = collect()
     page = PAGE.replace("__DATA__", json.dumps(data, ensure_ascii=False)) \
-               .replace("__GROUPS__", json.dumps(GROUPS, ensure_ascii=False))
+               .replace("__GROUPS__", json.dumps(GROUPS, ensure_ascii=False)) \
+               .replace("__MEDIA__", json.dumps(MEDIA_BASE))
     open(os.path.join(REPO, "index.html"), "w", encoding="utf-8").write(page)
     print(f"index.html: {len(data)} items")
 

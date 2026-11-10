@@ -1,7 +1,9 @@
-# GitHub Pages: publish only the finder (index.html), posts/ and assets/.
-# Keeps the published site under the 1 GB Pages limit.
+# GitHub Pages: publish the finder, posts/ images and assets/.
+# Videos are published from the separate insta-media site (see tools/sync_media.sh).
 exclude:
   - gpt-plan
   - tools
   - "*.py"
+  - "*.mp4"
+  - "**/*.mp4"
   - README.md

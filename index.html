@@ -67,7 +67,8 @@ const GROUPS = [["kopstal", "Kopstal reels"], ["milan", "Milano reels"], ["singl
 let group = "all";
 const $ = s => document.querySelector(s);
 const esc = s => s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const url = (it, f) => it.path + "/" + f;
+const MEDIA = "https://decentralize-dfw.github.io/insta-media/";
+const url = (it, f) => (MEDIA && f.endsWith(".mp4") ? MEDIA : "") + it.path + "/" + f;
 
 function toast(m) { const t = $("#toast"); t.textContent = m; t.classList.add("on"); setTimeout(() => t.classList.remove("on"), 1600); }
 
