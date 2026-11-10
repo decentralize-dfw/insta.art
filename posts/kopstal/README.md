@@ -8,9 +8,9 @@ merkezden zoom-out ile eser beyaz alanda 2 sn). Kurallar: `.claude/instagram/voi
 | eser | süreç | detay |
 | --- | --- | --- |
 | Painstaking | yok: repoda aşama fotoğrafı yok | `painstaking-details/` |
-| Angora Mergvs | yok: repoda aşama fotoğrafı yok | `../2026-11-10-angora-mergvs/` |
-| Gxd is AFK, We banned it | yok: `IMG_*` fotoğrafları aşama değil, detay çekimi | `gxd-is-afk-we-banned-it-details/` |
-| sept neuf | yok: `IMG_*` fotoğrafları aşama değil, detay çekimi | `sept-neuf-details/` |
+| Angora Mergvs | `angora-mergvs-process/` | `../2026-11-10-angora-mergvs/` |
+| Gxd is AFK, We banned it | `gxd-is-afk-we-banned-it-process/` | `gxd-is-afk-we-banned-it-details/` |
+| sept neuf | `sept-neuf-process/` | `sept-neuf-details/` |
 | 7 fam board game | `7-fam-board-game-process/` (14 aşama) | `7-fam-board-game-details/` |
 | Virgil on Virtual Cage (final_final-finalV9) | `virgil-on-virtual-cage-final-final-finalv9-process/` (12 aşama; `00` Leonardo referansı, çıkarıldı) | `virgil-on-virtual-cage-final-final-finalv9-details/` |
 | gary grills cooper | `../2026-11-14-gary-grills-cooper/` | `../2026-11-21-gary-grills-cooper-details/` |
@@ -20,3 +20,5 @@ merkezden zoom-out ile eser beyaz alanda 2 sn). Kurallar: `.claude/instagram/voi
 
 Süreç fotoğrafları yalnızca Yiğit'in bilgisayarında olan eserler için (Angora, Painstaking,
 gxd, sept neuf, s(t)lop) süreç videoları, o dosyalar repoya yüklenince aynı araçla üretilir.
+
+Süreç kapakları (`cover.jpg`): sol yarı ilk eskiz karesi, sağ yarı bitmiş resim. Üretim: `python3 tools/processcover.py <klasör>`.
