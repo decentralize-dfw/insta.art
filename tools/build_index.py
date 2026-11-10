@@ -31,10 +31,10 @@ GROUPS = [
 ]
 NESTED = ("kopstal", "milan", "editorial", "single", "details")
 
-# Videos are served from a second GitHub Pages site (same paths under posts/),
+# Videos are served from the insta-art-archive repo (same paths under posts/),
 # so this site stays under the 1 GB Pages limit. Full quality, nothing re-encoded.
 # Empty string: videos are loaded from this site (local use).
-MEDIA_BASE = os.environ.get("MEDIA_BASE", "https://decentralize-dfw.github.io/insta-media/")
+MEDIA_BASE = os.environ.get("MEDIA_BASE", "https://raw.githubusercontent.com/decentralize-dfw/insta-art-archive/main/")
 
 
 def read(path):
@@ -199,7 +199,8 @@ function prep(it, f) {
   const u = url(it, f);
   if (!cache[u]) {
     cache[u] = fetch(u).then(r => r.blob()).then(b => {
-      const file = new File([b], f, { type: b.type || (f.endsWith(".mp4") ? "video/mp4" : "image/jpeg") });
+      const type = f.endsWith(".mp4") ? "video/mp4" : (b.type || "image/jpeg");
+      const file = new File([b], f, { type });
       cache[u].file = file; return file;
     });
   }
@@ -239,7 +240,7 @@ function textBlock(label, text, id) {
 
 function open(it) {
   const v = it.videos.map(f => `
-    <video controls playsinline preload="metadata" poster="${it.cover ? esc(url(it, it.cover)) : ""}" src="${esc(url(it, f))}"></video>
+    <video controls playsinline preload="none" poster="${it.cover ? esc(url(it, it.cover)) : ""}" data-file="${esc(f)}"></video>
     <div class="btns">
       ${it.cover ? `<button class="btn dark" data-share='${esc(JSON.stringify([f, it.cover]))}'>Fotoğraflara kaydet (video + kapak)</button>` : ""}
       <button class="btn${it.cover ? "" : " dark"}" data-share='${esc(JSON.stringify([f]))}'>Fotoğraflara kaydet (video)</button>
@@ -268,6 +269,10 @@ function open(it) {
   });
   $("#view").querySelectorAll("[data-share]").forEach(b => b.onclick = e => { e.preventDefault(); share(it, JSON.parse(b.dataset.share)); });
   armButtons(it);
+  // raw.githubusercontent serves videos as octet-stream, which iPhone will not
+  // play directly: fetch the file and play it from memory as video/mp4.
+  $("#view").querySelectorAll("video[data-file]").forEach(v =>
+    prep(it, v.dataset.file).then(file => { if (v.isConnected) v.src = URL.createObjectURL(file); }));
   $("#dlg").showModal();
   history.replaceState(null, "", "#" + it.id);
 }

@@ -26,6 +26,7 @@ FONT = os.path.join(os.path.dirname(HERE), "assets", "fonts", "HankenGrotesk-500
 OW, OH = 1080, 1350
 GUTTER = 6
 TARGET = OW / OH
+WORKS = os.path.join(os.path.dirname(os.path.dirname(HERE)), "yigit", "v3", "content", "works.json")
 
 
 def layout(n):
@@ -71,15 +72,34 @@ def main():
             frame.paste(cover(Image.open(slides[k]).convert("RGB"), x1 - x0, y1 - y0), (x0, y0))
             k += 1
 
-    word = spec["theme"]
-    font = ImageFont.truetype(FONT, 64)
+    word = spec.get("theme") or spec.get("label")
+    if not word:
+        works = json.load(open(WORKS, encoding="utf-8"))
+        word = next(w["title"] for w in works if w["slug"] == spec["work"])
     d = ImageDraw.Draw(frame)
-    l, t, rr, b = d.textbbox((0, 0), word, font=font)
-    pw, ph = 44, 26
-    bw, bh = rr - l + 2 * pw, b - t + 2 * ph
-    bx, by = (OW - bw) // 2, (OH - bh) // 2
+    pw, ph, gap = 44, 26, 10
+    maxw = OW * 0.78 - 2 * pw
+    for size in (64, 56, 48, 42):
+        font = ImageFont.truetype(FONT, size)
+        lines, cur = [], ""
+        for tok in word.split():
+            t = (cur + " " + tok).strip()
+            if cur and d.textlength(t, font=font) > maxw:
+                lines.append(cur)
+                cur = tok
+            else:
+                cur = t
+        lines.append(cur)
+        if len(lines) <= 3:
+            break
+    asc, desc = font.getmetrics()
+    lh = asc + desc
+    tw = max(d.textlength(x, font=font) for x in lines)
+    bw, bh = tw + 2 * pw, lh * len(lines) + gap * (len(lines) - 1) + 2 * ph
+    bx, by = (OW - bw) / 2, (OH - bh) / 2
     d.rectangle([bx, by, bx + bw, by + bh], fill="white")
-    d.text((bx + pw - l, by + ph - t), word, font=font, fill="black")
+    for i, x in enumerate(lines):
+        d.text(((OW - d.textlength(x, font=font)) / 2, by + ph + i * (lh + gap)), x, font=font, fill="black")
     frame.save(os.path.join(folder, "00.jpg"), quality=94, subsampling=0)
     print(f"{folder}/00.jpg  {len(slides)} slides in rows {counts}")
 
