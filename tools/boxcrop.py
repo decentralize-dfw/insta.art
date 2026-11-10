@@ -6,12 +6,27 @@ ROOTS = {"details": "/home/user/yigitozen-painting-details", "details2": "/home/
          "yigit": "/home/user/yigit"}
 OW, OH, M = 1080, 1350, 0.05   # the object fills the frame up to a 5% white margin
 
-def render_fill(src, box, out, bounds=None, fit_width=False, valign="center"):
+def rotated(im, box, bounds, rotate):
+    """Turn the photo by 90 degrees (rotate=90 counter-clockwise, -90 clockwise);
+    box and bounds are given in the unrotated photo and are turned with it."""
+    if rotate == 90:
+        im = im.transpose(Image.ROTATE_90)
+        f = lambda b: [b[1], 1 - b[2], b[3], 1 - b[0]]
+    elif rotate == -90:
+        im = im.transpose(Image.ROTATE_270)
+        f = lambda b: [1 - b[3], b[0], 1 - b[1], b[2]]
+    else:
+        return im, box, bounds
+    return im, f(box), (f(bounds) if bounds else None)
+
+
+def render_fill(src, box, out, bounds=None, fit_width=False, valign="center", rotate=0):
     """Fit the object's box in a 4:5 window of the painting itself (no white):
     centred on the object, moved only as far as needed to stay inside the
     painting, so where the painting ends the frame ends."""
     repo, path = src.split(":", 1)
     im = ImageOps.exif_transpose(Image.open(os.path.join(ROOTS[repo], path))).convert("RGB")
+    im, box, bounds = rotated(im, box, bounds, rotate)
     W, H = im.size
     x0, y0, x1, y1 = box[0] * W, box[1] * H, box[2] * W, box[3] * H
     ww = max(x1 - x0, (y1 - y0) * OW / OH)
@@ -64,6 +79,6 @@ if __name__ == "__main__":
         fn = render_fill if spec.get("fit") == "fill" else render
         out = os.path.join(d, f"{i:02d}.jpg")
         k = fn(s["src"], s["box"], out, s.get("bounds"), s.get("fit_width", False),
-               s.get("valign", "center")) if fn is render_fill \
+               s.get("valign", "center"), s.get("rotate", 0)) if fn is render_fill \
             else fn(s["src"], s["box"], out)
         print(f"{i:02d} x{k:.2f} {s['work']}: {s['note']}")

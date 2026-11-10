@@ -6,7 +6,7 @@ kelimelik tema ve sayfa sırasıyla eser adları. Üretim: `python3 tools/render
 
 | klasör | tema | sayfa |
 | --- | --- | --- |
-| `crossed-eyes/` | çarpı gözler | 10, her figür tam (arşivin tamamı tarandı): guarding (üç bekçi), good people (üç kırmızı figür, çarpılı beyaz oval), wings of abyss, 7 fam (iki baş kümesi), society, mandarin (teknedeki figürler), victim, despite transgression |
+| `crossed-eyes/` | çarpı gözler | 13: guarding, good people (2), wings of abyss, 7 fam (2), society, mandarin, baby rights (bebek dik çevrildi, göğüsteki çarpılar, kırmızı halka), victim, despite transgression |
 | `chairs/` | sandalyeler | 6: guarding (ters sandalye), mandarin (ters sandalye), victim (beyaz sandalye), Virgil, sept neuf (koltuk), guarding (ayaklık) |
 | `platforms/` | platforms: masa, sehpa, divan, sandık | 4: walls (masa), sept neuf (sehpa), crow (divan), caprocorn (sandık) |
 | `shoes/` | ayakkabılar | 11, her ayakkabı tam ve ortada, etrafı resmin kendisi (beyaz yok, `"fit": "fill"`): sept neuf (2), cellular, s(t)lop (2), duality (2), viperella (2), cute but unemployed (2) |
