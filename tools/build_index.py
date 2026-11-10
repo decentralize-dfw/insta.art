@@ -128,6 +128,7 @@ video { width:100%; max-height:70dvh; background:#000; display:block; margin:12p
 .btn { border:1px solid var(--fg); background:var(--bg); color:var(--fg); padding:7px 12px; font:inherit;
   font-size:13px; cursor:pointer; text-decoration:none; display:inline-block; }
 .btn.dark { background:var(--fg); color:var(--bg); }
+.btn:disabled { opacity:.45; }
 .text { margin:14px 0; }
 .text .h { display:flex; justify-content:space-between; align-items:center; font-size:12px;
   text-transform:uppercase; letter-spacing:.06em; color:var(--muted); }
@@ -179,15 +180,45 @@ function grid() {
   $("#grid").querySelectorAll(".card").forEach(c => c.onclick = () => open(DATA.find(d => d.id === c.dataset.id)));
 }
 
-async function share(it, files) {
-  try {
-    const list = await Promise.all(files.map(async f => {
-      const r = await fetch(url(it, f)); const b = await r.blob();
-      return new File([b], f, { type: b.type || (f.endsWith(".mp4") ? "video/mp4" : "image/jpeg") });
-    }));
-    if (navigator.canShare && navigator.canShare({ files: list })) { await navigator.share({ files: list }); return; }
-  } catch (e) { if (e && e.name === "AbortError") return; }
+// iOS Safari only opens the share sheet straight from a tap, so files are
+// fetched as soon as a post is opened and the tap shares what is ready.
+const cache = {};
+const canShareFiles = !!(navigator.canShare && navigator.share);
+function prep(it, f) {
+  const u = url(it, f);
+  if (!cache[u]) {
+    cache[u] = fetch(u).then(r => r.blob()).then(b => {
+      const file = new File([b], f, { type: b.type || (f.endsWith(".mp4") ? "video/mp4" : "image/jpeg") });
+      cache[u].file = file; return file;
+    });
+  }
+  return cache[u];
+}
+function download(it, files) {
   files.forEach(f => { const a = document.createElement("a"); a.href = url(it, f); a.download = f; document.body.appendChild(a); a.click(); a.remove(); });
+}
+function share(it, files) {
+  if (!canShareFiles) { download(it, files); return; }
+  const ready = files.map(f => (cache[url(it, f)] || {}).file);
+  if (ready.every(Boolean)) {
+    if (!navigator.canShare({ files: ready })) { download(it, files); return; }
+    navigator.share({ files: ready }).catch(e => { if (e.name !== "AbortError") download(it, files); });
+    return;
+  }
+  files.forEach(f => prep(it, f));
+  toast("Hazırlanıyor, birazdan tekrar dokun");
+}
+function armButtons(it) {
+  if (!canShareFiles) return;
+  $("#view").querySelectorAll("[data-share]").forEach(b => {
+    const files = JSON.parse(b.dataset.share);
+    if (b.tagName !== "BUTTON") { files.forEach(f => prep(it, f)); return; }
+    const label = b.textContent;
+    b.disabled = true; b.textContent = "Hazırlanıyor…";
+    Promise.all(files.map(f => prep(it, f)))
+      .then(() => { b.disabled = false; b.textContent = label; })
+      .catch(() => { b.disabled = false; b.textContent = label; });
+  });
 }
 
 function textBlock(label, text, id) {
@@ -199,12 +230,13 @@ function open(it) {
   const v = it.videos.map(f => `
     <video controls playsinline preload="metadata" poster="${it.cover ? esc(url(it, it.cover)) : ""}" src="${esc(url(it, f))}"></video>
     <div class="btns">
-      <button class="btn dark" data-share='${esc(JSON.stringify([f]))}'>Kaydet / paylaş</button>
+      ${it.cover ? `<button class="btn dark" data-share='${esc(JSON.stringify([f, it.cover]))}'>Fotoğraflara kaydet (video + kapak)</button>` : ""}
+      <button class="btn${it.cover ? "" : " dark"}" data-share='${esc(JSON.stringify([f]))}'>Fotoğraflara kaydet (video)</button>
       <a class="btn" href="${esc(url(it, f))}" download="${esc(f)}">İndir (${esc(f)})</a>
       ${it.cover ? `<a class="btn" href="${esc(url(it, it.cover))}" download="cover.jpg">Kapak</a>` : ""}
     </div>`).join("");
   const s = it.slides.length ? `
-    ${it.slides.length > 1 ? `<div class="btns"><button class="btn dark" data-share='${esc(JSON.stringify(it.slides))}'>Tümünü kaydet / paylaş (${it.slides.length})</button></div>` : ""}
+    ${it.slides.length > 1 ? `<div class="btns"><button class="btn dark" data-share='${esc(JSON.stringify(it.slides))}'>Fotoğraflara kaydet (${it.slides.length} sayfa)</button></div>` : `<div class="btns"><button class="btn dark" data-share='${esc(JSON.stringify(it.slides))}'>Fotoğraflara kaydet</button></div>`}
     <div class="slides">${it.slides.map((f, i) => `
       <div class="slide"><a href="${esc(url(it, f))}" target="_blank" rel="noopener"><img loading="lazy" src="${esc(url(it, f))}" alt=""></a>
         <div class="n"><span>${i + 1}</span><span><a href="${esc(url(it, f))}" download="${esc(f)}">indir</a> · <a href="#" data-share='${esc(JSON.stringify([f]))}'>paylaş</a></span></div>
@@ -224,6 +256,7 @@ function open(it) {
       const sel = getSelection(); sel.removeAllRanges(); sel.addRange(r); toast("Seçildi, kopyala"); }
   });
   $("#view").querySelectorAll("[data-share]").forEach(b => b.onclick = e => { e.preventDefault(); share(it, JSON.parse(b.dataset.share)); });
+  armButtons(it);
   $("#dlg").showModal();
   history.replaceState(null, "", "#" + it.id);
 }
