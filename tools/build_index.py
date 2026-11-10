@@ -24,9 +24,12 @@ POSTS = os.path.join(REPO, "posts")
 GROUPS = [
     ("kopstal", "Kopstal reels"),
     ("milan", "Milano reels"),
+    ("single", "Tekli post"),
+    ("details", "Detay carousel"),
     ("editorial", "Editoryel carousel'ler"),
     ("dated", "İlk hafta"),
 ]
+NESTED = ("kopstal", "milan", "editorial", "single", "details")
 
 
 def read(path):
@@ -41,6 +44,8 @@ def item(folder, rel, group):
     spec = {}
     if "spec.json" in files:
         spec = json.load(open(os.path.join(folder, "spec.json"), encoding="utf-8"))
+    if spec.get("hidden"):
+        return None
     caption = read(os.path.join(folder, "caption.txt"))
     title = caption.splitlines()[0] if caption else os.path.basename(folder)
     slides = [f for f in files if re.fullmatch(r"\d+\.jpg", f)]
@@ -72,7 +77,7 @@ def collect():
         top = os.path.join(POSTS, name)
         if not os.path.isdir(top):
             continue
-        if name in ("kopstal", "milan", "editorial"):
+        if name in NESTED:
             for sub in sorted(os.listdir(top)):
                 p = os.path.join(top, sub)
                 if os.path.isdir(p):

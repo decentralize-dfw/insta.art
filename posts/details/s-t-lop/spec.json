@@ -1,0 +1,15 @@
+{
+  "type": "carousel",
+  "work": "s-t-lop",
+  "kind": "details",
+  "slides": [
+    "yigitozen-painting-details/stlop/stlop_detail_1.png",
+    "yigitozen-painting-details/stlop/stlop_detail_2.png",
+    "yigitozen-painting-details/stlop/stlop_detail_3.png",
+    "yigitozen-painting-details/stlop/stlop_detail_4.png",
+    "yigitozen-painting-details/stlop/stlop_detail_5.png",
+    "yigitozen-painting-details/stlop/stlop_detail_6.png",
+    "yigitozen-painting-details/stlop/stlop_detail_7.png",
+    "yigitozen-painting-details/stlop/stlop_detail_8.png"
+  ]
+}

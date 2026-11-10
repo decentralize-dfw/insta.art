@@ -2,12 +2,41 @@
   "type": "carousel",
   "work": "il-sbagliato-di-rompipalle",
   "slides": [
-    {"src": "yigit:img/full/il-sbagliato-di-rompipalle.png", "fit": true, "pad": 70},
-    {"src": "yigit:img/full/detail/il-sbagliato-di-rompipalle-detail-05.jpg", "cx": 0.45, "cy": 0.5},
-    {"src": "yigit:img/full/detail/il-sbagliato-di-rompipalle-detail-16.jpg", "cx": 0.4, "cy": 0.5},
-    {"src": "yigit:img/full/detail/il-sbagliato-di-rompipalle-detail-02.jpg", "cx": 0.55, "cy": 0.5},
-    {"src": "yigit:img/full/detail/il-sbagliato-di-rompipalle-detail-13.jpg", "cx": 0.5, "cy": 0.5},
-    {"src": "yigit:img/full/detail/il-sbagliato-di-rompipalle-detail-12.jpg", "cx": 0.3, "cy": 0.5},
-    {"src": "yigit:img/full/detail/il-sbagliato-di-rompipalle-detail-19.jpg", "cx": 0.35, "cy": 0.5}
-  ]
+    {
+      "src": "yigit:img/full/il-sbagliato-di-rompipalle.png",
+      "fit": true,
+      "pad": 70
+    },
+    {
+      "src": "yigit:img/full/detail/il-sbagliato-di-rompipalle-detail-05.jpg",
+      "cx": 0.45,
+      "cy": 0.5
+    },
+    {
+      "src": "yigit:img/full/detail/il-sbagliato-di-rompipalle-detail-16.jpg",
+      "cx": 0.4,
+      "cy": 0.5
+    },
+    {
+      "src": "yigit:img/full/detail/il-sbagliato-di-rompipalle-detail-02.jpg",
+      "cx": 0.55,
+      "cy": 0.5
+    },
+    {
+      "src": "yigit:img/full/detail/il-sbagliato-di-rompipalle-detail-13.jpg",
+      "cx": 0.5,
+      "cy": 0.5
+    },
+    {
+      "src": "yigit:img/full/detail/il-sbagliato-di-rompipalle-detail-12.jpg",
+      "cx": 0.3,
+      "cy": 0.5
+    },
+    {
+      "src": "yigit:img/full/detail/il-sbagliato-di-rompipalle-detail-19.jpg",
+      "cx": 0.35,
+      "cy": 0.5
+    }
+  ],
+  "hidden": true
 }

@@ -1,0 +1,11 @@
+{
+  "type": "carousel",
+  "work": "walls-of-perception",
+  "kind": "details",
+  "slides": [
+    "yigitozen-painting-details/wallsofperception/wallofperception_detail_1.png",
+    "yigitozen-painting-details/wallsofperception/wallofperception_detail_2.png",
+    "yigitozen-painting-details/wallsofperception/wallofperception_detail_3.png",
+    "yigitozen-painting-details/wallsofperception/wallofperception_detail_4.png"
+  ]
+}
