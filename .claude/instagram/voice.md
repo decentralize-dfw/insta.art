@@ -204,9 +204,11 @@ Reel tipleri:
 
 ## Yayın ritmi
 
-- Başlangıç: haftada 3 akış gönderisi. Aralarında en az bir gün olsun. Her gün paylaşma
-  zorunluluğu yok.
-- Haftalık karışım: 2 Reel + 1 carousel ya da tek görsel.
+- Haftada 5 akış gönderisi, 3'ü Reel (Yiğit, 10 Kasım 2026: öncelik takipçi olmayanlara
+  ulaşmak; araştırma 04 ve `ig-plan` aynı dozu öneriyor). Düzen: Pzt Reel (detay, en güçlü
+  açılış), Sal carousel (editoryel ya da detay), Per Reel (arşiv, Trial Reel), Cum tek
+  görsel, Cmt Reel (süreç ya da arşiv). Çarşamba ve Pazar yayın yok.
+- Tarihli takvim: `.claude/instagram/calendar.json`, gerekçesi `plan.md`.
 - Arşiv (2019-2023 işleri, etütler) haftada en az bir kez yer alır. Arşiv dolgu değildir.
 - Başlangıç saati 19:00 Europe/Paris. İlk dört hafta sabit tutulur. Saat, hook kadar önemli
   değil.

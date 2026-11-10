@@ -1,0 +1,582 @@
+{
+ "timezone": "Europe/Paris",
+ "note": "Kurallar: .claude/instagram/voice.md, gerekçe: .claude/instagram/plan.md",
+ "posts": [
+  {
+   "date": "2026-11-10",
+   "day": "Sal",
+   "kind": "reel-detay",
+   "work": "angora-mergvs",
+   "folder": "posts/2026-11-10-angora-mergvs",
+   "note": "bugün. haftanın en güçlü açılışı",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-11-12",
+   "day": "Per",
+   "kind": "reel-detay",
+   "work": "cute-but-unemployed-cartoon-figure",
+   "folder": "posts/milan/cute-but-unemployed-cartoon-figure-details",
+   "note": "Trial Reel (önce takipçi olmayanlara); rompipalle carousel'i gizlendiği için onun yerine",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-11-13",
+   "day": "Cum",
+   "kind": "tek",
+   "work": "penguin-is-not-a-friend-only-a-sinner",
+   "folder": "posts/single/penguin-is-not-a-friend-only-a-sinner",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-11-14",
+   "day": "Cmt",
+   "kind": "reel-süreç",
+   "work": "gary-grills-cooper",
+   "folder": "posts/2026-11-14-gary-grills-cooper",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-11-16",
+   "day": "Pzt",
+   "kind": "reel-detay",
+   "work": "painstaking",
+   "folder": "posts/kopstal/painstaking-details",
+   "note": "ilk hafta. 3 hafta boyunca Pzt Reel'i normal paylaşım (karşılaştırma zemini)",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-11-17",
+   "day": "Sal",
+   "kind": "carousel-editorial",
+   "work": "editorial/birds",
+   "folder": "posts/editorial/birds",
+   "note": "ilk editoryel: gönderilebilir (send) ve kaydedilebilir format",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-11-19",
+   "day": "Per",
+   "kind": "reel-detay",
+   "work": "caprocorn-sister-war-plague-earthquake",
+   "folder": "posts/milan/caprocorn-sister-war-plague-earthquake-details",
+   "note": "Trial Reel (önce takipçi olmayanlara)",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-11-20",
+   "day": "Cum",
+   "kind": "tek",
+   "work": "bacchus-2",
+   "folder": "posts/single/bacchus-2",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-11-21",
+   "day": "Cmt",
+   "kind": "reel-süreç",
+   "work": "gxd-is-afk-we-banned-it",
+   "folder": "posts/kopstal/gxd-is-afk-we-banned-it-process",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-11-23",
+   "day": "Pzt",
+   "kind": "reel-detay",
+   "work": "sept-neuf",
+   "folder": "posts/kopstal/sept-neuf-details",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-11-24",
+   "day": "Sal",
+   "kind": "carousel-detay",
+   "work": "s-t-lop",
+   "folder": "posts/details/s-t-lop",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-11-26",
+   "day": "Per",
+   "kind": "reel-detay",
+   "work": "cellular-spleens",
+   "folder": "posts/milan/cellular-spleens-details",
+   "note": "Trial Reel (önce takipçi olmayanlara)",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-11-27",
+   "day": "Cum",
+   "kind": "tek",
+   "work": "the-on-top-ruler",
+   "folder": "posts/single/the-on-top-ruler",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-11-28",
+   "day": "Cmt",
+   "kind": "reel-süreç",
+   "work": "angora-mergvs",
+   "folder": "posts/kopstal/angora-mergvs-process",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-11-30",
+   "day": "Pzt",
+   "kind": "reel-detay",
+   "work": "gary-grills-cooper",
+   "folder": "posts/2026-11-21-gary-grills-cooper-details",
+   "note": "DENEY 1 (açılış): iki sürüm Trial Reel olarak; A detayla açılış, B 0,5 sn bütün resimle açılış",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-12-01",
+   "day": "Sal",
+   "kind": "carousel-editorial",
+   "work": "editorial/chairs",
+   "folder": "posts/editorial/chairs",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-12-03",
+   "day": "Per",
+   "kind": "reel-detay",
+   "work": "guarding-holy-mountains-from-malice",
+   "folder": "posts/milan/guarding-holy-mountains-from-malice-details",
+   "note": "Trial Reel (önce takipçi olmayanlara)",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-12-04",
+   "day": "Cum",
+   "kind": "tek",
+   "work": "despite-transgression",
+   "folder": "posts/single/despite-transgression",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-12-05",
+   "day": "Cmt",
+   "kind": "reel-süreç",
+   "work": "walls-of-perception",
+   "folder": "posts/kopstal/walls-of-perception-process",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-12-07",
+   "day": "Pzt",
+   "kind": "reel-detay",
+   "work": "virgil-on-virtual-cage-final-final-finalv9",
+   "folder": "posts/kopstal/virgil-on-virtual-cage-final-final-finalv9-details",
+   "note": "DENEY 1 tekrar: aynı A/B açılış, başka eser",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-12-08",
+   "day": "Sal",
+   "kind": "carousel-process-carousel",
+   "work": "process-carousel/painstaking",
+   "folder": "posts/process-carousel/painstaking",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-12-10",
+   "day": "Per",
+   "kind": "reel-detay",
+   "work": "viperella",
+   "folder": "posts/milan/viperella-details",
+   "note": "Trial Reel (önce takipçi olmayanlara)",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-12-11",
+   "day": "Cum",
+   "kind": "tek",
+   "work": "sept-neuf",
+   "folder": "posts/single/sept-neuf",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-12-12",
+   "day": "Cmt",
+   "kind": "reel-süreç",
+   "work": "articulo-attack-on-mandarin",
+   "folder": "posts/kopstal/articulo-attack-on-mandarin-process",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-12-14",
+   "day": "Pzt",
+   "kind": "reel-detay",
+   "work": "gxd-is-afk-we-banned-it",
+   "folder": "posts/kopstal/gxd-is-afk-we-banned-it-details",
+   "note": "DENEY 2 (müzik): Reels'te yükselen bir ses",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-12-15",
+   "day": "Sal",
+   "kind": "carousel-editorial",
+   "work": "editorial/crossed-eyes",
+   "folder": "posts/editorial/crossed-eyes",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-12-17",
+   "day": "Per",
+   "kind": "reel-detay",
+   "work": "duality-of-the-angelic-summarization",
+   "folder": "posts/milan/duality-of-the-angelic-summarization-details",
+   "note": "Trial Reel (önce takipçi olmayanlara)",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-12-18",
+   "day": "Cum",
+   "kind": "tek",
+   "work": "angora-mergvs",
+   "folder": "posts/single/angora-mergvs",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-12-19",
+   "day": "Cmt",
+   "kind": "reel-süreç",
+   "work": "7-fam-board-game",
+   "folder": "posts/kopstal/7-fam-board-game-process",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-12-21",
+   "day": "Pzt",
+   "kind": "reel-detay",
+   "work": "s-t-lop",
+   "folder": "posts/kopstal/s-t-lop-details",
+   "note": "DENEY 2 karşılaştırma: kendi seçtiğin parça. Tatil haftası, sonuç ayrı okunur",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-12-22",
+   "day": "Sal",
+   "kind": "carousel-detay",
+   "work": "the-assassination-of-the-crow",
+   "folder": "posts/details/the-assassination-of-the-crow",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-12-24",
+   "day": "Per",
+   "kind": "reel-detay",
+   "work": "the-family-dinner-after-a-night-in-jail",
+   "folder": "posts/milan/the-family-dinner-after-a-night-in-jail-details",
+   "note": "Trial Reel (önce takipçi olmayanlara); Noel arifesi, tatil haftası",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-12-25",
+   "day": "Cum",
+   "kind": "tek",
+   "work": "painstaking",
+   "folder": "posts/single/painstaking",
+   "note": "Noel. tatil haftası",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-12-26",
+   "day": "Cmt",
+   "kind": "reel-detay",
+   "work": "amor-cathedra",
+   "folder": "posts/milan/amor-cathedra-details",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-12-28",
+   "day": "Pzt",
+   "kind": "reel-detay",
+   "work": "walls-of-perception",
+   "folder": "posts/kopstal/walls-of-perception-details",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-12-29",
+   "day": "Sal",
+   "kind": "carousel-editorial",
+   "work": "editorial/shoes",
+   "folder": "posts/editorial/shoes",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2026-12-31",
+   "day": "Per",
+   "kind": "reel-detay",
+   "work": "when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire",
+   "folder": "posts/milan/when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire-details",
+   "note": "Trial Reel (önce takipçi olmayanlara); yılbaşı arifesi",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-01-01",
+   "day": "Cum",
+   "kind": "tek",
+   "work": "gxd-is-afk-we-banned-it",
+   "folder": "posts/single/gxd-is-afk-we-banned-it",
+   "note": "yılbaşı",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-01-02",
+   "day": "Cmt",
+   "kind": "reel-süreç",
+   "work": "virgil-on-virtual-cage-final-final-finalv9",
+   "folder": "posts/kopstal/virgil-on-virtual-cage-final-final-finalv9-process",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-01-04",
+   "day": "Pzt",
+   "kind": "reel-detay",
+   "work": "7-fam-board-game",
+   "folder": "posts/kopstal/7-fam-board-game-details",
+   "note": "DENEY 3 (uzunluk): son resim tutuşu dışında %20 kısa kurgu",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-01-05",
+   "day": "Sal",
+   "kind": "carousel-detay",
+   "work": "cute-but-unemployed-cartoon-figure",
+   "folder": "posts/details/cute-but-unemployed-cartoon-figure",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-01-07",
+   "day": "Per",
+   "kind": "reel-detay",
+   "work": "victim-psycho-logique-ii-the-peachy-pharaoh-connects-with-the-chair",
+   "folder": "posts/milan/victim-psycho-logique-ii-the-peachy-pharaoh-connects-with-the-chair-details",
+   "note": "Trial Reel (önce takipçi olmayanlara)",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-01-08",
+   "day": "Cum",
+   "kind": "tek",
+   "work": "see-u-in-the-other-side",
+   "folder": "posts/single/see-u-in-the-other-side",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-01-09",
+   "day": "Cmt",
+   "kind": "reel-süreç",
+   "work": "sept-neuf",
+   "folder": "posts/kopstal/sept-neuf-process",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-01-11",
+   "day": "Pzt",
+   "kind": "reel-detay",
+   "work": "articulo-attack-on-mandarin",
+   "folder": "posts/kopstal/articulo-attack-on-mandarin-details",
+   "note": "DENEY 3 tekrar",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-01-12",
+   "day": "Sal",
+   "kind": "carousel-editorial",
+   "work": "editorial/platforms",
+   "folder": "posts/editorial/platforms",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-01-14",
+   "day": "Per",
+   "kind": "reel-detay",
+   "work": "morbid-forebodings-triggered-by-childish-landscape",
+   "folder": "posts/milan/morbid-forebodings-triggered-by-childish-landscape-details",
+   "note": "Trial Reel (önce takipçi olmayanlara)",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-01-15",
+   "day": "Cum",
+   "kind": "tek",
+   "work": "society-screwing-balance",
+   "folder": "posts/single/society-screwing-balance",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-01-16",
+   "day": "Cmt",
+   "kind": "reel-detay",
+   "work": "portal-ticino",
+   "folder": "posts/milan/portal-ticino-details",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-01-18",
+   "day": "Pzt",
+   "kind": "reel-detay",
+   "work": "the-assassination-of-the-crow",
+   "folder": "posts/milan/the-assassination-of-the-crow-details",
+   "note": "DENEY 4 (profil): sabitlenen 3 postun sırası değişir, içerik sabit",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-01-19",
+   "day": "Sal",
+   "kind": "carousel-detay",
+   "work": "virgil-on-virtual-cage-final-final-finalv9",
+   "folder": "posts/details/virgil-on-virtual-cage-final-final-finalv9",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-01-21",
+   "day": "Per",
+   "kind": "reel-detay",
+   "work": "sin-over-black-matter",
+   "folder": "posts/milan/sin-over-black-matter-details",
+   "note": "Trial Reel (önce takipçi olmayanlara)",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-01-22",
+   "day": "Cum",
+   "kind": "tek",
+   "work": "7-fam-board-game",
+   "folder": "posts/single/7-fam-board-game",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-01-23",
+   "day": "Cmt",
+   "kind": "reel-detay",
+   "work": "good-people-helping-bad-ones-thats-why-theyre-bad-too",
+   "folder": "posts/milan/good-people-helping-bad-ones-thats-why-theyre-bad-too-details",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-01-25",
+   "day": "Pzt",
+   "kind": "reel-detay",
+   "work": "baby-rights-101",
+   "folder": "posts/milan/baby-rights-101-details",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-01-26",
+   "day": "Sal",
+   "kind": "carousel-detay",
+   "work": "sept-neuf",
+   "folder": "posts/details/sept-neuf",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-01-28",
+   "day": "Per",
+   "kind": "reel-detay",
+   "work": "wings-of-abyss",
+   "folder": "posts/milan/wings-of-abyss-details",
+   "note": "Trial Reel (önce takipçi olmayanlara)",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-01-29",
+   "day": "Cum",
+   "kind": "tek",
+   "work": "walls-of-perception",
+   "folder": "posts/single/walls-of-perception",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-01-30",
+   "day": "Cmt",
+   "kind": "reel-detay",
+   "work": "century-of-0-1-transhumanism",
+   "folder": "posts/milan/century-of-0-1-transhumanism-details",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-02-01",
+   "day": "Pzt",
+   "kind": "reel-detay",
+   "work": "ciao-capo-sono-squalo",
+   "folder": "posts/milan/ciao-capo-sono-squalo-details",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-02-02",
+   "day": "Sal",
+   "kind": "carousel-detay",
+   "work": "gxd-is-afk-we-banned-it",
+   "folder": "posts/details/gxd-is-afk-we-banned-it",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-02-04",
+   "day": "Per",
+   "kind": "reel-detay",
+   "work": "how-to-materialize-your-loneliness-by-using-an-animal-in-somewhere-concrete-or-technologic",
+   "folder": "posts/milan/how-to-materialize-your-loneliness-by-using-an-animal-in-somewhere-concrete-or-technologic-details",
+   "note": "Trial Reel (önce takipçi olmayanlara)",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-02-05",
+   "day": "Cum",
+   "kind": "tek",
+   "work": "burningman-fast",
+   "folder": "posts/single/burningman-fast",
+   "note": "",
+   "time": "19:00"
+  },
+  {
+   "date": "2027-02-06",
+   "day": "Cmt",
+   "kind": "reel-detay",
+   "work": "q1b3l3-igfluencer",
+   "folder": "posts/milan/q1b3l3-igfluencer-details",
+   "note": "90. gün civarı: /ig-audit ile toplam değerlendirme",
+   "time": "19:00"
+  }
+ ]
+}

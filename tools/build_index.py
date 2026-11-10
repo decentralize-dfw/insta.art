@@ -22,6 +22,7 @@ REPO = os.path.dirname(HERE)
 POSTS = os.path.join(REPO, "posts")
 
 GROUPS = [
+    ("takvim", "Takvim"),
     ("kopstal", "Kopstal reels"),
     ("milan", "Milano reels"),
     ("single", "Tekli post"),
@@ -77,7 +78,20 @@ def item(folder, rel, group):
     }
 
 
+CALENDAR = os.path.join(REPO, ".claude", "instagram", "calendar.json")
+
+
+def calendar():
+    """folder path -> calendar entry (date, day, time, note)."""
+    try:
+        posts = json.load(open(CALENDAR, encoding="utf-8"))["posts"]
+    except (OSError, KeyError, ValueError):
+        return {}
+    return {p["folder"]: p for p in posts}
+
+
 def collect():
+    cal = calendar()
     out = []
     for name in sorted(os.listdir(POSTS)):
         top = os.path.join(POSTS, name)
@@ -94,6 +108,11 @@ def collect():
             it = item(top, f"posts/{name}", "dated")
             if it:
                 out.append(it)
+    for it in out:
+        c = cal.get(it["path"])
+        it["date"] = c["date"] if c else ""
+        it["when"] = f'{c["date"]} {c["day"]} {c.get("time", "")}'.strip() if c else ""
+        it["note"] = c.get("note", "") if c else ""
     return out
 
 
@@ -121,6 +140,9 @@ main { padding:16px; max-width:1200px; margin:0 auto; }
 .card { cursor:pointer; }
 .card .thumb { aspect-ratio:4/5; background:var(--soft); overflow:hidden; }
 .card img { width:100%; height:100%; object-fit:contain; display:block; }
+.card .d { font-size:12px; font-weight:600; margin-top:6px; }
+.card .d.past { color:var(--muted); font-weight:400; }
+.card .d.now { background:#000; color:#fff; display:inline-block; padding:0 5px; }
 .card .t { font-size:13px; margin-top:6px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
 .card .k { font-size:11px; color:var(--muted); text-transform:uppercase; letter-spacing:.06em; }
 .empty { color:var(--muted); padding:40px 0; }
@@ -163,7 +185,7 @@ details summary { cursor:pointer; font-size:12px; text-transform:uppercase; lett
 <script>
 const DATA = __DATA__;
 const GROUPS = __GROUPS__;
-let group = "all";
+let group = DATA.some(d => d.date) ? "takvim" : "all";
 const $ = s => document.querySelector(s);
 const esc = s => s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const MEDIA = __MEDIA__;
@@ -171,20 +193,27 @@ const url = (it, f) => (MEDIA && f.endsWith(".mp4") ? MEDIA : "") + it.path + "/
 
 function toast(m) { const t = $("#toast"); t.textContent = m; t.classList.add("on"); setTimeout(() => t.classList.remove("on"), 1600); }
 
+const inGroup = (d, k) => k === "all" || (k === "takvim" ? !!d.date : d.group === k);
+const today = new Date().toISOString().slice(0, 10);
+const MONTHS = ["Oca", "Şub", "Mar", "Nis", "May", "Haz", "Tem", "Ağu", "Eyl", "Eki", "Kas", "Ara"];
+const short = d => { const [y, m, g] = d.date.split("-"); return `${+g} ${MONTHS[+m - 1]} ${d.when.split(" ")[1] || ""}`; };
+
 function tabs() {
-  const all = [["all", "Hepsi"], ...GROUPS.filter(([k]) => DATA.some(d => d.group === k))];
+  const all = [["all", "Hepsi"], ...GROUPS.filter(([k]) => DATA.some(d => inGroup(d, k)))];
   $("#tabs").innerHTML = all.map(([k, n]) =>
-    `<button class="tab${k === group ? " on" : ""}" data-g="${k}">${esc(n)} <span style="opacity:.6">${k === "all" ? DATA.length : DATA.filter(d => d.group === k).length}</span></button>`).join("");
+    `<button class="tab${k === group ? " on" : ""}" data-g="${k}">${esc(n)} <span style="opacity:.6">${k === "all" ? DATA.length : DATA.filter(d => inGroup(d, k)).length}</span></button>`).join("");
   $("#tabs").querySelectorAll(".tab").forEach(b => b.onclick = () => { group = b.dataset.g; tabs(); grid(); });
 }
 
 function grid() {
   const q = $("#q").value.trim().toLowerCase();
-  const items = DATA.filter(d => (group === "all" || d.group === group) &&
-    (!q || (d.title + " " + d.kind + " " + d.path).toLowerCase().includes(q)));
+  let items = DATA.filter(d => inGroup(d, group) &&
+    (!q || (d.title + " " + d.kind + " " + d.path + " " + d.date).toLowerCase().includes(q)));
+  if (group === "takvim") items = items.slice().sort((a, b) => a.date.localeCompare(b.date));
   $("#grid").innerHTML = items.map(d => `
     <div class="card" data-id="${d.id}">
       <div class="thumb">${d.cover ? `<img loading="lazy" src="${esc(url(d, d.cover))}" alt="">` : ""}</div>
+      ${d.date ? `<div class="d${d.date < today ? " past" : d.date === today ? " now" : ""}">${esc(short(d))}</div>` : ""}
       <div class="t">${esc(d.title)}</div>
       <div class="k">${esc(d.kind)}${d.slides.length > 1 ? " · " + d.slides.length : ""}</div>
     </div>`).join("");
@@ -255,7 +284,8 @@ function open(it) {
         <div class="n"><span>${i + 1}</span><span><a href="${esc(url(it, f))}" download="${esc(f)}">indir</a> · <a href="#" data-share='${esc(JSON.stringify([f]))}'>paylaş</a></span></div>
       </div>`).join("")}</div>` : "";
   $("#view").innerHTML = `
-    <div class="top"><div><h2>${esc(it.title)}</h2><div class="path">${esc(it.kind)} · ${esc(it.path)}</div></div>
+    <div class="top"><div><h2>${esc(it.title)}</h2><div class="path">${it.when ? esc(it.when) + " · " : ""}${esc(it.kind)} · ${esc(it.path)}</div>
+      ${it.note ? `<div class="path">${esc(it.note)}</div>` : ""}</div>
       <button class="close" id="x">Kapat</button></div>
     ${v}${s}
     ${textBlock("Caption", it.caption, "t-cap")}
