@@ -6,7 +6,7 @@ ROOTS = {"details": "/home/user/yigitozen-painting-details", "details2": "/home/
          "yigit": "/home/user/yigit"}
 OW, OH, M = 1080, 1350, 0.05   # the object fills the frame up to a 5% white margin
 
-def render_fill(src, box, out):
+def render_fill(src, box, out, bounds=None):
     """Fit the object's box in a 4:5 window of the painting itself (no white):
     centred on the object, moved only as far as needed to stay inside the
     painting, so where the painting ends the frame ends."""
@@ -18,10 +18,13 @@ def render_fill(src, box, out):
     wh = ww * OH / OW
     if ww > W or wh > H:
         print(f"  ! window larger than the painting, white fills the rest: {path}")
+    # bounds: the painted area inside the photo (normalised), when the photo
+    # has paper or wall around the painting
+    bx0, by0, bx1, by1 = [v * d for v, d in zip(bounds or [0, 0, 1, 1], (W, H, W, H))]
     cx, cy = (x0 + x1) / 2, (y0 + y1) / 2
-    left = min(max(cx - ww / 2, 0), max(W - ww, 0))
-    top = min(max(cy - wh / 2, 0), max(H - wh, 0))
-    if ww <= W and wh <= H:
+    left = min(max(cx - ww / 2, bx0), max(bx1 - ww, bx0))
+    top = min(max(cy - wh / 2, by0), max(by1 - wh, by0))
+    if ww <= bx1 - bx0 and wh <= by1 - by0:
         frame = im.resize((OW, OH), Image.LANCZOS, box=(left, top, left + ww, top + wh))
     else:
         k = min(OW / ww, OH / wh)
@@ -54,5 +57,6 @@ if __name__ == "__main__":
         if f[:2].isdigit() and f.endswith(".jpg"): os.remove(os.path.join(d, f))
     for i, s in enumerate(spec["slides"], 1):
         fn = render_fill if spec.get("fit") == "fill" else render
-        k = fn(s["src"], s["box"], os.path.join(d, f"{i:02d}.jpg"))
+        out = os.path.join(d, f"{i:02d}.jpg")
+        k = fn(s["src"], s["box"], out, s.get("bounds")) if fn is render_fill else fn(s["src"], s["box"], out)
         print(f"{i:02d} x{k:.2f} {s['work']}: {s['note']}")

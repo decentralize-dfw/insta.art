@@ -1,7 +1,7 @@
 {
   "type": "carousel",
   "theme": "birds",
-  "method": "the whole bird, centred, generous margin",
+  "method": "the whole object centred in a 4:5 window of the painting itself; no white; where the painting ends the frame ends",
   "slides": [
     {
       "work": "sept-neuf",
@@ -78,7 +78,13 @@
         0.73,
         0.37
       ],
-      "note": "the pink bird"
+      "note": "the pink bird",
+      "bounds": [
+        0.06,
+        0.23,
+        0.94,
+        0.8
+      ]
     },
     {
       "work": "wings-of-abyss",
@@ -118,9 +124,9 @@
       "src": "yigit:img/full/s-t-lop.jpg",
       "box": [
         0.0,
-        0.05,
-        0.8,
-        1.0
+        0.1,
+        0.78,
+        0.98
       ],
       "note": "the bird form, beak to the right"
     },
@@ -133,7 +139,13 @@
         0.9,
         0.42
       ],
-      "note": "the dark bird"
+      "note": "the dark bird",
+      "bounds": [
+        0.06,
+        0.23,
+        0.94,
+        0.8
+      ]
     },
     {
       "work": "articulo-attack-on-mandarin",
@@ -146,5 +158,6 @@
       ],
       "note": "a bird folding its wings"
     }
-  ]
+  ],
+  "fit": "fill"
 }

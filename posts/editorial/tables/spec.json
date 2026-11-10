@@ -1,7 +1,7 @@
 {
   "type": "carousel",
   "theme": "tables and beds",
-  "method": "the object alone, centred, 5% white margin; detail photo when it holds the whole object, else the main painting",
+  "method": "the whole object centred in a 4:5 window of the painting itself; no white; where the painting ends the frame ends",
   "slides": [
     {
       "work": "walls-of-perception",
@@ -47,5 +47,6 @@
       ],
       "note": "the dark green chest"
     }
-  ]
+  ],
+  "fit": "fill"
 }

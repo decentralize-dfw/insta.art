@@ -1,16 +1,16 @@
 {
   "type": "carousel",
   "theme": "chairs",
-  "method": "the object alone, centred, 5% white margin; detail photo when it holds the whole object, else the main painting",
+  "method": "the whole object centred in a 4:5 window of the painting itself; no white; where the painting ends the frame ends",
   "slides": [
     {
       "work": "guarding-holy-mountains-from-malice",
-      "src": "details2:guarding-holy-mountains-from-malice/guarding-holy-mountains-from-malice-detail-06.jpg",
+      "src": "details2:guarding-holy-mountains-from-malice/guarding-holy-mountains-from-malice.jpg",
       "box": [
-        0.25,
+        0.505,
         0.0,
-        0.83,
-        0.93
+        0.675,
+        0.28
       ],
       "note": "the chair hanging upside down from the ceiling"
     },
@@ -69,5 +69,6 @@
       ],
       "note": "the stand"
     }
-  ]
+  ],
+  "fit": "fill"
 }
