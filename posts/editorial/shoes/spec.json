@@ -1,7 +1,7 @@
 {
   "type": "carousel",
   "theme": "shoes",
-  "method": "the whole shoe, centred, generous margin; detail photo first",
+  "method": "the whole shoe, centred, generous margin",
   "slides": [
     {
       "work": "sept-neuf",
@@ -15,6 +15,39 @@
       "note": "a white court shoe with a red line along the sole"
     },
     {
+      "work": "cellular-spleens",
+      "src": "details2:cellular-spleens/cellular-spleens.png",
+      "box": [
+        0.2,
+        0.69,
+        0.46,
+        0.87
+      ],
+      "note": "a red heel sunk into the car"
+    },
+    {
+      "work": "s-t-lop",
+      "src": "yigit:img/full/s-t-lop.jpg",
+      "box": [
+        0.3,
+        0.79,
+        0.74,
+        0.97
+      ],
+      "note": "a sneaker"
+    },
+    {
+      "work": "duality-of-the-angelic-summarization",
+      "src": "details2:duality-of-the-angelic-summarization/duality-of-the-angelic-summarization.jpg",
+      "box": [
+        0.0,
+        0.72,
+        0.22,
+        0.97
+      ],
+      "note": "a heel drawn in white lines"
+    },
+    {
       "work": "viperella",
       "src": "details2:viperella/viperella-detail-04.jpg",
       "box": [
@@ -26,6 +59,17 @@
       "note": "a pointed dark shoe with a red heel"
     },
     {
+      "work": "cute-but-unemployed-cartoon-figure",
+      "src": "details2:cute-but-unemployed-cartoon-figure/cute-but-unemployed-cartoon-figure.png",
+      "box": [
+        0.29,
+        0.8,
+        0.47,
+        0.98
+      ],
+      "note": "a white stiletto"
+    },
+    {
       "work": "sept-neuf",
       "src": "details:sept-neuf/IMG_6648.JPG",
       "box": [
@@ -35,6 +79,28 @@
         0.95
       ],
       "note": "the other court shoe"
+    },
+    {
+      "work": "s-t-lop",
+      "src": "yigit:img/full/s-t-lop.jpg",
+      "box": [
+        0.58,
+        0.63,
+        1.0,
+        0.9
+      ],
+      "note": "the other sneaker, pink laces"
+    },
+    {
+      "work": "duality-of-the-angelic-summarization",
+      "src": "details2:duality-of-the-angelic-summarization/duality-of-the-angelic-summarization.jpg",
+      "box": [
+        0.49,
+        0.76,
+        0.78,
+        1.0
+      ],
+      "note": "the other heel in white lines"
     },
     {
       "work": "viperella",
