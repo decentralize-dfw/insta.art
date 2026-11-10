@@ -1,16 +1,17 @@
 {
   "type": "carousel",
   "theme": "shoes",
-  "method": "the whole shoe, centred, generous margin",
+  "fit": "fill",
+  "method": "the whole shoe centred in a 4:5 window of the painting itself; no white; where the painting ends the frame ends",
   "slides": [
     {
       "work": "sept-neuf",
       "src": "details:sept-neuf/IMG_6648.JPG",
       "box": [
-        0.34,
-        0.0,
-        0.88,
-        0.6
+        0.45,
+        0.03,
+        0.9,
+        0.58
       ],
       "note": "a white court shoe with a red line along the sole"
     },
@@ -29,10 +30,10 @@
       "work": "s-t-lop",
       "src": "yigit:img/full/s-t-lop.jpg",
       "box": [
-        0.3,
-        0.79,
-        0.74,
-        0.97
+        0.22,
+        0.8,
+        0.73,
+        0.98
       ],
       "note": "a sneaker"
     },
@@ -41,20 +42,20 @@
       "src": "details2:duality-of-the-angelic-summarization/duality-of-the-angelic-summarization.jpg",
       "box": [
         0.0,
-        0.72,
+        0.74,
         0.22,
-        0.97
+        0.98
       ],
       "note": "a heel drawn in white lines"
     },
     {
       "work": "viperella",
-      "src": "details2:viperella/viperella-detail-04.jpg",
+      "src": "details2:viperella/viperella.png",
       "box": [
-        0.08,
-        0.25,
-        0.86,
-        0.95
+        0.2,
+        0.73,
+        0.5,
+        0.88
       ],
       "note": "a pointed dark shoe with a red heel"
     },
@@ -62,21 +63,21 @@
       "work": "cute-but-unemployed-cartoon-figure",
       "src": "details2:cute-but-unemployed-cartoon-figure/cute-but-unemployed-cartoon-figure.png",
       "box": [
-        0.29,
-        0.8,
-        0.47,
-        0.98
+        0.1,
+        0.69,
+        0.46,
+        0.97
       ],
-      "note": "a white stiletto"
+      "note": "a dark foot and a white stiletto"
     },
     {
       "work": "sept-neuf",
       "src": "details:sept-neuf/IMG_6648.JPG",
       "box": [
-        0.26,
-        0.34,
-        0.53,
-        0.95
+        0.32,
+        0.37,
+        0.57,
+        0.96
       ],
       "note": "the other court shoe"
     },
@@ -85,9 +86,9 @@
       "src": "yigit:img/full/s-t-lop.jpg",
       "box": [
         0.58,
-        0.63,
+        0.64,
         1.0,
-        0.9
+        0.92
       ],
       "note": "the other sneaker, pink laces"
     },
@@ -97,10 +98,21 @@
       "box": [
         0.49,
         0.76,
-        0.78,
+        0.79,
         1.0
       ],
       "note": "the other heel in white lines"
+    },
+    {
+      "work": "cute-but-unemployed-cartoon-figure",
+      "src": "details2:cute-but-unemployed-cartoon-figure/cute-but-unemployed-cartoon-figure.png",
+      "box": [
+        0.47,
+        0.69,
+        0.9,
+        0.95
+      ],
+      "note": "a bent leg ending in a black shoe"
     },
     {
       "work": "viperella",
