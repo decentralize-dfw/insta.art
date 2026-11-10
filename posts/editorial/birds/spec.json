@@ -1,78 +1,95 @@
 {
   "type": "carousel",
   "theme": "birds",
+  "method": "the whole bird, centred, generous margin",
   "slides": [
     {
-      "src": "details:sept-neuf/IMG_6691.JPG",
-      "cx": 0.42,
-      "cy": 0.3,
-      "cover": 1.3,
       "work": "sept-neuf",
+      "src": "details:sept-neuf/inverted-silvia--7-9.png",
+      "box": [
+        0.6,
+        0.22,
+        0.99,
+        0.5
+      ],
       "note": "the pale bird on the side table"
     },
     {
-      "src": "details2:wings-of-abyss/wings-of-abyss-detail-08.jpg",
-      "cx": 0.45,
-      "cy": 0.5,
-      "cover": 1.2,
-      "work": "wings-of-abyss",
-      "note": "the first beak"
+      "work": "articulo-attack-on-mandarin",
+      "src": "yigit:img/full/articulo-attack-on-mandarin.jpg",
+      "box": [
+        0.3,
+        0.0,
+        0.74,
+        0.2
+      ],
+      "note": "a bird of the flock, wings swept back"
     },
     {
-      "src": "details2:the-assassination-of-the-crow/the-assassination-of-the-crow-detail-04.jpg",
-      "cx": 0.7,
-      "cy": 0.45,
-      "cover": 1.0,
       "work": "the-assassination-of-the-crow",
-      "note": "the crow's head, a yellow eye"
+      "src": "details2:the-assassination-of-the-crow/the-assassination-of-the-crow.png",
+      "box": [
+        0.57,
+        0.07,
+        1.0,
+        1.0
+      ],
+      "note": "the crow"
     },
     {
-      "src": "details:articuloattackonmandarin/arcitul0_detail_1.png",
-      "cx": 0.5,
-      "cy": 0.5,
-      "cover": 1.0,
       "work": "articulo-attack-on-mandarin",
-      "note": "a bird of the flock"
+      "src": "yigit:img/full/articulo-attack-on-mandarin.jpg",
+      "box": [
+        0.79,
+        0.0,
+        1.0,
+        0.25
+      ],
+      "note": "a bird diving, beak down"
     },
     {
-      "src": "details2:wings-of-abyss/wings-of-abyss-detail-09.jpg",
-      "cx": 0.5,
-      "cy": 0.5,
-      "cover": 1.2,
       "work": "wings-of-abyss",
-      "note": "the second beak"
+      "src": "details2:wings-of-abyss/wings-of-abyss.png",
+      "box": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "note": "one blue body, three beaks"
     },
     {
-      "src": "details2:the-assassination-of-the-crow/the-assassination-of-the-crow-detail-10.jpg",
-      "cx": 0.45,
-      "cy": 0.5,
-      "cover": 1.0,
-      "work": "the-assassination-of-the-crow",
-      "note": "the crow, bent"
-    },
-    {
-      "src": "details:articuloattackonmandarin/arcitul0_detail_4.png",
-      "cx": 0.48,
-      "cy": 0.5,
-      "cover": 1.0,
       "work": "articulo-attack-on-mandarin",
-      "note": "wings swept down"
+      "src": "yigit:img/full/articulo-attack-on-mandarin.jpg",
+      "box": [
+        0.3,
+        0.17,
+        0.63,
+        0.41
+      ],
+      "note": "a bird crossing the flock"
     },
     {
-      "src": "details2:wings-of-abyss/wings-of-abyss-detail-10.jpg",
-      "cx": 0.45,
-      "cy": 0.5,
-      "cover": 1.2,
-      "work": "wings-of-abyss",
-      "note": "the third beak"
+      "work": "s-t-lop",
+      "src": "yigit:img/full/s-t-lop.jpg",
+      "box": [
+        0.0,
+        0.05,
+        0.8,
+        1.0
+      ],
+      "note": "the bird form, beak to the right"
     },
     {
-      "src": "details:articuloattackonmandarin/arcitul0_detail_2.png",
-      "cx": 0.32,
-      "cy": 0.5,
-      "cover": 1.0,
       "work": "articulo-attack-on-mandarin",
-      "note": "another, wings back"
+      "src": "yigit:img/full/articulo-attack-on-mandarin.jpg",
+      "box": [
+        0.78,
+        0.27,
+        1.0,
+        0.55
+      ],
+      "note": "a bird folding its wings"
     }
   ]
 }
