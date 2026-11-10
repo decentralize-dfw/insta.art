@@ -53,9 +53,9 @@ branch'te şunlar var:
   - Gereken: Python 3, Pillow, ffmpeg.
 - `.claude/instagram/voice.md`: hesabın bütün kuralları. Önce bunu oku.
 - **Yiğit'in onayladığı örnekler. Yeni videolar bunlarla aynı biçimde olmalı:**
-  - Detay videosu: `posts/2026-11-21-gary-grills-cooper-details/` (`spec.json`, `reel.mp4`)
-  - Süreç videosu: `posts/2026-11-14-gary-grills-cooper/`
-  - Yüksek çözünürlüklü görselin içinde gezinme: `posts/2026-11-10-angora-mergvs/`
+  - Detay videosu: `posts/kopstal/gary-grills-cooper-details/` (`spec.json`, `reel.mp4`)
+  - Süreç videosu: `posts/kopstal/gary-grills-cooper-process/`
+  - Yüksek çözünürlüklü görselin içinde gezinme: `posts/kopstal/angora-mergvs-details/`
 
 Örnek spec'lerdeki `"details:..."` ve `"yigit:..."` önekleri bulut ortamındaki repo
 kopyalarını gösterir. Sen bilgisayardaki dosya yollarını kullan.
@@ -126,7 +126,7 @@ Her video, resmin kendi kompozisyonundan çıkan bir okuma rotası izler. Şu s�
 - `"camera": "static"`, her planda `{"cx": 0.5, "cy": 0.5, "fit": true}`, her aşama
   `"dur": 0.5`.
 - Sonda bitmiş resmin tamamı `fit`, `"dur": 2.0`.
-- Örnek: `posts/2026-11-14-gary-grills-cooper/spec.json`.
+- Örnek: `posts/kopstal/gary-grills-cooper-process/spec.json`.
 
 ## 5. Çıktı
 
@@ -190,7 +190,7 @@ görürsen onu kullan ve nedenini `notes.md`'ye yaz.
   Son plan: üç panelin birlikte durduğu triptik, beyaz alanda.
 
 ### 6.2 Angora Mergvs
-- **Detay videosu zaten üretildi:** `posts/2026-11-10-angora-mergvs/`. Yeniden üretme.
+- **Detay videosu zaten üretildi:** `posts/kopstal/angora-mergvs-details/`. Yeniden üretme.
 - Süreç fotoğrafları varsa yalnızca süreç videosunu yap.
 
 ### 6.3 Gxd is AFK, We banned it
@@ -225,8 +225,8 @@ görürsen onu kullan ve nedenini `notes.md`'ye yaz.
   bacaklarını kaldırmış yatan gri saçlı figür ve mercan renkli fırça yatağı.
 
 ### 6.7 gary grills cooper
-- **Zaten üretildi:** süreç `posts/2026-11-14-gary-grills-cooper/`, detay
-  `posts/2026-11-21-gary-grills-cooper-details/`. Yeniden üretme.
+- **Zaten üretildi:** süreç `posts/kopstal/gary-grills-cooper-process/`, detay
+  `posts/kopstal/gary-grills-cooper-details/`. Yeniden üretme.
 
 ### 6.8 walls of perception
 - Caption: `walls of perception` / `2026 · acrylic on canvas · 70 × 50 cm`

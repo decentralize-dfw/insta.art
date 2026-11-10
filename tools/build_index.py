@@ -113,6 +113,8 @@ def collect():
         it["date"] = c["date"] if c else ""
         it["when"] = f'{c["date"]} {c["day"]} {c.get("time", "")}'.strip() if c else ""
         it["note"] = c.get("note", "") if c else ""
+        it["week"] = c.get("week", 0) if c else 0
+        it["ckind"] = c.get("kind", "") if c else ""
     return out
 
 
@@ -140,6 +142,26 @@ main { padding:16px; max-width:1200px; margin:0 auto; }
 .card { cursor:pointer; }
 .card .thumb { aspect-ratio:4/5; background:var(--soft); overflow:hidden; }
 .card img { width:100%; height:100%; object-fit:contain; display:block; }
+.now-line { font-size:12px; color:var(--muted); margin:0 0 10px; }
+.cal { display:grid; grid-template-columns:46px repeat(7, minmax(0,1fr)); gap:3px; }
+.cal .hd { font-size:11px; font-weight:600; text-align:center; padding:4px 0; }
+.cal .wk { font-size:11px; font-weight:600; line-height:1.2; padding:4px 2px; border-top:1px solid var(--line); }
+.cal .wk span { display:block; font-weight:400; color:var(--muted); font-size:10px; }
+.cal .wk.cur { background:#000; color:#fff; }
+.cal .wk.cur span { color:#ccc; }
+.cell { border:1px solid var(--line); min-height:64px; padding:2px; font-size:10px; line-height:1.2; overflow:hidden; background:#fff; }
+.cell.off { background:var(--soft); border-color:var(--soft); color:#bbb; }
+.cell .n { display:flex; justify-content:space-between; gap:2px; }
+.cell .im { aspect-ratio:4/5; background:var(--soft); margin:2px 0; overflow:hidden; }
+.cell .im img { width:100%; height:100%; object-fit:cover; display:block; }
+.cell .k { font-weight:600; word-break:break-word; hyphens:auto; }
+.cell .st { margin-top:1px; white-space:nowrap; }
+.cell.post { cursor:pointer; }
+.cell.past { opacity:.45; }
+.cell.today { border:2px solid #000; }
+.cell.next { border:2px solid #000; }
+.cell .st.b { background:#000; color:#fff; padding:0 2px; display:inline-block; }
+@media (min-width:700px) { .cal { grid-template-columns:80px repeat(7, minmax(0,1fr)); gap:6px; } .cell { font-size:12px; padding:4px; } .cal .wk { font-size:13px; } .cal .wk span { font-size:11px; } }
 .card .d { font-size:12px; font-weight:600; margin-top:6px; }
 .card .d.past { color:var(--muted); font-weight:400; }
 .card .d.now { background:#000; color:#fff; display:inline-block; padding:0 5px; }
@@ -205,7 +227,75 @@ function tabs() {
   $("#tabs").querySelectorAll(".tab").forEach(b => b.onclick = () => { group = b.dataset.g; tabs(); grid(); });
 }
 
+// Current Paris time from the internet; device clock as fallback.
+let NOW = null, NOW_SRC = "cihaz";
+function parisParts(d) {
+  const f = new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/Paris", year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", hour12: false });
+  const o = Object.fromEntries(f.formatToParts(d).map(p => [p.type, p.value]));
+  return { date: `${o.year}-${o.month}-${o.day}`, hm: `${o.hour === "24" ? "00" : o.hour}:${o.minute}` };
+}
+function withTimeout(p, ms) { return Promise.race([p, new Promise((_, r) => setTimeout(() => r(new Error("timeout")), ms))]); }
+async function netTime() {
+  const tries = [
+    fetch("https://worldtimeapi.org/api/timezone/Europe/Paris").then(r => r.json()).then(j => new Date(j.utc_datetime || j.datetime)),
+    fetch("https://timeapi.io/api/time/current/zone?timeZone=Europe%2FParis").then(r => r.json()).then(j => new Date(j.dateTime + "Z").getTime() ? j : Promise.reject())
+      .then(j => ({ paris: true, date: j.dateTime.slice(0, 10), hm: j.dateTime.slice(11, 16) })),
+  ];
+  try {
+    const v = await withTimeout(Promise.any(tries), 5000);
+    NOW = v instanceof Date ? parisParts(v) : v; NOW_SRC = "internet";
+  } catch { NOW = parisParts(new Date()); NOW_SRC = "cihaz"; }
+}
+const DAYN = ["Pzt", "Sal", "Çrş", "Per", "Cum", "Cmt", "Paz"];
+const addDays = (iso, n) => { const d = new Date(iso + "T12:00:00Z"); d.setUTCDate(d.getUTCDate() + n); return d.toISOString().slice(0, 10); };
+const dayDiff = (a, b) => Math.round((new Date(b + "T12:00:00Z") - new Date(a + "T12:00:00Z")) / 864e5);
+const KIND = { "reel-detay": "Reel detay", "reel-süreç": "Reel süreç", "reel-kayıt": "Reel kayıt", "reel-model": "Reel 3D", "tek": "Tek resim", "carousel-detay": "Car. detay", "carousel-editorial": "Car. edit.", "carousel-süreç": "Car. süreç" };
+function status(d) {
+  const now = NOW || parisParts(new Date());
+  const diff = dayDiff(now.date, d.date);
+  const time = (d.when.split(" ")[2] || "19:00");
+  if (diff < 0 || (diff === 0 && now.hm >= time)) return ["past", "geçti"];
+  if (diff === 0) return ["today", "bugün " + time];
+  if (diff === 1) return ["", "yarın"];
+  return ["", diff + " gün"];
+}
+function calendar() {
+  const posts = DATA.filter(d => d.date).sort((a, b) => a.date.localeCompare(b.date));
+  const byDate = Object.fromEntries(posts.map(p => [p.date, p]));
+  const first = posts[0].date, last = posts[posts.length - 1].date;
+  const startDow = (new Date(first + "T12:00:00Z").getUTCDay() + 6) % 7;
+  const monday = addDays(first, -startDow);
+  const now = NOW || parisParts(new Date());
+  const nextPost = posts.find(p => status(p)[0] !== "past");
+  let html = `<div class="now-line">Şimdi: ${esc(now.date)} ${esc(now.hm)} Paris saati (${NOW_SRC === "internet" ? "internetten" : "cihaz saati"}) · paylaşımlar her gün 19:00${nextPost ? ` · <b>sıradaki: ${esc(short(nextPost))}, ${esc(nextPost.title)}</b>` : ""}</div><div class="cal"><div></div>${DAYN.map(n => `<div class="hd">${n}</div>`).join("")}`;
+  for (let w = 0, m = monday; m <= last; w++, m = addDays(m, 7)) {
+    const sun = addDays(m, 6), cur = now.date >= m && now.date <= sun;
+    const [, mm, dd] = m.split("-"), [, sm, sd] = sun.split("-");
+    html += `<div class="wk${cur ? " cur" : ""}" id="${cur ? "curweek" : ""}">Hafta ${w + 1}<span>${+dd} ${MONTHS[+mm - 1]}–${+sd} ${MONTHS[+sm - 1]}</span></div>`;
+    for (let i = 0; i < 7; i++) {
+      const day = addDays(m, i), p = byDate[day], dn = +day.slice(8);
+      if (!p) { html += `<div class="cell off"><div class="n"><span>${dn}</span></div>${day === now.date ? "<div>bugün</div>" : ""}</div>`; continue; }
+      let [cls, txt] = status(p);
+      if (p === nextPost) cls += " next";
+      html += `<div class="cell post ${cls}" data-id="${p.id}">
+        <div class="n"><span>${dn}</span></div>
+        <div class="im">${p.cover ? `<img loading="lazy" src="${esc(url(p, p.cover))}" alt="">` : ""}</div>
+        <div class="k">${esc(KIND[p.ckind] || p.kind)}</div>
+        <div class="st${p === nextPost ? " b" : ""}">${esc(txt)}</div></div>`;
+    }
+  }
+  html += "</div>";
+  $("#grid").className = "";
+  $("#grid").innerHTML = html;
+  $("#empty").hidden = true;
+  $("#grid").querySelectorAll(".cell.post").forEach(c => c.onclick = () => open(DATA.find(d => d.id === c.dataset.id)));
+  const cw = document.getElementById("curweek"); if (cw && !grid.scrolled) { grid.scrolled = true; cw.scrollIntoView({ block: "start" }); }
+}
+
 function grid() {
+  $("#q").style.display = group === "takvim" ? "none" : "";
+  if (group === "takvim") return calendar();
+  $("#grid").className = "grid";
   const q = $("#q").value.trim().toLowerCase();
   let items = DATA.filter(d => inGroup(d, group) &&
     (!q || (d.title + " " + d.kind + " " + d.path + " " + d.date).toLowerCase().includes(q)));
@@ -312,6 +402,8 @@ $("#dlg").addEventListener("close", () => { $("#view").querySelectorAll("video")
 $("#dlg").addEventListener("click", e => { if (e.target.id === "dlg") $("#dlg").close(); });
 $("#q").oninput = grid;
 tabs(); grid();
+netTime().then(() => { if (group === "takvim") calendar(); });
+setInterval(() => netTime().then(() => { if (group === "takvim") calendar(); }), 10 * 60 * 1000);
 if (location.hash) { const it = DATA.find(d => d.id === location.hash.slice(1)); if (it) open(it); }
 </script>
 </body>

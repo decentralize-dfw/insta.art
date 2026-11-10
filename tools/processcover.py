@@ -40,7 +40,10 @@ def main():
     video = os.path.join(folder, "reel.mp4")
     dur = float(subprocess.check_output(["ffprobe", "-v", "error", "-show_entries", "format=duration",
                                          "-of", "csv=p=0", video]))
-    first, final = frame(video, 0), frame(video, dur - 1.5)
+    # optional: python3 tools/processcover.py <folder> <first_t> <final_t>
+    t0 = float(sys.argv[2]) if len(sys.argv) > 2 else 0
+    t1 = float(sys.argv[3]) if len(sys.argv) > 3 else dur - 1.5
+    first, final = frame(video, t0), frame(video, t1)
     fb, lb = bbox(first), bbox(final)
     stage = first.crop(fb).resize((lb[2] - lb[0], lb[3] - lb[1]), Image.LANCZOS)
     done = final.crop(lb)
