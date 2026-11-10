@@ -6,7 +6,7 @@ ROOTS = {"details": "/home/user/yigitozen-painting-details", "details2": "/home/
          "yigit": "/home/user/yigit"}
 OW, OH, M = 1080, 1350, 0.05   # the object fills the frame up to a 5% white margin
 
-def render_fill(src, box, out, bounds=None):
+def render_fill(src, box, out, bounds=None, fit_width=False):
     """Fit the object's box in a 4:5 window of the painting itself (no white):
     centred on the object, moved only as far as needed to stay inside the
     painting, so where the painting ends the frame ends."""
@@ -15,6 +15,8 @@ def render_fill(src, box, out, bounds=None):
     W, H = im.size
     x0, y0, x1, y1 = box[0] * W, box[1] * H, box[2] * W, box[3] * H
     ww = max(x1 - x0, (y1 - y0) * OW / OH)
+    if fit_width:   # the object is the whole canvas: use the full width, trim top and bottom
+        ww = ((bounds or [0, 0, 1, 1])[2] - (bounds or [0, 0, 1, 1])[0]) * W
     wh = ww * OH / OW
     if ww > W or wh > H:
         print(f"  ! window larger than the painting, white fills the rest: {path}")
@@ -54,9 +56,11 @@ if __name__ == "__main__":
     spec = json.load(open(sys.argv[1]))
     d = os.path.dirname(os.path.abspath(sys.argv[1]))
     for f in os.listdir(d):
-        if f[:2].isdigit() and f.endswith(".jpg"): os.remove(os.path.join(d, f))
+        if f[:2].isdigit() and f.endswith(".jpg") and f != "00.jpg":   # 00.jpg is the grid cover
+            os.remove(os.path.join(d, f))
     for i, s in enumerate(spec["slides"], 1):
         fn = render_fill if spec.get("fit") == "fill" else render
         out = os.path.join(d, f"{i:02d}.jpg")
-        k = fn(s["src"], s["box"], out, s.get("bounds")) if fn is render_fill else fn(s["src"], s["box"], out)
+        k = fn(s["src"], s["box"], out, s.get("bounds"), s.get("fit_width", False)) if fn is render_fill \
+            else fn(s["src"], s["box"], out)
         print(f"{i:02d} x{k:.2f} {s['work']}: {s['note']}")

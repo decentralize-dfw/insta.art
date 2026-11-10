@@ -1,7 +1,7 @@
 # Editoryel carousel'ler
 
 Farklı resimlerden alınmış, aynı temayı (konu, renk ya da biçim) taşıyan yakın detaylar.
-Her sayfa 1080×1350, yazısız. Obje tam ve ortada, 4:5 karede etrafı resmin kendisi; beyaz yok (`tools/boxcrop.py`, `"fit": "fill"`). Resim kenarda bitiyorsa kare de orada biter. Obje detay fotoğrafında bütün varsa ondan, yoksa ana resimden kırpılır. Kuşun resmin tamamı olduğu iki sayfada (cute but unemployed, wings of abyss) resim 4:5'ten dar olduğu için yanlarda ince beyaz kalır. Caption: tek
+Her sayfa 1080×1350, yazısız. Obje tam ve ortada, 4:5 karede etrafı resmin kendisi; beyaz yok (`tools/boxcrop.py`, `"fit": "fill"`). Resim kenarda bitiyorsa kare de orada biter. Obje detay fotoğrafında bütün varsa ondan, yoksa ana resimden kırpılır. Kuşun resmin tamamı olduğu iki sayfada (cute but unemployed, wings of abyss) resim 4:5'ten dar olduğu için yanlarda ince beyaz kalır. Her carousel'in ilk sayfası (`00.jpg`) kapak: bütün sayfalar ekranı dolduran bir grid, ortada beyaz etiket içinde tema adı (Hanken Grotesk, siyah). Üretim: `python3 tools/gridcover.py <klasör>`. Caption: tek
 kelimelik tema ve sayfa sırasıyla eser adları. Üretim: `python3 tools/render.py <klasör>/spec.json`.
 
 | klasör | tema | sayfa |

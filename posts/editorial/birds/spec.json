@@ -18,12 +18,13 @@
       "work": "cute-but-unemployed-cartoon-figure",
       "src": "details2:cute-but-unemployed-cartoon-figure/cute-but-unemployed-cartoon-figure.png",
       "box": [
-        0.03,
         0.0,
-        0.98,
-        1.0
+        0.02,
+        1.0,
+        0.97
       ],
-      "note": "the creature, beak full of teeth"
+      "note": "the creature, beak full of teeth",
+      "fit_width": true
     },
     {
       "work": "articulo-attack-on-mandarin",
@@ -91,11 +92,12 @@
       "src": "details2:wings-of-abyss/wings-of-abyss.png",
       "box": [
         0.0,
-        0.0,
+        0.02,
         1.0,
-        1.0
+        0.97
       ],
-      "note": "one blue body, three beaks"
+      "note": "one blue body, three beaks",
+      "fit_width": true
     },
     {
       "work": "duality-of-the-angelic-summarization",
