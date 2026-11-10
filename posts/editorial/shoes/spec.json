@@ -1,0 +1,51 @@
+{
+  "type": "carousel",
+  "theme": "shoes",
+  "method": "the whole shoe, centred, generous margin; detail photo first",
+  "slides": [
+    {
+      "work": "sept-neuf",
+      "src": "details:sept-neuf/IMG_6648.JPG",
+      "box": [
+        0.34,
+        0.0,
+        0.88,
+        0.6
+      ],
+      "note": "a white court shoe with a red line along the sole"
+    },
+    {
+      "work": "viperella",
+      "src": "details2:viperella/viperella-detail-04.jpg",
+      "box": [
+        0.08,
+        0.25,
+        0.86,
+        0.95
+      ],
+      "note": "a pointed dark shoe with a red heel"
+    },
+    {
+      "work": "sept-neuf",
+      "src": "details:sept-neuf/IMG_6648.JPG",
+      "box": [
+        0.26,
+        0.34,
+        0.53,
+        0.95
+      ],
+      "note": "the other court shoe"
+    },
+    {
+      "work": "viperella",
+      "src": "details2:viperella/viperella.png",
+      "box": [
+        0.47,
+        0.7,
+        0.95,
+        0.89
+      ],
+      "note": "the other pointed shoe"
+    }
+  ]
+}
