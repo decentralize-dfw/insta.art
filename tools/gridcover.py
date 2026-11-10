@@ -54,54 +54,81 @@ def cover(img, w, h):
     return img.crop((left, top, left + w, top + h))
 
 
+MARGIN = 54          # white frame around the grid
+GAP = 12             # white between the images
+BAND = 150           # white band under the grid for the title
+
+
+def title_of(spec):
+    word = spec.get("theme") or spec.get("label")
+    if not word:
+        works = json.load(open(WORKS, encoding="utf-8"))
+        word = next(w["title"] for w in works if w["slug"] == spec["work"])
+    return word
+
+
 def main():
     folder = sys.argv[1]
     spec = json.load(open(os.path.join(folder, "spec.json"), encoding="utf-8"))
     slides = sorted(f for f in glob.glob(os.path.join(folder, "[0-9][0-9].jpg"))
                     if not f.endswith("00.jpg"))
-    counts = layout(len(slides))
     frame = Image.new("RGB", (OW, OH), "white")
+    gx0, gy0, gw, gh = MARGIN, MARGIN, OW - 2 * MARGIN, OH - 2 * MARGIN - BAND
+    global GUTTER, TARGET
+    GUTTER, TARGET = GAP, (gw / gh) * 0 + OW / OH
+    counts = layout_in(len(slides), gw, gh)
     r = len(counts)
-    rh = (OH - GUTTER * (r - 1)) / r
+    rh = (gh - GAP * (r - 1)) / r
     k = 0
     for i, c in enumerate(counts):
-        cw = (OW - GUTTER * (c - 1)) / c
-        y0, y1 = round(i * (rh + GUTTER)), round(i * (rh + GUTTER) + rh)
+        cw = (gw - GAP * (c - 1)) / c
+        y0 = gy0 + round(i * (rh + GAP)); y1 = gy0 + round(i * (rh + GAP) + rh)
         for j in range(c):
-            x0, x1 = round(j * (cw + GUTTER)), round(j * (cw + GUTTER) + cw)
+            x0 = gx0 + round(j * (cw + GAP)); x1 = gx0 + round(j * (cw + GAP) + cw)
             frame.paste(cover(Image.open(slides[k]).convert("RGB"), x1 - x0, y1 - y0), (x0, y0))
             k += 1
 
-    word = spec.get("theme") or spec.get("label")
-    if not word:
-        works = json.load(open(WORKS, encoding="utf-8"))
-        word = next(w["title"] for w in works if w["slug"] == spec["work"])
+    word = title_of(spec)
     d = ImageDraw.Draw(frame)
-    pw, ph, gap = 44, 26, 10
-    maxw = OW * 0.78 - 2 * pw
-    for size in (64, 56, 48, 42):
+    maxw = gw
+    for size in (52, 46, 40, 34):
         font = ImageFont.truetype(FONT, size)
         lines, cur = [], ""
         for tok in word.split():
             t = (cur + " " + tok).strip()
             if cur and d.textlength(t, font=font) > maxw:
-                lines.append(cur)
-                cur = tok
+                lines.append(cur); cur = tok
             else:
                 cur = t
         lines.append(cur)
-        if len(lines) <= 3:
+        asc, desc = font.getmetrics()
+        if len(lines) * (asc + desc) + (len(lines) - 1) * 6 <= BAND - 30:
             break
-    asc, desc = font.getmetrics()
     lh = asc + desc
-    tw = max(d.textlength(x, font=font) for x in lines)
-    bw, bh = tw + 2 * pw, lh * len(lines) + gap * (len(lines) - 1) + 2 * ph
-    bx, by = (OW - bw) / 2, (OH - bh) / 2
-    d.rectangle([bx, by, bx + bw, by + bh], fill="white")
+    th = lh * len(lines) + 6 * (len(lines) - 1)
+    ty = gy0 + gh + (BAND + MARGIN - th) / 2 - MARGIN / 2
     for i, x in enumerate(lines):
-        d.text(((OW - d.textlength(x, font=font)) / 2, by + ph + i * (lh + gap)), x, font=font, fill="black")
+        d.text(((OW - d.textlength(x, font=font)) / 2, ty + i * (lh + 6)), x, font=font, fill="black")
     frame.save(os.path.join(folder, "00.jpg"), quality=94, subsampling=0)
     print(f"{folder}/00.jpg  {len(slides)} slides in rows {counts}")
+
+
+def layout_in(n, gw, gh):
+    """Rows with as-even-as-possible counts, cells closest to 4:5 inside the grid area."""
+    best = None
+    for r in range(1, n + 1):
+        base, extra = divmod(n, r)
+        counts = [base] * r
+        order = sorted(range(r), key=lambda i: abs(i - (r - 1) / 2))
+        for i in order[:extra]:
+            counts[i] += 1
+        if min(counts) == 0:
+            break
+        rh = (gh - GAP * (r - 1)) / r
+        score = sum(abs(math.log(((gw - GAP * (c - 1)) / c) / rh / (OW / OH))) * c for c in counts) / n
+        if best is None or score < best[0]:
+            best = (score, counts)
+    return best[1]
 
 
 if __name__ == "__main__":
