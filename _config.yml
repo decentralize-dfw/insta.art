@@ -1,4 +1,4 @@
-# GitHub Pages: publish the finder, posts/ images and assets/.
+# GitHub Pages: publish the finder and posts/ images (assets/ is only for the tools).
 # Videos are published from the separate insta-media site (see tools/sync_media.sh).
 exclude:
   - gpt-plan
@@ -7,3 +7,4 @@ exclude:
   - "*.mp4"
   - "**/*.mp4"
   - README.md
+  - assets
