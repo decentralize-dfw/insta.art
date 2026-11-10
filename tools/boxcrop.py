@@ -6,7 +6,7 @@ ROOTS = {"details": "/home/user/yigitozen-painting-details", "details2": "/home/
          "yigit": "/home/user/yigit"}
 OW, OH, M = 1080, 1350, 0.05   # the object fills the frame up to a 5% white margin
 
-def render_fill(src, box, out, bounds=None, fit_width=False):
+def render_fill(src, box, out, bounds=None, fit_width=False, valign="center"):
     """Fit the object's box in a 4:5 window of the painting itself (no white):
     centred on the object, moved only as far as needed to stay inside the
     painting, so where the painting ends the frame ends."""
@@ -26,6 +26,8 @@ def render_fill(src, box, out, bounds=None, fit_width=False):
     cx, cy = (x0 + x1) / 2, (y0 + y1) / 2
     left = min(max(cx - ww / 2, bx0), max(bx1 - ww, bx0))
     top = min(max(cy - wh / 2, by0), max(by1 - wh, by0))
+    if valign == "top":   # keep the top of the painting, trim only from the bottom
+        top = by0
     if ww <= bx1 - bx0 and wh <= by1 - by0:
         frame = im.resize((OW, OH), Image.LANCZOS, box=(left, top, left + ww, top + wh))
     else:
@@ -61,6 +63,7 @@ if __name__ == "__main__":
     for i, s in enumerate(spec["slides"], 1):
         fn = render_fill if spec.get("fit") == "fill" else render
         out = os.path.join(d, f"{i:02d}.jpg")
-        k = fn(s["src"], s["box"], out, s.get("bounds"), s.get("fit_width", False)) if fn is render_fill \
+        k = fn(s["src"], s["box"], out, s.get("bounds"), s.get("fit_width", False),
+               s.get("valign", "center")) if fn is render_fill \
             else fn(s["src"], s["box"], out)
         print(f"{i:02d} x{k:.2f} {s['work']}: {s['note']}")

@@ -8,7 +8,7 @@ kelimelik tema ve sayfa sırasıyla eser adları. Üretim: `python3 tools/render
 | --- | --- | --- |
 | `crossed-eyes/` | çarpı gözler | 6 (guarding, good people, 7 fam, wings of abyss, victim, baby rights) |
 | `chairs/` | sandalyeler | 6: guarding (ters sandalye), mandarin (ters sandalye), victim (beyaz sandalye), Virgil, sept neuf (koltuk), guarding (ayaklık) |
-| `tables/` | masa, küçük masa, yatak | 4: walls (masa), sept neuf (sehpa), crow (divan), caprocorn (sandık) |
+| `platforms/` | platforms: masa, sehpa, divan, sandık | 4: walls (masa), sept neuf (sehpa), crow (divan), caprocorn (sandık) |
 | `shoes/` | ayakkabılar | 11, her ayakkabı tam ve ortada, etrafı resmin kendisi (beyaz yok, `"fit": "fill"`): sept neuf (2), cellular, s(t)lop (2), duality (2), viperella (2), cute but unemployed (2) |
 | `birds/` | kuşlar | 13, her kuş bütün: sept neuf, cute but unemployed, crow, family dinner (ortadaki baş), lucid drowning (pembe ve koyu kuş), wings of abyss, duality (soluk tüylü kuş), s(t)lop, mandarin (dört kuş) |
 

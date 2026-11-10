@@ -24,7 +24,8 @@
         0.97
       ],
       "note": "the creature, beak full of teeth",
-      "fit_width": true
+      "fit_width": true,
+      "valign": "top"
     },
     {
       "work": "articulo-attack-on-mandarin",
@@ -97,7 +98,8 @@
         0.97
       ],
       "note": "one blue body, three beaks",
-      "fit_width": true
+      "fit_width": true,
+      "valign": "top"
     },
     {
       "work": "duality-of-the-angelic-summarization",
