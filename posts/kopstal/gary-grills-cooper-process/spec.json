@@ -132,5 +132,6 @@
   },
   "camera": "static",
   "fast_intro": true,
-  "bell": true
+  "bell": true,
+  "loop": "fast forward, then the stages backwards"
 }

@@ -149,6 +149,9 @@ kullanılabilir. Örnek:
   `tools/render.py` bunu tek seferde render eder (video ikinci kez sıkıştırılmaz). Spec'ten
   render edilmeyen Reel'lerde (süreç yüklemeleri, kayıtlar, 3D model) `tools/fastintro.py`:
   yalnızca 2 sn'lik açılış kodlanır, Reel'in kendisine kayıpsız (concat, -c copy) eklenir.
+- **Süreç Reel'leri döngü (Yiğit, 11 Kasım 2026):** 2 sn hızlı ileri (eskiz → bitmiş, çubuk),
+  sonra aşamalar kendi hızında **geriye** (bitmiş → eskiz; bitmiş resim en fazla 0,5 sn durur),
+  sonra kuş ekranı. Video eskizle yeniden başladığı için döngü kapanır. `tools/processloop.py`.
 - **Kamera kuralı (Yiğit'in açık talimatı, istisnasız):**
   - Her plan **tek eksende** hareket eder: ya **yatay** (x) ya **dikey** (y). Çapraz kayma
     yok. Kaydırma ile zoom aynı planda yok. "Yamuk yumuk" hareket yok.

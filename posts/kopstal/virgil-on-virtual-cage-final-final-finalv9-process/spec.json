@@ -144,5 +144,6 @@
     "process/00.jpg: Leonardo's Virgin of the Rocks, the reference image, not a stage"
   ],
   "fast_intro": true,
-  "bell": true
+  "bell": true,
+  "loop": "fast forward, then the stages backwards"
 }
