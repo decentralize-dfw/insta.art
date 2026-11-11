@@ -116,5 +116,6 @@
     "src": "details2:baby-rights-101/baby-rights-101.png",
     "fit": true
   },
-  "fast_intro": true
+  "fast_intro": true,
+  "bell": true
 }

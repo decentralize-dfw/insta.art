@@ -116,5 +116,6 @@
     "src": "details2:sin-over-black-matter/sin-over-black-matter.png",
     "fit": true
   },
-  "fast_intro": true
+  "fast_intro": true,
+  "bell": true
 }

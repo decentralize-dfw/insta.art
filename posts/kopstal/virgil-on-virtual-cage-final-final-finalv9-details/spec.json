@@ -146,5 +146,6 @@
     "src": "details:masters/virgil-on-virtual-cage-RESOLUTION.png",
     "fit": true
   },
-  "fast_intro": true
+  "fast_intro": true,
+  "bell": true
 }

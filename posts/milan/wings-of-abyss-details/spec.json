@@ -116,5 +116,6 @@
     "src": "details2:wings-of-abyss/wings-of-abyss.png",
     "fit": true
   },
-  "fast_intro": true
+  "fast_intro": true,
+  "bell": true
 }

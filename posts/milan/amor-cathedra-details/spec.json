@@ -101,5 +101,6 @@
     "src": "details2:amor-cathedra/amor-cathedra.png",
     "fit": true
   },
-  "fast_intro": true
+  "fast_intro": true,
+  "bell": true
 }

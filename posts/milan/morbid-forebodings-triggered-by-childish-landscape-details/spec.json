@@ -116,5 +116,6 @@
     "src": "details2:morbid-forebodings-triggered-by-childish-landscape/morbid-forebodings-triggered-by-childish-landscape.png",
     "fit": true
   },
-  "fast_intro": true
+  "fast_intro": true,
+  "bell": true
 }

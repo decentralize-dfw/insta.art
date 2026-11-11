@@ -116,5 +116,6 @@
     "src": "details2:caprocorn-sister-war-plague-earthquake/caprocorn-sister-war-plague-earthquake.png",
     "fit": true
   },
-  "fast_intro": true
+  "fast_intro": true,
+  "bell": true
 }

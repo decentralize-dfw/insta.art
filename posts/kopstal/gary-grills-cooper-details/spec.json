@@ -131,5 +131,6 @@
     "src": "yigit:img/full/gary-grills-cooper.jpg",
     "fit": true
   },
-  "fast_intro": true
+  "fast_intro": true,
+  "bell": true
 }

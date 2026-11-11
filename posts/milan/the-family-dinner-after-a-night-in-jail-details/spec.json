@@ -101,5 +101,6 @@
     "src": "details2:the-family-dinner-after-a-night-in-jail/the-family-dinner-after-a-night-in-jail.png",
     "fit": true
   },
-  "fast_intro": true
+  "fast_intro": true,
+  "bell": true
 }

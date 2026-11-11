@@ -178,6 +178,20 @@ def clamp_center(im, s, cx, cy, fw=W, fh=H):
 
 
 MIN_SPEED = 40   # px per second on screen; every shot keeps moving
+BELL = os.path.join(REPO, "assets", "audio", "zen-bell.mp3")
+BELL_FADE = (1.0, 2.5)    # fade-out start and length in seconds: silent from 3.5 s
+
+
+def add_bell(path):
+    """The only sound in a reel: the bell at 0 s, faded out by 3.5 s, then silence.
+    The video stream is copied, never re-encoded. Music is added in the app."""
+    tmp = path + ".tmp.mp4"
+    st, d = BELL_FADE
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", path, "-i", BELL,
+                    "-map", "0:v", "-map", "1:a", "-c:v", "copy",
+                    "-af", f"afade=t=out:st={st}:d={d},apad", "-c:a", "aac", "-b:a", "192k",
+                    "-ar", "48000", "-shortest", "-movflags", "+faststart", tmp], check=True)
+    os.replace(tmp, path)
 FAST_INTRO = 2.0          # "fast_intro": true in a spec plays the whole tour in this many seconds first
 BAR_Y, BAR_H = 320, 12    # progress bar, below the Reels header
 MAX_HOLD = 2.0   # only the last shot may hold, for at most this long
@@ -258,6 +272,8 @@ def reel(spec, outdir):
     proc.stdin.close()
     if proc.wait():
         sys.exit("ffmpeg failed")
+    if spec.get("bell"):
+        add_bell(path)
     print(f"{path}  {total / FPS:.1f}s")
 
 

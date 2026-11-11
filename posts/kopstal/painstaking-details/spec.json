@@ -101,5 +101,6 @@
     "src": "details:painstaking/painstaking-triptic-transparent.png",
     "fit": true
   },
-  "fast_intro": true
+  "fast_intro": true,
+  "bell": true
 }

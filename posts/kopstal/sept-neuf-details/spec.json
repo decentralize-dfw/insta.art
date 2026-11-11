@@ -116,5 +116,6 @@
     "src": "details:sept-neuf/inverted-silvia--7-9.png",
     "fit": true
   },
-  "fast_intro": true
+  "fast_intro": true,
+  "bell": true
 }

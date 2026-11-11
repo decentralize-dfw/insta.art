@@ -71,5 +71,6 @@
     "src": "details:7famboardgame/7fam-board-game.png",
     "fit": true
   },
-  "fast_intro": true
+  "fast_intro": true,
+  "bell": true
 }
