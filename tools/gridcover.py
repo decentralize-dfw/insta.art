@@ -54,7 +54,9 @@ def cover(img, w, h):
     return img.crop((left, top, left + w, top + h))
 
 
-MARGIN = 54          # white frame around the grid
+MARGIN = 54          # white frame around the grid, top and bottom
+MARGIN_X = 88        # left and right: the profile grid cuts 4:5 posts to 3:4 (34 px a side),
+                     # so 88 here shows as the same 54 px frame there (tools/covers.py)
 GAP = 12             # white between the images
 BAND = 150           # white band under the grid for the title
 
@@ -73,7 +75,7 @@ def main():
     slides = sorted(f for f in glob.glob(os.path.join(folder, "[0-9][0-9].jpg"))
                     if not f.endswith("00.jpg"))
     frame = Image.new("RGB", (OW, OH), "white")
-    gx0, gy0, gw, gh = MARGIN, MARGIN, OW - 2 * MARGIN, OH - 2 * MARGIN - BAND
+    gx0, gy0, gw, gh = MARGIN_X, MARGIN, OW - 2 * MARGIN_X, OH - 2 * MARGIN - BAND
     global GUTTER, TARGET
     GUTTER, TARGET = GAP, (gw / gh) * 0 + OW / OH
     counts = layout_in(len(slides), gw, gh)

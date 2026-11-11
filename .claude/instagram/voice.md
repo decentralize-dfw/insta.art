@@ -130,6 +130,11 @@ kullanılabilir. Örnek:
 
 - Resim her zaman kahraman. Resmin üstüne grafik, çerçeve, logo, renkli yazı eklenmez.
 - Tasarım dili: beyaz üstüne siyah, en fazla bu. Renkli arka plan, gradyan, süs yok.
+- **Bütün kapaklar aynı beyaz çerçevede (Yiğit, 11 Kasım 2026):** profil grid'i her kareyi 3:4
+  gösterir; her kapakta görsel bu görünen alanda aynı 54 px beyaz çerçevenin içine bütün
+  olarak sığar. 4:5 postlarda kutu 904×1242 (yanlar 88, üst/alt 54 px), Reel kapaklarında
+  1080×1920 karenin ortasında 965×1325. `tools/covers.py` (Reel kapakları, tek resimler,
+  süreç carousel'i) ve `tools/gridcover.py` (carousel kolaj kapakları).
 - Kapak (cover) resmin kendisidir, üstünde yazı olmaz. Reel kapağında asıl görüntü 1080×1920
   karenin ortadaki 1080×1350'lik alanında kalmalı, çünkü profil gridi bu alanı gösterir.
 - Bitmiş eser ilk kez tam haliyle gösterilirken kesilmez. Oran 4:5'e uymuyorsa beyaz boşluk
