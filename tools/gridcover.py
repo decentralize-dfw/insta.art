@@ -69,50 +69,28 @@ def title_of(spec):
     return word
 
 
+def collage(slides):
+    """First 9 slides as 3x3, or first 4 as 2x2 when there are fewer than 9.
+    Slides keep their 4:5 shape, nothing is cut."""
+    n = 3 if len(slides) >= 9 else 2
+    slides = slides[:n * n]
+    cw, ch, gap = 600, 750, 18
+    out = Image.new("RGB", (n * cw + (n - 1) * gap, n * ch + (n - 1) * gap), "white")
+    for i, f in enumerate(slides):
+        im = Image.open(f).convert("RGB").resize((cw, ch), Image.LANCZOS)
+        out.paste(im, ((i % n) * (cw + gap), (i // n) * (ch + gap)))
+    return out, n
+
+
 def main():
+    import covers
     folder = sys.argv[1]
     spec = json.load(open(os.path.join(folder, "spec.json"), encoding="utf-8"))
     slides = sorted(f for f in glob.glob(os.path.join(folder, "[0-9][0-9].jpg"))
                     if not f.endswith("00.jpg"))
-    frame = Image.new("RGB", (OW, OH), "white")
-    gx0, gy0, gw, gh = MARGIN_X, MARGIN, OW - 2 * MARGIN_X, OH - 2 * MARGIN - BAND
-    global GUTTER, TARGET
-    GUTTER, TARGET = GAP, (gw / gh) * 0 + OW / OH
-    counts = layout_in(len(slides), gw, gh)
-    r = len(counts)
-    rh = (gh - GAP * (r - 1)) / r
-    k = 0
-    for i, c in enumerate(counts):
-        cw = (gw - GAP * (c - 1)) / c
-        y0 = gy0 + round(i * (rh + GAP)); y1 = gy0 + round(i * (rh + GAP) + rh)
-        for j in range(c):
-            x0 = gx0 + round(j * (cw + GAP)); x1 = gx0 + round(j * (cw + GAP) + cw)
-            frame.paste(cover(Image.open(slides[k]).convert("RGB"), x1 - x0, y1 - y0), (x0, y0))
-            k += 1
-
-    word = title_of(spec)
-    d = ImageDraw.Draw(frame)
-    maxw = gw
-    for size in (52, 46, 40, 34):
-        font = ImageFont.truetype(FONT, size)
-        lines, cur = [], ""
-        for tok in word.split():
-            t = (cur + " " + tok).strip()
-            if cur and d.textlength(t, font=font) > maxw:
-                lines.append(cur); cur = tok
-            else:
-                cur = t
-        lines.append(cur)
-        asc, desc = font.getmetrics()
-        if len(lines) * (asc + desc) + (len(lines) - 1) * 6 <= BAND - 30:
-            break
-    lh = asc + desc
-    th = lh * len(lines) + 6 * (len(lines) - 1)
-    ty = gy0 + gh + (BAND + MARGIN - th) / 2 - MARGIN / 2
-    for i, x in enumerate(lines):
-        d.text(((OW - d.textlength(x, font=font)) / 2, ty + i * (lh + 6)), x, font=font, fill="black")
-    frame.save(os.path.join(folder, "00.jpg"), quality=94, subsampling=0)
-    print(f"{folder}/00.jpg  {len(slides)} slides in rows {counts}")
+    im, n = collage(slides)
+    covers.fit(im, title_of(spec)).save(os.path.join(folder, "00.jpg"), quality=94, subsampling=0)
+    print(f"{folder}/00.jpg  {n}x{n} of {len(slides)} slides")
 
 
 def layout_in(n, gw, gh):

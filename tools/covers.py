@@ -2,10 +2,9 @@
 
     python3 tools/covers.py
 
-Every cover shows in the profile grid (3:4 tiles) with the same white frame,
-54 px in a 1012 px wide tile, the image whole inside it: 4:5 posts use a
-904x1242 box (88 px left/right, 54 px top/bottom), reels a 965x1325 box in the
-middle of the 1080x1920 frame. Carousel grid covers: tools/gridcover.py.
+Every cover is laid out in what the profile grid shows (a 3:4 tile): the image
+top left, 10 % of the tile width in from the left and the top, whole inside 60 %
+of the tile, on white. Carousel collage covers: tools/gridcover.py (same layout).
 
   detail reels         spec "cover" image
   process reels        split: left half sketch, right half finished (from the reel)
@@ -23,13 +22,14 @@ import workposts  # noqa: E402
 
 REPO = render.REPO
 OW, OH = 1080, 1350
-MARGIN = 54
-# The profile grid shows every tile as 3:4: a 4:5 post loses 34 px a side
-# (1012x1350 visible), a 9:16 reel shows its middle 1080x1440. The box is set
-# in that visible area so the white frame is the same 54 px (in 1012) on every tile.
-POST_BOX = (1012 - 2 * MARGIN, OH - 2 * MARGIN)                 # 904 x 1242
-K = 1080 / 1012
-REEL_BOX = (round(1080 - 2 * MARGIN * K), round(1440 - 2 * MARGIN * K))  # 965 x 1325
+# The profile grid shows every tile as 3:4: a 4:5 post shows its middle 1012x1350,
+# a 9:16 reel its middle 1080x1440. In that visible tile the image sits top left,
+# BORDER of the tile width in from the left and the top, whole inside a box of
+# SIZE of the tile width and height. Titles (collages) go under the image.
+BORDER = 0.10
+SIZE = 0.60
+TITLE = 10.5 / 130   # title size as a share of the tile width: ~10.5 px on a phone tile
+FONT = os.path.join(render.REPO, "assets", "fonts", "HankenGrotesk-500.ttf")
 
 # split covers from reels: seconds of (early frame, finished frame) in the reel as it is now
 SPLIT = {
@@ -41,23 +41,33 @@ SPLIT = {
 }
 
 
-def place(im, box, size):
-    """The image whole inside the box, centred on a white frame of this size."""
-    k = min(box[0] / im.width, box[1] / im.height)
+def layout(im, reel=False, title=None):
+    """The image top left in the visible 3:4 tile, on white; optional title under it."""
+    from PIL import ImageDraw, ImageFont
+    if reel:
+        size, vis_w, vis_h, vx, vy = (render.W, render.H), 1080, 1440, 0, (render.H - 1440) // 2
+    else:
+        size, vis_w, vis_h, vx, vy = (OW, OH), 1012, OH, (OW - 1012) // 2, 0
+    k = min(vis_w * SIZE / im.width, vis_h * SIZE / im.height)
     im = im.resize((round(im.width * k), round(im.height * k)), Image.LANCZOS)
     out = Image.new("RGB", size, "white")
-    out.paste(im, ((size[0] - im.width) // 2, (size[1] - im.height) // 2))
+    x, y = round(vx + vis_w * BORDER), round(vy + vis_w * BORDER)
+    out.paste(im, (x, y))
+    if title:
+        fs = round(vis_w * TITLE)
+        ImageDraw.Draw(out).text((x, y + im.height + round(fs * 0.5)), title,
+                                 font=ImageFont.truetype(FONT, fs), fill="black")
     return out
 
 
-def fit(im):
+def fit(im, title=None):
     """A 4:5 post (single, carousel cover)."""
-    return place(im, POST_BOX, (OW, OH))
+    return layout(im, False, title)
 
 
 def reel_cover(im):
     """A 9:16 reel cover."""
-    return place(im, REEL_BOX, (render.W, render.H))
+    return layout(im, True)
 
 
 def content(im):
