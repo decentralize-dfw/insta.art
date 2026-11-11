@@ -2,15 +2,15 @@
  "timezone": "Europe/Paris",
  "start": "2026-11-11",
  "week1_monday": "2026-11-09",
+ "rhythm": "haftada 4: Pzt Reel, Çrş carousel (editoryel / portfolyo), Per Reel (arşiv, Trial), Cmt Reel (süreç / portfolyo videosu)",
  "note": "Kurallar: .claude/instagram/voice.md, gerekçe: .claude/instagram/plan.md",
  "spare": [
   "posts/milan/baby-rights-101-details",
   "posts/milan/ciao-capo-sono-squalo-details",
-  "posts/milan/caprocorn-sister-war-plague-earthquake-details",
-  "posts/milan/viperella-details",
-  "posts/milan/q1b3l3-igfluencer-details",
-  "posts/milan/il-sbagliato-di-rompipalle-details",
-  "posts/milan/untitled-details"
+  "posts/milan/portal-ticino-details",
+  "posts/milan/good-people-helping-bad-ones-thats-why-theyre-bad-too-details",
+  "posts/milan/century-of-0-1-transhumanism-details",
+  "posts/milan/q1b3l3-igfluencer-details"
  ],
  "posts": [
   {
@@ -21,7 +21,7 @@
    "kind": "reel-detay",
    "folder": "posts/kopstal/angora-mergvs-details",
    "work": "angora-mergvs",
-   "note": "başlangıç. haftanın en güçlü açılışı"
+   "note": "başlangıç"
   },
   {
    "date": "2026-11-12",
@@ -48,10 +48,10 @@
    "day": "Cmt",
    "time": "19:00",
    "week": 1,
-   "kind": "reel-süreç",
-   "folder": "posts/kopstal/gary-grills-cooper-process",
-   "work": "gary-grills-cooper",
-   "note": ""
+   "kind": "reel-portfolyo",
+   "folder": "posts/portfolio/details-book-stacked",
+   "work": "details-book",
+   "note": "portfolyo: details kitabı. Paylaşınca profile sabitle"
   },
   {
    "date": "2026-11-16",
@@ -64,8 +64,8 @@
    "note": "gerçek boyama kaydı: el ve fırça"
   },
   {
-   "date": "2026-11-17",
-   "day": "Sal",
+   "date": "2026-11-18",
+   "day": "Çrş",
    "time": "19:00",
    "week": 2,
    "kind": "carousel-editorial",
@@ -84,24 +84,14 @@
    "note": "Trial Reel (önce takipçi olmayanlara)"
   },
   {
-   "date": "2026-11-20",
-   "day": "Cum",
-   "time": "19:00",
-   "week": 2,
-   "kind": "tek",
-   "folder": "posts/single/bacchus-2",
-   "work": "bacchus-2",
-   "note": ""
-  },
-  {
    "date": "2026-11-21",
    "day": "Cmt",
    "time": "19:00",
    "week": 2,
    "kind": "reel-süreç",
-   "folder": "posts/kopstal/gxd-is-afk-we-banned-it-process",
-   "work": "gxd-is-afk-we-banned-it",
-   "note": ""
+   "folder": "posts/kopstal/gary-grills-cooper-process",
+   "work": "gary-grills-cooper",
+   "note": "portfolyo slotu: yeni portfolyo videosu gelince bunun yerine"
   },
   {
    "date": "2026-11-23",
@@ -114,14 +104,14 @@
    "note": "gerçek boyama kaydı"
   },
   {
-   "date": "2026-11-24",
-   "day": "Sal",
+   "date": "2026-11-25",
+   "day": "Çrş",
    "time": "19:00",
    "week": 3,
-   "kind": "carousel-detay",
-   "folder": "posts/details/walls-of-perception",
-   "work": "walls-of-perception",
-   "note": ""
+   "kind": "carousel-süreç",
+   "folder": "posts/process-carousel/painstaking",
+   "work": "painstaking",
+   "note": "portfolyo slotu: portfolyo carousel’i gelince bunun yerine"
   },
   {
    "date": "2026-11-26",
@@ -132,16 +122,6 @@
    "folder": "posts/milan/cute-but-unemployed-cartoon-figure-details",
    "work": "cute-but-unemployed-cartoon-figure",
    "note": "Trial Reel (önce takipçi olmayanlara)"
-  },
-  {
-   "date": "2026-11-27",
-   "day": "Cum",
-   "time": "19:00",
-   "week": 3,
-   "kind": "tek",
-   "folder": "posts/single/the-on-top-ruler",
-   "work": "the-on-top-ruler",
-   "note": ""
   },
   {
    "date": "2026-11-28",
@@ -159,13 +139,13 @@
    "time": "19:00",
    "week": 4,
    "kind": "reel-detay",
-   "folder": "posts/kopstal/painstaking-details",
-   "work": "painstaking",
-   "note": "DENEY 1 (açılış): iki sürüm Trial Reel; A detayla açılış, B 0,5 sn bütün resimle açılış"
+   "folder": "posts/kopstal/virgil-on-virtual-cage-final-final-finalv9-details",
+   "work": "virgil-on-virtual-cage-final-final-finalv9",
+   "note": ""
   },
   {
-   "date": "2026-12-01",
-   "day": "Sal",
+   "date": "2026-12-02",
+   "day": "Çrş",
    "time": "19:00",
    "week": 4,
    "kind": "carousel-editorial",
@@ -184,24 +164,14 @@
    "note": "Trial Reel (önce takipçi olmayanlara)"
   },
   {
-   "date": "2026-12-04",
-   "day": "Cum",
-   "time": "19:00",
-   "week": 4,
-   "kind": "tek",
-   "folder": "posts/single/sept-neuf",
-   "work": "sept-neuf",
-   "note": ""
-  },
-  {
    "date": "2026-12-05",
    "day": "Cmt",
    "time": "19:00",
    "week": 4,
    "kind": "reel-süreç",
-   "folder": "posts/kopstal/articulo-attack-on-mandarin-process",
-   "work": "articulo-attack-on-mandarin",
-   "note": ""
+   "folder": "posts/kopstal/gxd-is-afk-we-banned-it-process",
+   "work": "gxd-is-afk-we-banned-it",
+   "note": "portfolyo slotu: yeni portfolyo videosu gelince bunun yerine"
   },
   {
    "date": "2026-12-07",
@@ -211,17 +181,17 @@
    "kind": "reel-detay",
    "folder": "posts/kopstal/gary-grills-cooper-details",
    "work": "gary-grills-cooper",
-   "note": "DENEY 1 tekrar: aynı A/B açılış, başka eser"
+   "note": ""
   },
   {
-   "date": "2026-12-08",
-   "day": "Sal",
+   "date": "2026-12-09",
+   "day": "Çrş",
    "time": "19:00",
    "week": 5,
    "kind": "carousel-detay",
-   "folder": "posts/details/s-t-lop",
-   "work": "s-t-lop",
-   "note": ""
+   "folder": "posts/details/walls-of-perception",
+   "work": "walls-of-perception",
+   "note": "portfolyo slotu: portfolyo carousel’i gelince bunun yerine"
   },
   {
    "date": "2026-12-10",
@@ -234,23 +204,13 @@
    "note": "Trial Reel (önce takipçi olmayanlara)"
   },
   {
-   "date": "2026-12-11",
-   "day": "Cum",
-   "time": "19:00",
-   "week": 5,
-   "kind": "tek",
-   "folder": "posts/single/despite-transgression",
-   "work": "despite-transgression",
-   "note": ""
-  },
-  {
    "date": "2026-12-12",
    "day": "Cmt",
    "time": "19:00",
    "week": 5,
    "kind": "reel-süreç",
-   "folder": "posts/kopstal/walls-of-perception-process",
-   "work": "walls-of-perception",
+   "folder": "posts/kopstal/articulo-attack-on-mandarin-process",
+   "work": "articulo-attack-on-mandarin",
    "note": ""
   },
   {
@@ -259,18 +219,18 @@
    "time": "19:00",
    "week": 6,
    "kind": "reel-detay",
-   "folder": "posts/kopstal/virgil-on-virtual-cage-final-final-finalv9-details",
-   "work": "virgil-on-virtual-cage-final-final-finalv9",
-   "note": "DENEY 2 (müzik): Reels'te yükselen bir ses"
+   "folder": "posts/kopstal/painstaking-details",
+   "work": "painstaking",
+   "note": "DENEY (müzik): Reels'te yükselen bir ses"
   },
   {
-   "date": "2026-12-15",
-   "day": "Sal",
+   "date": "2026-12-16",
+   "day": "Çrş",
    "time": "19:00",
    "week": 6,
-   "kind": "carousel-süreç",
-   "folder": "posts/process-carousel/painstaking",
-   "work": "painstaking",
+   "kind": "carousel-editorial",
+   "folder": "posts/editorial/crossed-eyes",
+   "work": "crossed-eyes",
    "note": ""
   },
   {
@@ -284,24 +244,14 @@
    "note": "Trial Reel (önce takipçi olmayanlara)"
   },
   {
-   "date": "2026-12-18",
-   "day": "Cum",
-   "time": "19:00",
-   "week": 6,
-   "kind": "tek",
-   "folder": "posts/single/angora-mergvs",
-   "work": "angora-mergvs",
-   "note": ""
-  },
-  {
    "date": "2026-12-19",
    "day": "Cmt",
    "time": "19:00",
    "week": 6,
    "kind": "reel-süreç",
-   "folder": "posts/kopstal/7-fam-board-game-process",
-   "work": "7-fam-board-game",
-   "note": ""
+   "folder": "posts/kopstal/angora-mergvs-process",
+   "work": "angora-mergvs",
+   "note": "portfolyo slotu: yeni portfolyo videosu gelince bunun yerine"
   },
   {
    "date": "2026-12-21",
@@ -311,17 +261,17 @@
    "kind": "reel-detay",
    "folder": "posts/kopstal/gxd-is-afk-we-banned-it-details",
    "work": "gxd-is-afk-we-banned-it",
-   "note": "DENEY 2 karşılaştırma: kendi seçtiğin parça. Tatil haftası, sonuç ayrı okunur"
+   "note": "DENEY (müzik) karşılaştırma: kendi seçtiğin parça. Tatil haftası, sonuç ayrı okunur"
   },
   {
-   "date": "2026-12-22",
-   "day": "Sal",
+   "date": "2026-12-23",
+   "day": "Çrş",
    "time": "19:00",
    "week": 7,
    "kind": "carousel-detay",
-   "folder": "posts/details/the-assassination-of-the-crow",
-   "work": "the-assassination-of-the-crow",
-   "note": ""
+   "folder": "posts/details/s-t-lop",
+   "work": "s-t-lop",
+   "note": "portfolyo slotu: portfolyo carousel’i gelince bunun yerine"
   },
   {
    "date": "2026-12-24",
@@ -334,23 +284,13 @@
    "note": "Trial Reel (önce takipçi olmayanlara); Noel arifesi, tatil haftası"
   },
   {
-   "date": "2026-12-25",
-   "day": "Cum",
-   "time": "19:00",
-   "week": 7,
-   "kind": "tek",
-   "folder": "posts/single/see-u-in-the-other-side",
-   "work": "see-u-in-the-other-side",
-   "note": "Noel. tatil haftası"
-  },
-  {
    "date": "2026-12-26",
    "day": "Cmt",
    "time": "19:00",
    "week": 7,
    "kind": "reel-süreç",
-   "folder": "posts/kopstal/sept-neuf-process",
-   "work": "sept-neuf",
+   "folder": "posts/kopstal/walls-of-perception-process",
+   "work": "walls-of-perception",
    "note": ""
   },
   {
@@ -359,18 +299,18 @@
    "time": "19:00",
    "week": 8,
    "kind": "reel-detay",
-   "folder": "posts/kopstal/s-t-lop-details",
-   "work": "s-t-lop",
+   "folder": "posts/kopstal/sept-neuf-details",
+   "work": "sept-neuf",
    "note": ""
   },
   {
-   "date": "2026-12-29",
-   "day": "Sal",
+   "date": "2026-12-30",
+   "day": "Çrş",
    "time": "19:00",
    "week": 8,
    "kind": "carousel-editorial",
-   "folder": "posts/editorial/crossed-eyes",
-   "work": "crossed-eyes",
+   "folder": "posts/editorial/shoes",
+   "work": "shoes",
    "note": ""
   },
   {
@@ -384,24 +324,14 @@
    "note": "Trial Reel (önce takipçi olmayanlara); yılbaşı arifesi"
   },
   {
-   "date": "2027-01-01",
-   "day": "Cum",
-   "time": "19:00",
-   "week": 8,
-   "kind": "tek",
-   "folder": "posts/single/painstaking",
-   "work": "painstaking",
-   "note": "yılbaşı"
-  },
-  {
    "date": "2027-01-02",
    "day": "Cmt",
    "time": "19:00",
    "week": 8,
    "kind": "reel-süreç",
-   "folder": "posts/kopstal/angora-mergvs-process",
-   "work": "angora-mergvs",
-   "note": ""
+   "folder": "posts/kopstal/7-fam-board-game-process",
+   "work": "7-fam-board-game",
+   "note": "portfolyo slotu: yeni portfolyo videosu gelince bunun yerine"
   },
   {
    "date": "2027-01-04",
@@ -409,19 +339,19 @@
    "time": "19:00",
    "week": 9,
    "kind": "reel-detay",
-   "folder": "posts/kopstal/walls-of-perception-details",
-   "work": "walls-of-perception",
-   "note": "DENEY 3 (uzunluk): son resim tutuşu dışında %20 kısa kurgu"
+   "folder": "posts/kopstal/articulo-attack-on-mandarin-details",
+   "work": "articulo-attack-on-mandarin",
+   "note": "DENEY (uzunluk): son resim tutuşu dışında %20 kısa kurgu"
   },
   {
-   "date": "2027-01-05",
-   "day": "Sal",
+   "date": "2027-01-06",
+   "day": "Çrş",
    "time": "19:00",
    "week": 9,
    "kind": "carousel-detay",
-   "folder": "posts/details/cute-but-unemployed-cartoon-figure",
-   "work": "cute-but-unemployed-cartoon-figure",
-   "note": ""
+   "folder": "posts/details/the-assassination-of-the-crow",
+   "work": "the-assassination-of-the-crow",
+   "note": "portfolyo slotu: portfolyo carousel’i gelince bunun yerine"
   },
   {
    "date": "2027-01-07",
@@ -432,16 +362,6 @@
    "folder": "posts/milan/victim-psycho-logique-ii-the-peachy-pharaoh-connects-with-the-chair-details",
    "work": "victim-psycho-logique-ii-the-peachy-pharaoh-connects-with-the-chair",
    "note": "Trial Reel (önce takipçi olmayanlara)"
-  },
-  {
-   "date": "2027-01-08",
-   "day": "Cum",
-   "time": "19:00",
-   "week": 9,
-   "kind": "tek",
-   "folder": "posts/single/gxd-is-afk-we-banned-it",
-   "work": "gxd-is-afk-we-banned-it",
-   "note": ""
   },
   {
    "date": "2027-01-09",
@@ -459,18 +379,18 @@
    "time": "19:00",
    "week": 10,
    "kind": "reel-detay",
-   "folder": "posts/kopstal/sept-neuf-details",
-   "work": "sept-neuf",
-   "note": "DENEY 3 tekrar"
+   "folder": "posts/kopstal/s-t-lop-details",
+   "work": "s-t-lop",
+   "note": "DENEY (uzunluk) tekrar"
   },
   {
-   "date": "2027-01-12",
-   "day": "Sal",
+   "date": "2027-01-13",
+   "day": "Çrş",
    "time": "19:00",
    "week": 10,
    "kind": "carousel-editorial",
-   "folder": "posts/editorial/shoes",
-   "work": "shoes",
+   "folder": "posts/editorial/platforms",
+   "work": "platforms",
    "note": ""
   },
   {
@@ -484,24 +404,14 @@
    "note": "Trial Reel (önce takipçi olmayanlara)"
   },
   {
-   "date": "2027-01-15",
-   "day": "Cum",
-   "time": "19:00",
-   "week": 10,
-   "kind": "tek",
-   "folder": "posts/single/7-fam-board-game",
-   "work": "7-fam-board-game",
-   "note": ""
-  },
-  {
    "date": "2027-01-16",
    "day": "Cmt",
    "time": "19:00",
    "week": 10,
-   "kind": "reel-detay",
-   "folder": "posts/milan/amor-cathedra-details",
-   "work": "amor-cathedra",
-   "note": ""
+   "kind": "reel-süreç",
+   "folder": "posts/kopstal/sept-neuf-process",
+   "work": "sept-neuf",
+   "note": "portfolyo slotu: yeni portfolyo videosu gelince bunun yerine"
   },
   {
    "date": "2027-01-18",
@@ -509,19 +419,19 @@
    "time": "19:00",
    "week": 11,
    "kind": "reel-detay",
-   "folder": "posts/kopstal/articulo-attack-on-mandarin-details",
-   "work": "articulo-attack-on-mandarin",
-   "note": "DENEY 4 (profil): sabitlenen 3 postun sırası değişir, içerik sabit"
+   "folder": "posts/kopstal/walls-of-perception-details",
+   "work": "walls-of-perception",
+   "note": "DENEY (profil): sabitlenen 3 postun sırası değişir, içerik sabit"
   },
   {
-   "date": "2027-01-19",
-   "day": "Sal",
+   "date": "2027-01-20",
+   "day": "Çrş",
    "time": "19:00",
    "week": 11,
    "kind": "carousel-detay",
-   "folder": "posts/details/gary-grills-cooper",
-   "work": "gary-grills-cooper",
-   "note": ""
+   "folder": "posts/details/cute-but-unemployed-cartoon-figure",
+   "work": "cute-but-unemployed-cartoon-figure",
+   "note": "portfolyo slotu: portfolyo carousel’i gelince bunun yerine"
   },
   {
    "date": "2027-01-21",
@@ -534,23 +444,13 @@
    "note": "Trial Reel (önce takipçi olmayanlara)"
   },
   {
-   "date": "2027-01-22",
-   "day": "Cum",
-   "time": "19:00",
-   "week": 11,
-   "kind": "tek",
-   "folder": "posts/single/society-screwing-balance",
-   "work": "society-screwing-balance",
-   "note": ""
-  },
-  {
    "date": "2027-01-23",
    "day": "Cmt",
    "time": "19:00",
    "week": 11,
    "kind": "reel-detay",
-   "folder": "posts/milan/portal-ticino-details",
-   "work": "portal-ticino",
+   "folder": "posts/milan/wings-of-abyss-details",
+   "work": "wings-of-abyss",
    "note": ""
   },
   {
@@ -559,19 +459,19 @@
    "time": "19:00",
    "week": 12,
    "kind": "reel-detay",
-   "folder": "posts/milan/the-assassination-of-the-crow-details",
-   "work": "the-assassination-of-the-crow",
+   "folder": "posts/kopstal/7-fam-board-game-details",
+   "work": "7-fam-board-game",
    "note": ""
   },
   {
-   "date": "2027-01-26",
-   "day": "Sal",
+   "date": "2027-01-27",
+   "day": "Çrş",
    "time": "19:00",
    "week": 12,
-   "kind": "carousel-editorial",
-   "folder": "posts/editorial/platforms",
-   "work": "platforms",
-   "note": ""
+   "kind": "carousel-detay",
+   "folder": "posts/details/virgil-on-virtual-cage-final-final-finalv9",
+   "work": "virgil-on-virtual-cage-final-final-finalv9",
+   "note": "portfolyo slotu: portfolyo carousel’i gelince bunun yerine"
   },
   {
    "date": "2027-01-28",
@@ -579,19 +479,9 @@
    "time": "19:00",
    "week": 12,
    "kind": "reel-detay",
-   "folder": "posts/milan/wings-of-abyss-details",
-   "work": "wings-of-abyss",
+   "folder": "posts/milan/how-to-materialize-your-loneliness-by-using-an-animal-in-somewhere-concrete-or-technologic-details",
+   "work": "how-to-materialize-your-loneliness-by-using-an-animal-in-somewhere-concrete-or-technologic",
    "note": "Trial Reel (önce takipçi olmayanlara)"
-  },
-  {
-   "date": "2027-01-29",
-   "day": "Cum",
-   "time": "19:00",
-   "week": 12,
-   "kind": "tek",
-   "folder": "posts/single/walls-of-perception",
-   "work": "walls-of-perception",
-   "note": ""
   },
   {
    "date": "2027-01-30",
@@ -599,9 +489,9 @@
    "time": "19:00",
    "week": 12,
    "kind": "reel-detay",
-   "folder": "posts/milan/good-people-helping-bad-ones-thats-why-theyre-bad-too-details",
-   "work": "good-people-helping-bad-ones-thats-why-theyre-bad-too",
-   "note": ""
+   "folder": "posts/milan/caprocorn-sister-war-plague-earthquake-details",
+   "work": "caprocorn-sister-war-plague-earthquake",
+   "note": "portfolyo slotu: yeni portfolyo videosu gelince bunun yerine"
   },
   {
    "date": "2027-02-01",
@@ -609,19 +499,19 @@
    "time": "19:00",
    "week": 13,
    "kind": "reel-detay",
-   "folder": "posts/kopstal/7-fam-board-game-details",
-   "work": "7-fam-board-game",
+   "folder": "posts/milan/the-assassination-of-the-crow-details",
+   "work": "the-assassination-of-the-crow",
    "note": ""
   },
   {
-   "date": "2027-02-02",
-   "day": "Sal",
+   "date": "2027-02-03",
+   "day": "Çrş",
    "time": "19:00",
    "week": 13,
    "kind": "carousel-detay",
-   "folder": "posts/details/virgil-on-virtual-cage-final-final-finalv9",
-   "work": "virgil-on-virtual-cage-final-final-finalv9",
-   "note": ""
+   "folder": "posts/details/gxd-is-afk-we-banned-it",
+   "work": "gxd-is-afk-we-banned-it",
+   "note": "portfolyo slotu: portfolyo carousel’i gelince bunun yerine"
   },
   {
    "date": "2027-02-04",
@@ -629,19 +519,9 @@
    "time": "19:00",
    "week": 13,
    "kind": "reel-detay",
-   "folder": "posts/milan/how-to-materialize-your-loneliness-by-using-an-animal-in-somewhere-concrete-or-technologic-details",
-   "work": "how-to-materialize-your-loneliness-by-using-an-animal-in-somewhere-concrete-or-technologic",
+   "folder": "posts/milan/viperella-details",
+   "work": "viperella",
    "note": "Trial Reel (önce takipçi olmayanlara)"
-  },
-  {
-   "date": "2027-02-05",
-   "day": "Cum",
-   "time": "19:00",
-   "week": 13,
-   "kind": "tek",
-   "folder": "posts/single/burningman-fast",
-   "work": "burningman-fast",
-   "note": ""
   },
   {
    "date": "2027-02-06",
@@ -649,8 +529,8 @@
    "time": "19:00",
    "week": 13,
    "kind": "reel-detay",
-   "folder": "posts/milan/century-of-0-1-transhumanism-details",
-   "work": "century-of-0-1-transhumanism",
+   "folder": "posts/milan/amor-cathedra-details",
+   "work": "amor-cathedra",
    "note": "90. gün civarı: /ig-audit ile toplam değerlendirme"
   }
  ]

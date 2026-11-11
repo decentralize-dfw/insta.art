@@ -282,7 +282,7 @@ async function netTime() {
 const DAYN = ["Pzt", "Sal", "Çrş", "Per", "Cum", "Cmt", "Paz"];
 const addDays = (iso, n) => { const d = new Date(iso + "T12:00:00Z"); d.setUTCDate(d.getUTCDate() + n); return d.toISOString().slice(0, 10); };
 const dayDiff = (a, b) => Math.round((new Date(b + "T12:00:00Z") - new Date(a + "T12:00:00Z")) / 864e5);
-const KIND = { "reel-detay": "Reel detay", "reel-süreç": "Reel süreç", "reel-kayıt": "Reel kayıt", "reel-model": "Reel 3D", "tek": "Tek resim", "carousel-detay": "Car. detay", "carousel-editorial": "Car. edit.", "carousel-süreç": "Car. süreç" };
+const KIND = { "reel-detay": "Reel detay", "reel-süreç": "Reel süreç", "reel-kayıt": "Reel kayıt", "reel-model": "Reel 3D", "reel-portfolyo": "Reel portf.", "tek": "Tek resim", "carousel-detay": "Car. detay", "carousel-editorial": "Car. edit.", "carousel-süreç": "Car. süreç" };
 function status(d) {
   const now = NOW || parisParts(new Date());
   const diff = dayDiff(now.date, d.date);
