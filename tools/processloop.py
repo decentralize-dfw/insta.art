@@ -7,8 +7,8 @@ painting, 1 s end card). Output, one encode (CRF 17):
   2 s   every stage at high speed, sketch to finished, thin bar   (the hook)
   ...   the stages backwards, finished to sketch: each stage shows 0.5 s,
         with a 0.5 s cross dissolve into the next
-  1 s   the sketch stays, then 0.5 s fade to white
-  1 s   end card
+  1 s   the sketch stays, then 1 s fade to white
+  2 s   end card: the logo fades in over 1 s, then stays 1 s
 The reel starts again on the sketch, so it loops. Then the bell.
 """
 import json, os, subprocess, sys
@@ -23,7 +23,9 @@ W, H, FPS = render.W, render.H, render.FPS
 SHOW = 0.5       # each stage, fully visible
 DISSOLVE = 0.5   # cross dissolve between stages
 LAST = 1.0       # the sketch at the end, fully visible
-FADE = 0.5       # then to white, then the end card
+FADE = 1.0       # then to white
+LOGO_IN = 1.0    # the end card logo fades in from white
+LOGO_HOLD = 1.0  # and stays
 CUT = 3.0        # mean grey difference (0-255) between frames that counts as a new stage
 
 
@@ -85,7 +87,10 @@ def main(folder, plain):
     for t in range(1, fade + 1):
         put(Image.blend(sketch, white, t / fade))
     card = render.endcard()
-    for _ in range(round(render.ENDCARD_DUR * FPS)):
+    n_in = round(LOGO_IN * FPS)
+    for t in range(1, n_in + 1):
+        put(Image.blend(white, card, t / n_in))
+    for _ in range(round(LOGO_HOLD * FPS)):
         put(card)
     enc.stdin.close()
     if enc.wait():

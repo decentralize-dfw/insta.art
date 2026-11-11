@@ -98,7 +98,13 @@ def main():
         dur = float(subprocess.check_output(["ffprobe", "-v", "error", "-show_entries", "format=duration",
                                              "-of", "csv=p=0", v]))
         # the loop: finished painting right after the 2 s opening, sketch just before the end card
-        save(reel_cover((split(frame_at(v, dur - render.ENDCARD_DUR - 0.25), frame_at(v, 2.25)))),
+        spec = json.load(open(os.path.join(d, "spec.json")))
+        if "dissolve" in spec.get("loop", ""):
+            import processloop as pl   # sketch, then fade, logo in, logo: take the middle of the sketch
+            sketch_t = dur - pl.LOGO_HOLD - pl.LOGO_IN - pl.FADE - pl.LAST / 2
+        else:
+            sketch_t = dur - render.ENDCARD_DUR - 0.25
+        save(reel_cover((split(frame_at(v, sketch_t), frame_at(v, 2.25)))),
              os.path.join(d, "cover.jpg"))
     for rel, (t0, t1) in SPLIT.items():
         v = os.path.join("posts", rel, "reel.mp4")
