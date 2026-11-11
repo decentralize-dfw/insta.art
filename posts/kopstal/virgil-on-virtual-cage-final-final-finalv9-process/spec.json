@@ -145,5 +145,5 @@
   ],
   "fast_intro": true,
   "bell": true,
-  "loop": "fast forward, then the stages backwards"
+  "loop": "fast forward, then the stages backwards with 0.5 s cross dissolves"
 }

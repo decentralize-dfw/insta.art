@@ -26,7 +26,7 @@ LAST = 1.0       # the sketch at the end, fully visible
 FADE = 1.0       # then to white
 LOGO_IN = 1.0    # the end card logo fades in from white
 LOGO_HOLD = 1.0  # and stays
-CUT = 3.0        # mean grey difference (0-255) between frames that counts as a new stage
+CUT = 1.0        # mean grey difference (0-255) between frames that counts as a new stage
 
 
 def probe_dur(path):

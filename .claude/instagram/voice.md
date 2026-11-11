@@ -155,8 +155,10 @@ kullanılabilir. Örnek:
   render edilmeyen Reel'lerde (süreç yüklemeleri, kayıtlar, 3D model) `tools/fastintro.py`:
   yalnızca 2 sn'lik açılış kodlanır, Reel'in kendisine kayıpsız (concat, -c copy) eklenir.
 - **Süreç Reel'leri döngü (Yiğit, 11 Kasım 2026):** 2 sn hızlı ileri (eskiz → bitmiş, çubuk),
-  sonra aşamalar kendi hızında **geriye** (bitmiş → eskiz; bitmiş resim en fazla 0,5 sn durur),
-  sonra kuş ekranı. Video eskizle yeniden başladığı için döngü kapanır. `tools/processloop.py`.
+  sonra aşamalar **geriye** (bitmiş → eskiz): her aşama 0,5 sn görünür, bir sonrakine 0,5 sn
+  cross dissolve ile geçer. Sonda eskiz 1 sn durur, 1 sn'de beyaza söner, logo 1 sn'de
+  belirir ve 1 sn kalır. Video eskizle yeniden başladığı için döngü kapanır.
+  `tools/processloop.py`.
 - **Kamera kuralı (Yiğit'in açık talimatı, istisnasız):**
   - Her plan **tek eksende** hareket eder: ya **yatay** (x) ya **dikey** (y). Çapraz kayma
     yok. Kaydırma ile zoom aynı planda yok. "Yamuk yumuk" hareket yok.
