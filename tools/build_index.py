@@ -23,6 +23,7 @@ POSTS = os.path.join(REPO, "posts")
 
 GROUPS = [
     ("takvim", "Takvim"),
+    ("feed", "Feed"),
     ("kopstal", "Kopstal reels"),
     ("milan", "Milano reels"),
     ("single", "Tekli post"),
@@ -163,6 +164,16 @@ main { padding:16px; max-width:1200px; margin:0 auto; }
 .card { cursor:pointer; }
 .card .thumb { aspect-ratio:4/5; background:var(--soft); overflow:hidden; }
 .card img { width:100%; height:100%; object-fit:contain; display:block; }
+.fbar { display:flex; gap:12px; align-items:center; margin:0 0 12px; font-size:13px; }
+.fbar select { font:inherit; padding:6px 8px; border:1px solid var(--line); background:#fff; }
+.fprof { display:flex; gap:12px; align-items:center; margin:0 0 12px; font-size:14px; }
+.fav { width:56px; height:56px; border-radius:50%; background:#000 url(thumbs/avatar.jpg) center/cover; border:1px solid var(--line); }
+.fcount { color:var(--muted); font-size:13px; }
+.fgrid { display:grid; grid-template-columns:repeat(3, 1fr); gap:2px; max-width:620px; }
+.ft { position:relative; aspect-ratio:3/4; overflow:hidden; background:var(--soft); cursor:pointer; }
+.ft img { width:100%; height:100%; object-fit:cover; display:block; }
+.ft .fi { position:absolute; top:6px; right:6px; filter:drop-shadow(0 0 2px rgba(0,0,0,.6)); }
+.ft .fd { position:absolute; left:4px; top:4px; font-size:10px; background:rgba(255,255,255,.85); padding:0 3px; }
 .now-line { font-size:12px; color:var(--muted); margin:0 0 10px; }
 .cal { display:grid; grid-template-columns:46px repeat(7, minmax(0,1fr)); gap:3px; }
 .cal .hd { font-size:11px; font-weight:600; text-align:center; padding:4px 0; }
@@ -236,7 +247,7 @@ const url = (it, f) => (MEDIA && f.endsWith(".mp4") ? MEDIA : "") + it.path + "/
 
 function toast(m) { const t = $("#toast"); t.textContent = m; t.classList.add("on"); setTimeout(() => t.classList.remove("on"), 1600); }
 
-const inGroup = (d, k) => k === "all" || (k === "takvim" ? !!d.date : d.group === k);
+const inGroup = (d, k) => k === "all" || (k === "takvim" || k === "feed" ? !!d.date : d.group === k);
 const today = new Date().toISOString().slice(0, 10);
 const MONTHS = ["Oca", "Şub", "Mar", "Nis", "May", "Haz", "Tem", "Ağu", "Eyl", "Eki", "Kas", "Ara"];
 const short = d => { const [y, m, g] = d.date.split("-"); return `${+g} ${MONTHS[+m - 1]} ${d.when.split(" ")[1] || ""}`; };
@@ -313,9 +324,45 @@ function calendar() {
   const cw = document.getElementById("curweek"); if (cw && !grid.scrolled) { grid.scrolled = true; cw.scrollIntoView({ block: "start" }); }
 }
 
+// Feed: the profile grid as it will look on a chosen day, newest first,
+// 3 columns of 3:4 tiles like Instagram (covers already carry the white frame).
+let feedUntil = null, feedDates = true;
+const ICON_REEL = '<svg viewBox="0 0 24 24" width="18" height="18"><path fill="#fff" d="M8 5v14l11-7z"/></svg>';
+const ICON_CAR = '<svg viewBox="0 0 24 24" width="18" height="18"><rect x="7" y="3" width="14" height="14" rx="2" fill="none" stroke="#fff" stroke-width="2"/><rect x="3" y="7" width="14" height="14" rx="2" fill="#fff"/></svg>';
+function feed() {
+  const posts = DATA.filter(d => d.date).sort((a, b) => b.date.localeCompare(a.date));
+  const now = NOW || parisParts(new Date());
+  const days = [...new Set(posts.map(p => p.date))].sort();
+  const weeks = [...new Set(posts.map(p => p.week))].sort((a, b) => a - b);
+  if (!feedUntil) feedUntil = "all";
+  const opts = [["now", `Bugün (${now.date.slice(8)} ${MONTHS[+now.date.slice(5, 7) - 1]})`],
+    ...weeks.map(w => { const last = posts.filter(p => p.week === w).map(p => p.date).sort().pop();
+      return [last, `Hafta ${w} sonu (${+last.slice(8)} ${MONTHS[+last.slice(5, 7) - 1]})`]; }),
+    ["all", "Hepsi (planın tamamı)"]];
+  const lim = feedUntil === "all" ? "9999" : feedUntil === "now" ? now.date : feedUntil;
+  const shown = posts.filter(p => p.date < lim || (p.date === lim && (feedUntil !== "now" || now.hm >= "19:00")));
+  const tile = p => {
+    const ic = p.ckind.startsWith("reel") ? ICON_REEL : p.ckind.startsWith("carousel") ? ICON_CAR : "";
+    return `<div class="ft" data-id="${p.id}"><img loading="lazy" src="${esc(p.thumb)}" alt="">
+      ${ic ? `<span class="fi">${ic}</span>` : ""}${feedDates ? `<span class="fd">${esc(short(p))}</span>` : ""}</div>`;
+  };
+  $("#grid").className = "";
+  $("#grid").innerHTML = `
+    <div class="fbar"><select id="fsel">${opts.map(([v, n]) => `<option value="${v}"${v === feedUntil ? " selected" : ""}>${esc(n)}</option>`).join("")}</select>
+      <label><input type="checkbox" id="fdt"${feedDates ? " checked" : ""}> tarihler</label></div>
+    <div class="fprof"><div class="fav"></div><div><b>yigitozen.art</b><div class="fcount">${shown.length} gönderi</div></div></div>
+    <div class="fgrid">${shown.map(tile).join("")}</div>
+    ${shown.length ? "" : '<div class="empty">Bu tarihe kadar post yok.</div>'}`;
+  $("#empty").hidden = true;
+  $("#fsel").onchange = e => { feedUntil = e.target.value; feed(); };
+  $("#fdt").onchange = e => { feedDates = e.target.checked; feed(); };
+  $("#grid").querySelectorAll(".ft").forEach(c => c.onclick = () => open(DATA.find(d => d.id === c.dataset.id)));
+}
+
 function grid() {
-  $("#q").style.display = group === "takvim" ? "none" : "";
+  $("#q").style.display = group === "takvim" || group === "feed" ? "none" : "";
   if (group === "takvim") return calendar();
+  if (group === "feed") return feed();
   $("#grid").className = "grid";
   const q = $("#q").value.trim().toLowerCase();
   let items = DATA.filter(d => inGroup(d, group) &&
@@ -423,7 +470,7 @@ $("#dlg").addEventListener("close", () => { $("#view").querySelectorAll("video")
 $("#dlg").addEventListener("click", e => { if (e.target.id === "dlg") $("#dlg").close(); });
 $("#q").oninput = grid;
 tabs(); grid();
-netTime().then(() => { if (group === "takvim") calendar(); });
+netTime().then(() => { if (group === "takvim") calendar(); if (group === "feed") feed(); });
 setInterval(() => netTime().then(() => { if (group === "takvim") calendar(); }), 10 * 60 * 1000);
 if (location.hash) { const it = DATA.find(d => d.id === location.hash.slice(1)); if (it) open(it); }
 </script>
