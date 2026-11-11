@@ -30,9 +30,10 @@ GROUPS = [
     ("details", "Detay carousel"),
     ("process-carousel", "Süreç carousel"),
     ("editorial", "Editoryel carousel'ler"),
+    ("portfolio", "Portfolyo"),
     ("dated", "İlk hafta"),
 ]
-NESTED = ("kopstal", "milan", "editorial", "single", "details", "process-carousel")
+NESTED = ("kopstal", "milan", "editorial", "single", "details", "process-carousel", "portfolio")
 
 # Videos are served from the insta-art-archive repo (same paths under posts/),
 # so this site stays under the 1 GB Pages limit. Full quality, nothing re-encoded.
