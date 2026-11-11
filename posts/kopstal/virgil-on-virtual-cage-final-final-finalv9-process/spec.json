@@ -142,5 +142,7 @@
   },
   "excluded": [
     "process/00.jpg: Leonardo's Virgin of the Rocks, the reference image, not a stage"
-  ]
+  ],
+  "fast_intro": true,
+  "bell": true
 }

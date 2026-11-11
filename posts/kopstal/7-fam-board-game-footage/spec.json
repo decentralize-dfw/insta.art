@@ -3,5 +3,7 @@
   "work": "7-fam-board-game",
   "reel_type": "footage: real recording",
   "source": "MERGED-20sec.mp4",
-  "crop": "500,130,1300,1040"
+  "crop": "500,130,1300,1040",
+  "fast_intro": true,
+  "bell": true
 }

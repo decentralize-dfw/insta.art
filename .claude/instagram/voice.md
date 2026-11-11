@@ -142,11 +142,13 @@ kullanılabilir. Örnek:
 - 1080×1920, 30 fps, H.264. **Tek ses: zen çanı** (detay Reel'leri, Yiğit, 11 Kasım 2026):
   `assets/audio/zen-bell.mp3`, 0. saniyede vurur, 1,0–3,5 sn arası fade-out, sonrası sessiz.
   Spec'te `"bell": true`; görüntü yeniden sıkıştırılmaz. Müziği Yiğit uygulamada ekler.
-  Diğer Reel'lerde (süreç, kayıt) ses kanalı yok.
-- **Açılış (hook), detay Reel'leri (Yiğit, 11 Kasım 2026):** ilk 2 saniyede bütün tur (son
+  Süreç, boyama kaydı ve 3D model Reel'lerinde de aynı (`tools/fastintro.py`).
+- **Açılış (hook), bütün Reel'ler (Yiğit, 11 Kasım 2026):** ilk 2 saniyede bütün tur (son
   zoom-out dahil) çok hızlı oynar, Reels başlığının altında (y=320) ince siyah bir çubuk
   dolar. Yazı yok. Sonra tur baştan, kendi normal hızında. Spec'te `"fast_intro": true`,
-  `tools/render.py` bunu tek seferde render eder (video ikinci kez sıkıştırılmaz).
+  `tools/render.py` bunu tek seferde render eder (video ikinci kez sıkıştırılmaz). Spec'ten
+  render edilmeyen Reel'lerde (süreç yüklemeleri, kayıtlar, 3D model) `tools/fastintro.py`:
+  yalnızca 2 sn'lik açılış kodlanır, Reel'in kendisine kayıpsız (concat, -c copy) eklenir.
 - **Kamera kuralı (Yiğit'in açık talimatı, istisnasız):**
   - Her plan **tek eksende** hareket eder: ya **yatay** (x) ya **dikey** (y). Çapraz kayma
     yok. Kaydırma ile zoom aynı planda yok. "Yamuk yumuk" hareket yok.

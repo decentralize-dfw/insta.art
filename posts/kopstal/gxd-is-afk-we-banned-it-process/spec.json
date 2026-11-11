@@ -3,5 +3,7 @@
   "work": "gxd-is-afk-we-banned-it",
   "camera": "static",
   "reel_type": "process: stages only, static camera, every image fits on white",
-  "source": "rendered from local process photos; original upload insta-art-archive/gxd proces.mp4; 1 s end card appended without re-encoding"
+  "source": "rendered from local process photos; original upload insta-art-archive/gxd proces.mp4; 1 s end card appended without re-encoding",
+  "fast_intro": true,
+  "bell": true
 }

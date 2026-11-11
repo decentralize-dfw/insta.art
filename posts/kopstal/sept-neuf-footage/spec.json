@@ -2,6 +2,8 @@
   "type": "reel",
   "work": "sept-neuf",
   "reel_type": "footage: real recording",
-  "source": "KAR\u015eIDAN-2_1.mp4",
-  "crop": "142,30,616,840"
+  "source": "KARŞIDAN-2_1.mp4",
+  "crop": "142,30,616,840",
+  "fast_intro": true,
+  "bell": true
 }

@@ -21,6 +21,7 @@ def main():
     ap.add_argument("--intro", help="finished painting image shown first (result first)")
     ap.add_argument("--intro-sec", type=float, default=1.0)
     ap.add_argument("--speed", type=float, default=1.0, help="2 = twice as fast")
+    ap.add_argument("--maxrate", help="peak bitrate cap, e.g. 24M, only to stay under GitHub's 100 MB")
     a = ap.parse_args()
     os.makedirs(a.out_dir, exist_ok=True)
     card = os.path.join(tempfile.mkdtemp(), "endcard.png")
@@ -61,6 +62,7 @@ def main():
            "-loop", "1", "-t", "1", "-framerate", "30", "-i", card, *still,
            "-filter_complex", graph, "-map", "[v]", "-an",
            "-c:v", "libx264", "-preset", "slow", "-crf", "17", "-pix_fmt", "yuv420p",
+           *(["-maxrate", a.maxrate, "-bufsize", a.maxrate.replace("M", "") + "M"] if a.maxrate else []),
            "-movflags", "+faststart", out]
     subprocess.run(cmd, check=True)
     print(out)
