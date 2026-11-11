@@ -175,5 +175,6 @@
   "cover": {
     "src": "details:angora-mergvs/angora-mergvs-10mb.jpg",
     "fit": true
-  }
+  },
+  "fast_intro": true
 }

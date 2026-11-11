@@ -130,5 +130,6 @@
   "cover": {
     "src": "details:gxdisbanned/gxd-is-banned2.png",
     "fit": true
-  }
+  },
+  "fast_intro": true
 }

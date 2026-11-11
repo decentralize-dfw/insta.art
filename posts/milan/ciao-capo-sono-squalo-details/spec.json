@@ -115,5 +115,6 @@
   "cover": {
     "src": "details2:ciao-capo-sono-squalo/ciao-capo-sono-squalo.png",
     "fit": true
-  }
+  },
+  "fast_intro": true
 }

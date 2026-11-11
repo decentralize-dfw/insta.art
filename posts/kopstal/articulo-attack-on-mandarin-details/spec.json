@@ -100,5 +100,6 @@
   "cover": {
     "src": "yigit:img/full/articulo-attack-on-mandarin.jpg",
     "fit": true
-  }
+  },
+  "fast_intro": true
 }

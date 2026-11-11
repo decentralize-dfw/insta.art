@@ -115,5 +115,6 @@
   "cover": {
     "src": "details2:guarding-holy-mountains-from-malice/guarding-holy-mountains-from-malice.jpg",
     "fit": true
-  }
+  },
+  "fast_intro": true
 }

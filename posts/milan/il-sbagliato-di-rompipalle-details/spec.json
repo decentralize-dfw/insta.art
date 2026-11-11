@@ -115,5 +115,6 @@
   "cover": {
     "src": "details2:il-sbagliato-di-rompipalle/il-sbagliato-di-rompipalle.png",
     "fit": true
-  }
+  },
+  "fast_intro": true
 }

@@ -115,5 +115,6 @@
   "cover": {
     "src": "details2:viperella/viperella.png",
     "fit": true
-  }
+  },
+  "fast_intro": true
 }

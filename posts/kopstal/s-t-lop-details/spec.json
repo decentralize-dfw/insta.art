@@ -115,5 +115,6 @@
   "cover": {
     "src": "yigit:img/full/s-t-lop.jpg",
     "fit": true
-  }
+  },
+  "fast_intro": true
 }

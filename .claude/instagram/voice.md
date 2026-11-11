@@ -140,6 +140,10 @@ kullanılabilir. Örnek:
 Üretim aracı: `python3 tools/render.py posts/<klasör>/spec.json`. Tempo, kadraj ve sıra `spec.json` içinde.
 
 - 1080×1920, 30 fps, H.264, **ses kanalı yok**.
+- **Açılış (hook), detay Reel'leri (Yiğit, 11 Kasım 2026):** ilk 2 saniyede bütün tur (son
+  zoom-out dahil) çok hızlı oynar, Reels başlığının altında (y=320) ince siyah bir çubuk
+  dolar. Yazı yok. Sonra tur baştan, kendi normal hızında. Spec'te `"fast_intro": true`,
+  `tools/render.py` bunu tek seferde render eder (video ikinci kez sıkıştırılmaz).
 - **Kamera kuralı (Yiğit'in açık talimatı, istisnasız):**
   - Her plan **tek eksende** hareket eder: ya **yatay** (x) ya **dikey** (y). Çapraz kayma
     yok. Kaydırma ile zoom aynı planda yok. "Yamuk yumuk" hareket yok.

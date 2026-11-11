@@ -100,5 +100,6 @@
   "cover": {
     "src": "details2:good-people-helping-bad-ones-thats-why-theyre-bad-too/good-people-helping-bad-ones-thats-why-theyre-bad-too.png",
     "fit": true
-  }
+  },
+  "fast_intro": true
 }

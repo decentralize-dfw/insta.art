@@ -100,5 +100,6 @@
   "cover": {
     "src": "details2:cute-but-unemployed-cartoon-figure/cute-but-unemployed-cartoon-figure.png",
     "fit": true
-  }
+  },
+  "fast_intro": true
 }

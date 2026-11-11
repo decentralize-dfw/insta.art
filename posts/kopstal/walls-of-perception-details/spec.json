@@ -85,5 +85,6 @@
   "cover": {
     "src": "yigit:img/full/walls-of-perception.jpg",
     "fit": true
-  }
+  },
+  "fast_intro": true
 }

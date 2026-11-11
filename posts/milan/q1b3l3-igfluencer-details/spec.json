@@ -115,5 +115,6 @@
   "cover": {
     "src": "details2:q1b3l3-igfluencer/q1b3l3-igfluencer.png",
     "fit": true
-  }
+  },
+  "fast_intro": true
 }

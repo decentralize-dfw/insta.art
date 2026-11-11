@@ -70,5 +70,6 @@
   "cover": {
     "src": "details2:portal-ticino/portal-ticino.png",
     "fit": true
-  }
+  },
+  "fast_intro": true
 }

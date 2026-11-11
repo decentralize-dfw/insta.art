@@ -178,6 +178,8 @@ def clamp_center(im, s, cx, cy, fw=W, fh=H):
 
 
 MIN_SPEED = 40   # px per second on screen; every shot keeps moving
+FAST_INTRO = 2.0          # "fast_intro": true in a spec plays the whole tour in this many seconds first
+BAR_Y, BAR_H = 320, 12    # progress bar, below the Reels header
 MAX_HOLD = 2.0   # only the last shot may hold, for at most this long
 
 
@@ -218,23 +220,37 @@ def reel(spec, outdir):
                 sys.exit(f"shot {i + 1}: moves {speed:.0f} px/s on screen; needs at least "
                          f"{MIN_SPEED}. Raise 'cover' or widen the pan.")
         plan.append((shot["src"], sa, sb, ax, ay, bx, by, dur, hold, shot.get("ease", "linear")))
-    proc = subprocess.Popen(cmd, stdin=subprocess.PIPE)
-    total = 0
+    # Every body frame as (src, scale, cx, cy); drawn later.
+    steps = []
     for src, sa, sb, ax, ay, bx, by, dur, hold, kind in plan:
-        im = load(src)
         n = round(dur * FPS)
         nm = max(1, n - round(hold * FPS))
-        static_frame = draw(im, sa, ax, ay).tobytes() if static else None
         for k in range(n):
             # k / nm, not k / (nm - 1): the last frame before a cut is still moving
             # The first held frame is k == nm. Advancing by one here would
             # reach the target a frame early and make a 2 s hold last 61 frames.
-            t = ease(min(1.0, k / nm), kind)
-            s = math.exp(math.log(sa) + (math.log(sb) - math.log(sa)) * t)
-            cx = ax + (bx - ax) * t
-            cy = ay + (by - ay) * t
-            proc.stdin.write(static_frame if static_frame is not None else draw(im, s, cx, cy).tobytes())
-        total += n
+            t = ease(min(1.0, k / nm), kind) if not static else 0.0
+            sc = math.exp(math.log(sa) + (math.log(sb) - math.log(sa)) * t)
+            steps.append((src, sc, ax + (bx - ax) * t, ay + (by - ay) * t))
+    proc = subprocess.Popen(cmd, stdin=subprocess.PIPE)
+    total = 0
+    if spec.get("fast_intro"):
+        # Hook: the whole tour at high speed in the first FAST_INTRO seconds, a thin
+        # bar filling under the Reels header, then the tour again at its own pace.
+        m = round(FAST_INTRO * FPS)
+        for j in range(m):
+            src, sc, cx, cy = steps[min(len(steps) - 1, round(j * len(steps) / m))]
+            fr = draw(load(src), sc, cx, cy)
+            fr.paste((255, 255, 255), (0, BAR_Y, W, BAR_Y + BAR_H))
+            fr.paste((0, 0, 0), (0, BAR_Y, round(W * (j + 1) / m), BAR_Y + BAR_H))
+            proc.stdin.write(fr.tobytes())
+        total += m
+    last = (None, None)
+    for st in steps:
+        if st != last[0]:   # static (process) reels repeat the same frame
+            last = (st, draw(load(st[0]), *st[1:]).tobytes())
+        proc.stdin.write(last[1])
+    total += len(steps)
     card = endcard().tobytes()
     for _ in range(round(ENDCARD_DUR * FPS)):
         proc.stdin.write(card)

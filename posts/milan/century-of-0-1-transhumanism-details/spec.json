@@ -115,5 +115,6 @@
   "cover": {
     "src": "details2:century-of-0-1-transhumanism/century-of-0-1-transhumanism.png",
     "fit": true
-  }
+  },
+  "fast_intro": true
 }

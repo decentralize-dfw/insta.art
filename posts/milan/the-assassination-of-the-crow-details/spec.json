@@ -115,5 +115,6 @@
   "cover": {
     "src": "details2:the-assassination-of-the-crow/the-assassination-of-the-crow.png",
     "fit": true
-  }
+  },
+  "fast_intro": true
 }
