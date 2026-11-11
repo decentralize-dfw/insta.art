@@ -90,6 +90,26 @@ def calendar():
     return {p["folder"]: p for p in posts}
 
 
+THUMBS = os.path.join(REPO, "thumbs")
+
+
+def thumb(it):
+    """Small preview for the grid and calendar cards (the full file opens on tap)."""
+    if not it["cover"]:
+        return ""
+    from PIL import Image
+    src = os.path.join(REPO, it["path"], it["cover"])
+    name = it["id"] + ".jpg"
+    dst = os.path.join(THUMBS, name)
+    if not os.path.exists(dst) or os.path.getmtime(dst) < os.path.getmtime(src):
+        os.makedirs(THUMBS, exist_ok=True)
+        with Image.open(src) as im:
+            im = im.convert("RGB")
+            im.thumbnail((360, 640), Image.LANCZOS)
+            im.save(dst, quality=82)
+    return "thumbs/" + name
+
+
 def collect():
     cal = calendar()
     out = []
@@ -115,6 +135,7 @@ def collect():
         it["note"] = c.get("note", "") if c else ""
         it["week"] = c.get("week", 0) if c else 0
         it["ckind"] = c.get("kind", "") if c else ""
+        it["thumb"] = thumb(it)
     return out
 
 
@@ -279,7 +300,7 @@ function calendar() {
       if (p === nextPost) cls += " next";
       html += `<div class="cell post ${cls}" data-id="${p.id}">
         <div class="n"><span>${dn}</span></div>
-        <div class="im">${p.cover ? `<img loading="lazy" src="${esc(url(p, p.cover))}" alt="">` : ""}</div>
+        <div class="im">${p.thumb ? `<img loading="lazy" src="${esc(p.thumb)}" alt="">` : ""}</div>
         <div class="k">${esc(KIND[p.ckind] || p.kind)}</div>
         <div class="st${p === nextPost ? " b" : ""}">${esc(txt)}</div></div>`;
     }
@@ -302,7 +323,7 @@ function grid() {
   if (group === "takvim") items = items.slice().sort((a, b) => a.date.localeCompare(b.date));
   $("#grid").innerHTML = items.map(d => `
     <div class="card" data-id="${d.id}">
-      <div class="thumb">${d.cover ? `<img loading="lazy" src="${esc(url(d, d.cover))}" alt="">` : ""}</div>
+      <div class="thumb">${d.thumb ? `<img loading="lazy" src="${esc(d.thumb)}" alt="">` : ""}</div>
       ${d.date ? `<div class="d${d.date < today ? " past" : d.date === today ? " now" : ""}">${esc(short(d))}</div>` : ""}
       <div class="t">${esc(d.title)}</div>
       <div class="k">${esc(d.kind)}${d.slides.length > 1 ? " · " + d.slides.length : ""}</div>
