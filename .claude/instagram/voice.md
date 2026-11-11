@@ -120,8 +120,9 @@ kullanılabilir. Örnek:
 - Olgusal soruya düz cevap: boyut, yıl, teknik, ne kadar sürdüğü (bilgi yoksa uydurma).
 - "Bu ne anlatıyor?" türü soruya resmi açıklayan bir cevap verilmez. Kısa ve açık bırakılır.
 - Satın alma, fiyat, sergi, iş birliği soruları: taslak yazılmaz, Yiğit'e iletilir.
-- Başka hesaplara yapılan yorumlar: o resimde gerçekten görülen bir şey hakkında, kısa.
-  Kendi hesabının tanıtımı asla yapılmaz.
+- Başkasının gönderisine yorum hazırlarken açıklamanın tamamını ve mevcut yorumları oku. Yorum bölümü açıksa ve boşsa ilk yorumu yazabilirsin. Eseri bütünüyle gör, kaydırmalı gönderinin tüm slaytlarını incele. Video varsa baştan sona oynatıp izle. Kapak görseli veya birkaç kare yeterli değil. Görüntüye, açıklamaya ya da yorumlara erişilemezse gönderi linkinin yanında eksik kalan kısmı belirt ve taslağı atla.
+- Resmin asıl ilginç yanını bul. Bir ayrıntının sahneyi nasıl değiştirdiğine, bütünün verdiği ilk izlenime ya da süreçte gerçekten görülen bir değişime değinebilirsin. Rengi veya nesneyi sayıp beğendiğini söylemek yetmez. Bir başkasının yorumunu veya sanatçının açıklamasını yeniden yazma.
+- Başka bir ressama sesli söyler gibi kısa, gündelik İngilizce kullan. Yorum küçük harfle ve noktasız yazılır. Soru, emoji, ünlem, hashtag, tanıtım veya işi önceden tanıdığın iması yok. Cümle başka bir resme de aynı rahatlıkla uyuyorsa yeniden bak. Söyleyecek bir şey bulamazsan taslağı atla.
 - Ajan hiçbir mesajı ya da yorumu kendisi göndermez, yalnızca taslak hazırlar.
 
 ## Görsel ve video kuralları
