@@ -4,124 +4,135 @@
  "videos": [
   {
    "id": "full-process-2min-full-frame",
-   "vpath": "posts/milan/cute-but-unemployed-cartoon-figure-edited-process-reels/full-process",
-   "file": "2min-full-frame.mp4",
+   "vpath": "posts/recordings/cute-but-unemployed-cartoon-figure",
+   "file": "full-process-2min-full-frame.mp4",
    "name": "Tam süreç, kamera kadrajı",
    "duration": "2 dk",
    "word": "full process",
    "alt": "The whole painting of cute but unemployed cartoon figure in two minutes, in the original camera framing: an old painting is covered in white, then red, then the figure is drawn and coloured.",
    "lfs": true,
-   "cover": "full-process-2min-full-frame.jpg"
+   "cover": "full-process-2min-full-frame.jpg",
+   "source": "posts/milan/cute-but-unemployed-cartoon-figure-edited-process-reels/full-process/2min-full-frame.mp4"
   },
   {
    "id": "main-reel",
-   "vpath": "posts/milan/cute-but-unemployed-cartoon-figure-edited-process-reels",
-   "file": "reel.mp4",
+   "vpath": "posts/recordings/cute-but-unemployed-cartoon-figure",
+   "file": "main-reel.mp4",
    "name": "30 sn süreç · V1",
    "duration": "30 sn",
    "word": "process, 30 s",
    "alt": "The painting of cute but unemployed cartoon figure in 30 seconds: white over an old canvas, a red ground, then the figure in black, blue and green.",
    "lfs": false,
-   "cover": "main-reel.jpg"
+   "cover": "main-reel.jpg",
+   "source": "posts/milan/cute-but-unemployed-cartoon-figure-edited-process-reels/reel.mp4"
   },
   {
    "id": "full-process-30s-v2-continuous-timelapse",
-   "vpath": "posts/milan/cute-but-unemployed-cartoon-figure-edited-process-reels/full-process",
-   "file": "30s-v2-continuous-timelapse.mp4",
+   "vpath": "posts/recordings/cute-but-unemployed-cartoon-figure",
+   "file": "full-process-30s-v2-continuous-timelapse.mp4",
    "name": "Sürekli timelapse · V2",
    "duration": "30 sn",
    "word": "timelapse",
    "alt": "A continuous 30-second timelapse of cute but unemployed cartoon figure with a slow zoom towards the part being painted.",
    "lfs": false,
-   "cover": "full-process-30s-v2-continuous-timelapse.jpg"
+   "cover": "full-process-30s-v2-continuous-timelapse.jpg",
+   "source": "posts/milan/cute-but-unemployed-cartoon-figure-edited-process-reels/full-process/30s-v2-continuous-timelapse.mp4"
   },
   {
    "id": "main-01-img-5008",
-   "vpath": "posts/milan/cute-but-unemployed-cartoon-figure-edited-process-reels/clip-reels",
-   "file": "01-img-5008.mp4",
+   "vpath": "posts/recordings/cute-but-unemployed-cartoon-figure",
+   "file": "main-01-img-5008.mp4",
    "name": "Kayıt 01 (IMG_5008)",
    "duration": "15 sn",
    "word": "recording 01",
    "alt": "One recording from painting cute but unemployed cartoon figure (1 of 5): a hand with a brush on the red canvas.",
    "lfs": false,
-   "cover": "main-01-img-5008.jpg"
+   "cover": "main-01-img-5008.jpg",
+   "source": "posts/milan/cute-but-unemployed-cartoon-figure-edited-process-reels/clip-reels/01-img-5008.mp4"
   },
   {
    "id": "main-02-img-5011",
-   "vpath": "posts/milan/cute-but-unemployed-cartoon-figure-edited-process-reels/clip-reels",
-   "file": "02-img-5011.mp4",
+   "vpath": "posts/recordings/cute-but-unemployed-cartoon-figure",
+   "file": "main-02-img-5011.mp4",
    "name": "Kayıt 02 (IMG_5011)",
    "duration": "15 sn",
    "word": "recording 02",
    "alt": "One recording from painting cute but unemployed cartoon figure (2 of 5): a hand with a brush on the red canvas.",
    "lfs": false,
-   "cover": "main-02-img-5011.jpg"
+   "cover": "main-02-img-5011.jpg",
+   "source": "posts/milan/cute-but-unemployed-cartoon-figure-edited-process-reels/clip-reels/02-img-5011.mp4"
   },
   {
    "id": "main-03-img-5016",
-   "vpath": "posts/milan/cute-but-unemployed-cartoon-figure-edited-process-reels/clip-reels",
-   "file": "03-img-5016.mp4",
+   "vpath": "posts/recordings/cute-but-unemployed-cartoon-figure",
+   "file": "main-03-img-5016.mp4",
    "name": "Kayıt 03 (IMG_5016)",
    "duration": "15 sn",
    "word": "recording 03",
    "alt": "One recording from painting cute but unemployed cartoon figure (3 of 5): a hand with a brush on the red canvas.",
    "lfs": false,
-   "cover": "main-03-img-5016.jpg"
+   "cover": "main-03-img-5016.jpg",
+   "source": "posts/milan/cute-but-unemployed-cartoon-figure-edited-process-reels/clip-reels/03-img-5016.mp4"
   },
   {
    "id": "main-04-img-5015",
-   "vpath": "posts/milan/cute-but-unemployed-cartoon-figure-edited-process-reels/clip-reels",
-   "file": "04-img-5015.mp4",
+   "vpath": "posts/recordings/cute-but-unemployed-cartoon-figure",
+   "file": "main-04-img-5015.mp4",
    "name": "Kayıt 04 (IMG_5015)",
    "duration": "15 sn",
    "word": "recording 04",
    "alt": "One recording from painting cute but unemployed cartoon figure (4 of 5): a hand with a brush on the red canvas.",
    "lfs": false,
-   "cover": "main-04-img-5015.jpg"
+   "cover": "main-04-img-5015.jpg",
+   "source": "posts/milan/cute-but-unemployed-cartoon-figure-edited-process-reels/clip-reels/04-img-5015.mp4"
   },
   {
    "id": "main-05-img-5017",
-   "vpath": "posts/milan/cute-but-unemployed-cartoon-figure-edited-process-reels/clip-reels",
-   "file": "05-img-5017.mp4",
+   "vpath": "posts/recordings/cute-but-unemployed-cartoon-figure",
+   "file": "main-05-img-5017.mp4",
    "name": "Kayıt 05 (IMG_5017)",
    "duration": "15 sn",
    "word": "recording 05",
    "alt": "One recording from painting cute but unemployed cartoon figure (5 of 5): a hand with a brush on the red canvas.",
    "lfs": false,
-   "cover": "main-05-img-5017.jpg"
+   "cover": "main-05-img-5017.jpg",
+   "source": "posts/milan/cute-but-unemployed-cartoon-figure-edited-process-reels/clip-reels/05-img-5017.mp4"
   },
   {
    "id": "mixes-01-white-over-the-old-painting",
-   "vpath": "posts/milan/cute-but-unemployed-cartoon-figure-edited-process-reels/mixes",
-   "file": "01-white-over-the-old-painting.mp4",
+   "vpath": "posts/recordings/cute-but-unemployed-cartoon-figure",
+   "file": "mixes-01-white-over-the-old-painting.mp4",
    "name": "Miks · eski resmin üstüne beyaz",
    "duration": "15 sn",
    "word": "painted over",
    "alt": "White paint covers an older painting on the canvas before cute but unemployed cartoon figure begins.",
    "lfs": false,
-   "cover": "mixes-01-white-over-the-old-painting.jpg"
+   "cover": "mixes-01-white-over-the-old-painting.jpg",
+   "source": "posts/milan/cute-but-unemployed-cartoon-figure-edited-process-reels/mixes/01-white-over-the-old-painting.mp4"
   },
   {
    "id": "mixes-02-face-in-progress",
-   "vpath": "posts/milan/cute-but-unemployed-cartoon-figure-edited-process-reels/mixes",
-   "file": "02-face-in-progress.mp4",
+   "vpath": "posts/recordings/cute-but-unemployed-cartoon-figure",
+   "file": "mixes-02-face-in-progress.mp4",
    "name": "Miks · yüz şekilleniyor",
    "duration": "15 sn",
    "word": "the face",
    "alt": "A mix of moments from painting cute but unemployed cartoon figure that follows the face taking shape.",
    "lfs": false,
-   "cover": "mixes-02-face-in-progress.jpg"
+   "cover": "mixes-02-face-in-progress.jpg",
+   "source": "posts/milan/cute-but-unemployed-cartoon-figure-edited-process-reels/mixes/02-face-in-progress.mp4"
   },
   {
    "id": "mixes-03-color-to-color",
-   "vpath": "posts/milan/cute-but-unemployed-cartoon-figure-edited-process-reels/mixes",
-   "file": "03-color-to-color.mp4",
+   "vpath": "posts/recordings/cute-but-unemployed-cartoon-figure",
+   "file": "mixes-03-color-to-color.mp4",
    "name": "Miks · renkten renge",
    "duration": "15 sn",
    "word": "colour to colour",
    "alt": "A mix of moments from painting cute but unemployed cartoon figure, from one colour to the next on the red ground.",
    "lfs": false,
-   "cover": "mixes-03-color-to-color.jpg"
+   "cover": "mixes-03-color-to-color.jpg",
+   "source": "posts/milan/cute-but-unemployed-cartoon-figure-edited-process-reels/mixes/03-color-to-color.mp4"
   }
  ]
 }
