@@ -1,0 +1,237 @@
+{
+ "work": "sept-neuf",
+ "group_label": "sept neuf",
+ "videos": [
+  {
+   "id": "main-reel",
+   "vpath": "posts/kopstal/sept-neuf-edited-process-reels",
+   "file": "reel.mp4",
+   "name": "Tam süreç",
+   "duration": "30 sn",
+   "word": "full process",
+   "alt": "The whole painting of sept neuf in 30 seconds, filmed while it is painted: a drawing on a white canvas becomes a violet figure in a mint armchair with a pale bird on a side table.",
+   "lfs": false,
+   "cover": "main-reel.jpg"
+  },
+  {
+   "id": "full-process-fixed-front-view-timelapse-30s",
+   "vpath": "posts/kopstal/sept-neuf-edited-process-reels/full-process",
+   "file": "fixed-front-view-timelapse-30s.mp4",
+   "name": "Sabit önden timelapse",
+   "duration": "30 sn",
+   "word": "front view timelapse",
+   "alt": "A fixed front view of sept neuf as a 30-second timelapse: green ground, the seated figure, the bird on the side table, hands passing over the canvas.",
+   "lfs": false,
+   "cover": "full-process-fixed-front-view-timelapse-30s.jpg"
+  },
+  {
+   "id": "two-part-01-recordings-01-07",
+   "vpath": "posts/kopstal/sept-neuf-edited-process-reels/two-part",
+   "file": "01-recordings-01-07.mp4",
+   "name": "İki parça · 1 (kayıt 01–07)",
+   "duration": "20 sn",
+   "word": "part 1",
+   "alt": "The first half of painting sept neuf, recordings 1 to 7: the drawing, the green ground and the first colour on the figure.",
+   "lfs": false,
+   "cover": "two-part-01-recordings-01-07.jpg"
+  },
+  {
+   "id": "two-part-02-recordings-08-14",
+   "vpath": "posts/kopstal/sept-neuf-edited-process-reels/two-part",
+   "file": "02-recordings-08-14.mp4",
+   "name": "İki parça · 2 (kayıt 08–14)",
+   "duration": "20 sn",
+   "word": "part 2",
+   "alt": "The second half of painting sept neuf, recordings 8 to 14: the violet figure, the mint armchair and the bird take shape.",
+   "lfs": false,
+   "cover": "two-part-02-recordings-08-14.jpg"
+  },
+  {
+   "id": "main-recording-01",
+   "vpath": "posts/kopstal/sept-neuf-edited-process-reels/clip-reels",
+   "file": "recording-01.mp4",
+   "name": "Kayıt 01",
+   "duration": "14 sn",
+   "word": "recording 01",
+   "alt": "One recording from painting sept neuf (1 of 14): the painter at work on the canvas, a small view of the finished painting in the corner.",
+   "lfs": false,
+   "cover": "main-recording-01.jpg"
+  },
+  {
+   "id": "main-recording-02",
+   "vpath": "posts/kopstal/sept-neuf-edited-process-reels/clip-reels",
+   "file": "recording-02.mp4",
+   "name": "Kayıt 02",
+   "duration": "14 sn",
+   "word": "recording 02",
+   "alt": "One recording from painting sept neuf (2 of 14): the painter at work on the canvas, a small view of the finished painting in the corner.",
+   "lfs": false,
+   "cover": "main-recording-02.jpg"
+  },
+  {
+   "id": "main-recording-03",
+   "vpath": "posts/kopstal/sept-neuf-edited-process-reels/clip-reels",
+   "file": "recording-03.mp4",
+   "name": "Kayıt 03",
+   "duration": "14 sn",
+   "word": "recording 03",
+   "alt": "One recording from painting sept neuf (3 of 14): the painter at work on the canvas, a small view of the finished painting in the corner.",
+   "lfs": false,
+   "cover": "main-recording-03.jpg"
+  },
+  {
+   "id": "main-recording-04",
+   "vpath": "posts/kopstal/sept-neuf-edited-process-reels/clip-reels",
+   "file": "recording-04.mp4",
+   "name": "Kayıt 04",
+   "duration": "14 sn",
+   "word": "recording 04",
+   "alt": "One recording from painting sept neuf (4 of 14): the painter at work on the canvas, a small view of the finished painting in the corner.",
+   "lfs": false,
+   "cover": "main-recording-04.jpg"
+  },
+  {
+   "id": "main-recording-05",
+   "vpath": "posts/kopstal/sept-neuf-edited-process-reels/clip-reels",
+   "file": "recording-05.mp4",
+   "name": "Kayıt 05",
+   "duration": "14 sn",
+   "word": "recording 05",
+   "alt": "One recording from painting sept neuf (5 of 14): the painter at work on the canvas, a small view of the finished painting in the corner.",
+   "lfs": false,
+   "cover": "main-recording-05.jpg"
+  },
+  {
+   "id": "main-recording-06",
+   "vpath": "posts/kopstal/sept-neuf-edited-process-reels/clip-reels",
+   "file": "recording-06.mp4",
+   "name": "Kayıt 06",
+   "duration": "14 sn",
+   "word": "recording 06",
+   "alt": "One recording from painting sept neuf (6 of 14): the painter at work on the canvas, a small view of the finished painting in the corner.",
+   "lfs": false,
+   "cover": "main-recording-06.jpg"
+  },
+  {
+   "id": "main-recording-07",
+   "vpath": "posts/kopstal/sept-neuf-edited-process-reels/clip-reels",
+   "file": "recording-07.mp4",
+   "name": "Kayıt 07",
+   "duration": "14 sn",
+   "word": "recording 07",
+   "alt": "One recording from painting sept neuf (7 of 14): the painter at work on the canvas, a small view of the finished painting in the corner.",
+   "lfs": false,
+   "cover": "main-recording-07.jpg"
+  },
+  {
+   "id": "main-recording-08",
+   "vpath": "posts/kopstal/sept-neuf-edited-process-reels/clip-reels",
+   "file": "recording-08.mp4",
+   "name": "Kayıt 08",
+   "duration": "14 sn",
+   "word": "recording 08",
+   "alt": "One recording from painting sept neuf (8 of 14): the painter at work on the canvas, a small view of the finished painting in the corner.",
+   "lfs": false,
+   "cover": "main-recording-08.jpg"
+  },
+  {
+   "id": "main-recording-09",
+   "vpath": "posts/kopstal/sept-neuf-edited-process-reels/clip-reels",
+   "file": "recording-09.mp4",
+   "name": "Kayıt 09",
+   "duration": "14 sn",
+   "word": "recording 09",
+   "alt": "One recording from painting sept neuf (9 of 14): the painter at work on the canvas, a small view of the finished painting in the corner.",
+   "lfs": false,
+   "cover": "main-recording-09.jpg"
+  },
+  {
+   "id": "main-recording-10",
+   "vpath": "posts/kopstal/sept-neuf-edited-process-reels/clip-reels",
+   "file": "recording-10.mp4",
+   "name": "Kayıt 10",
+   "duration": "14 sn",
+   "word": "recording 10",
+   "alt": "One recording from painting sept neuf (10 of 14): the painter at work on the canvas, a small view of the finished painting in the corner.",
+   "lfs": false,
+   "cover": "main-recording-10.jpg"
+  },
+  {
+   "id": "main-recording-11",
+   "vpath": "posts/kopstal/sept-neuf-edited-process-reels/clip-reels",
+   "file": "recording-11.mp4",
+   "name": "Kayıt 11",
+   "duration": "14 sn",
+   "word": "recording 11",
+   "alt": "One recording from painting sept neuf (11 of 14): the painter at work on the canvas, a small view of the finished painting in the corner.",
+   "lfs": false,
+   "cover": "main-recording-11.jpg"
+  },
+  {
+   "id": "main-recording-12",
+   "vpath": "posts/kopstal/sept-neuf-edited-process-reels/clip-reels",
+   "file": "recording-12.mp4",
+   "name": "Kayıt 12",
+   "duration": "14 sn",
+   "word": "recording 12",
+   "alt": "One recording from painting sept neuf (12 of 14): the painter at work on the canvas, a small view of the finished painting in the corner.",
+   "lfs": false,
+   "cover": "main-recording-12.jpg"
+  },
+  {
+   "id": "main-recording-13",
+   "vpath": "posts/kopstal/sept-neuf-edited-process-reels/clip-reels",
+   "file": "recording-13.mp4",
+   "name": "Kayıt 13",
+   "duration": "14 sn",
+   "word": "recording 13",
+   "alt": "One recording from painting sept neuf (13 of 14): the painter at work on the canvas, a small view of the finished painting in the corner.",
+   "lfs": false,
+   "cover": "main-recording-13.jpg"
+  },
+  {
+   "id": "main-recording-14",
+   "vpath": "posts/kopstal/sept-neuf-edited-process-reels/clip-reels",
+   "file": "recording-14.mp4",
+   "name": "Kayıt 14",
+   "duration": "14 sn",
+   "word": "recording 14",
+   "alt": "One recording from painting sept neuf (14 of 14): the painter at work on the canvas, a small view of the finished painting in the corner.",
+   "lfs": false,
+   "cover": "main-recording-14.jpg"
+  },
+  {
+   "id": "mixes-01-colors",
+   "vpath": "posts/kopstal/sept-neuf-edited-process-reels/mixes",
+   "file": "01-colors.mp4",
+   "name": "Miks · renkler",
+   "duration": "14 sn",
+   "word": "colours",
+   "alt": "A mix of moments from painting sept neuf that follows the colours going on: the green ground, the mint chair, the violet figure.",
+   "lfs": false,
+   "cover": "mixes-01-colors.jpg"
+  },
+  {
+   "id": "mixes-02-figure",
+   "vpath": "posts/kopstal/sept-neuf-edited-process-reels/mixes",
+   "file": "02-figure.mp4",
+   "name": "Miks · figür",
+   "duration": "14 sn",
+   "word": "the figure",
+   "alt": "A mix of moments from painting sept neuf that follows the seated figure from line drawing to violet body.",
+   "lfs": false,
+   "cover": "mixes-02-figure.jpg"
+  },
+  {
+   "id": "mixes-03-bird",
+   "vpath": "posts/kopstal/sept-neuf-edited-process-reels/mixes",
+   "file": "03-bird.mp4",
+   "name": "Miks · kuş",
+   "duration": "14 sn",
+   "word": "the bird",
+   "alt": "A mix of moments from painting sept neuf that follows the pale bird on the side table.",
+   "lfs": false,
+   "cover": "mixes-03-bird.jpg"
+  }
+ ]
+}

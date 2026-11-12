@@ -31,14 +31,17 @@ GROUPS = [
     ("process-carousel", "Süreç carousel"),
     ("editorial", "Editoryel carousel'ler"),
     ("portfolio", "Portfolyo"),
+    ("recordings", "Süreç kayıtları"),
     ("dated", "İlk hafta"),
 ]
-NESTED = ("kopstal", "milan", "editorial", "single", "details", "process-carousel", "portfolio")
+NESTED = ("kopstal", "milan", "editorial", "single", "details", "process-carousel", "portfolio", "recordings")
 
 # Videos are served from the insta-art-archive repo (same paths under posts/),
 # so this site stays under the 1 GB Pages limit. Full quality, nothing re-encoded.
 # Empty string: videos are loaded from this site (local use).
 MEDIA_BASE = os.environ.get("MEDIA_BASE", "https://raw.githubusercontent.com/decentralize-dfw/insta-art-archive/main/")
+# Files stored with Git LFS in the archive are served from here instead.
+LFS_BASE = "https://media.githubusercontent.com/media/decentralize-dfw/insta-art-archive/main/"
 
 
 def read(path):
@@ -112,6 +115,31 @@ def thumb(it):
     return "thumbs/" + name
 
 
+def recordings(folder, rel):
+    """posts/recordings/<work>/videos.json: every video in the archive is its own post."""
+    m = json.load(open(os.path.join(folder, "videos.json"), encoding="utf-8"))
+    caption = read(os.path.join(folder, "caption.txt"))
+    work = caption.splitlines()[0] if caption else m["work"]
+    out = []
+    for v in m["videos"]:
+        out.append({
+            "id": f"rec-{m['work']}-{v['id']}",
+            "group": "recordings",
+            "path": rel,
+            "vpath": v["vpath"],
+            "lfs": v.get("lfs", False),
+            "title": f"{v['name']} · {v['duration']}",
+            "kind": work,
+            "videos": [v["file"]],
+            "cover": v["cover"],
+            "slides": [],
+            "caption": caption,
+            "alt": v["alt"],
+            "notes": f"{v['name']} · {v['duration']}\narşiv: {v['vpath']}/{v['file']}",
+        })
+    return out
+
+
 def collect():
     cal = calendar()
     out = []
@@ -122,7 +150,9 @@ def collect():
         if name in NESTED:
             for sub in sorted(os.listdir(top)):
                 p = os.path.join(top, sub)
-                if os.path.isdir(p):
+                if os.path.isdir(p) and os.path.exists(os.path.join(p, "videos.json")):
+                    out += recordings(p, f"posts/{name}/{sub}")
+                elif os.path.isdir(p):
                     it = item(p, f"posts/{name}/{sub}", name)
                     if it:
                         out.append(it)
@@ -244,7 +274,10 @@ let group = DATA.some(d => d.date) ? "takvim" : "all";
 const $ = s => document.querySelector(s);
 const esc = s => s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const MEDIA = __MEDIA__;
-const url = (it, f) => (MEDIA && f.endsWith(".mp4") ? MEDIA : "") + it.path + "/" + f;
+const LFS = __LFS__;
+const url = (it, f) => f.endsWith(".mp4") && (MEDIA || it.vpath)
+  ? (it.lfs ? LFS : MEDIA) + (it.vpath || it.path) + "/" + f
+  : it.path + "/" + f;
 
 function toast(m) { const t = $("#toast"); t.textContent = m; t.classList.add("on"); setTimeout(() => t.classList.remove("on"), 1600); }
 
@@ -484,7 +517,8 @@ def main():
     data = collect()
     page = PAGE.replace("__DATA__", json.dumps(data, ensure_ascii=False)) \
                .replace("__GROUPS__", json.dumps(GROUPS, ensure_ascii=False)) \
-               .replace("__MEDIA__", json.dumps(MEDIA_BASE))
+               .replace("__MEDIA__", json.dumps(MEDIA_BASE)) \
+               .replace("__LFS__", json.dumps(LFS_BASE))
     open(os.path.join(REPO, "index.html"), "w", encoding="utf-8").write(page)
     print(f"index.html: {len(data)} items")
 
