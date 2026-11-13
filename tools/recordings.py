@@ -73,7 +73,8 @@ def main():
     for manifest in sorted(glob.glob(os.path.join(REPO, "posts", "recordings", "*", "videos.json"))):
         folder = os.path.dirname(manifest)
         m = json.load(open(manifest, encoding="utf-8"))
-        cap = open(os.path.join(REPO, "posts", "single", m["work"], "caption.txt"), encoding="utf-8").read().strip()
+        cap = m.get("caption") or open(os.path.join(REPO, "posts", "single", m["work"], "caption.txt"),
+                                       encoding="utf-8").read().strip()
         open(os.path.join(folder, "caption.txt"), "w", encoding="utf-8").write(cap + "\n")
         for v in m["videos"]:
             src = os.path.join(ARCHIVE, v.get("source") or f"{v['vpath']}/{v['file']}")

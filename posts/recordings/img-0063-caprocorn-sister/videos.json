@@ -1,0 +1,65 @@
+{
+ "work": "caprocorn-sister-war-plague-earthquake",
+ "videos": [
+  {
+   "id": "01-timelapse-30s",
+   "vpath": "posts/recordings/img-0063-caprocorn-sister",
+   "file": "01-timelapse-30s.mp4",
+   "source": "posts/recordings/img-0063-caprocorn-sister/01-timelapse-30s.mp4",
+   "name": "Timelapse",
+   "duration": "30 sn",
+   "alt": "Painting caprocorn sister: war, plague, earthquake from above in 30 seconds: three bodies on a yellow ground, paint jars at the edges of the canvas.",
+   "lfs": false,
+   "cover": "01-timelapse-30s.jpg",
+   "word": ""
+  },
+  {
+   "id": "02-kesitler-1_5x-24s",
+   "vpath": "posts/recordings/img-0063-caprocorn-sister",
+   "file": "02-kesitler-1_5x-24s.mp4",
+   "source": "posts/recordings/img-0063-caprocorn-sister/02-kesitler-1_5x-24s.mp4",
+   "name": "Kesitler · 1,5×",
+   "duration": "24 sn",
+   "alt": "Cuts from painting caprocorn sister at 1.5× speed, seen from above, a hand working on the three bodies.",
+   "lfs": false,
+   "cover": "02-kesitler-1_5x-24s.jpg",
+   "word": ""
+  },
+  {
+   "id": "03-karsidan-scan-kesitler-1_5x-24s",
+   "vpath": "posts/recordings/img-0063-caprocorn-sister",
+   "file": "03-karsidan-scan-kesitler-1_5x-24s.mp4",
+   "source": "posts/recordings/img-0063-caprocorn-sister/03-karsidan-scan-kesitler-1_5x-24s.mp4",
+   "name": "Karşıdan, düzeltilmiş kadraj · kesitler 1,5×",
+   "duration": "24 sn",
+   "alt": "Caprocorn sister seen straight on, the canvas held flat in the frame, while it is painted: three bodies, a black box, a yellow ground.",
+   "lfs": false,
+   "cover": "03-karsidan-scan-kesitler-1_5x-24s.jpg",
+   "word": ""
+  },
+  {
+   "id": "04-kesitler-normal-hiz-45s",
+   "vpath": "posts/recordings/img-0063-caprocorn-sister",
+   "file": "04-kesitler-normal-hiz-45s.mp4",
+   "source": "posts/recordings/img-0063-caprocorn-sister/04-kesitler-normal-hiz-45s.mp4",
+   "name": "Kesitler · normal hız · orijinal ses",
+   "duration": "45 sn",
+   "alt": "Cuts from painting caprocorn sister at normal speed with the sound of the room, seen from above.",
+   "lfs": false,
+   "cover": "04-kesitler-normal-hiz-45s.jpg",
+   "word": ""
+  },
+  {
+   "id": "05-tek-plan-normal-hiz-45s",
+   "vpath": "posts/recordings/img-0063-caprocorn-sister",
+   "file": "05-tek-plan-normal-hiz-45s.mp4",
+   "source": "posts/recordings/img-0063-caprocorn-sister/05-tek-plan-normal-hiz-45s.mp4",
+   "name": "Tek plan · normal hız · orijinal ses",
+   "duration": "45 sn",
+   "alt": "One continuous shot of painting caprocorn sister at normal speed with the sound of the room, seen from above.",
+   "lfs": false,
+   "cover": "05-tek-plan-normal-hiz-45s.jpg",
+   "word": ""
+  }
+ ]
+}

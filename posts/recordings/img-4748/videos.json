@@ -1,0 +1,42 @@
+{
+ "work": "img-4748",
+ "videos": [
+  {
+   "id": "01-timelapse-30s",
+   "vpath": "posts/recordings/img-4748",
+   "file": "01-timelapse-30s.mp4",
+   "source": "posts/recordings/img-4748/01-timelapse-30s.mp4",
+   "name": "Timelapse",
+   "duration": "30 sn",
+   "alt": "A painting on paper made by hand in 30 seconds: a pink and red figure is laid in with brush and fingers, then green goes over its shoulder and head.",
+   "lfs": false,
+   "cover": "01-timelapse-30s.jpg",
+   "word": ""
+  },
+  {
+   "id": "02-kesitler-1_5x-24s",
+   "vpath": "posts/recordings/img-4748",
+   "file": "02-kesitler-1_5x-24s.mp4",
+   "source": "posts/recordings/img-4748/02-kesitler-1_5x-24s.mp4",
+   "name": "Kesitler · 1,5×",
+   "duration": "24 sn",
+   "alt": "Cuts from painting a figure on paper at 1.5× speed: pink, then red, then green, a hand with a brush in the frame.",
+   "lfs": false,
+   "cover": "02-kesitler-1_5x-24s.jpg",
+   "word": ""
+  },
+  {
+   "id": "03-karsidan-scan-kesitler-1_5x-24s",
+   "vpath": "posts/recordings/img-4748",
+   "file": "03-karsidan-scan-kesitler-1_5x-24s.mp4",
+   "source": "posts/recordings/img-4748/03-karsidan-scan-kesitler-1_5x-24s.mp4",
+   "name": "Karşıdan, düzeltilmiş kadraj · kesitler 1,5×",
+   "duration": "24 sn",
+   "alt": "The same painting on paper seen straight on, the sheet held flat in the frame: a pink and red figure, then green.",
+   "lfs": false,
+   "cover": "03-karsidan-scan-kesitler-1_5x-24s.jpg",
+   "word": ""
+  }
+ ],
+ "caption": "{{başlık}}\n{{yıl}} · acrylic on paper · {{ölçü}}"
+}
