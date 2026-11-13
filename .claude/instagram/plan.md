@@ -89,7 +89,7 @@ kaçarsa ya da bir post sorun çıkarırsa yerine girer, takvimin kalanı kaymaz
 
 | gün | format | eser | klasör | not |
 | --- | --- | --- | --- | --- |
-| Pzt 16.11 | Reel · detay | Gxd is AFK, We banned it (2026) | `posts/kopstal/gxd-is-afk-we-banned-it-details/` | HOOK TESTİ: 3 Trial Reel aynı gün, aynı müzik. A yazısız, B ilk 3 sn başlık, C başlık + künye. 72. saatte (Per 19) en iyi atlama oranı / izlenme / yabancı etkileşimi olanı profile aç |
+| Pzt 16.11 | Reel · detay | Gxd is AFK, We banned it (2026) | `posts/kopstal/gxd-is-afk-we-banned-it-details/` | HOOK TESTİ: 3 Trial Reel Cuma 13 Kasım öğlen paylaşıldı (12:45 A yazısız, 13:15 B büyük başlık + ses, 13:45 C etiket; aynı müzik). Pazartesi ~13:00 72. saat verisi; kazanan 19:00'da profile açılır, bu günün postu o |
 | Çrş 18.11 | Carousel · editoryel | birds (editoryel) | `posts/editorial/birds/` | ilk editoryel: gönderilebilir (send) ve kaydedilebilir format |
 | Per 19.11 | Reel · boyama kaydı | caprocorn sister: war, plague, earthquake (2020) | `posts/milan/caprocorn-sister-war-plague-earthquake-footage/` | Trial Reel (önce takipçi olmayanlara) |
 | Cmt 21.11 | Reel · süreç | gary grills cooper (2026) | `posts/kopstal/gary-grills-cooper-process/` | portfolyo slotu: yeni portfolyo videosu gelince bunun yerine |
