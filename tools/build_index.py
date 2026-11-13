@@ -76,6 +76,8 @@ def item(folder, rel, group):
         "kind": kind,
         "videos": videos,
         "cover": "cover.jpg" if "cover.jpg" in files else (slides[0] if slides else ""),
+        # a video can have its own cover: cover-<video name>.jpg (e.g. test versions)
+        "covers": {v: f"cover-{v[:-4]}.jpg" for v in videos if f"cover-{v[:-4]}.jpg" in files},
         "slides": slides,
         "caption": caption,
         "alt": read(os.path.join(folder, "alt.txt")),
@@ -461,13 +463,14 @@ function textBlock(label, text, id) {
 }
 
 function open(it) {
+  const cov = f => (it.covers && it.covers[f]) || it.cover;
   const v = it.videos.map(f => `
-    <video controls playsinline preload="none" poster="${it.cover ? esc(url(it, it.cover)) : ""}" data-file="${esc(f)}"></video>
+    <video controls playsinline preload="none" poster="${cov(f) ? esc(url(it, cov(f))) : ""}" data-file="${esc(f)}"></video>
     <div class="btns">
-      ${it.cover ? `<button class="btn dark" data-share='${esc(JSON.stringify([f, it.cover]))}'>Fotoğraflara kaydet (video + kapak)</button>` : ""}
-      <button class="btn${it.cover ? "" : " dark"}" data-share='${esc(JSON.stringify([f]))}'>Fotoğraflara kaydet (video)</button>
+      ${cov(f) ? `<button class="btn dark" data-share='${esc(JSON.stringify([f, cov(f)]))}'>Fotoğraflara kaydet (video + kapak)</button>` : ""}
+      <button class="btn${cov(f) ? "" : " dark"}" data-share='${esc(JSON.stringify([f]))}'>Fotoğraflara kaydet (video)</button>
       <a class="btn" href="${esc(url(it, f))}" download="${esc(f)}">İndir (${esc(f)})</a>
-      ${it.cover ? `<a class="btn" href="${esc(url(it, it.cover))}" download="cover.jpg">Kapak</a>` : ""}
+      ${cov(f) ? `<a class="btn" href="${esc(url(it, cov(f)))}" download="${esc(cov(f))}">Kapak</a>` : ""}
     </div>`).join("");
   const s = it.slides.length ? `
     ${it.slides.length > 1 ? `<div class="btns"><button class="btn dark" data-share='${esc(JSON.stringify(it.slides))}'>Fotoğraflara kaydet (${it.slides.length} sayfa)</button></div>` : `<div class="btns"><button class="btn dark" data-share='${esc(JSON.stringify(it.slides))}'>Fotoğraflara kaydet</button></div>`}
