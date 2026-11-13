@@ -5,12 +5,12 @@
  "rhythm": "haftada 4: Pzt Reel, Çrş carousel (editoryel / portfolyo), Per Reel (arşiv, Trial), Cmt Reel (süreç / portfolyo videosu)",
  "note": "Kurallar: .claude/instagram/voice.md, gerekçe: .claude/instagram/plan.md",
  "spare": [
-  "posts/milan/baby-rights-101-details",
   "posts/milan/ciao-capo-sono-squalo-details",
   "posts/milan/portal-ticino-details",
   "posts/milan/good-people-helping-bad-ones-thats-why-theyre-bad-too-details",
   "posts/milan/century-of-0-1-transhumanism-details",
-  "posts/milan/q1b3l3-igfluencer-details"
+  "posts/milan/q1b3l3-igfluencer-details",
+  "posts/kopstal/sept-neuf-footage"
  ],
  "posts": [
   {
@@ -58,10 +58,10 @@
    "day": "Pzt",
    "time": "19:00",
    "week": 2,
-   "kind": "reel-kayıt",
-   "folder": "posts/kopstal/sept-neuf-footage",
-   "work": "sept-neuf",
-   "note": "gerçek boyama kaydı: el ve fırça"
+   "kind": "reel-detay",
+   "folder": "posts/kopstal/gxd-is-afk-we-banned-it-details",
+   "work": "gxd-is-afk-we-banned-it",
+   "note": "HOOK TESTİ: 3 Trial Reel aynı gün, aynı müzik. A yazısız, B ilk 3 sn başlık, C başlık + künye. 72. saatte (Per 19) en iyi atlama oranı / izlenme / yabancı etkileşimi olanı profile aç"
   },
   {
    "date": "2026-11-18",
@@ -259,8 +259,8 @@
    "time": "19:00",
    "week": 7,
    "kind": "reel-detay",
-   "folder": "posts/kopstal/gxd-is-afk-we-banned-it-details",
-   "work": "gxd-is-afk-we-banned-it",
+   "folder": "posts/milan/baby-rights-101-details",
+   "work": "baby-rights-101",
    "note": "DENEY (müzik) karşılaştırma: kendi seçtiğin parça. Tatil haftası, sonuç ayrı okunur"
   },
   {

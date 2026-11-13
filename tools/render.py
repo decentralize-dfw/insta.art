@@ -194,6 +194,24 @@ def add_bell(path):
     os.replace(tmp, path)
 FAST_INTRO = 2.0          # "fast_intro": true in a spec plays the whole tour in this many seconds first
 BAR_Y, BAR_H = 320, 12    # progress bar, below the Reels header
+LABEL_X, LABEL_Y = 108, 372   # "label": gallery-label text under the bar, on the covers' 10 % line
+
+
+def draw_label(fr, label):
+    """Black text on white boxes, top left, inside the Reels safe zone."""
+    from PIL import ImageDraw, ImageFont
+    font_path = os.path.join(REPO, "assets", "fonts", "HankenGrotesk-500.ttf")
+    d = ImageDraw.Draw(fr)
+    y = LABEL_Y
+    for i, line in enumerate(label["lines"]):
+        size = label.get("size", 56) if i == 0 else label.get("size2", 38)
+        f = ImageFont.truetype(font_path, size)
+        pad = round(size * 0.28)
+        x0, y0, x1, y1 = d.textbbox((LABEL_X, y), line, font=f)
+        d.rectangle([x0 - pad, y0 - pad, x1 + pad, y1 + pad], fill=(255, 255, 255))
+        d.text((LABEL_X, y), line, font=f, fill=(0, 0, 0))
+        y = y1 + pad * 2 + 6
+    return fr
 MAX_HOLD = 2.0   # only the last shot may hold, for at most this long
 
 
@@ -248,6 +266,7 @@ def reel(spec, outdir):
             steps.append((src, sc, ax + (bx - ax) * t, ay + (by - ay) * t))
     proc = subprocess.Popen(cmd, stdin=subprocess.PIPE)
     total = 0
+    label = spec.get("label")
     if spec.get("fast_intro"):
         # Hook: the whole tour at high speed in the first FAST_INTRO seconds, a thin
         # bar filling under the Reels header, then the tour again at its own pace.
@@ -257,10 +276,16 @@ def reel(spec, outdir):
             fr = draw(load(src), sc, cx, cy)
             fr.paste((255, 255, 255), (0, BAR_Y, W, BAR_Y + BAR_H))
             fr.paste((0, 0, 0), (0, BAR_Y, round(W * (j + 1) / m), BAR_Y + BAR_H))
+            if label and j / FPS < label.get("until", 3.0):
+                draw_label(fr, label)
             proc.stdin.write(fr.tobytes())
         total += m
     last = (None, None)
-    for st in steps:
+    t0 = FAST_INTRO if spec.get("fast_intro") else 0.0
+    for i, st in enumerate(steps):
+        if label and t0 + i / FPS < label.get("until", 3.0):
+            proc.stdin.write(draw_label(draw(load(st[0]), *st[1:]), label).tobytes())
+            continue
         if st != last[0]:   # static (process) reels repeat the same frame
             last = (st, draw(load(st[0]), *st[1:]).tobytes())
         proc.stdin.write(last[1])

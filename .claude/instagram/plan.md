@@ -27,7 +27,7 @@ Kaynak: `gpt-plan/research` (01–04) + `ig-plan`, `ig-reel`, `ig-carousel`, `ig
 1. **Reel, takipçi olmayana ulaşan ana format.** Haftada 3 Reel.
 2. **Hook:** her Reel'in ilk 2 sn'si bütün turun hızlı hali + ince çubuk; tek ses zen çanı
    (voice.md). Sonrası kendi temposunda.
-3. **Gerçek boyama kaydı önde:** sept neuf, caprocorn, 7 fam kayıtları ilk iki haftada (T23).
+3. **Gerçek boyama kaydı:** caprocorn ve 7 fam kayıtları ilk iki haftada (T23). sept neuf kaydı düşük kalite, yedekte.
 4. **Kitap erken ve sabitli:** details kitabı 14 Kasım'da çıkar ve hemen profile sabitlenir.
    16 ve 19 Kasım'daki ilk keşif Reel'lerinden profile gelenler bütün işi tek videoda görür
    (ig-profile: sabitlenen 3 post en kaldıraçlı alan; araştırma T14, T22).
@@ -53,7 +53,8 @@ Kaynak: `gpt-plan/research` (01–04) + `ig-plan`, `ig-reel`, `ig-carousel`, `ig
 
 | tarih | soru |
 | --- | --- |
-| 11–29 Kas | zemin: değişiklik yok, ilk ölçümler |
+| 16 Kas | **hook testi** (gxd detay, 3 Trial Reel): A yazısız / B ilk 3 sn başlık / C başlık + künye. Kazanan açılış sonraki Reel'lere |
+| 11–29 Kas | zemin ölçümleri |
 | 14, 21 Ara | müzik: Reels'te yükselen ses / kendi seçtiğin parça |
 | 24 Ara – 3 Oca | tatil, deney yok |
 | 4, 11 Oca | uzunluk: %20 kısa kurgu |
@@ -88,7 +89,7 @@ kaçarsa ya da bir post sorun çıkarırsa yerine girer, takvimin kalanı kaymaz
 
 | gün | format | eser | klasör | not |
 | --- | --- | --- | --- | --- |
-| Pzt 16.11 | Reel · boyama kaydı | sept neuf (2026) | `posts/kopstal/sept-neuf-footage/` | gerçek boyama kaydı: el ve fırça |
+| Pzt 16.11 | Reel · detay | Gxd is AFK, We banned it (2026) | `posts/kopstal/gxd-is-afk-we-banned-it-details/` | HOOK TESTİ: 3 Trial Reel aynı gün, aynı müzik. A yazısız, B ilk 3 sn başlık, C başlık + künye. 72. saatte (Per 19) en iyi atlama oranı / izlenme / yabancı etkileşimi olanı profile aç |
 | Çrş 18.11 | Carousel · editoryel | birds (editoryel) | `posts/editorial/birds/` | ilk editoryel: gönderilebilir (send) ve kaydedilebilir format |
 | Per 19.11 | Reel · boyama kaydı | caprocorn sister: war, plague, earthquake (2020) | `posts/milan/caprocorn-sister-war-plague-earthquake-footage/` | Trial Reel (önce takipçi olmayanlara) |
 | Cmt 21.11 | Reel · süreç | gary grills cooper (2026) | `posts/kopstal/gary-grills-cooper-process/` | portfolyo slotu: yeni portfolyo videosu gelince bunun yerine |
@@ -133,7 +134,7 @@ kaçarsa ya da bir post sorun çıkarırsa yerine girer, takvimin kalanı kaymaz
 
 | gün | format | eser | klasör | not |
 | --- | --- | --- | --- | --- |
-| Pzt 21.12 | Reel · detay | Gxd is AFK, We banned it (2026) | `posts/kopstal/gxd-is-afk-we-banned-it-details/` | DENEY (müzik) karşılaştırma: kendi seçtiğin parça. Tatil haftası, sonuç ayrı okunur |
+| Pzt 21.12 | Reel · detay | baby rights 101 (2020) | `posts/milan/baby-rights-101-details/` | DENEY (müzik) karşılaştırma: kendi seçtiğin parça. Tatil haftası, sonuç ayrı okunur |
 | Çrş 23.12 | Carousel · detay | s(t)lop (2026) | `posts/details/s-t-lop/` | portfolyo slotu: portfolyo carousel’i gelince bunun yerine |
 | Per 24.12 | Reel · detay | the family dinner after a night in jaïl (2020) | `posts/milan/the-family-dinner-after-a-night-in-jail-details/` | Trial Reel (önce takipçi olmayanlara); Noel arifesi, tatil haftası |
 | Cmt 26.12 | Reel · süreç | walls of perception (2026) | `posts/kopstal/walls-of-perception-process/` |  |
