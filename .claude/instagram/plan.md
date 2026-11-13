@@ -40,8 +40,8 @@ Kaynak: `gpt-plan/research` (01–04) + `ig-plan`, `ig-reel`, `ig-carousel`, `ig
 ## Ana hesaptan Story (haftada bir)
 
 Ana hesap kapalı (~850 organik takipçi), Collab olmuyor. Haftanın en güçlü postunda ana
-hesaptan Story: postu paylaş, üzerine @yigitozen.art bahsetmesi. 14 Kasım details kitabı,
-sonra her Pazartesi Reel'i. Angora'nın 449 görüntülenmesinin arkasında bu vardı. Haftada bir:
+hesaptan Story: postu paylaş, üzerine @yigitozen.art bahsetmesi. Haftada en fazla bir: 11 Kasım
+Angora, 16 Kasım gxd B, sonra her Pazartesi Reel'i (14 Kasım kitapta yok). Angora'nın 449 görüntülenmesinin arkasında bu vardı. Haftada bir:
 diğer postlar hesabın kendi gücüyle ölçülsün; log'da Story'li postlar ayrı işaretli.
 
 ## Her yayın günü
@@ -90,7 +90,7 @@ kaçarsa ya da bir post sorun çıkarırsa yerine girer, takvimin kalanı kaymaz
 | Çrş 11.11 | Reel · detay | Angora Mergvs (2026) | `posts/kopstal/angora-mergvs-details/` | başlangıç |
 | Per 12.11 | Reel · boyama kaydı | viperella (2020) | `posts/milan/viperella-footage/` | Trial Reel (önce takipçi olmayanlara) |
 | Cum 13.11 | Tek resim | penguin is not a friend, only a sinner (2023) | `posts/single/penguin-is-not-a-friend-only-a-sinner/` |  |
-| Cmt 14.11 | Reel · portfolyo | details (kitap) | `posts/portfolio/details-book-stacked/` | portfolyo: details kitabı. Ana hesaptan Story at; paylaşınca profile sabitle |
+| Cmt 14.11 | Reel · portfolyo | details (kitap) | `posts/portfolio/details-book-stacked/` | portfolyo: details kitabı. Ana hesaptan Story yok (bu hafta 11 Kasım'da Angora için atıldı); paylaşınca profile sabitle |
 
 ### Hafta 2 · 16.11–22.11
 
