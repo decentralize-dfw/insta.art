@@ -15,7 +15,7 @@ talimatı bu dosyadan da üstündür.
 4. **Seslendirme yok.** Yapay ses yok, konuşan kafa yok, altyazı yok.
 5. **Müziği Yiğit ekler.** Ajan videoyu sessiz üretir. Yiğit paylaşırken Instagram
    uygulamasından müziği seçer.
-6. **Emoji yok. Hashtag en fazla bir tane, çoğu zaman hiç.**
+6. **Emoji yok. Hashtag: her postta 5 konu etiketi** (Yiğit, 13 Kasım 2026; Instagram'ın üst sınırı 5).
 7. **Satış yok.** Fiyat, "satılık", "link in bio", "DM for price", komisyon yok.
 8. **Fotoğrafları art arda dizen slayt gösterisi yok.** Hareketin bir işi olmalı: detaydan
    bütüne açılmak, yüzeyde gezinmek, aşamaları göstermek.
@@ -82,8 +82,12 @@ gary grills cooper
   `painted over twice.` · `three canvases.` · `detail.`
 - Soru sorma. İzleyiciye bir şey yaptırmaya çalışma.
 
-Hashtag: varsayılan sıfır. Kullanılacaksa en sona tek bir tane, ör. `#figurativepainting`
-veya `#acrylicpainting`. Aynı etiket her gönderide tekrarlanmaz.
+Hashtag: caption'ın sonunda, bir boş satırdan sonra, tek satırda 5 konu etiketi (Yiğit,
+13 Kasım 2026). Erişim aracı değil, Instagram'a konuyu söyleyen etiket. 3 sabit
+(`#figurativepainting #contemporarypainting #acrylicpainting`), 1 türe göre (detay:
+`#paintingdetail`, süreç/kayıt: `#paintingprocess`, tek resim: `#contemporaryart`, kitap:
+`#artistbook`), 1 yere göre (2026 Kopstal: `#luxembourgartist`, 2019–2020: `#milanart`, diğer:
+`#figurativeart`). `tools/hashtags.py` hepsini yazar.
 
 ### Asla yazılmayacaklar
 
@@ -333,5 +337,5 @@ Bunlar üretimi engellemez. Cevap gelince bu dosyaya işlenir.
 
 1. Instagram hesabı Creator mı, Business mı?
 2. Paylaşım saati için Europe/Paris doğru mu?
-3. Kullanılacak tek hashtag hangisi olsun, yoksa hiç mi olmasın?
+3. ~~Kullanılacak tek hashtag hangisi olsun?~~ Cevap: her postta 5 konu etiketi (13 Kasım 2026).
 4. Faz 2 için izlenecek ressam hesapları hangileri?
