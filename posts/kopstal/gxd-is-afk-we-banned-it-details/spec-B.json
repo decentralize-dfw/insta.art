@@ -1,0 +1,140 @@
+{
+  "type": "reel",
+  "work": "gxd-is-afk-we-banned-it",
+  "reel_type": "details: close shots, one axis per shot, always moving, centre zoom-out ending",
+  "tempo": "cuts on a 0.5 s grid (120 BPM)",
+  "shots": [
+    {
+      "note": "the split face, pink and orange",
+      "src": "details:gxdisbanned/IMG_6743.jpg",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.3,
+        "cy": 0.5,
+        "cover": 1.15
+      },
+      "to": {
+        "cx": 0.65,
+        "cy": 0.5,
+        "cover": 1.15
+      }
+    },
+    {
+      "note": "two faces, the blue hood to the turban and the orange hand",
+      "src": "details:gxdisbanned/IMG_6734.jpg",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.28,
+        "cy": 0.5,
+        "cover": 1.15
+      },
+      "to": {
+        "cx": 0.7,
+        "cy": 0.5,
+        "cover": 1.15
+      }
+    },
+    {
+      "note": "the old face to the green back",
+      "src": "details:gxdisbanned/IMG_6730.jpg",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.22,
+        "cy": 0.5,
+        "cover": 1.15
+      },
+      "to": {
+        "cx": 0.62,
+        "cy": 0.5,
+        "cover": 1.15
+      }
+    },
+    {
+      "note": "the pink and green figure",
+      "src": "details:gxdisbanned/IMG_6748.jpg",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.7,
+        "cy": 0.5,
+        "cover": 1.15
+      },
+      "to": {
+        "cx": 0.3,
+        "cy": 0.5,
+        "cover": 1.15
+      }
+    },
+    {
+      "note": "hands on pink and green",
+      "src": "details:gxdisbanned/IMG_6731.jpg",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.3,
+        "cy": 0.5,
+        "cover": 1.15
+      },
+      "to": {
+        "cx": 0.7,
+        "cy": 0.5,
+        "cover": 1.15
+      }
+    },
+    {
+      "note": "the pink form",
+      "src": "details:gxdisbanned/IMG_6738.jpg",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.32,
+        "cover": 1.6
+      },
+      "to": {
+        "cx": 0.5,
+        "cy": 0.68,
+        "cover": 1.6
+      }
+    },
+    {
+      "note": "down the whole group",
+      "src": "details:gxdisbanned/IMG_6756.jpg",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.3,
+        "cover": 1.2
+      },
+      "to": {
+        "cx": 0.5,
+        "cy": 0.7,
+        "cover": 1.2
+      }
+    },
+    {
+      "note": "close at the centre, zoom out until the painting sits on white, hold 2 s",
+      "src": "details:gxdisbanned/gxd-is-banned2.png",
+      "dur": 6.0,
+      "hold": 2.0,
+      "ease": "out",
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "cover": 2.0
+      },
+      "to": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    }
+  ],
+  "fast_intro": true,
+  "bell": true,
+  "out": "reel-B-baslik.mp4",
+  "label": {
+    "lines": [
+      "Gxd is AFK, We banned it?"
+    ],
+    "style": "center",
+    "until": 2.0
+  }
+}

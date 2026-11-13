@@ -1,0 +1,140 @@
+{
+  "type": "reel",
+  "work": "gxd-is-afk-we-banned-it",
+  "reel_type": "details: close shots, one axis per shot, always moving, centre zoom-out ending",
+  "tempo": "cuts on a 0.5 s grid (120 BPM)",
+  "shots": [
+    {
+      "note": "hands, the pink body",
+      "src": "details:gxdisbanned/IMG_6749.jpg",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.3,
+        "cy": 0.5,
+        "cover": 1.15
+      },
+      "to": {
+        "cx": 0.7,
+        "cy": 0.5,
+        "cover": 1.15
+      }
+    },
+    {
+      "note": "the pink form to the hand",
+      "src": "details:gxdisbanned/IMG_6728.jpg",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.7,
+        "cy": 0.5,
+        "cover": 1.15
+      },
+      "to": {
+        "cx": 0.3,
+        "cy": 0.5,
+        "cover": 1.15
+      }
+    },
+    {
+      "note": "up the whole group",
+      "src": "details:gxdisbanned/IMG_6756.jpg",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.7,
+        "cover": 1.2
+      },
+      "to": {
+        "cx": 0.5,
+        "cy": 0.3,
+        "cover": 1.2
+      }
+    },
+    {
+      "note": "the green back to the old face",
+      "src": "details:gxdisbanned/IMG_6730.jpg",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.62,
+        "cy": 0.5,
+        "cover": 1.15
+      },
+      "to": {
+        "cx": 0.22,
+        "cy": 0.5,
+        "cover": 1.15
+      }
+    },
+    {
+      "note": "the striped orange hand, the other way",
+      "src": "details:gxdisbanned/IMG_6741.jpg",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.3,
+        "cy": 0.5,
+        "cover": 1.15
+      },
+      "to": {
+        "cx": 0.7,
+        "cy": 0.5,
+        "cover": 1.15
+      }
+    },
+    {
+      "note": "the scarf to the mourner, the other way",
+      "src": "details:gxdisbanned/IMG_6744.jpg",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.3,
+        "cy": 0.5,
+        "cover": 1.15
+      },
+      "to": {
+        "cx": 0.72,
+        "cy": 0.5,
+        "cover": 1.15
+      }
+    },
+    {
+      "note": "the ledge, the other way",
+      "src": "details:gxdisbanned/IMG_6720.jpg",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.3,
+        "cy": 0.5,
+        "cover": 1.15
+      },
+      "to": {
+        "cx": 0.65,
+        "cy": 0.5,
+        "cover": 1.15
+      }
+    },
+    {
+      "note": "close at the centre, zoom out until the painting sits on white, hold 2 s",
+      "src": "details:gxdisbanned/gxd-is-banned2.png",
+      "dur": 6.0,
+      "hold": 2.0,
+      "ease": "out",
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "cover": 2.0
+      },
+      "to": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    }
+  ],
+  "fast_intro": true,
+  "bell": true,
+  "out": "reel-C-baslik-kunye.mp4",
+  "label": {
+    "lines": [
+      "Gxd is AFK, We banned it",
+      "2026 · acrylic on canvas · 80 × 60 cm"
+    ],
+    "until": 2.0
+  }
+}
