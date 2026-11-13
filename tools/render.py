@@ -197,8 +197,38 @@ BAR_Y, BAR_H = 320, 12    # progress bar, below the Reels header
 LABEL_X, LABEL_Y = 108, 372   # "label": gallery-label text under the bar, on the covers' 10 % line
 
 
+def draw_center(fr, label):
+    """Big bold white text in the middle, no box; a soft shadow keeps it readable."""
+    from PIL import ImageDraw, ImageFilter, ImageFont
+    f = ImageFont.truetype(os.path.join(REPO, "assets", "fonts", "yjgjf4-Heavy.ttf"), label.get("size", 118))
+    d = ImageDraw.Draw(fr)
+    words, lines, cur = " ".join(label["lines"]).split(), [], ""
+    for wd in words:                      # wrap inside the safe width
+        t = (cur + " " + wd).strip()
+        if cur and d.textlength(t, font=f) > W - 2 * 130:
+            lines.append(cur); cur = wd
+        else:
+            cur = t
+    lines.append(cur)
+    asc, desc = f.getmetrics()
+    lh = round((asc + desc) * 1.05)
+    y = (H - lh * len(lines)) // 2
+    shadow = Image.new("L", (W, H), 0)
+    sd = ImageDraw.Draw(shadow)
+    for i, ln in enumerate(lines):
+        x = (W - d.textlength(ln, font=f)) / 2
+        sd.text((x, y + i * lh), ln, font=f, fill=150)
+    fr.paste((0, 0, 0), (0, 0), shadow.filter(ImageFilter.GaussianBlur(14)))
+    for i, ln in enumerate(lines):
+        d.text(((W - d.textlength(ln, font=f)) / 2, y + i * lh), ln, font=f, fill=(255, 255, 255))
+    return fr
+
+
 def draw_label(fr, label):
-    """Black text on white boxes, top left, inside the Reels safe zone."""
+    """Black text on white boxes, top left, inside the Reels safe zone.
+    With "style": "center": big bold white text in the middle (draw_center)."""
+    if label.get("style") == "center":
+        return draw_center(fr, label)
     from PIL import ImageDraw, ImageFont
     font_path = os.path.join(REPO, "assets", "fonts", "HankenGrotesk-500.ttf")
     d = ImageDraw.Draw(fr)
