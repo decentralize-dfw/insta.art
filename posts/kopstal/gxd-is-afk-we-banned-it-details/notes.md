@@ -22,6 +22,6 @@
 
 - `reel.mp4`: A, yazısız
 - `reel-B-baslik.mp4`: B, ilk 2 sn (hızlı geçiş boyunca) ortada büyük beyaz yazı, yjgjf-4 Heavy: "Gxd is AFK, We banned it?" + seslendirme: ElevenLabs "Laura", "God is, A. F. K. We banned it?" (`assets/audio/voice/gxd-hook-laura.mp3`), 0,08 sn'de başlar, çan altında %40
-- `reel-C-baslik-kunye.mp4`: C, ilk 2 sn sol üstte etiket: eser adı + künye
+- `reel-C-baslik-kunye.mp4`: C, açılış flaş: 16 detay fotoğrafı ekran yüksekliğine oturmuş, her biri 3 kare, sonra bütün resim 12 kare (toplam 2 sn); sol üstte eser adı + künye etiketi
 
 Üçü de Trial Reel olarak, aynı müzikle. Instagram'ın üçünü kopya saymaması için ikinci kısım (normal hızdaki tur) üçünde farklı detaylardan: A `spec.json` (eski sıra), B `spec-B.json` (önce yüzler, yeni fotoğraflar), C `spec-C.json` (üçüncü karışım). Süre, tempo ve son aynı. B'nin sesi: render sonrası Laura satırı çanın üstüne karıştırılır. 72. saatte kazanan profile açılır.

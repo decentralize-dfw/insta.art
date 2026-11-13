@@ -297,7 +297,30 @@ def reel(spec, outdir):
     proc = subprocess.Popen(cmd, stdin=subprocess.PIPE)
     total = 0
     label = spec.get("label")
-    if spec.get("fast_intro"):
+    flash = spec.get("flash_intro")
+    if flash:
+        # Hook: every detail photo fit to height, a few frames each, then the whole
+        # painting; the bar fills over the same 2 s.
+        frames = []
+        for src in flash["images"]:
+            im = load(src)
+            frames += [(src, H / im.height, 0.5, 0.5)] * flash.get("frames", 3)
+        fin = load(flash["final"])
+        fs = scale_for(fin, {"cx": 0.5, "cy": 0.5, "fit": True}, W, H, pad)
+        frames += [(flash["final"], fs, 0.5, 0.5)] * flash.get("final_frames", 12)
+        m = len(frames)
+        last = None
+        for j, (src, sc, cx, cy) in enumerate(frames):
+            if (src, sc) != (last[0] if last else None):
+                last = ((src, sc), draw(load(src), sc, cx, cy))
+            fr = last[1].copy()
+            fr.paste((255, 255, 255), (0, BAR_Y, W, BAR_Y + BAR_H))
+            fr.paste((0, 0, 0), (0, BAR_Y, round(W * (j + 1) / m), BAR_Y + BAR_H))
+            if label and j / FPS < label.get("until", 3.0):
+                draw_label(fr, label)
+            proc.stdin.write(fr.tobytes())
+        total += m
+    elif spec.get("fast_intro"):
         # Hook: the whole tour at high speed in the first FAST_INTRO seconds, a thin
         # bar filling under the Reels header, then the tour again at its own pace.
         m = round(FAST_INTRO * FPS)
@@ -311,7 +334,7 @@ def reel(spec, outdir):
             proc.stdin.write(fr.tobytes())
         total += m
     last = (None, None)
-    t0 = FAST_INTRO if spec.get("fast_intro") else 0.0
+    t0 = FAST_INTRO if (spec.get("fast_intro") or flash) else 0.0
     for i, st in enumerate(steps):
         if label and t0 + i / FPS < label.get("until", 3.0):
             proc.stdin.write(draw_label(draw(load(st[0]), *st[1:]), label).tobytes())

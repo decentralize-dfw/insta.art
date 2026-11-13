@@ -127,7 +127,6 @@
       }
     }
   ],
-  "fast_intro": true,
   "bell": true,
   "out": "reel-C-baslik-kunye.mp4",
   "label": {
@@ -136,5 +135,28 @@
       "2026 · acrylic on canvas · 80 × 60 cm"
     ],
     "until": 2.0
+  },
+  "flash_intro": {
+    "images": [
+      "details:gxdisbanned/IMG_6720.jpg",
+      "details:gxdisbanned/IMG_6728.jpg",
+      "details:gxdisbanned/IMG_6729.jpg",
+      "details:gxdisbanned/IMG_6730.jpg",
+      "details:gxdisbanned/IMG_6731.jpg",
+      "details:gxdisbanned/IMG_6733.jpg",
+      "details:gxdisbanned/IMG_6734.jpg",
+      "details:gxdisbanned/IMG_6736.jpg",
+      "details:gxdisbanned/IMG_6737.jpg",
+      "details:gxdisbanned/IMG_6738.jpg",
+      "details:gxdisbanned/IMG_6741.jpg",
+      "details:gxdisbanned/IMG_6743.jpg",
+      "details:gxdisbanned/IMG_6744.jpg",
+      "details:gxdisbanned/IMG_6748.jpg",
+      "details:gxdisbanned/IMG_6749.jpg",
+      "details:gxdisbanned/IMG_6756.jpg"
+    ],
+    "frames": 3,
+    "final": "details:gxdisbanned/gxd-is-banned2.png",
+    "final_frames": 12
   }
 }
