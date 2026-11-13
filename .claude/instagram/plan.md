@@ -83,13 +83,13 @@ kaçarsa ya da bir post sorun çıkarırsa yerine girer, takvimin kalanı kaymaz
 | Çrş 11.11 | Reel · detay | Angora Mergvs (2026) | `posts/kopstal/angora-mergvs-details/` | başlangıç |
 | Per 12.11 | Reel · boyama kaydı | viperella (2020) | `posts/milan/viperella-footage/` | Trial Reel (önce takipçi olmayanlara) |
 | Cum 13.11 | Tek resim | penguin is not a friend, only a sinner (2023) | `posts/single/penguin-is-not-a-friend-only-a-sinner/` |  |
-| Cmt 14.11 | Reel · portfolyo | details (kitap) | `posts/portfolio/details-book-stacked/` | portfolyo: details kitabı. Paylaşınca profile sabitle |
+| Cmt 14.11 | Reel · portfolyo | details (kitap) | `posts/portfolio/details-book-stacked/` | portfolyo: details kitabı. Ana hesabı Collab (iş birlikçi) olarak davet et; paylaşınca profile sabitle |
 
 ### Hafta 2 · 16.11–22.11
 
 | gün | format | eser | klasör | not |
 | --- | --- | --- | --- | --- |
-| Pzt 16.11 | Reel · detay | Gxd is AFK, We banned it (2026) | `posts/kopstal/gxd-is-afk-we-banned-it-details/` | HOOK TESTİ: 3 Trial Reel Cuma 13 Kasım öğlen paylaşıldı (12:45 A yazısız, 13:15 B büyük başlık + ses, 13:45 C etiket; aynı müzik). Pazartesi ~13:00 72. saat verisi; kazanan 19:00'da profile açılır, bu günün postu o |
+| Pzt 16.11 | Reel · detay | Gxd is AFK, We banned it (2026) | `posts/kopstal/gxd-is-afk-we-banned-it-details/` | gxd B normal Reel olarak (Trial bu hesapta dağıtılmadı: A 3 saatte 2 görüntülenme). Dosya: reel-B-baslik.mp4 + cover-reel-B-baslik.jpg; büyük başlık + Laura sesi; müzikte orijinal ses açık. Kıyas: Angora (Story ile 449) ve viperella (Story yok, 112). C (flaş açılış) ileriki bir Pazartesi |
 | Çrş 18.11 | Carousel · editoryel | birds (editoryel) | `posts/editorial/birds/` | ilk editoryel: gönderilebilir (send) ve kaydedilebilir format |
 | Per 19.11 | Reel · boyama kaydı | caprocorn sister: war, plague, earthquake (2020) | `posts/milan/caprocorn-sister-war-plague-earthquake-footage/` | Trial Reel (önce takipçi olmayanlara) |
 | Cmt 21.11 | Reel · süreç | gary grills cooper (2026) | `posts/kopstal/gary-grills-cooper-process/` | portfolyo slotu: yeni portfolyo videosu gelince bunun yerine |
