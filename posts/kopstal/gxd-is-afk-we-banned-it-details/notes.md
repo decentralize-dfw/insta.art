@@ -21,7 +21,7 @@
 ## Hook testi (16 Kasım 2026)
 
 - `reel.mp4`: A, yazısız
-- `reel-B-baslik.mp4`: B, ilk 2 sn (hızlı geçiş boyunca) ortada büyük beyaz yazı, yjgjf-4 Heavy: "Gxd is AFK, We banned it?"
+- `reel-B-baslik.mp4`: B, ilk 2 sn (hızlı geçiş boyunca) ortada büyük beyaz yazı, yjgjf-4 Heavy: "Gxd is AFK, We banned it?" + seslendirme: ElevenLabs "Laura", "God is, A. F. K. We banned it?" (`assets/audio/voice/gxd-hook-laura.mp3`), 0,08 sn'de başlar, çan altında %40
 - `reel-C-baslik-kunye.mp4`: C, ilk 2 sn sol üstte etiket: eser adı + künye
 
 Üçü de Trial Reel olarak, aynı müzikle. 72. saatte kazanan profile açılır.
