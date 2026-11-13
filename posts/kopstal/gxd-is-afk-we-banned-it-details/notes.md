@@ -17,3 +17,11 @@
 | 6 | 2.5 | dikey | the hanging arm down to the fingers on the step | `gxdisbanned/IMG_6736.jpg` |
 | 7 | 2.5 | yatay | along the ledge: the carrier's feet to the drape | `gxdisbanned/IMG_6720.jpg` |
 | 8 | 6.0 | zoom-out | close at the centre, zoom out until the painting sits on white, hold 2 s | `gxdisbanned/gxd-is-banned2.png` |
+
+## Hook testi (16 Kasım 2026)
+
+- `reel.mp4`: A, yazısız
+- `reel-B-baslik.mp4`: B, ilk 3 sn eser adı
+- `reel-C-baslik-kunye.mp4`: C, ilk 3 sn eser adı + künye
+
+Üçü de Trial Reel olarak, aynı müzikle. 72. saatte kazanan profile açılır.
