@@ -127,6 +127,9 @@ kullanılabilir. Örnek:
 - Başkasının gönderisine yorum hazırlarken açıklamanın tamamını ve mevcut yorumları oku. Yorum bölümü açıksa ve boşsa ilk yorumu yazabilirsin. Eseri bütünüyle gör, kaydırmalı gönderinin tüm slaytlarını incele. Video varsa baştan sona oynatıp izle. Kapak görseli veya birkaç kare yeterli değil. Görüntüye, açıklamaya ya da yorumlara erişilemezse gönderi linkinin yanında eksik kalan kısmı belirt ve taslağı atla.
 - Resmin asıl ilginç yanını bul. Bir ayrıntının sahneyi nasıl değiştirdiğine, bütünün verdiği ilk izlenime ya da süreçte gerçekten görülen bir değişime değinebilirsin. Rengi veya nesneyi sayıp beğendiğini söylemek yetmez. Bir başkasının yorumunu veya sanatçının açıklamasını yeniden yazma.
 - Başka bir ressama sesli söyler gibi kısa, gündelik İngilizce kullan. Yorum küçük harfle ve noktasız yazılır. Soru, emoji, ünlem, hashtag, tanıtım veya işi önceden tanıdığın iması yok. Cümle başka bir resme de aynı rahatlıkla uyuyorsa yeniden bak. Söyleyecek bir şey bulamazsan taslağı atla.
+- **Yorum tonu (Yiğit, 17 Kasım 2026):** Yan yana resme bakan iki ressamın gündelik konuşması gibi, samimi ve eşit düzeyde olsun. `love how`, `i love`, `i like`, `so good`, `works so well`, `great touch` gibi beğeni ve onay kalıplarını kullanma. Yorum yazan kişi resme not veren bir hoca, eleştirmen veya jüri gibi duyulmasın.
+- Görülen tek bir ayrıntıya takılan kısa bir gözlem yeterli. Konuşurken doğal çıkan birkaç kelime veya yarım cümle olabilir; her cümleyi tam bir sanat analizine çevirme. Sanatçının niyetini açıklama, işi düzeltme veya nasıl yapması gerektiğini söyleme.
+- Her yorumu zekice bir benzetme ya da espri yapmaya zorlama. Samimiyet için sahte duygu, deneyim, yakınlık veya önceden görmüşlük uydurma. Küçük harf, noktasız yazım ve bütün içeriği inceleme kuralları geçerliliğini korur.
 - Ajan hiçbir mesajı ya da yorumu kendisi göndermez, yalnızca taslak hazırlar.
 
 ## Görsel ve video kuralları
