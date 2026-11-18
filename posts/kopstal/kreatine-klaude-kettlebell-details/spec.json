@@ -1,0 +1,132 @@
+{
+  "type": "reel",
+  "work": "kreatine-klaude-kettlebell",
+  "reel_type": "details: close shots, one axis per shot, always moving, centre zoom-out ending",
+  "tempo": "cuts on a 0.5 s grid (120 BPM)",
+  "shots": [
+    {
+      "note": "the central face: eyes to the red mouth",
+      "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-01.jpg",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.3,
+        "cy": 0.5,
+        "cover": 1.15
+      },
+      "to": {
+        "cx": 0.62,
+        "cy": 0.5,
+        "cover": 1.15
+      }
+    },
+    {
+      "note": "the smiling face in its frame",
+      "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-09.jpg",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.25,
+        "cy": 0.5,
+        "cover": 1.15
+      },
+      "to": {
+        "cx": 0.65,
+        "cy": 0.5,
+        "cover": 1.15
+      }
+    },
+    {
+      "note": "the white rocket with its eye, the red splash",
+      "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-06.jpg",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.7,
+        "cy": 0.5,
+        "cover": 1.15
+      },
+      "to": {
+        "cx": 0.3,
+        "cy": 0.5,
+        "cover": 1.15
+      }
+    },
+    {
+      "note": "the small flying figure",
+      "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-05.jpg",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.35,
+        "cy": 0.5,
+        "cover": 1.15
+      },
+      "to": {
+        "cx": 0.7,
+        "cy": 0.5,
+        "cover": 1.15
+      }
+    },
+    {
+      "note": "the bird with the yellow beak",
+      "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-07.jpg",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.65,
+        "cy": 0.5,
+        "cover": 1.15
+      },
+      "to": {
+        "cx": 0.3,
+        "cy": 0.5,
+        "cover": 1.15
+      }
+    },
+    {
+      "note": "the eye in the dark",
+      "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-11.jpg",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.25,
+        "cy": 0.5,
+        "cover": 1.15
+      },
+      "to": {
+        "cx": 0.6,
+        "cy": 0.5,
+        "cover": 1.15
+      }
+    },
+    {
+      "note": "down the open mouth and the red tongue",
+      "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-03.jpg",
+      "dur": 2.5,
+      "from": {
+        "cx": 0.5,
+        "cy": 0.32,
+        "cover": 1.6
+      },
+      "to": {
+        "cx": 0.5,
+        "cy": 0.68,
+        "cover": 1.6
+      }
+    },
+    {
+      "note": "close at the centre, zoom out until the painting sits on white, hold 2 s",
+      "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell.jpg",
+      "dur": 6.0,
+      "hold": 2.0,
+      "ease": "out",
+      "from": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "cover": 2.0
+      },
+      "to": {
+        "cx": 0.5,
+        "cy": 0.5,
+        "fit": true
+      }
+    }
+  ],
+  "fast_intro": true,
+  "bell": true
+}
