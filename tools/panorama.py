@@ -7,7 +7,8 @@ master). Every photo is fit to the slide height (1350) and the photos sit side
 by side with a thin white GAP; the strip is cut into 1080 x 1350 slides
 (01.jpg, 02.jpg, ...). Each photo is trimmed a few pixels at its sides so the
 strip ends exactly on a slide edge. 00.jpg is the cover: the whole painting
-in the usual cover layout (tools/covers.py).
+in the usual cover layout (tools/covers.py). With "end": "full" the last slide
+is the whole painting again, filling the slide edge to edge.
 """
 import json, os, sys
 
@@ -43,13 +44,20 @@ def strip(paths):
 def main(folder):
     spec = json.load(open(os.path.join(folder, "spec.json"), encoding="utf-8"))
     im, n = strip(spec["details"])
-    if n + 1 > MAX_SLIDES:
+    end = spec.get("end") == "full"
+    if n + 1 + end > MAX_SLIDES:
         sys.exit(f"{n} slides + cover is over Instagram's {MAX_SLIDES}")
     for i in range(n):
         im.crop((i * OW, 0, (i + 1) * OW, OH)).save(os.path.join(folder, f"{i + 1:02d}.jpg"),
                                                      quality=95, subsampling=0)
     master = covers.content(workposts.load(workposts.path_of(spec["cover"])))
     covers.save(covers.fit(master), os.path.join(folder, "00.jpg"))
+    if end:
+        k = max(OW / master.width, OH / master.height)
+        full = master.resize((round(master.width * k), round(master.height * k)), Image.LANCZOS)
+        l, t = (full.width - OW) // 2, (full.height - OH) // 2
+        covers.save(full.crop((l, t, l + OW, t + OH)), os.path.join(folder, f"{n + 1:02d}.jpg"))
+        n += 1
     print(f"{folder}: cover + {n} slides, {len(spec['details'])} photos")
 
 
