@@ -1,0 +1,18 @@
+{
+  "type": "carousel",
+  "work": "kreatine-klaude-kettlebell",
+  "kind": "details-panorama",
+  "layout": "cover = the whole painting; then the detail photos fit to height side by side with a 20 px white gap, cut into 4:5 slides so each swipe continues the strip",
+  "cover": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell.jpg",
+  "details": [
+    "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-01.jpg",
+    "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-06.jpg",
+    "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-09.jpg",
+    "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-05.jpg",
+    "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-03.jpg",
+    "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-11.jpg",
+    "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-10.jpg",
+    "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-14.jpg",
+    "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-07.jpg"
+  ]
+}

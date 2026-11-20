@@ -83,10 +83,10 @@
    "day": "Cmt",
    "time": "19:00",
    "week": 2,
-   "kind": "reel-detay",
-   "folder": "posts/milan/the-assassination-of-the-crow-details",
-   "work": "the-assassination-of-the-crow",
-   "note": "arşiv günü: 2019–2020"
+   "kind": "carousel-detay",
+   "folder": "posts/details/kreatine-klaude-kettlebell",
+   "work": "kreatine-klaude-kettlebell",
+   "note": "2026 detay carousel, kesintisiz şerit: kapakta resmin tamamı, sonra 9 detay yan yana (ince beyaz boşluk), 17 sayfa kaydırdıkça devam ediyor. Kargadan (arşiv) bu slotu aldı; arşiv cumartesileri bir hafta kaydı."
   },
   {
    "date": "2026-11-23",
@@ -124,8 +124,8 @@
    "time": "19:00",
    "week": 3,
    "kind": "reel-detay",
-   "folder": "posts/milan/cute-but-unemployed-cartoon-figure-details",
-   "work": "cute-but-unemployed-cartoon-figure",
+   "folder": "posts/milan/the-assassination-of-the-crow-details",
+   "work": "the-assassination-of-the-crow",
    "note": "arşiv günü: 2019–2020"
   },
   {
@@ -164,8 +164,8 @@
    "time": "19:00",
    "week": 4,
    "kind": "reel-detay",
-   "folder": "posts/milan/baby-rights-101-details",
-   "work": "baby-rights-101",
+   "folder": "posts/milan/cute-but-unemployed-cartoon-figure-details",
+   "work": "cute-but-unemployed-cartoon-figure",
    "note": "arşiv günü: 2019–2020"
   },
   {
@@ -203,9 +203,9 @@
    "day": "Cmt",
    "time": "19:00",
    "week": 5,
-   "kind": "reel-kayıt",
-   "folder": "posts/milan/caprocorn-sister-war-plague-earthquake-footage",
-   "work": "caprocorn-sister-war-plague-earthquake",
+   "kind": "reel-detay",
+   "folder": "posts/milan/baby-rights-101-details",
+   "work": "baby-rights-101",
    "note": "arşiv günü: 2019–2020"
   },
   {
@@ -243,9 +243,9 @@
    "day": "Cmt",
    "time": "19:00",
    "week": 6,
-   "kind": "reel-detay",
-   "folder": "posts/milan/ciao-capo-sono-squalo-details",
-   "work": "ciao-capo-sono-squalo",
+   "kind": "reel-kayıt",
+   "folder": "posts/milan/caprocorn-sister-war-plague-earthquake-footage",
+   "work": "caprocorn-sister-war-plague-earthquake",
    "note": "arşiv günü: 2019–2020"
   },
   {
@@ -284,8 +284,8 @@
    "time": "19:00",
    "week": 7,
    "kind": "reel-detay",
-   "folder": "posts/milan/cellular-spleens-details",
-   "work": "cellular-spleens",
+   "folder": "posts/milan/ciao-capo-sono-squalo-details",
+   "work": "ciao-capo-sono-squalo",
    "note": "arşiv günü: 2019–2020"
   },
   {
@@ -324,8 +324,8 @@
    "time": "19:00",
    "week": 8,
    "kind": "reel-detay",
-   "folder": "posts/milan/guarding-holy-mountains-from-malice-details",
-   "work": "guarding-holy-mountains-from-malice",
+   "folder": "posts/milan/cellular-spleens-details",
+   "work": "cellular-spleens",
    "note": "arşiv günü: 2019–2020"
   },
   {
@@ -364,8 +364,8 @@
    "time": "19:00",
    "week": 9,
    "kind": "reel-detay",
-   "folder": "posts/milan/the-family-dinner-after-a-night-in-jail-details",
-   "work": "the-family-dinner-after-a-night-in-jail",
+   "folder": "posts/milan/guarding-holy-mountains-from-malice-details",
+   "work": "guarding-holy-mountains-from-malice",
    "note": "arşiv günü: 2019–2020"
   },
   {
@@ -404,8 +404,8 @@
    "time": "19:00",
    "week": 10,
    "kind": "reel-detay",
-   "folder": "posts/milan/duality-of-the-angelic-summarization-details",
-   "work": "duality-of-the-angelic-summarization",
+   "folder": "posts/milan/the-family-dinner-after-a-night-in-jail-details",
+   "work": "the-family-dinner-after-a-night-in-jail",
    "note": "arşiv günü: 2019–2020"
   },
   {
@@ -444,8 +444,8 @@
    "time": "19:00",
    "week": 11,
    "kind": "reel-detay",
-   "folder": "posts/milan/when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire-details",
-   "work": "when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire",
+   "folder": "posts/milan/duality-of-the-angelic-summarization-details",
+   "work": "duality-of-the-angelic-summarization",
    "note": "arşiv günü: 2019–2020"
   },
   {
@@ -484,8 +484,8 @@
    "time": "19:00",
    "week": 12,
    "kind": "reel-detay",
-   "folder": "posts/milan/sin-over-black-matter-details",
-   "work": "sin-over-black-matter",
+   "folder": "posts/milan/when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire-details",
+   "work": "when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire",
    "note": "arşiv günü: 2019–2020"
   },
   {
@@ -523,6 +523,16 @@
    "day": "Cmt",
    "time": "19:00",
    "week": 13,
+   "kind": "reel-detay",
+   "folder": "posts/milan/sin-over-black-matter-details",
+   "work": "sin-over-black-matter",
+   "note": "arşiv günü: 2019–2020"
+  },
+  {
+   "date": "2027-02-13",
+   "day": "Cmt",
+   "time": "19:00",
+   "week": 14,
    "kind": "reel-detay",
    "folder": "posts/milan/amor-cathedra-details",
    "work": "amor-cathedra",
