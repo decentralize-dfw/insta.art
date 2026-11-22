@@ -28,5 +28,27 @@ Medyan görüntülenme 322. "Yabancı etkileşim" = etkileşim × takipçi olmay
 | 19.11 | details kitap | reel | 182 | 113 | 0,57 | %78 | 27 | 2 | 2 | 0 | – | 0 |
 | 21.11 | kreatine (paylaşımlı) | carousel | 325 | 128 | 1,01 | %31 | 36 | 5 | 1 | 0 | 8 | 1 |
 
-Okuma (n=9, zayıf): 9 postta 0 paylaşım. Reel'ler yabancıya gidiyor (%72–80) ama yabancı
-etkileşimi 2–16. Takiplerin 7'si Angora'dan (Story), 5'i tam resmi gösteren iki tek posttan.
+Not: web tablosu paylaşımı 0 gösteriyordu, yanlış. Telefon verisi aşağıda (gönderi üzerindeki paylaşım sayacı 2–9).
+
+## 22 Kasım: telefon verisi (Reel oranları, izlenme süresi, paylaşım sayacı)
+
+Kaynak: Yiğit'in 22.11.2026 telefon kaydı (19:23–19:26). Atlama oranı = ilk 3 saniyede kaydıranlar.
+Karşılaştırma etiketi Instagram'ın, hesabın kendi tipik reel'ine göre.
+
+| tarih | reel | süre | atlama | etiket | ort. izleme | paylaşım oranı | paylaşım | profil ziyareti | takip | Story payı |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 08.11 | açıklamasız (hızlı açılışsız) | 16 sn | %79,4 | – | 4 sn | %1,7 | 4 | 4 | 0 | %13,6 |
+| 11.11 | Angora (Story) | 33 sn | %75,6 | daha düşük | 7 sn | %2,8 | 9 | 31 | 7 | %44,0 |
+| 12.11 | viperella (boyama kaydı) | 63 sn | **%69,2** | daha düşük | **9 sn** | %0 | – | 4 | 0 | %16,8 |
+| 16.11 | gxd B (Story, başlık + ses) | 26 sn | **%79,8** | daha yüksek | 4 sn | %1,5 | 5 | 19 | 1 | %51,9 |
+| 19.11 | details kitap | 45 sn | %77,4 | tipik | 5 sn | %4,5 | 6 | 4 | 0 | %13,9 |
+
+Diğer postlar (paylaşım sayacı / yeniden paylaşım / profil ziyareti / takip): 80x80 4/2/14/3,
+penguin 7/3/10/2, birds 2/2/1/1, kreatine 5/3/8/1. Kreatine kaynak: Feed %44,6, Stories %43,7.
+
+İzleyici tutma grafikleri beş reel'de de aynı: ilk 2–3 saniyede %100'den ~%20–25'e iniyor, sonra düz.
+Kitle: Türkiye %49–63, Lüksemburg %9–16, 25–34 yaş %56–69, erkek %65–72. Explore payı %0,5–7,8.
+
+Okuma (n=5 reel, zayıf): sorun ilk 3 saniye (atlama %69–80, ortalama izleme 4–9 sn). En iyi tutan
+boyama kaydı (viperella %69,2), en kötü başlık + ses (gxd B %79,8). Hızlı açılışsız 8 Kasım reel'i
+de %79,4: hızlı açılış ne kurtarıyor ne batırıyor. Story günlerinde görüntülemelerin %44–52'si Story'den.
