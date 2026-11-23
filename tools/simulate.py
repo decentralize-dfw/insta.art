@@ -30,7 +30,7 @@ WEEKS, RUNS = 12, 4000
 
 SCENARIOS = [
     ("S0", "Şimdiki gidiş", dict(hold=0.23, watch=0.17)),
-    ("S1", "Kısa reel + boyamayla açılış (mevcut kayıtlar)", dict(hold=0.31, watch=0.40)),
+    ("S1", "Kısa reel + süreçle açılış (aşama fotoğrafları)", dict(hold=0.31, watch=0.40)),
     ("S2", "S1 + yeni çekim: el, ölçek, kişi", dict(hold=0.38, watch=0.45)),
     ("S3", "S2 + iki haftada bir Collab + günlük yorum turu", dict(hold=0.38, watch=0.45, collab=True, seed=1.2)),
 ]

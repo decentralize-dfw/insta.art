@@ -2,7 +2,7 @@
  "timezone": "Europe/Paris",
  "start": "2026-11-11",
  "week1_monday": "2026-11-09",
- "rhythm": "haftada 4: Pzt 2026 Reel (ana hesaptan Story), Çrş carousel (editoryel / 2026 detay-portfolyo), Per 2026 Reel (süreç, kayıt, portfolyo), Cmt arşiv günü (2019–2020 Reel)",
+ "rhythm": "haftada 4: Pzt 2026 Reel (ana hesaptan Story), Çrş carousel, Per 2026 Reel, Cmt 2026 Reel. 2019–2020 arşivi geride: 2 Ocak 2027'den itibaren yalnız Cumartesi, haftada bir; the assassination of the crow en sonda. Düşük kaliteli boyama kayıtları (7 fam, sept neuf) takvimde yok.",
  "note": "Kurallar: .claude/instagram/voice.md, gerekçe: .claude/instagram/plan.md",
  "spare": [
   "posts/milan/portal-ticino-details",
@@ -15,7 +15,8 @@
   "posts/details/angora-mergvs",
   "posts/details/gxd-is-afk-we-banned-it",
   "posts/details/painstaking",
-  "posts/kopstal/sept-neuf-footage"
+  "posts/kopstal/sept-neuf-footage",
+  "posts/kopstal/7-fam-board-game-footage"
  ],
  "posts": [
   {
@@ -93,11 +94,10 @@
    "day": "Pzt",
    "time": "19:00",
    "week": 3,
-   "kind": "reel-kayıt",
-   "folder": "posts/kopstal/7-fam-board-game-footage",
-   "work": "7-fam-board-game",
-   "note": "reel-kisa.mp4 paylaşılır (12 sn): 2 sn hızlı açılış, boyama 2,4 kat hızlı, sonda bitmiş resim ~1 sn, kuş. Ana hesaptan Story (postu paylaş + bahsetme). İlk saat bütün yorumlara cevap. Test: boyamayla açılan kısa reel; atlama oranı %69'un altına iner mi (şu an %69–80).",
-   "video": "reel-kisa.mp4"
+   "kind": "reel-süreç",
+   "folder": "posts/kopstal/gary-grills-cooper-process",
+   "work": "gary-grills-cooper",
+   "note": "Bugün, 7 fam kaydının yerine (kalitesi düşük). 17 sn, aşama fotoğrafları: hızlı ileri, sonra geriye. Ana hesaptan Story (postu paylaş + bahsetme). İlk saat yorumlara cevap. Test: süreçle açılan kısa reel; atlama %69'un altına iner mi."
   },
   {
    "date": "2026-11-25",
@@ -115,20 +115,19 @@
    "time": "19:00",
    "week": 3,
    "kind": "reel-süreç",
-   "folder": "posts/kopstal/gary-grills-cooper-process",
-   "work": "gary-grills-cooper",
-   "note": "gary grills cooper süreç reel'i (17 sn, döngü) olduğu gibi. Test: süreçle açılan kısa reel'in atlama oranı."
+   "folder": "posts/kopstal/angora-mergvs-process",
+   "work": "angora-mergvs",
+   "note": "2026 süreç reel'i (19 sn). Angora detay reel'inden 15 gün sonra, yeni görsel bilgi: aşamalar."
   },
   {
    "date": "2026-11-28",
    "day": "Cmt",
    "time": "19:00",
    "week": 3,
-   "kind": "reel-detay",
-   "folder": "posts/milan/the-assassination-of-the-crow-details",
-   "work": "the-assassination-of-the-crow",
-   "note": "arşiv günü · reel-kisa.mp4 paylaşılır (16 sn): hızlı açılış, 3 yakın plan, zoom-out, kuş. Test: kısa detay reel'i; izlenen pay %40'ı geçer mi (şu an %11–25).",
-   "video": "reel-kisa.mp4"
+   "kind": "reel-süreç",
+   "folder": "posts/kopstal/walls-of-perception-process",
+   "work": "walls-of-perception",
+   "note": "Cumartesi artık 2026 (arşiv Ocak'tan sonra). 11 sn süreç reel'i."
   },
   {
    "date": "2026-11-30",
@@ -138,7 +137,7 @@
    "kind": "reel-detay",
    "folder": "posts/kopstal/virgil-on-virtual-cage-final-final-finalv9-details",
    "work": "virgil-on-virtual-cage-final-final-finalv9",
-   "note": "Ana hesaptan Story (postu paylaş + bahsetme)"
+   "note": "Ana hesaptan Story (postu paylaş + bahsetme)."
   },
   {
    "date": "2026-12-02",
@@ -156,19 +155,19 @@
    "time": "19:00",
    "week": 4,
    "kind": "reel-süreç",
-   "folder": "posts/kopstal/angora-mergvs-process",
-   "work": "angora-mergvs",
-   "note": "2026 Reel: süreç, kayıt ya da portfolyo"
+   "folder": "posts/kopstal/7-fam-board-game-process",
+   "work": "7-fam-board-game",
+   "note": "2026 süreç reel'i (aşama fotoğrafları, kayıt değil)."
   },
   {
    "date": "2026-12-05",
    "day": "Cmt",
    "time": "19:00",
    "week": 4,
-   "kind": "reel-detay",
-   "folder": "posts/milan/cute-but-unemployed-cartoon-figure-details",
-   "work": "cute-but-unemployed-cartoon-figure",
-   "note": "arşiv günü: 2019–2020"
+   "kind": "reel-süreç",
+   "folder": "posts/kopstal/gxd-is-afk-we-banned-it-process",
+   "work": "gxd-is-afk-we-banned-it",
+   "note": "2026 süreç reel'i."
   },
   {
    "date": "2026-12-07",
@@ -178,7 +177,7 @@
    "kind": "reel-detay",
    "folder": "posts/kopstal/s-t-lop-details",
    "work": "s-t-lop",
-   "note": "Ana hesaptan Story (postu paylaş + bahsetme)"
+   "note": "Ana hesaptan Story (postu paylaş + bahsetme)."
   },
   {
    "date": "2026-12-09",
@@ -188,7 +187,7 @@
    "kind": "carousel-detay",
    "folder": "posts/details/walls-of-perception",
    "work": "walls-of-perception",
-   "note": "portfolyo / 2026 detay carousel slotu"
+   "note": "2026 detay carousel"
   },
   {
    "date": "2026-12-10",
@@ -198,17 +197,17 @@
    "kind": "reel-süreç",
    "folder": "posts/kopstal/articulo-attack-on-mandarin-process",
    "work": "articulo-attack-on-mandarin",
-   "note": "2026 Reel: süreç, kayıt ya da portfolyo"
+   "note": "2026 süreç reel'i."
   },
   {
    "date": "2026-12-12",
    "day": "Cmt",
    "time": "19:00",
    "week": 5,
-   "kind": "reel-detay",
-   "folder": "posts/milan/baby-rights-101-details",
-   "work": "baby-rights-101",
-   "note": "arşiv günü: 2019–2020"
+   "kind": "reel-model",
+   "folder": "posts/kopstal/angora-mergvs-model",
+   "work": "angora-mergvs",
+   "note": "2026 · 3D model (13 sn)."
   },
   {
    "date": "2026-12-14",
@@ -218,7 +217,7 @@
    "kind": "reel-detay",
    "folder": "posts/kopstal/painstaking-details",
    "work": "painstaking",
-   "note": "Ana hesaptan Story (postu paylaş + bahsetme)"
+   "note": "Ana hesaptan Story (postu paylaş + bahsetme)."
   },
   {
    "date": "2026-12-16",
@@ -236,19 +235,19 @@
    "time": "19:00",
    "week": 6,
    "kind": "reel-süreç",
-   "folder": "posts/kopstal/gxd-is-afk-we-banned-it-process",
-   "work": "gxd-is-afk-we-banned-it",
-   "note": "2026 Reel: süreç, kayıt ya da portfolyo"
+   "folder": "posts/kopstal/sept-neuf-process",
+   "work": "sept-neuf",
+   "note": "2026 süreç reel'i."
   },
   {
    "date": "2026-12-19",
    "day": "Cmt",
    "time": "19:00",
    "week": 6,
-   "kind": "reel-kayıt",
-   "folder": "posts/milan/caprocorn-sister-war-plague-earthquake-footage",
-   "work": "caprocorn-sister-war-plague-earthquake",
-   "note": "arşiv günü: 2019–2020"
+   "kind": "reel-süreç",
+   "folder": "posts/kopstal/virgil-on-virtual-cage-final-final-finalv9-process",
+   "work": "virgil-on-virtual-cage-final-final-finalv9",
+   "note": "2026 süreç reel'i."
   },
   {
    "date": "2026-12-21",
@@ -258,7 +257,7 @@
    "kind": "reel-detay",
    "folder": "posts/kopstal/gary-grills-cooper-details",
    "work": "gary-grills-cooper",
-   "note": "Ana hesaptan Story (postu paylaş + bahsetme)"
+   "note": "Ana hesaptan Story (postu paylaş + bahsetme)."
   },
   {
    "date": "2026-12-23",
@@ -268,17 +267,17 @@
    "kind": "carousel-detay",
    "folder": "posts/details/s-t-lop",
    "work": "s-t-lop",
-   "note": "portfolyo / 2026 detay carousel slotu"
+   "note": "2026 detay carousel"
   },
   {
    "date": "2026-12-24",
    "day": "Per",
    "time": "19:00",
    "week": 7,
-   "kind": "reel-süreç",
-   "folder": "posts/kopstal/walls-of-perception-process",
+   "kind": "reel-detay",
+   "folder": "posts/kopstal/walls-of-perception-details",
    "work": "walls-of-perception",
-   "note": "2026 Reel: süreç, kayıt ya da portfolyo"
+   "note": "2026 detay reel'i."
   },
   {
    "date": "2026-12-26",
@@ -286,9 +285,9 @@
    "time": "19:00",
    "week": 7,
    "kind": "reel-detay",
-   "folder": "posts/milan/ciao-capo-sono-squalo-details",
-   "work": "ciao-capo-sono-squalo",
-   "note": "arşiv günü: 2019–2020"
+   "folder": "posts/kopstal/7-fam-board-game-details",
+   "work": "7-fam-board-game",
+   "note": "2026 detay reel'i."
   },
   {
    "date": "2026-12-28",
@@ -298,7 +297,7 @@
    "kind": "reel-detay",
    "folder": "posts/kopstal/sept-neuf-details",
    "work": "sept-neuf",
-   "note": "Ana hesaptan Story (postu paylaş + bahsetme)"
+   "note": "Ana hesaptan Story (postu paylaş + bahsetme)."
   },
   {
    "date": "2026-12-30",
@@ -315,10 +314,10 @@
    "day": "Per",
    "time": "19:00",
    "week": 8,
-   "kind": "reel-süreç",
-   "folder": "posts/kopstal/7-fam-board-game-process",
-   "work": "7-fam-board-game",
-   "note": "2026 Reel: süreç, kayıt ya da portfolyo"
+   "kind": "reel-detay",
+   "folder": "posts/kopstal/articulo-attack-on-mandarin-details",
+   "work": "articulo-attack-on-mandarin",
+   "note": "2026 detay reel'i. Son 2026 reel'i; Ocak'ta Pzt ve Per için yeni içerik gerekir."
   },
   {
    "date": "2027-01-02",
@@ -326,19 +325,9 @@
    "time": "19:00",
    "week": 8,
    "kind": "reel-detay",
-   "folder": "posts/milan/cellular-spleens-details",
-   "work": "cellular-spleens",
-   "note": "arşiv günü: 2019–2020"
-  },
-  {
-   "date": "2027-01-04",
-   "day": "Pzt",
-   "time": "19:00",
-   "week": 9,
-   "kind": "reel-detay",
-   "folder": "posts/kopstal/articulo-attack-on-mandarin-details",
-   "work": "articulo-attack-on-mandarin",
-   "note": "Ana hesaptan Story (postu paylaş + bahsetme)"
+   "folder": "posts/milan/cute-but-unemployed-cartoon-figure-details",
+   "work": "cute-but-unemployed-cartoon-figure",
+   "note": "arşiv günü (2019–2020), haftada bir"
   },
   {
    "date": "2027-01-06",
@@ -348,17 +337,7 @@
    "kind": "carousel-detay",
    "folder": "posts/details/virgil-on-virtual-cage-final-final-finalv9",
    "work": "virgil-on-virtual-cage-final-final-finalv9",
-   "note": "portfolyo / 2026 detay carousel slotu"
-  },
-  {
-   "date": "2027-01-07",
-   "day": "Per",
-   "time": "19:00",
-   "week": 9,
-   "kind": "reel-detay",
-   "folder": "posts/kopstal/walls-of-perception-details",
-   "work": "walls-of-perception",
-   "note": "2026 Reel: süreç, kayıt ya da portfolyo"
+   "note": "2026 detay carousel"
   },
   {
    "date": "2027-01-09",
@@ -366,19 +345,9 @@
    "time": "19:00",
    "week": 9,
    "kind": "reel-detay",
-   "folder": "posts/milan/guarding-holy-mountains-from-malice-details",
-   "work": "guarding-holy-mountains-from-malice",
-   "note": "arşiv günü: 2019–2020"
-  },
-  {
-   "date": "2027-01-11",
-   "day": "Pzt",
-   "time": "19:00",
-   "week": 10,
-   "kind": "reel-model",
-   "folder": "posts/kopstal/angora-mergvs-model",
-   "work": "angora-mergvs",
-   "note": "Ana hesaptan Story (postu paylaş + bahsetme)"
+   "folder": "posts/milan/baby-rights-101-details",
+   "work": "baby-rights-101",
+   "note": "arşiv günü (2019–2020), haftada bir"
   },
   {
    "date": "2027-01-13",
@@ -391,34 +360,14 @@
    "note": "editoryel"
   },
   {
-   "date": "2027-01-14",
-   "day": "Per",
-   "time": "19:00",
-   "week": 10,
-   "kind": "reel-süreç",
-   "folder": "posts/kopstal/sept-neuf-process",
-   "work": "sept-neuf",
-   "note": "2026 Reel: süreç, kayıt ya da portfolyo"
-  },
-  {
    "date": "2027-01-16",
    "day": "Cmt",
    "time": "19:00",
    "week": 10,
    "kind": "reel-detay",
-   "folder": "posts/milan/the-family-dinner-after-a-night-in-jail-details",
-   "work": "the-family-dinner-after-a-night-in-jail",
-   "note": "arşiv günü: 2019–2020"
-  },
-  {
-   "date": "2027-01-18",
-   "day": "Pzt",
-   "time": "19:00",
-   "week": 11,
-   "kind": "reel-detay",
-   "folder": "posts/kopstal/7-fam-board-game-details",
-   "work": "7-fam-board-game",
-   "note": "Ana hesaptan Story (postu paylaş + bahsetme)"
+   "folder": "posts/milan/ciao-capo-sono-squalo-details",
+   "work": "ciao-capo-sono-squalo",
+   "note": "arşiv günü (2019–2020), haftada bir"
   },
   {
    "date": "2027-01-20",
@@ -428,17 +377,7 @@
    "kind": "carousel-detay",
    "folder": "posts/details/articulo-attack-on-mandarin",
    "work": "articulo-attack-on-mandarin",
-   "note": "portfolyo / 2026 detay carousel slotu"
-  },
-  {
-   "date": "2027-01-21",
-   "day": "Per",
-   "time": "19:00",
-   "week": 11,
-   "kind": "reel-süreç",
-   "folder": "posts/kopstal/virgil-on-virtual-cage-final-final-finalv9-process",
-   "work": "virgil-on-virtual-cage-final-final-finalv9",
-   "note": "2026 Reel: süreç, kayıt ya da portfolyo"
+   "note": "2026 detay carousel"
   },
   {
    "date": "2027-01-23",
@@ -446,19 +385,9 @@
    "time": "19:00",
    "week": 11,
    "kind": "reel-detay",
-   "folder": "posts/milan/duality-of-the-angelic-summarization-details",
-   "work": "duality-of-the-angelic-summarization",
-   "note": "arşiv günü: 2019–2020"
-  },
-  {
-   "date": "2027-01-25",
-   "day": "Pzt",
-   "time": "19:00",
-   "week": 12,
-   "kind": "reel-detay",
-   "folder": "posts/milan/victim-psycho-logique-ii-the-peachy-pharaoh-connects-with-the-chair-details",
-   "work": "victim-psycho-logique-ii-the-peachy-pharaoh-connects-with-the-chair",
-   "note": "yer tutucu: 2026 Reel'i bitti, yeni 2026 içeriği gelince değişir. Ana hesaptan Story"
+   "folder": "posts/milan/cellular-spleens-details",
+   "work": "cellular-spleens",
+   "note": "arşiv günü (2019–2020), haftada bir"
   },
   {
    "date": "2027-01-27",
@@ -468,17 +397,7 @@
    "kind": "carousel-detay",
    "folder": "posts/details/gary-grills-cooper",
    "work": "gary-grills-cooper",
-   "note": "portfolyo / 2026 detay carousel slotu"
-  },
-  {
-   "date": "2027-01-28",
-   "day": "Per",
-   "time": "19:00",
-   "week": 12,
-   "kind": "reel-detay",
-   "folder": "posts/milan/morbid-forebodings-triggered-by-childish-landscape-details",
-   "work": "morbid-forebodings-triggered-by-childish-landscape",
-   "note": "yer tutucu: 2026 Reel'i bitti, yeni 2026 içeriği gelince değişir"
+   "note": "2026 detay carousel"
   },
   {
    "date": "2027-01-30",
@@ -486,19 +405,9 @@
    "time": "19:00",
    "week": 12,
    "kind": "reel-detay",
-   "folder": "posts/milan/when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire-details",
-   "work": "when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire",
-   "note": "arşiv günü: 2019–2020"
-  },
-  {
-   "date": "2027-02-01",
-   "day": "Pzt",
-   "time": "19:00",
-   "week": 13,
-   "kind": "reel-detay",
-   "folder": "posts/milan/wings-of-abyss-details",
-   "work": "wings-of-abyss",
-   "note": "yer tutucu: 2026 Reel'i bitti, yeni 2026 içeriği gelince değişir. Ana hesaptan Story"
+   "folder": "posts/milan/guarding-holy-mountains-from-malice-details",
+   "work": "guarding-holy-mountains-from-malice",
+   "note": "arşiv günü (2019–2020), haftada bir"
   },
   {
    "date": "2027-02-03",
@@ -508,17 +417,7 @@
    "kind": "carousel-detay",
    "folder": "posts/details/7-fam-board-game",
    "work": "7-fam-board-game",
-   "note": "portfolyo / 2026 detay carousel slotu"
-  },
-  {
-   "date": "2027-02-04",
-   "day": "Per",
-   "time": "19:00",
-   "week": 13,
-   "kind": "reel-detay",
-   "folder": "posts/milan/how-to-materialize-your-loneliness-by-using-an-animal-in-somewhere-concrete-or-technologic-details",
-   "work": "how-to-materialize-your-loneliness-by-using-an-animal-in-somewhere-concrete-or-technologic",
-   "note": "yer tutucu: 2026 Reel'i bitti, yeni 2026 içeriği gelince değişir"
+   "note": "2026 detay carousel"
   },
   {
    "date": "2027-02-06",
@@ -526,9 +425,9 @@
    "time": "19:00",
    "week": 13,
    "kind": "reel-detay",
-   "folder": "posts/milan/sin-over-black-matter-details",
-   "work": "sin-over-black-matter",
-   "note": "arşiv günü: 2019–2020"
+   "folder": "posts/milan/the-family-dinner-after-a-night-in-jail-details",
+   "work": "the-family-dinner-after-a-night-in-jail",
+   "note": "arşiv günü (2019–2020), haftada bir"
   },
   {
    "date": "2027-02-13",
@@ -536,15 +435,105 @@
    "time": "19:00",
    "week": 14,
    "kind": "reel-detay",
+   "folder": "posts/milan/duality-of-the-angelic-summarization-details",
+   "work": "duality-of-the-angelic-summarization",
+   "note": "arşiv günü (2019–2020), haftada bir"
+  },
+  {
+   "date": "2027-02-20",
+   "day": "Cmt",
+   "time": "19:00",
+   "week": 15,
+   "kind": "reel-detay",
+   "folder": "posts/milan/when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire-details",
+   "work": "when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire",
+   "note": "arşiv günü (2019–2020), haftada bir"
+  },
+  {
+   "date": "2027-02-27",
+   "day": "Cmt",
+   "time": "19:00",
+   "week": 16,
+   "kind": "reel-detay",
+   "folder": "posts/milan/sin-over-black-matter-details",
+   "work": "sin-over-black-matter",
+   "note": "arşiv günü (2019–2020), haftada bir"
+  },
+  {
+   "date": "2027-03-06",
+   "day": "Cmt",
+   "time": "19:00",
+   "week": 17,
+   "kind": "reel-detay",
    "folder": "posts/milan/amor-cathedra-details",
    "work": "amor-cathedra",
-   "note": "arşiv günü: 2019–2020"
+   "note": "arşiv günü (2019–2020), haftada bir"
+  },
+  {
+   "date": "2027-03-13",
+   "day": "Cmt",
+   "time": "19:00",
+   "week": 18,
+   "kind": "reel-detay",
+   "folder": "posts/milan/victim-psycho-logique-ii-the-peachy-pharaoh-connects-with-the-chair-details",
+   "work": "victim-psycho-logique-ii-the-peachy-pharaoh-connects-with-the-chair",
+   "note": "arşiv günü (2019–2020), haftada bir"
+  },
+  {
+   "date": "2027-03-20",
+   "day": "Cmt",
+   "time": "19:00",
+   "week": 19,
+   "kind": "reel-detay",
+   "folder": "posts/milan/morbid-forebodings-triggered-by-childish-landscape-details",
+   "work": "morbid-forebodings-triggered-by-childish-landscape",
+   "note": "arşiv günü (2019–2020), haftada bir"
+  },
+  {
+   "date": "2027-03-27",
+   "day": "Cmt",
+   "time": "19:00",
+   "week": 20,
+   "kind": "reel-detay",
+   "folder": "posts/milan/wings-of-abyss-details",
+   "work": "wings-of-abyss",
+   "note": "arşiv günü (2019–2020), haftada bir"
+  },
+  {
+   "date": "2027-04-03",
+   "day": "Cmt",
+   "time": "19:00",
+   "week": 21,
+   "kind": "reel-detay",
+   "folder": "posts/milan/how-to-materialize-your-loneliness-by-using-an-animal-in-somewhere-concrete-or-technologic-details",
+   "work": "how-to-materialize-your-loneliness-by-using-an-animal-in-somewhere-concrete-or-technologic",
+   "note": "arşiv günü (2019–2020), haftada bir"
+  },
+  {
+   "date": "2027-04-10",
+   "day": "Cmt",
+   "time": "19:00",
+   "week": 22,
+   "kind": "reel-kayıt",
+   "folder": "posts/milan/caprocorn-sister-war-plague-earthquake-footage",
+   "work": "caprocorn-sister-war-plague-earthquake",
+   "note": "arşiv günü (2019–2020), haftada bir · boyama kaydı: paylaşmadan önce kaliteye bakılmalı"
+  },
+  {
+   "date": "2027-04-17",
+   "day": "Cmt",
+   "time": "19:00",
+   "week": 23,
+   "kind": "reel-detay",
+   "folder": "posts/milan/the-assassination-of-the-crow-details",
+   "work": "the-assassination-of-the-crow",
+   "note": "arşiv günü (2019–2020), haftada bir · Yiğit: yakın zamanda paylaşılmayacak, en sonda"
   }
  ],
  "tasks": [
   {
    "date": "2026-11-23",
-   "text": "Story + ilk saat yorumlara cevap",
+   "text": "Gary süreç reel'i + ana hesaptan Story, ilk saat yorumlara cevap",
    "short": "Story, yorumlara cevap"
   },
   {
@@ -559,8 +548,17 @@
   },
   {
    "date": "2026-11-29",
-   "text": "Pzt ve Per reel'lerinin 72. saat rakamları: atlama oranı, ortalama izleme, paylaşım → ajana",
-   "short": "72. saat rakamları"
+   "short": "72. saat rakamları",
+   "text": "Pzt (gary süreç) ve Per (angora süreç) reel'lerinin 72. saat rakamları: atlama oranı, ortalama izleme, paylaşım, eklenen müzik → ajana"
+  },
+  {
+   "date": "2027-01-04",
+   "short": "yeni içerik lazım",
+   "text": "2026 reel'leri 31 Aralık'ta bitiyor. Ocak'ta Pzt ve Per için yeni içerik: yeni resim, yeni çekim ya da yeni kesim."
   }
- ]
+ ],
+ "spare_notes": {
+  "posts/kopstal/7-fam-board-game-footage": "Kayıt kalitesi düşük (Yiğit, 23 Kasım). Yakında paylaşılmaz; profil oturunca belki.",
+  "posts/kopstal/sept-neuf-footage": "Kayıt kalitesi düşük (Yiğit)."
+ }
 }

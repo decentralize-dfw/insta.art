@@ -31,7 +31,7 @@ Beş izleyici tutma grafiğinin şekli aynı: ilk 2–3 saniyede %100'den %20–
 
 **Çözüm**
 
-- Reel'i boyanın sürüldüğü anla aç: fırça, parmak, tuvalde hareket. Repoda 5 eserden 41 boyama kaydı var.
+- Reel'i resmin oluştuğu anla aç. Süreç reel'leri (aşama fotoğrafları, yüksek kalite) hazır. Boyama kayıtlarının bir kısmı düşük kaliteli (7 fam, sept neuf); kayıt kullanmadan önce kaliteye bakılır.
 - Ekranda cümle, büyük başlık, yapay ses kullanma. gxd B en kötü atlama oranını aldı.
 - Hızlı açılış (2 sn tur + çubuk) kalabilir: hızlı açılışsız 8 Kasım reel'i de %79,4 atlandı, yani ne kurtarıyor ne batırıyor.
 
@@ -68,7 +68,7 @@ Süre ne olursa olsun insanlar 4–9 saniye izliyor. Uzun reel'de bu, düşük b
 
 **Çözüm (mevcut malzemeyle):**
 
-- Boyama kaydından en hareketli an ilk karede.
+- Süreç reel'inin hızlı ileri açılışı: eskizden bitmiş resme.
 - Önce/sonra: boş tuvalden bitmiş resme 2 sn.
 - Tanıdık figürün okunduğu detay ilk karede (gary'nin purolu figürü, penguen gibi).
 - Eskiz ve bitmiş resim yan yana.
@@ -124,15 +124,15 @@ Süre ne olursa olsun insanlar 4–9 saniye izliyor. Uzun reel'de bu, düşük b
 
 | gün | ne | test |
 | --- | --- | --- |
-| Pzt 23 | 7 fam board game boyama kaydı, **12 sn kısa kesim** (`reel-kisa.mp4`), ana hesaptan Story | Boyamayla açılan kısa reel: atlama %69'un altına iner mi |
+| Pzt 23 | gary grills cooper süreç reel'i (17 sn, döngü), ana hesaptan Story | Süreçle açılan kısa reel: atlama %69'un altına iner mi |
 | Sal 24 | Post yok. 20 dk yorum turu, 3 ressama Collab teklifi | |
 | Çrş 25 | painstaking süreç carousel'i (kapak: eskiz ve bitmiş yan yana) | |
-| Per 26 | gary grills cooper süreç reel'i (17 sn, döngü), olduğu gibi | Süreçle açılan kısa reel |
+| Per 26 | Angora Mergvs süreç reel'i (19 sn) | Aynı test, Story'siz |
 | Cum 27 | Post yok. 10 dk telefon çekimi: fırça, ölçek, kitap | |
-| Cmt 28 | The assassination of the crow, **16 sn kısa kesim** (`reel-kisa.mp4`) | Kısa detay reel'i: izlenen pay %40'ı geçer mi |
+| Cmt 28 | walls of perception süreç reel'i (11 sn). Cumartesi artık 2026; arşiv 2 Ocak'tan sonra | En kısa reel: izlenen pay %40'ı geçer mi |
 | Paz 29 | Post yok. Pzt ve Per reel'lerinin 72. saat rakamları | |
 
-Sonuç ne olursa olsun Pzt 30 Kasım'daki virgil detay reel'i bu iki testin sonucuna göre hazırlanır.
+Pzt 30 Kasım'daki virgil detay reel'i bu haftanın sonucuna göre hazırlanır (kısa kesim gerekirse).
 
 ## Hedefler (her reel için 24. ve 72. saatte)
 
@@ -146,7 +146,7 @@ Sonuç ne olursa olsun Pzt 30 Kasım'daki virgil detay reel'i bu iki testin sonu
 
 ## Simülasyon: 12 haftada ne kadar artabilir
 
-`tools/simulate.py`, 4.000 deneme, 23 Kasım'dan 15 Şubat'a (12 hafta). Ritim aynı: haftada 3 reel, 1 carousel, Pazartesi ana hesap Story'si.
+`tools/simulate.py`, 4.000 deneme, 23 Kasım'dan 15 Şubat'a (12 hafta). Ritim: haftada 3 reel, 1 carousel, Pazartesi ana hesap Story'si.
 
 **Gerçek rakamlarla kalibre edilen kısım.** Her reel'in görüntülenmesi Instagram'ın kaynaklarına göre üçe ayrıldı:
 
@@ -168,7 +168,7 @@ Takip dönüşümü de veriden: Story'den gelenin %1,8'i (445 görüntülenmeden
 | senaryo | atlama | izlenen pay | reel başına görüntülenme (medyan) | 12 haftada takip (P10–P50–P90) | kötümser / iyimser | 12. haftada takipçi | en az bir reel 2.000+ |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **S0** Şimdiki gidiş | %77 | %17 | 241 (1.0×) | 70–**74**–80 (1.0×) | 74 / 74 | 804 | %3 |
-| **S1** Kısa reel + boyamayla açılış (mevcut kayıtlar) | %69 | %40 | 433 (1.8×) | 89–**97**–109 (1.3×) | 90 / 103 | 827 | %25 |
+| **S1** Kısa reel + süreçle açılış (aşama fotoğrafları) | %69 | %40 | 433 (1.8×) | 89–**97**–109 (1.3×) | 90 / 103 | 827 | %25 |
 | **S2** S1 + yeni çekim: el, ölçek, kişi | %62 | %45 | 613 (2.5×) | 111–**133**–174 (1.8×) | 111 / 157 | 863 | %51 |
 | **S3** S2 + iki haftada bir Collab + günlük yorum turu | %62 | %45 | 748 (3.1×) | 137–**163**–213 (2.2×) | 137 / 194 | 893 | %56 |
 
@@ -188,7 +188,8 @@ Her yeni haftanın rakamları gelince simülasyon yeniden kalibre edilir: S1'in 
 3. **Reel'leri uzun bıraktım.** "15–30 sn" kuralı, sondaki 2 sn duruş, 1 sn logo ve 63 sn'lik kayıtlar. İnsanlar 4–9 saniye izliyor; izlenen pay %11–25'te kaldı.
 4. **Hook testini bozdum.** gxd B'de aynı anda başlık, yapay ses, hashtag ve farklı bir gövde değişti. Hangisinin zarar verdiğini bilemiyoruz. Bir testte tek değişken olmalıydı. Trial reel'in bu hesapta dağıtılmadığını da baştan kontrol etmeliydim.
 5. **Veriyi iki kez yanlış okudum.** 182 görüntülenmeli reel'i gxd B sandım (kitapmış). Web'in "0 paylaşım"ına güvenip paylaşım olmamasını ana sorun ilan ettim (telefonda 2–9 vardı). Önce telefon istatistiklerini istemeliydim.
-6. **En değerli malzemeyi az kullandım.** voice.md'ye göre en değerli format gerçek boyama kaydı. Repoda 41 kayıt var; takvimde ise birkaç tane. Takvimi detay pan'larıyla doldurdum. En iyi tutan reel de bir boyama kaydıydı.
+6. **Kaliteye bakmadan kayıt önerdim.** Boyama kayıtlarını "en değerli malzeme" diye öne çıkardım ve 23 Kasım için 7 fam kaydından kısa kesim yaptım; kayıt bulanık, kaydırılmış ve köşeleri siyah, paylaşılamaz. Sept neuf kaydı için de aynısını daha önce söylemiştin. Her videoyu takvime koymadan önce kalitesine bakmalıyım.
+10. **Arşiv talimatını yanlış uyguladım.** "Eski 2019–2020 resimlerini arkalara at, haftada bir" demiştin; arşivi hemen her Cumartesi'ye koydum ve kargayı yalnızca bir hafta ileri ittim. Doğrusu: yakın haftalarda yalnız 2026, arşiv 2 Ocak'tan sonra, karga en sonda.
 7. **Takvimi yalnızca post olarak kurdum.** Yorum turu, Collab ve ilk saat cevapları büyümenin yarısı ama takvimde yoktu; 23 Kasım'a kadar sadece öneri olarak kaldı.
 8. **Müziği hiç kaydetmedim.** Müziği sen uygulamada ekliyorsun ve Reels dağıtımını etkileyebilen bir değişken. Hangi postta hangi müzik vardı, log'da yok.
 9. **Takipçi sayısını izlemedim.** 730'u ilk kez 22 Kasım'da öğrendim. Haftalık net artışı (takip eden eksi bırakan) bilmiyoruz; sadece post başına takip var.
@@ -213,7 +214,7 @@ Her Pazar:
 - **Yeni takipçilerden 10 tanesine bakış.** Ressam mı, sanat hesabı mı, çevreden mi? Tohum kitle kayıyor mu, bunu gösterir.
 - **Yorum turu ve Collab.** Kaç dakika, kaç yorum, kaç teklif, kaç dönüş.
 
-Test kuralı: **her reel'de tek değişken.** Bu hafta Pazartesi açılış tipini (boyama), Cumartesi süreyi (16 sn) test ediyor. Story olan ve olmayan günler ayrı karşılaştırılır.
+Test kuralı: **her reel'de tek değişken.** Bu hafta üç süreç reel'i (17, 19, 11 sn) açılış tipini ve kısalığı test ediyor. Story olan ve olmayan günler ayrı karşılaştırılır.
 
 ## Henüz bilinmeyenler
 

@@ -6,3 +6,5 @@
 - Müzik uygulamada eklenir.
 
 - **Kısa kesim (23 Kasım):** `reel-kisa.mp4`, 12 sn: 2 sn hızlı açılış + boyama 2,4 kat hızlı (kaynak 4,0–26,0 sn) + bitmiş resim ~1 sn + kuş, çan. Takvimde Pzt 23 Kasım bu paylaşılır. Test: boyamayla açılan kısa reel.
+
+- **23 Kasım:** Yiğit: kayıt kalitesi çok düşük, yakın zamanda paylaşılmaz (profil oturunca belki). Takvimden çıkarıldı, `spare` listesinde.

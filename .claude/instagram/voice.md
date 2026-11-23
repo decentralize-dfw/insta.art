@@ -234,8 +234,12 @@ Reel tipleri:
 
 - **Haftada 4 akış gönderisi, 2026 önde** (Yiğit, 16 Kasım 2026): Pzt 2026 Reel (en güçlü,
   ana hesaptan Story), Çrş carousel (editoryel ile 2026 detay/portfolyo dönüşümlü), Per 2026 Reel
-  (süreç, kayıt, portfolyo), Cmt arşiv günü (2019–2020 Reel, haftada bir). Tek resim haftalık
-  ritimde yok.
+  (süreç, kayıt, portfolyo), Cmt 2026 Reel. Tek resim haftalık ritimde yok.
+- **2019–2020 arşivi geride** (Yiğit, 20 ve 23 Kasım 2026): yakın haftalarda arşiv yok. 2026 reel'leri
+  bitince (2 Ocak 2027'den) yalnız Cumartesi, haftada bir. The assassination of the crow en sonda.
+- **Boyama kayıtlarında kalite kontrolü** (Yiğit, 23 Kasım 2026): 7 fam board game ve sept neuf kayıtları
+  düşük kaliteli, takvime konmaz. Her video takvime girmeden önce karelerine bakılır: bulanıklık,
+  kayma, siyah köşe varsa önerilmez.
 - Tarihli takvim: `.claude/instagram/calendar.json`, gerekçesi `plan.md`.
 - Arşiv (2019-2023 işleri, etütler) haftada en az bir kez yer alır. Arşiv dolgu değildir.
 - Başlangıç saati 19:00 Europe/Paris. İlk dört hafta sabit tutulur. Saat, hook kadar önemli

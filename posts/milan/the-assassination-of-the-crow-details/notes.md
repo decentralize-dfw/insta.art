@@ -18,3 +18,5 @@
 | 7 | 6.0 | zoom-out | close at the centre, zoom out until the painting sits on white, hold 2 s | `the-assassination-of-the-crow/the-assassination-of-the-crow.png` |
 
 - **Kısa kesim (23 Kasım):** `reel-kisa.mp4`, 16,5 sn, `spec-kisa.json`: hızlı açılış + 3 yakın plan (ayak tabanları, mor figürün başı, yerdeki eller; 2,5 sn) + zoom-out + kuş, çan. Takvimde Cmt 28 Kasım bu paylaşılır. Test: kısa detay reel'i.
+
+- **23 Kasım:** Yiğit: bu eser yakın zamanda paylaşılmayacak. Takvimde arşivin en sonunda (17 Nisan 2027).
