@@ -144,8 +144,79 @@ Sonuç ne olursa olsun Pzt 30 Kasım'daki virgil detay reel'i bu iki testin sonu
 | Yabancılardan gelen etkileşim payı | %7–35 | %30'un üstü |
 | Profil ziyareti başına takip | %5–23 | %15'in üstü |
 
+## Simülasyon: 12 haftada ne kadar artabilir
+
+`tools/simulate.py`, 4.000 deneme, 23 Kasım'dan 15 Şubat'a (12 hafta). Ritim aynı: haftada 3 reel, 1 carousel, Pazartesi ana hesap Story'si.
+
+**Gerçek rakamlarla kalibre edilen kısım.** Her reel'in görüntülenmesi Instagram'ın kaynaklarına göre üçe ayrıldı:
+
+| kaynak | veri |
+| --- | --- |
+| Takipçilerin görmesi | reel'lerde takipçilerin %5–17'si, carousel'lerde %28–31'i |
+| Ana hesap Story'si | Story'li postlarda 146–224 görüntülenme |
+| Keşif (Reels sekmesi + Explore) | reel başına 43–121, ortalama 86 |
+
+Takip dönüşümü de veriden: Story'den gelenin %1,8'i (445 görüntülenmeden 8 takip), carousel ve tek görsele gelen yabancının %1,8'i (393'ten 7). Şimdiki gidiş (S0) haftada ~6 takip veriyor; gerçekte 9 postta ~6,5. Model bugünü tutturuyor.
+
+**Varsayım olan kısım (veri yetmiyor).** Bizim reel'lerin hepsi %69–80 atlama bandında; bandın dışına çıkınca ne olacağını veri söylemiyor. Bu yüzden:
+
+- Keşif görüntülenmesi ilk 3 saniyede kalanların payıyla birlikte, üstel büyür. Üs her denemede 1,5 ile 3 arasında. Kötümser sütun 1,5, iyimser 3.
+- İzlenen pay arttıkça keşif, karekökü oranında artar.
+- Bir reel'in patlama ihtimali şimdi %0,5; tutma arttıkça küpüyle artar. Patlayan reel'in keşif görüntülenmesi yaklaşık 10 katına çıkar.
+- Keşiften gelen yabancının %0,2'si takip eder (tutma arttıkça artar). Collab partnerinin kitlesinden gelenin %1'i.
+
+| senaryo | atlama | izlenen pay | reel başına görüntülenme (medyan) | 12 haftada takip (P10–P50–P90) | kötümser / iyimser | 12. haftada takipçi | en az bir reel 2.000+ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **S0** Şimdiki gidiş | %77 | %17 | 241 (1.0×) | 70–**74**–80 (1.0×) | 74 / 74 | 804 | %3 |
+| **S1** Kısa reel + boyamayla açılış (mevcut kayıtlar) | %69 | %40 | 433 (1.8×) | 89–**97**–109 (1.3×) | 90 / 103 | 827 | %25 |
+| **S2** S1 + yeni çekim: el, ölçek, kişi | %62 | %45 | 613 (2.5×) | 111–**133**–174 (1.8×) | 111 / 157 | 863 | %51 |
+| **S3** S2 + iki haftada bir Collab + günlük yorum turu | %62 | %45 | 748 (3.1×) | 137–**163**–213 (2.2×) | 137 / 194 | 893 | %56 |
+
+**Ne söylüyor**
+
+1. **Görüntülenme, takipten çok daha hızlı artar.** S1'de reel başına görüntülenme 1,8 kat artıyor ama takip yalnızca 1,3 kat. Keşiften gelen yabancı neredeyse hiç takip etmiyor (%0,2). Yani hook'u düzeltmek tek başına yetmez. Gelen yabancıya profilde "neden takip edeyim" cevabı lazım: sabitlenmiş en iyi üç post, tanınır bir seri ya da format, net bir bio.
+2. **Asıl sıçrama tek bir patlayan reel'den gelir.** Şimdiki gidişte 12 haftada 2.000+ görüntülenme alan bir reel olma ihtimali %3. S2'de %51. Bu sütun en çok varsayıma dayanan sütun; yön doğru, sayı kesin değil.
+3. **Collab, en ucuz ek kaldıraç.** S2'nin üstüne 12 haftada ~30 takip ekliyor ve hook'a bağlı değil.
+4. **Gerçekçi beklenti.** 12 hafta sonra 800–900 takipçi; şimdi 730. İyimser uçta ~925. Bundan fazlası ya patlayan bir reel'le ya da daha büyük hesaplarla Collab'la gelir.
+
+Her yeni haftanın rakamları gelince simülasyon yeniden kalibre edilir: S1'in varsayımları Pazartesi ve Perşembe reel'lerinin atlama oranıyla test edilecek.
+
+## Nerede hata yaptım
+
+1. **Ölçmeden ürettim.** voice.md'de "ilk 3 saniyede kalma oranı ve ortalama izlenme" ölçüt olarak yazıyordu, ama bu rakamları 9. posta kadar istemedim. Kapak düzeni, çan, logo bitişi, kolajlar gibi cilaya saatler gitti; dağıtımı belirleyen ilk 3 saniyeye ise hiç bakılmadı.
+2. **Hızlı açılışı tek denemeyle bütün reel'lere yaydım.** Bu, kritik 3 saniyenin 2'sini soyut, bulanık bir tur ve "yükleniyor" çubuğuyla dolduruyor. Veri artık zarar vermediğini söylüyor ama yararını da göstermiyor; ölçmeden yaymamalıydım.
+3. **Reel'leri uzun bıraktım.** "15–30 sn" kuralı, sondaki 2 sn duruş, 1 sn logo ve 63 sn'lik kayıtlar. İnsanlar 4–9 saniye izliyor; izlenen pay %11–25'te kaldı.
+4. **Hook testini bozdum.** gxd B'de aynı anda başlık, yapay ses, hashtag ve farklı bir gövde değişti. Hangisinin zarar verdiğini bilemiyoruz. Bir testte tek değişken olmalıydı. Trial reel'in bu hesapta dağıtılmadığını da baştan kontrol etmeliydim.
+5. **Veriyi iki kez yanlış okudum.** 182 görüntülenmeli reel'i gxd B sandım (kitapmış). Web'in "0 paylaşım"ına güvenip paylaşım olmamasını ana sorun ilan ettim (telefonda 2–9 vardı). Önce telefon istatistiklerini istemeliydim.
+6. **En değerli malzemeyi az kullandım.** voice.md'ye göre en değerli format gerçek boyama kaydı. Repoda 41 kayıt var; takvimde ise birkaç tane. Takvimi detay pan'larıyla doldurdum. En iyi tutan reel de bir boyama kaydıydı.
+7. **Takvimi yalnızca post olarak kurdum.** Yorum turu, Collab ve ilk saat cevapları büyümenin yarısı ama takvimde yoktu; 23 Kasım'a kadar sadece öneri olarak kaldı.
+8. **Müziği hiç kaydetmedim.** Müziği sen uygulamada ekliyorsun ve Reels dağıtımını etkileyebilen bir değişken. Hangi postta hangi müzik vardı, log'da yok.
+9. **Takipçi sayısını izlemedim.** 730'u ilk kez 22 Kasım'da öğrendim. Haftalık net artışı (takip eden eksi bırakan) bilmiyoruz; sadece post başına takip var.
+
+## Neyi daha iyi yakalamalıyız
+
+Her post için, paylaşımdan sonra 24. ve 72. saatte, telefondan (web eksik gösteriyor):
+
+| ne | neden |
+| --- | --- |
+| Atlama oranı ve Instagram'ın karşılaştırma oku | dağıtımın birinci şartı |
+| Ortalama izleme ve izleyici tutma grafiği | izlenen pay; grafikte 3. saniyedeki değer |
+| Kaynaklar: Stories, Reels sekmesi, Explore, Feed, Profil | Story'den mi, keşiften mi geldi |
+| Paylaşım, kayıt, profil ziyareti, takip | dönüşüm |
+| Eklenen müzik (adı ya da "yok") | log'da hiç yok |
+| İlk saatteki beğeni ve yorum sayısı | ilk test grubunun tepkisi |
+| Story atıldı mı, kaç kişi gördü | Story etkisini ayırmak için |
+
+Her Pazar:
+
+- **Takipçi sayısı.** Net haftalık artış.
+- **Yeni takipçilerden 10 tanesine bakış.** Ressam mı, sanat hesabı mı, çevreden mi? Tohum kitle kayıyor mu, bunu gösterir.
+- **Yorum turu ve Collab.** Kaç dakika, kaç yorum, kaç teklif, kaç dönüş.
+
+Test kuralı: **her reel'de tek değişken.** Bu hafta Pazartesi açılış tipini (boyama), Cumartesi süreyi (16 sn) test ediyor. Story olan ve olmayan günler ayrı karşılaştırılır.
+
 ## Henüz bilinmeyenler
 
 - Profilin kendisi: bio, isim alanı, öne çıkanlar, sabitlenmiş postlar. Ekran görüntüsü gelince puanlanır. Şimdilik öneri: Angora reel'i, penguin ve kreatine sabitlensin.
-- 6 ve 8 Kasım postlarının hangi eser olduğu yazılı değil. 80 × 80 ve 2026 olan tek eser articulo attack on mandarin; 8 Kasım reel'inin kapağındaki mavi kuşlar da ona benziyor.
+- 6 ve 8 Kasım postları articulo attack on mandarin (Yiğit, 23 Kasım). Bu eser takvimde 10 Aralık (süreç), 4 Ocak (detay reel) ve 20 Ocak (detay carousel) için de var.
 - Carousel'lerde kaydırma derinliği (Instagram vermiyor).

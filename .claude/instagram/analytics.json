@@ -19,14 +19,14 @@
  ],
  "posts": [
   {
-   "slug": "2026-11-06-80x80",
-   "title": "80x80 acrylic on canvas 2026",
+   "slug": "articulo-single-2026-11-06",
+   "title": "articulo attack on mandarin (80x80, tek görsel)",
    "date": "2026-11-06",
    "type": "tek",
-   "folder": null,
+   "folder": "posts/single/articulo-attack-on-mandarin",
    "video": null,
    "url": "https://www.instagram.com/yigitozen.art/p/DfZlawUR2zh/",
-   "note": "Açıklama \"80x80 acrylic on canvas 2026\", sistemden önce. 2026 ve 80 × 80 olan tek eser articulo attack on mandarin.",
+   "note": "Yiğit'in kendi paylaşımı, sistemden önce; açıklama \"80x80 acrylic on canvas 2026\". Eser: articulo attack on mandarin (Yiğit, 23 Kasım).",
    "views": 376,
    "viewers": 145,
    "likes": 29,
@@ -67,17 +67,18 @@
     "Feed": 0.532,
     "Profile": 0.287,
     "Stories": 0.17
-   }
+   },
+   "same_file": false
   },
   {
-   "slug": "2026-11-08-reel",
-   "title": "Açıklamasız Reels (8 Kasım 2026)",
+   "slug": "articulo-reel-2026-11-08",
+   "title": "articulo attack on mandarin (açıklamasız reel)",
    "date": "2026-11-08",
    "type": "reel",
-   "folder": null,
+   "folder": "posts/kopstal/articulo-attack-on-mandarin-details",
    "video": null,
    "url": "https://www.instagram.com/yigitozen.art/reel/Dfe7KTRsAaB/",
-   "note": "Açıklamasız reel, sistemden önce. Kapaktaki mavi kuşlar: muhtemelen articulo attack on mandarin.",
+   "note": "Yiğit'in kendi 16 sn'lik reel'i, sistemden önce, açıklamasız. Eser: articulo attack on mandarin (Yiğit, 23 Kasım). Bu klasördeki reel değil.",
    "views": 302,
    "viewers": 209,
    "likes": 17,
@@ -147,7 +148,8 @@
      "vs": null
     }
    },
-   "retention_img": "analytics/retention-2026-11-08-reel.jpg"
+   "retention_img": "analytics/retention-articulo-reel-2026-11-08.jpg",
+   "same_file": false
   },
   {
    "slug": "angora-mergvs",

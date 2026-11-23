@@ -252,7 +252,8 @@ def collect():
         it["ckind"] = c.get("kind", "") if c else ""
         it["cvideo"] = c.get("video", "") if c else ""
         p = posted.get(it["path"]) if it["group"] != "recordings" else None
-        it["posted"] = {"date": p["date"], "url": p.get("url", ""), "video": p.get("video") or ""} if p else None
+        it["posted"] = {"date": p["date"], "url": p.get("url", ""), "video": p.get("video") or "",
+                        "other": p.get("same_file") is False} if p else None
         it["thumb"] = thumb(it)
     return out
 
@@ -588,7 +589,7 @@ function grid() {
   if (group === "takvim") items = items.slice().sort((a, b) => a.date.localeCompare(b.date));
   $("#grid").innerHTML = items.map(d => `
     <div class="card" data-id="${d.id}">
-      ${d.posted ? `<span class="ok" data-tip="paylaşıldı ${esc(longDate(d.posted.date))}" title="paylaşıldı ${esc(longDate(d.posted.date))}">${ICON_OK}</span>` : ""}
+      ${d.posted ? (t => `<span class="ok" data-tip="${esc(t)}" title="${esc(t)}">${ICON_OK}</span>`)(`paylaşıldı ${longDate(d.posted.date)}${d.posted.other ? " (bu eser, başka bir dosya)" : ""}`) : ""}
       <div class="thumb">${d.thumb ? `<img loading="lazy" src="${esc(d.thumb)}" alt="">` : ""}</div>
       ${d.date ? `<div class="d${d.date < today ? " past" : d.date === today ? " now" : ""}">${esc(short(d))}</div>` : ""}
       <div class="t">${esc(d.title)}</div>
@@ -666,7 +667,7 @@ function open(it) {
   $("#view").innerHTML = `
     <div class="top"><div><h2>${esc(it.title)}</h2><div class="path">${it.when ? esc(it.when) + " · " : ""}${esc(it.kind)} · ${esc(it.path)}</div>
       ${it.note ? `<div class="path">${esc(it.note)}</div>` : ""}
-      ${it.posted ? `<div class="path" style="color:#1a9b3c">✓ paylaşıldı ${esc(longDate(it.posted.date))}${it.posted.url ? ` · <a href="${esc(it.posted.url)}" target="_blank" rel="noopener">Instagram'da aç</a>` : ""}</div>` : ""}</div>
+      ${it.posted ? `<div class="path" style="color:#1a9b3c">✓ paylaşıldı ${esc(longDate(it.posted.date))}${it.posted.other ? " (bu eser; paylaşılan dosya bu klasördeki değil)" : ""}${it.posted.url ? ` · <a href="${esc(it.posted.url)}" target="_blank" rel="noopener">Instagram'da aç</a>` : ""}</div>` : ""}</div>
       <button class="close" id="x">Kapat</button></div>
     ${v}${s}
     ${textBlock("Caption", it.caption, "t-cap")}
