@@ -1,0 +1,380 @@
+[
+ {
+  "frame": 0,
+  "ms": 0.0,
+  "frames": 7,
+  "what": "whole angora-mergvs-10mb.jpg"
+ },
+ {
+  "frame": 7,
+  "ms": 116.7,
+  "frames": 7,
+  "what": "detail angora-mergvs-detail-1.jpg"
+ },
+ {
+  "frame": 14,
+  "ms": 233.3,
+  "frames": 7,
+  "what": "detail angora-mergvs-detail-2.jpg"
+ },
+ {
+  "frame": 21,
+  "ms": 350.0,
+  "frames": 7,
+  "what": "whole kreatine-klaude-kettlebell.jpg"
+ },
+ {
+  "frame": 28,
+  "ms": 466.7,
+  "frames": 7,
+  "what": "detail kreatine-klaude-kettlebell-detail-01.jpg"
+ },
+ {
+  "frame": 35,
+  "ms": 583.3,
+  "frames": 7,
+  "what": "detail kreatine-klaude-kettlebell-detail-02.jpg"
+ },
+ {
+  "frame": 42,
+  "ms": 700.0,
+  "frames": 7,
+  "what": "whole gxd-is-banned2.png"
+ },
+ {
+  "frame": 49,
+  "ms": 816.7,
+  "frames": 7,
+  "what": "detail IMG_6720.jpg"
+ },
+ {
+  "frame": 56,
+  "ms": 933.3,
+  "frames": 7,
+  "what": "detail IMG_6728.jpg"
+ },
+ {
+  "frame": 63,
+  "ms": 1050.0,
+  "frames": 7,
+  "what": "whole virgil-on-virtual-cage-RESOLUTION.png"
+ },
+ {
+  "frame": 70,
+  "ms": 1166.7,
+  "frames": 7,
+  "what": "detail virgilonvirtualcage_detail_1.png"
+ },
+ {
+  "frame": 77,
+  "ms": 1283.3,
+  "frames": 7,
+  "what": "detail virgilonvirtualcage_detail_2.png"
+ },
+ {
+  "frame": 84,
+  "ms": 1400.0,
+  "frames": 7,
+  "what": "detail painstaking-detail-1.jpg"
+ },
+ {
+  "frame": 91,
+  "ms": 1516.7,
+  "frames": 7,
+  "what": "detail painstaking-detail-2.jpg"
+ },
+ {
+  "frame": 98,
+  "ms": 1633.3,
+  "frames": 7,
+  "what": "whole gary-grills-cooper.jpg"
+ },
+ {
+  "frame": 105,
+  "ms": 1750.0,
+  "frames": 8,
+  "what": "detail garlgrillscooper_detail_1.png"
+ },
+ {
+  "frame": 113,
+  "ms": 1883.3,
+  "frames": 7,
+  "what": "detail garlgrillscooper_detail_2.png"
+ },
+ {
+  "frame": 120,
+  "ms": 2000.0,
+  "frames": 7,
+  "what": "whole inverted-silvia--7-9.png"
+ },
+ {
+  "frame": 127,
+  "ms": 2116.7,
+  "frames": 7,
+  "what": "detail IMG_6643.JPG"
+ },
+ {
+  "frame": 134,
+  "ms": 2233.3,
+  "frames": 7,
+  "what": "detail IMG_6644.JPG"
+ },
+ {
+  "frame": 141,
+  "ms": 2350.0,
+  "frames": 7,
+  "what": "whole walls-of-perception.jpg"
+ },
+ {
+  "frame": 148,
+  "ms": 2466.7,
+  "frames": 7,
+  "what": "detail wallofperception_detail_1.png"
+ },
+ {
+  "frame": 155,
+  "ms": 2583.3,
+  "frames": 7,
+  "what": "detail wallofperception_detail_2.png"
+ },
+ {
+  "frame": 162,
+  "ms": 2700.0,
+  "frames": 7,
+  "what": "whole angora-mergvs-10mb.jpg"
+ },
+ {
+  "frame": 169,
+  "ms": 2816.7,
+  "frames": 7,
+  "what": "detail angora-mergvs-detail-3.jpg"
+ },
+ {
+  "frame": 176,
+  "ms": 2933.3,
+  "frames": 7,
+  "what": "detail angora-mergvs-detail-4.jpg"
+ },
+ {
+  "frame": 183,
+  "ms": 3050.0,
+  "frames": 7,
+  "what": "whole kreatine-klaude-kettlebell.jpg"
+ },
+ {
+  "frame": 190,
+  "ms": 3166.7,
+  "frames": 7,
+  "what": "detail kreatine-klaude-kettlebell-detail-03.jpg"
+ },
+ {
+  "frame": 197,
+  "ms": 3283.3,
+  "frames": 7,
+  "what": "detail kreatine-klaude-kettlebell-detail-04.jpg"
+ },
+ {
+  "frame": 204,
+  "ms": 3400.0,
+  "frames": 7,
+  "what": "whole gxd-is-banned2.png"
+ },
+ {
+  "frame": 211,
+  "ms": 3516.7,
+  "frames": 7,
+  "what": "detail IMG_6729.jpg"
+ },
+ {
+  "frame": 218,
+  "ms": 3633.3,
+  "frames": 7,
+  "what": "detail IMG_6730.jpg"
+ },
+ {
+  "frame": 225,
+  "ms": 3750.0,
+  "frames": 7,
+  "what": "whole virgil-on-virtual-cage-RESOLUTION.png"
+ },
+ {
+  "frame": 232,
+  "ms": 3866.7,
+  "frames": 7,
+  "what": "detail virgilonvirtualcage_detail_3.png"
+ },
+ {
+  "frame": 239,
+  "ms": 3983.3,
+  "frames": 7,
+  "what": "detail virgilonvirtualcage_detail_4.png"
+ },
+ {
+  "frame": 246,
+  "ms": 4100.0,
+  "frames": 7,
+  "what": "detail painstaking-detail-3.jpg"
+ },
+ {
+  "frame": 253,
+  "ms": 4216.7,
+  "frames": 7,
+  "what": "detail painstaking-detail-4.jpg"
+ },
+ {
+  "frame": 260,
+  "ms": 4333.3,
+  "frames": 7,
+  "what": "whole gary-grills-cooper.jpg"
+ },
+ {
+  "frame": 267,
+  "ms": 4450.0,
+  "frames": 7,
+  "what": "detail garlgrillscooper_detail_3.png"
+ },
+ {
+  "frame": 274,
+  "ms": 4566.7,
+  "frames": 7,
+  "what": "detail garlgrillscooper_detail_4.png"
+ },
+ {
+  "frame": 281,
+  "ms": 4683.3,
+  "frames": 7,
+  "what": "whole inverted-silvia--7-9.png"
+ },
+ {
+  "frame": 288,
+  "ms": 4800.0,
+  "frames": 7,
+  "what": "detail IMG_6647.JPG"
+ },
+ {
+  "frame": 295,
+  "ms": 4916.7,
+  "frames": 7,
+  "what": "detail IMG_6648.JPG"
+ },
+ {
+  "frame": 302,
+  "ms": 5033.3,
+  "frames": 7,
+  "what": "whole walls-of-perception.jpg"
+ },
+ {
+  "frame": 309,
+  "ms": 5150.0,
+  "frames": 7,
+  "what": "detail wallofperception_detail_3.png"
+ },
+ {
+  "frame": 316,
+  "ms": 5266.7,
+  "frames": 7,
+  "what": "detail wallofperception_detail_4.png"
+ },
+ {
+  "frame": 323,
+  "ms": 5383.3,
+  "frames": 7,
+  "what": "whole angora-mergvs-10mb.jpg"
+ },
+ {
+  "frame": 330,
+  "ms": 5500.0,
+  "frames": 8,
+  "what": "detail angora-mergvs-detail-5.jpg"
+ },
+ {
+  "frame": 338,
+  "ms": 5633.3,
+  "frames": 7,
+  "what": "detail angora-mergvs-detail-6.jpg"
+ },
+ {
+  "frame": 345,
+  "ms": 5750.0,
+  "frames": 7,
+  "what": "whole kreatine-klaude-kettlebell.jpg"
+ },
+ {
+  "frame": 352,
+  "ms": 5866.7,
+  "frames": 7,
+  "what": "whole angora-mergvs-10mb.jpg"
+ },
+ {
+  "frame": 359,
+  "ms": 5983.3,
+  "frames": 9,
+  "what": "detail angora-mergvs-detail-6.jpg"
+ },
+ {
+  "frame": 368,
+  "ms": 6133.3,
+  "frames": 12,
+  "what": "detail angora-mergvs-detail-8.jpg"
+ },
+ {
+  "frame": 380,
+  "ms": 6333.3,
+  "frames": 14,
+  "what": "detail angora-mergvs-detail-10.jpg"
+ },
+ {
+  "frame": 394,
+  "ms": 6566.7,
+  "frames": 28,
+  "what": "grid 1/9"
+ },
+ {
+  "frame": 422,
+  "ms": 7033.3,
+  "frames": 28,
+  "what": "grid 2/9"
+ },
+ {
+  "frame": 450,
+  "ms": 7500.0,
+  "frames": 28,
+  "what": "grid 3/9"
+ },
+ {
+  "frame": 478,
+  "ms": 7966.7,
+  "frames": 28,
+  "what": "grid 4/9"
+ },
+ {
+  "frame": 506,
+  "ms": 8433.3,
+  "frames": 28,
+  "what": "grid 5/9"
+ },
+ {
+  "frame": 534,
+  "ms": 8900.0,
+  "frames": 29,
+  "what": "grid 6/9"
+ },
+ {
+  "frame": 563,
+  "ms": 9383.3,
+  "frames": 28,
+  "what": "grid 7/9"
+ },
+ {
+  "frame": 591,
+  "ms": 9850.0,
+  "frames": 28,
+  "what": "grid 8/9"
+ },
+ {
+  "frame": 619,
+  "ms": 10316.7,
+  "frames": 56,
+  "what": "grid 9/9"
+ }
+]
