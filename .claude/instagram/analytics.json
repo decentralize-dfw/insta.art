@@ -1,0 +1,638 @@
+{
+ "account": {
+  "handle": "yigitozen.art",
+  "followers": 730,
+  "following": 105,
+  "posts": 9,
+  "checked": "2026-11-22"
+ },
+ "sources": [
+  {
+   "date": "2026-11-22",
+   "what": "Instagram web istatistikleri (Yiğit'in tablosu)"
+  },
+  {
+   "date": "2026-11-22",
+   "what": "Telefon kaydı 19:23–19:26: atlama oranı, izlenme süresi, paylaşım sayacı, kitle, kaynaklar, izleyici tutma grafikleri",
+   "file": "analytics/2026-11-22-instagram.xlsx"
+  }
+ ],
+ "posts": [
+  {
+   "slug": "2026-11-06-80x80",
+   "title": "80x80 acrylic on canvas 2026",
+   "date": "2026-11-06",
+   "type": "tek",
+   "folder": null,
+   "video": null,
+   "url": "https://www.instagram.com/yigitozen.art/p/DfZlawUR2zh/",
+   "note": "Açıklama \"80x80 acrylic on canvas 2026\", sistemden önce. 2026 ve 80 × 80 olan tek eser articulo attack on mandarin.",
+   "views": 376,
+   "viewers": 145,
+   "likes": 29,
+   "comments": 1,
+   "saves": 3,
+   "sends": 4,
+   "reposts": 2,
+   "interactions": 39,
+   "engaged": 29,
+   "profile_visits": 14,
+   "link_taps": 0,
+   "follows": 3,
+   "views_nonfollower": 0.35100000000000003,
+   "int_nonfollower": 0.385,
+   "avg_watch": null,
+   "duration": null,
+   "age": {
+    "13–17": 0.0,
+    "18–24": 0.051,
+    "25–34": 0.638,
+    "35–44": 0.141,
+    "45–54": 0.053,
+    "55–64": 0.059000000000000004,
+    "65+": 0.059000000000000004
+   },
+   "country": {
+    "Türkiye": 0.47600000000000003,
+    "Luxembourg": 0.165,
+    "Germany": 0.07200000000000001,
+    "United Kingdom": 0.053,
+    "United States": 0.043
+   },
+   "gender": {
+    "Men": 0.617,
+    "Women": 0.38299999999999995
+   },
+   "sources": {
+    "Feed": 0.532,
+    "Profile": 0.287,
+    "Stories": 0.17
+   }
+  },
+  {
+   "slug": "2026-11-08-reel",
+   "title": "Açıklamasız Reels (8 Kasım 2026)",
+   "date": "2026-11-08",
+   "type": "reel",
+   "folder": null,
+   "video": null,
+   "url": "https://www.instagram.com/yigitozen.art/reel/Dfe7KTRsAaB/",
+   "note": "Açıklamasız reel, sistemden önce. Kapaktaki mavi kuşlar: muhtemelen articulo attack on mandarin.",
+   "views": 302,
+   "viewers": 209,
+   "likes": 17,
+   "comments": 0,
+   "saves": 3,
+   "sends": 4,
+   "reposts": 4,
+   "interactions": 28,
+   "engaged": 18,
+   "profile_visits": 4,
+   "link_taps": null,
+   "follows": 0,
+   "views_nonfollower": 0.797,
+   "int_nonfollower": 0.214,
+   "avg_watch": 4,
+   "duration": 16,
+   "age": {
+    "13–17": 0.003,
+    "18–24": 0.209,
+    "25–34": 0.555,
+    "35–44": 0.10300000000000001,
+    "45–54": 0.043,
+    "55–64": 0.047,
+    "65+": 0.04
+   },
+   "country": {
+    "Türkiye": 0.29600000000000004,
+    "Luxembourg": 0.12300000000000001,
+    "United States": 0.086,
+    "Germany": 0.063,
+    "Italy": 0.06
+   },
+   "gender": {
+    "Men": 0.507,
+    "Women": 0.493
+   },
+   "sources": {
+    "Reels tab": 0.33899999999999997,
+    "Feed": 0.23600000000000002,
+    "Profile": 0.203,
+    "Stories": 0.136,
+    "Explore": 0.06
+   },
+   "rates": {
+    "skip": {
+     "v": 0.794,
+     "vs": null
+    },
+    "share": {
+     "v": 0.017,
+     "vs": null
+    },
+    "like": {
+     "v": 0.071,
+     "vs": null
+    },
+    "save": {
+     "v": 0.013000000000000001,
+     "vs": null
+    },
+    "repost": {
+     "v": 0.017,
+     "vs": null
+    },
+    "comment": {
+     "v": 0.0,
+     "vs": null
+    }
+   },
+   "retention_img": "analytics/retention-2026-11-08-reel.jpg"
+  },
+  {
+   "slug": "angora-mergvs",
+   "title": "Angora Mergvs",
+   "date": "2026-11-11",
+   "type": "reel",
+   "folder": "posts/kopstal/angora-mergvs-details",
+   "video": "reel.mp4",
+   "url": "https://www.instagram.com/yigitozen.art/reel/DfnFaw4SmwD/",
+   "note": "Ana hesaptan Story.",
+   "views": 503,
+   "viewers": 309,
+   "likes": 26,
+   "comments": 5,
+   "saves": 4,
+   "sends": 9,
+   "reposts": 2,
+   "interactions": 46,
+   "engaged": 28,
+   "profile_visits": 31,
+   "link_taps": 3,
+   "follows": 7,
+   "views_nonfollower": 0.759,
+   "int_nonfollower": 0.34700000000000003,
+   "avg_watch": 7,
+   "duration": 33,
+   "age": {
+    "13–17": 0.0,
+    "18–24": 0.057,
+    "25–34": 0.649,
+    "35–44": 0.132,
+    "45–54": 0.065,
+    "55–64": 0.057,
+    "65+": 0.040999999999999995
+   },
+   "sources": {
+    "Stories": 0.44,
+    "Feed": 0.17,
+    "Reels tab": 0.152,
+    "Profile": 0.11,
+    "Explore": 0.027999999999999997
+   },
+   "rates": {
+    "skip": {
+     "v": 0.7559999999999999,
+     "vs": "Daha düşük (Lower)"
+    },
+    "share": {
+     "v": 0.027999999999999997,
+     "vs": "Daha yüksek (Higher)"
+    },
+    "like": {
+     "v": 0.07200000000000001,
+     "vs": "Daha yüksek (Higher)"
+    },
+    "save": {
+     "v": 0.011000000000000001,
+     "vs": "Daha düşük (Lower)"
+    },
+    "repost": {
+     "v": 0.006,
+     "vs": "Daha düşük (Lower)"
+    },
+    "comment": {
+     "v": 0.013999999999999999,
+     "vs": "Daha yüksek (Higher)"
+    }
+   },
+   "retention_img": "analytics/retention-angora-mergvs.jpg"
+  },
+  {
+   "slug": "viperella",
+   "title": "viperella",
+   "date": "2026-11-12",
+   "type": "reel",
+   "folder": "posts/milan/viperella-footage",
+   "video": "reel.mp4",
+   "url": "https://www.instagram.com/yigitozen.art/reel/DfpqJjIy8c4/",
+   "note": "",
+   "views": 192,
+   "viewers": 118,
+   "likes": 18,
+   "comments": 2,
+   "saves": 2,
+   "sends": null,
+   "reposts": 3,
+   "interactions": 25,
+   "engaged": 18,
+   "profile_visits": 4,
+   "link_taps": null,
+   "follows": 0,
+   "views_nonfollower": 0.721,
+   "int_nonfollower": 0.16,
+   "avg_watch": 9,
+   "duration": 63,
+   "age": {
+    "13–17": 0.0,
+    "18–24": 0.042,
+    "25–34": 0.611,
+    "35–44": 0.13699999999999998,
+    "45–54": 0.084,
+    "55–64": 0.1,
+    "65+": 0.026000000000000002
+   },
+   "country": {
+    "Türkiye": 0.516,
+    "Luxembourg": 0.153,
+    "United Kingdom": 0.08900000000000001,
+    "Germany": 0.068,
+    "Italy": 0.037000000000000005
+   },
+   "gender": {
+    "Men": 0.726,
+    "Women": 0.27399999999999997
+   },
+   "sources": {
+    "Feed": 0.368,
+    "Reels tab": 0.221,
+    "Profile": 0.21600000000000003,
+    "Stories": 0.168,
+    "Explore": 0.005
+   },
+   "rates": {
+    "skip": {
+     "v": 0.6920000000000001,
+     "vs": "Daha düşük (Lower)"
+    },
+    "share": {
+     "v": 0.0,
+     "vs": "Daha düşük (Lower)"
+    },
+    "like": {
+     "v": 0.12300000000000001,
+     "vs": "Daha yüksek (Higher)"
+    },
+    "save": {
+     "v": 0.013999999999999999,
+     "vs": "Daha yüksek (Higher)"
+    },
+    "repost": {
+     "v": 0.021,
+     "vs": "Daha yüksek (Higher)"
+    },
+    "comment": {
+     "v": 0.013999999999999999,
+     "vs": "Daha yüksek (Higher)"
+    }
+   },
+   "retention_img": "analytics/retention-viperella.jpg"
+  },
+  {
+   "slug": "penguin",
+   "title": "penguin is not a friend, only a sinner",
+   "date": "2026-11-13",
+   "type": "carousel",
+   "folder": "posts/single/penguin-is-not-a-friend-only-a-sinner",
+   "video": null,
+   "url": "https://www.instagram.com/yigitozen.art/p/DfsP1yMldeB/",
+   "note": "",
+   "views": 322,
+   "viewers": 119,
+   "likes": 36,
+   "comments": 7,
+   "saves": 2,
+   "sends": 7,
+   "reposts": 3,
+   "interactions": 55,
+   "engaged": 37,
+   "profile_visits": 10,
+   "link_taps": 0,
+   "follows": 2,
+   "views_nonfollower": 0.37,
+   "int_nonfollower": 0.273,
+   "avg_watch": null,
+   "duration": null,
+   "age": {
+    "13–17": 0.0,
+    "18–24": 0.065,
+    "25–34": 0.575,
+    "35–44": 0.146,
+    "45–54": 0.059000000000000004,
+    "55–64": 0.068,
+    "65+": 0.087
+   },
+   "country": {
+    "Türkiye": 0.522,
+    "Luxembourg": 0.13,
+    "United Kingdom": 0.062,
+    "Germany": 0.059000000000000004,
+    "United States": 0.043
+   },
+   "gender": {
+    "Men": 0.644,
+    "Women": 0.35600000000000004
+   },
+   "sources": {
+    "Feed": 0.693,
+    "Profile": 0.196,
+    "Stories": 0.099
+   },
+   "card_likes": [
+    26,
+    3,
+    1,
+    4
+   ]
+  },
+  {
+   "slug": "gxd-is-afk-we-banned-it",
+   "title": "Gxd is AFK, We banned it",
+   "date": "2026-11-16",
+   "type": "reel",
+   "folder": "posts/kopstal/gxd-is-afk-we-banned-it-details",
+   "video": "reel-B-baslik.mp4",
+   "url": "https://www.instagram.com/yigitozen.art/reel/Dfz7FoBSfSN/",
+   "note": "B sürümü: büyük başlık + Laura sesi + 5 hashtag. Ana hesaptan Story.",
+   "views": 431,
+   "viewers": 280,
+   "likes": 17,
+   "comments": 7,
+   "saves": 3,
+   "sends": 5,
+   "reposts": 3,
+   "interactions": 35,
+   "engaged": 19,
+   "profile_visits": 19,
+   "link_taps": 1,
+   "follows": 1,
+   "views_nonfollower": 0.7290000000000001,
+   "int_nonfollower": 0.25,
+   "avg_watch": 4,
+   "duration": 26,
+   "age": {
+    "13–17": 0.0,
+    "18–24": 0.035,
+    "25–34": 0.652,
+    "35–44": 0.159,
+    "45–54": 0.07200000000000001,
+    "55–64": 0.055999999999999994,
+    "65+": 0.026000000000000002
+   },
+   "country": {
+    "Türkiye": 0.629,
+    "Luxembourg": 0.086,
+    "Italy": 0.063,
+    "Germany": 0.042,
+    "United Kingdom": 0.04
+   },
+   "gender": {
+    "Men": 0.652,
+    "Women": 0.348
+   },
+   "sources": {
+    "Stories": 0.519,
+    "Reels tab": 0.203,
+    "Feed": 0.147,
+    "Profile": 0.057999999999999996,
+    "Explore": 0.037000000000000005
+   },
+   "rates": {
+    "skip": {
+     "v": 0.7979999999999999,
+     "vs": "Daha yüksek (Higher)"
+    },
+    "share": {
+     "v": 0.015,
+     "vs": "Daha düşük (Lower)"
+    },
+    "like": {
+     "v": 0.052000000000000005,
+     "vs": "Daha düşük (Lower)"
+    },
+    "save": {
+     "v": 0.009000000000000001,
+     "vs": "Daha düşük (Lower)"
+    },
+    "repost": {
+     "v": 0.009000000000000001,
+     "vs": "Daha düşük (Lower)"
+    },
+    "comment": {
+     "v": 0.021,
+     "vs": "Daha yüksek (Higher)"
+    }
+   },
+   "retention_img": "analytics/retention-gxd-is-afk-we-banned-it.jpg"
+  },
+  {
+   "slug": "birds",
+   "title": "birds.",
+   "date": "2026-11-18",
+   "type": "carousel",
+   "folder": "posts/editorial/birds",
+   "video": null,
+   "url": "https://www.instagram.com/yigitozen.art/p/Df5H0KUkQdm/",
+   "note": "",
+   "views": 247,
+   "viewers": 61,
+   "likes": 14,
+   "comments": 5,
+   "saves": 2,
+   "sends": 2,
+   "reposts": 2,
+   "interactions": 25,
+   "engaged": 15,
+   "profile_visits": 1,
+   "link_taps": 0,
+   "follows": 1,
+   "views_nonfollower": 0.13,
+   "int_nonfollower": 0.115,
+   "avg_watch": null,
+   "duration": null,
+   "sources": {
+    "Feed": 0.595,
+    "Stories": 0.255,
+    "Profile": 0.142
+   },
+   "card_likes": [
+    6,
+    3,
+    0,
+    2,
+    0,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "slug": "details-book",
+   "title": "details",
+   "date": "2026-11-19",
+   "type": "reel",
+   "folder": "posts/portfolio/details-book-stacked",
+   "video": "reel.mp4",
+   "url": "https://www.instagram.com/yigitozen.art/reel/Df7tWokRUf6/",
+   "note": "",
+   "views": 182,
+   "viewers": 113,
+   "likes": 12,
+   "comments": 4,
+   "saves": 2,
+   "sends": 6,
+   "reposts": 3,
+   "interactions": 27,
+   "engaged": 13,
+   "profile_visits": 4,
+   "link_taps": null,
+   "follows": 0,
+   "views_nonfollower": 0.7829999999999999,
+   "int_nonfollower": 0.071,
+   "avg_watch": 5,
+   "duration": 45,
+   "age": {
+    "13–17": 0.006,
+    "18–24": 0.07200000000000001,
+    "25–34": 0.561,
+    "35–44": 0.16699999999999998,
+    "45–54": 0.122,
+    "55–64": 0.05,
+    "65+": 0.022000000000000002
+   },
+   "country": {
+    "Türkiye": 0.494,
+    "Luxembourg": 0.14400000000000002,
+    "Germany": 0.122,
+    "United Kingdom": 0.039,
+    "India": 0.033
+   },
+   "gender": {
+    "Men": 0.716,
+    "Women": 0.284
+   },
+   "sources": {
+    "Reels tab": 0.322,
+    "Feed": 0.317,
+    "Stories": 0.139,
+    "Profile": 0.094,
+    "Explore": 0.078
+   },
+   "rates": {
+    "skip": {
+     "v": 0.774,
+     "vs": "Tipik (Typical)"
+    },
+    "share": {
+     "v": 0.045,
+     "vs": "Daha yüksek (Higher)"
+    },
+    "like": {
+     "v": 0.09,
+     "vs": "Daha yüksek (Higher)"
+    },
+    "save": {
+     "v": 0.015,
+     "vs": "Daha yüksek (Higher)"
+    },
+    "repost": {
+     "v": 0.023,
+     "vs": "Daha yüksek (Higher)"
+    },
+    "comment": {
+     "v": 0.03,
+     "vs": "Daha yüksek (Higher)"
+    }
+   },
+   "retention_img": "analytics/retention-details-book.jpg"
+  },
+  {
+   "slug": "kreatine-klaude-kettlebell",
+   "title": "kreatine, klaude, kettlebell",
+   "date": "2026-11-21",
+   "type": "carousel",
+   "folder": "posts/details/kreatine-klaude-kettlebell",
+   "video": null,
+   "url": "https://www.instagram.com/yigitozen.art/p/DgAycrzkQR-/",
+   "note": "Ana hesaptan paylaşıldı.",
+   "views": 334,
+   "viewers": 129,
+   "likes": 17,
+   "comments": 10,
+   "saves": 1,
+   "sends": 5,
+   "reposts": 3,
+   "interactions": 36,
+   "engaged": 19,
+   "profile_visits": 8,
+   "link_taps": 1,
+   "follows": 1,
+   "views_nonfollower": 0.32899999999999996,
+   "int_nonfollower": 0.132,
+   "avg_watch": null,
+   "duration": null,
+   "age": {
+    "13–17": 0.0,
+    "18–24": 0.006,
+    "25–34": 0.6920000000000001,
+    "35–44": 0.162,
+    "45–54": 0.027000000000000003,
+    "55–64": 0.069,
+    "65+": 0.045
+   },
+   "country": {
+    "Türkiye": 0.5539999999999999,
+    "Luxembourg": 0.159,
+    "Germany": 0.084,
+    "Italy": 0.051,
+    "United Kingdom": 0.039
+   },
+   "gender": {
+    "Men": 0.6890000000000001,
+    "Women": 0.311
+   },
+   "sources": {
+    "Feed": 0.446,
+    "Stories": 0.43700000000000006,
+    "Profile": 0.045
+   },
+   "card_likes": [
+    11,
+    5,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  }
+ ]
+}

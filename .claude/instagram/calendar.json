@@ -56,7 +56,7 @@
    "kind": "reel-detay",
    "folder": "posts/kopstal/gxd-is-afk-we-banned-it-details",
    "work": "gxd-is-afk-we-banned-it",
-   "note": "gxd B (reel-B-baslik.mp4, cover-reel-B-baslik.jpg): büyük başlık + Laura sesi, müzikte orijinal ses açık. Ana hesaptan Story. Kıyas: Angora (Story ile 449)"
+   "note": "paylaşıldı: gxd B (reel-B-baslik.mp4, büyük başlık + Laura sesi) · ana hesaptan Story · 431 görüntülenme, atlama %79,8"
   },
   {
    "date": "2026-11-18",
@@ -66,7 +66,7 @@
    "kind": "carousel-editorial",
    "folder": "posts/editorial/birds",
    "work": "birds",
-   "note": "editoryel"
+   "note": "paylaşıldı · editoryel · 247 görüntülenme"
   },
   {
    "date": "2026-11-19",
@@ -76,7 +76,7 @@
    "kind": "reel-portfolyo",
    "folder": "posts/portfolio/details-book-stacked",
    "work": "details-book",
-   "note": "portfolyo: details kitabı (14 Kasım'dan ertelendi). Paylaşınca profile sabitle"
+   "note": "paylaşıldı · portfolyo: details kitabı · 182 görüntülenme, paylaşım oranı %4,5 (en yüksek)"
   },
   {
    "date": "2026-11-21",
@@ -86,7 +86,7 @@
    "kind": "carousel-detay",
    "folder": "posts/details/kreatine-klaude-kettlebell",
    "work": "kreatine-klaude-kettlebell",
-   "note": "2026 detay carousel, kesintisiz şerit: kapakta resmin tamamı, sonra 9 detay yan yana (ince beyaz boşluk), 17 sayfa kaydırdıkça devam ediyor. Kargadan (arşiv) bu slotu aldı; arşiv cumartesileri bir hafta kaydı."
+   "note": "paylaşıldı · kesintisiz detay şeridi · ana hesaptan paylaşıldı · 325 görüntülenme, 8 profil ziyareti, 1 takip"
   },
   {
    "date": "2026-11-23",
@@ -96,7 +96,8 @@
    "kind": "reel-kayıt",
    "folder": "posts/kopstal/7-fam-board-game-footage",
    "work": "7-fam-board-game",
-   "note": "Ana hesaptan Story (postu paylaş + bahsetme)"
+   "note": "reel-kisa.mp4 paylaşılır (12 sn): 2 sn hızlı açılış, boyama 2,4 kat hızlı, sonda bitmiş resim ~1 sn, kuş. Ana hesaptan Story (postu paylaş + bahsetme). İlk saat bütün yorumlara cevap. Test: boyamayla açılan kısa reel; atlama oranı %69'un altına iner mi (şu an %69–80).",
+   "video": "reel-kisa.mp4"
   },
   {
    "date": "2026-11-25",
@@ -106,7 +107,7 @@
    "kind": "carousel-süreç",
    "folder": "posts/process-carousel/painstaking",
    "work": "painstaking",
-   "note": "portfolyo / 2026 detay carousel slotu"
+   "note": "painstaking süreç carousel'i: kapak eskiz ve bitmiş yan yana, bitmiş resim 4. sayfada. Yorumlara cevap."
   },
   {
    "date": "2026-11-26",
@@ -116,7 +117,7 @@
    "kind": "reel-süreç",
    "folder": "posts/kopstal/gary-grills-cooper-process",
    "work": "gary-grills-cooper",
-   "note": "2026 Reel: süreç, kayıt ya da portfolyo"
+   "note": "gary grills cooper süreç reel'i (17 sn, döngü) olduğu gibi. Test: süreçle açılan kısa reel'in atlama oranı."
   },
   {
    "date": "2026-11-28",
@@ -126,7 +127,8 @@
    "kind": "reel-detay",
    "folder": "posts/milan/the-assassination-of-the-crow-details",
    "work": "the-assassination-of-the-crow",
-   "note": "arşiv günü: 2019–2020"
+   "note": "arşiv günü · reel-kisa.mp4 paylaşılır (16 sn): hızlı açılış, 3 yakın plan, zoom-out, kuş. Test: kısa detay reel'i; izlenen pay %40'ı geçer mi (şu an %11–25).",
+   "video": "reel-kisa.mp4"
   },
   {
    "date": "2026-11-30",
@@ -537,6 +539,28 @@
    "folder": "posts/milan/amor-cathedra-details",
    "work": "amor-cathedra",
    "note": "arşiv günü: 2019–2020"
+  }
+ ],
+ "tasks": [
+  {
+   "date": "2026-11-23",
+   "text": "Story + ilk saat yorumlara cevap",
+   "short": "Story, yorumlara cevap"
+  },
+  {
+   "date": "2026-11-24",
+   "text": "20 dk yorum turu (ressamlar) · 3 ressama Collab teklifi (taslakları ajan yazar)",
+   "short": "yorum turu, Collab"
+  },
+  {
+   "date": "2026-11-27",
+   "text": "10 dk telefon çekimi, dikey: tuvalde fırça 5–10 sn, tuvalin yanında ölçek, kitap elde",
+   "short": "telefon çekimi"
+  },
+  {
+   "date": "2026-11-29",
+   "text": "Pzt ve Per reel'lerinin 72. saat rakamları: atlama oranı, ortalama izleme, paylaşım → ajana",
+   "short": "72. saat rakamları"
   }
  ]
 }

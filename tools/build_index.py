@@ -33,6 +33,8 @@ GROUPS = [
     ("portfolio", "Portfolyo"),
     ("recordings", "Süreç kayıtları"),
     ("dated", "İlk hafta"),
+    ("analytics", "Analytics"),
+    ("analiz", "Analytics analiz"),
 ]
 NESTED = ("kopstal", "milan", "editorial", "single", "details", "process-carousel", "portfolio", "recordings")
 
@@ -86,6 +88,84 @@ def item(folder, rel, group):
 
 
 CALENDAR = os.path.join(REPO, ".claude", "instagram", "calendar.json")
+ANALYTICS = os.path.join(REPO, ".claude", "instagram", "analytics.json")
+ANALIZ = os.path.join(REPO, ".claude", "instagram", "analiz.md")
+
+
+def analytics():
+    try:
+        return json.load(open(ANALYTICS, encoding="utf-8"))
+    except (OSError, ValueError):
+        return {"posts": []}
+
+
+def tasks():
+    try:
+        return json.load(open(CALENDAR, encoding="utf-8")).get("tasks", [])
+    except (OSError, ValueError):
+        return []
+
+
+def inline(t):
+    t = html.escape(t, quote=False)
+    t = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", t)
+    return re.sub(r"`(.+?)`", r"<code>\1</code>", t)
+
+
+def md(text):
+    """The small Markdown used in analiz.md: headings, paragraphs, lists, tables, bold, code."""
+    out, para, lst, tbl = [], [], None, []
+
+    def flush():
+        nonlocal para, lst, tbl
+        if para:
+            out.append("<p>" + inline(" ".join(para)) + "</p>")
+        if lst:
+            tag, items = lst
+            out.append(f"<{tag}>" + "".join(items) + f"</{tag}>")
+        if tbl:
+            rows = [[c.strip() for c in r.strip().strip("|").split("|")] for r in tbl
+                    if not re.fullmatch(r"\|?[\s:|-]+\|?", r.strip())]
+            head, body = rows[0], rows[1:]
+            out.append('<div class="tw"><table><thead><tr>' + "".join(f"<th>{inline(c)}</th>" for c in head)
+                       + "</tr></thead><tbody>" + "".join("<tr>" + "".join(f"<td>{inline(c)}</td>" for c in r) + "</tr>"
+                                                         for r in body) + "</tbody></table></div>")
+        para, lst, tbl = [], None, []
+
+    for line in text.splitlines():
+        st = line.strip()
+        if not st:
+            flush()
+            continue
+        if st.startswith("|"):
+            if para or lst:
+                flush()
+            tbl.append(st)
+            continue
+        if tbl:
+            flush()
+        m = re.match(r"(#{1,3}) (.*)", st)
+        if m:
+            flush()
+            n = len(m.group(1))
+            out.append(f"<h{n + 1}>{inline(m.group(2))}</h{n + 1}>")
+            continue
+        m = re.match(r"(-|\d+\.) (.*)", st)
+        if m and not line.startswith("    "):
+            tag = "ol" if m.group(1)[0].isdigit() else "ul"
+            if para:
+                flush()
+            if lst and lst[0] != tag:
+                flush()
+            lst = lst or (tag, [])
+            lst[1].append("<li>" + inline(m.group(2)) + "</li>")
+            continue
+        if lst and line.startswith("  "):
+            lst[1][-1] = lst[1][-1][:-5] + "<br>" + inline(st) + "</li>"
+            continue
+        para.append(st)
+    flush()
+    return "\n".join(out)
 
 
 def calendar():
@@ -144,6 +224,7 @@ def recordings(folder, rel):
 
 def collect():
     cal = calendar()
+    posted = {p["folder"]: p for p in analytics()["posts"] if p.get("folder")}
     out = []
     for name in sorted(os.listdir(POSTS)):
         top = os.path.join(POSTS, name)
@@ -169,6 +250,9 @@ def collect():
         it["note"] = c.get("note", "") if c else ""
         it["week"] = c.get("week", 0) if c else 0
         it["ckind"] = c.get("kind", "") if c else ""
+        it["cvideo"] = c.get("video", "") if c else ""
+        p = posted.get(it["path"]) if it["group"] != "recordings" else None
+        it["posted"] = {"date": p["date"], "url": p.get("url", ""), "video": p.get("video") or ""} if p else None
         it["thumb"] = thumb(it)
     return out
 
@@ -194,7 +278,38 @@ h1 { font-size:15px; font-weight:600; margin:0 0 10px; letter-spacing:.02em; }
 input[type=search] { flex:1 1 160px; min-width:0; border:1px solid var(--line); padding:7px 10px; font:inherit; }
 main { padding:16px; max-width:1200px; margin:0 auto; }
 .grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(160px, 1fr)); gap:14px; }
-.card { cursor:pointer; }
+.card { cursor:pointer; position:relative; }
+.ok { position:absolute; top:5px; left:5px; z-index:2; width:22px; height:22px; display:block; }
+.ok svg { display:block; filter:drop-shadow(0 0 1px #fff) drop-shadow(0 0 1px #fff); }
+.ok:hover::after { content:attr(data-tip); position:absolute; left:26px; top:1px; white-space:nowrap;
+  background:#000; color:#fff; font-size:11px; padding:2px 6px; }
+.cell.task { background:#fff; color:#000; border-color:var(--line); cursor:pointer; }
+.cell .tk { margin-top:2px; padding-top:2px; border-top:1px dashed #bbb; font-size:9px; color:#333; word-break:break-word; }
+.tasks { margin:16px 0 0; font-size:13px; }
+.tasks h3, .an h3 { font-size:13px; text-transform:uppercase; letter-spacing:.06em; margin:22px 0 8px; }
+.tasks li { margin:3px 0; }
+.an { font-size:13px; }
+.an .meta { color:var(--muted); font-size:12px; }
+.tw { overflow-x:auto; margin:6px 0 10px; }
+.tw table { border-collapse:collapse; font-size:12px; min-width:100%; }
+.tw th, .tw td { border-bottom:1px solid var(--line); padding:4px 6px; text-align:right; white-space:nowrap; vertical-align:middle; }
+.tw th { font-weight:600; font-size:11px; color:var(--muted); }
+.tw th:first-child, .tw td:first-child, .tw .l { text-align:left; }
+.an tr[data-id] { cursor:pointer; }
+.an td img { width:28px; height:35px; object-fit:cover; vertical-align:middle; margin-right:6px; background:var(--soft); }
+.rets { display:grid; grid-template-columns:repeat(auto-fill, minmax(150px, 1fr)); gap:10px; }
+.rets img { width:100%; display:block; border:1px solid var(--line); }
+.rets div { font-size:11px; margin-top:3px; }
+.bars { display:flex; align-items:flex-end; gap:2px; height:40px; }
+.bars span { width:10px; background:#000; min-height:1px; }
+.md { max-width:760px; font-size:14px; }
+.md h2 { font-size:18px; margin:4px 0 10px; }
+.md h3 { font-size:15px; margin:26px 0 8px; border-top:1px solid var(--fg); padding-top:10px; }
+.md h4 { font-size:14px; margin:20px 0 6px; }
+.md p, .md li { line-height:1.5; }
+.md ul, .md ol { padding-left:20px; }
+.md .tw td { white-space:normal; text-align:left; }
+.md code { background:var(--soft); padding:0 3px; font-size:12px; }
 .card .thumb { aspect-ratio:4/5; background:var(--soft); overflow:hidden; }
 .card img { width:100%; height:100%; object-fit:contain; display:block; }
 .fbar { display:flex; gap:12px; align-items:center; margin:0 0 12px; font-size:13px; }
@@ -272,6 +387,10 @@ details summary { cursor:pointer; font-size:12px; text-transform:uppercase; lett
 <script>
 const DATA = __DATA__;
 const GROUPS = __GROUPS__;
+const TASKS = __TASKS__;
+const AN = __ANALYTICS__;
+const ANALIZ = __ANALIZ__;
+const SPECIAL = ["takvim", "feed", "analytics", "analiz"];
 let group = DATA.some(d => d.date) ? "takvim" : "all";
 const $ = s => document.querySelector(s);
 const esc = s => s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -287,11 +406,14 @@ const inGroup = (d, k) => k === "all" || (k === "takvim" || k === "feed" ? !!d.d
 const today = new Date().toISOString().slice(0, 10);
 const MONTHS = ["Oca", "Şub", "Mar", "Nis", "May", "Haz", "Tem", "Ağu", "Eyl", "Eki", "Kas", "Ara"];
 const short = d => { const [y, m, g] = d.date.split("-"); return `${+g} ${MONTHS[+m - 1]} ${d.when.split(" ")[1] || ""}`; };
+const longDate = iso => { const [y, m, g] = iso.split("-"); return `${+g} ${MONTHS[+m - 1]} ${y}`; };
+const ICON_OK = '<svg viewBox="0 0 24 24" width="22" height="22"><path d="M4 12.5l5 5L20 6.5" fill="none" stroke="#1a9b3c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>';
 
 function tabs() {
-  const all = [["all", "Hepsi"], ...GROUPS.filter(([k]) => DATA.some(d => inGroup(d, k)))];
+  const all = [["all", "Hepsi"], ...GROUPS.filter(([k]) => k === "analytics" || k === "analiz" || DATA.some(d => inGroup(d, k)))];
+  const count = k => k === "all" ? DATA.length : k === "analytics" ? AN.posts.length : k === "analiz" ? "" : DATA.filter(d => inGroup(d, k)).length;
   $("#tabs").innerHTML = all.map(([k, n]) =>
-    `<button class="tab${k === group ? " on" : ""}" data-g="${k}">${esc(n)} <span style="opacity:.6">${k === "all" ? DATA.length : DATA.filter(d => inGroup(d, k)).length}</span></button>`).join("");
+    `<button class="tab${k === group ? " on" : ""}" data-g="${k}">${esc(n)} <span style="opacity:.6">${count(k)}</span></button>`).join("");
   $("#tabs").querySelectorAll(".tab").forEach(b => b.onclick = () => { group = b.dataset.g; tabs(); grid(); });
 }
 
@@ -330,6 +452,7 @@ function status(d) {
 function calendar() {
   const posts = DATA.filter(d => d.date).sort((a, b) => a.date.localeCompare(b.date));
   const byDate = Object.fromEntries(posts.map(p => [p.date, p]));
+  const taskOf = Object.fromEntries(TASKS.map(t => [t.date, t]));
   const first = posts[0].date, last = posts[posts.length - 1].date;
   const startDow = (new Date(first + "T12:00:00Z").getUTCDay() + 6) % 7;
   const monday = addDays(first, -startDow);
@@ -342,22 +465,29 @@ function calendar() {
     html += `<div class="wk${cur ? " cur" : ""}" id="${cur ? "curweek" : ""}">Hafta ${w + 1}<span>${+dd} ${MONTHS[+mm - 1]}–${+sd} ${MONTHS[+sm - 1]}</span></div>`;
     for (let i = 0; i < 7; i++) {
       const day = addDays(m, i), p = byDate[day], dn = +day.slice(8);
-      if (!p) { html += `<div class="cell off"><div class="n"><span>${dn}</span></div>${day === now.date ? "<div>bugün</div>" : ""}</div>`; continue; }
+      const tk = taskOf[day];
+      if (!p) { html += tk
+        ? `<div class="cell task${day < now.date ? " past" : ""}${day === now.date ? " today" : ""}" data-task="${day}"><div class="n"><span>${dn}</span></div><div class="k">görev</div><div class="tk">${esc(tk.short || tk.text)}</div></div>`
+        : `<div class="cell off"><div class="n"><span>${dn}</span></div>${day === now.date ? "<div>bugün</div>" : ""}</div>`; continue; }
       let [cls, txt] = status(p);
       if (p === nextPost) cls += " next";
       html += `<div class="cell post ${cls}" data-id="${p.id}">
         <div class="n"><span>${dn}</span></div>
         <div class="im">${p.thumb ? `<img loading="lazy" src="${esc(p.thumb)}" alt="">` : ""}</div>
         <div class="k">${esc(KIND[p.ckind] || p.kind)}</div>
-        <div class="st${p === nextPost ? " b" : ""}">${esc(txt)}</div></div>`;
+        <div class="st${p === nextPost ? " b" : ""}">${esc(txt)}</div>${tk ? `<div class="tk">${esc(tk.short || tk.text)}</div>` : ""}</div>`;
     }
   }
   html += "</div>";
+  if (TASKS.length) html += `<div class="tasks"><h3>Görevler</h3><ul>${TASKS.map(t => `<li${t.date < now.date ? ' style="color:var(--muted)"' : ""}><b>${esc(longDate(t.date))}</b> · ${esc(t.text)}</li>`).join("")}</ul></div>`;
   $("#grid").className = "";
   $("#grid").innerHTML = html;
   $("#empty").hidden = true;
   $("#grid").querySelectorAll(".cell.post").forEach(c => c.onclick = () => open(DATA.find(d => d.id === c.dataset.id)));
-  const cw = document.getElementById("curweek"); if (cw && !grid.scrolled) { grid.scrolled = true; cw.scrollIntoView({ block: "start" }); }
+  $("#grid").querySelectorAll(".cell.task").forEach(c => c.onclick = () => { const t = taskOf[c.dataset.task];
+    $("#view").innerHTML = `<div class="top"><div><h2>Görev · ${esc(longDate(t.date))}</h2></div><button class="close" id="x">Kapat</button></div><p>${esc(t.text)}</p>`;
+    $("#x").onclick = () => $("#dlg").close(); $("#dlg").showModal(); });
+  const cw = document.getElementById("curweek"); if (cw && !grid.scrolled) { grid.scrolled = true; cw.scrollIntoView({ block: "start" }); window.scrollBy(0, -document.querySelector("header").offsetHeight - 8); }
 }
 
 // Feed: the profile grid as it will look on a chosen day, newest first,
@@ -395,10 +525,62 @@ function feed() {
   $("#grid").querySelectorAll(".ft").forEach(c => c.onclick = () => open(DATA.find(d => d.id === c.dataset.id)));
 }
 
+// Analytics: every number shared so far (.claude/instagram/analytics.json).
+const pc = v => v == null ? "–" : "%" + (v * 100).toFixed(1).replace(".", ",");
+const nm = v => v == null ? "–" : String(v);
+function analyticsView() {
+  const ps = AN.posts.slice().sort((a, b) => b.date.localeCompare(a.date));
+  const views = ps.map(p => p.views).sort((a, b) => a - b);
+  const median = views.length % 2 ? views[(views.length - 1) / 2] : (views[views.length / 2 - 1] + views[views.length / 2]) / 2;
+  const item = p => p.folder ? DATA.find(d => d.path === p.folder) : null;
+  const name = p => { const it = item(p); return `${it && it.thumb ? `<img src="${esc(it.thumb)}" alt="">` : ""}${esc(p.title)}`; };
+  const row = p => { const it = item(p); return it ? ` data-id="${it.id}"` : ""; };
+  const TYPE = { reel: "Reel", carousel: "Carousel", tek: "Tek görsel" };
+  const reels = ps.filter(p => p.type === "reel");
+  const best = (arr, f, low) => { const v = arr.map(f).filter(x => x != null); return low ? Math.min(...v) : Math.max(...v); };
+  const bSkip = best(reels, p => p.rates && p.rates.skip.v, true), bWatch = best(reels, p => p.avg_watch && p.duration ? p.avg_watch / p.duration : null);
+  const vs = r => !r || !r.vs ? "" : r.vs.includes("düşük") ? " ↓" : r.vs.includes("yüksek") ? " ↑" : " =";
+  const SRC = ["Stories", "Reels tab", "Feed", "Profile", "Explore"];
+  const a = AN.account || {};
+  let h = `<div class="an">
+    <div class="meta">@${esc(a.handle || "")} · ${nm(a.followers)} takipçi · ${nm(a.following)} takip · ${nm(a.posts)} post · kontrol ${a.checked ? esc(longDate(a.checked)) : ""} · medyan görüntülenme ${nm(median)}</div>
+    <div class="meta">Kaynak: ${AN.sources.map(s => esc(longDate(s.date) + ", " + s.what) + (s.file ? ` (<a href="${esc(s.file)}" download>xlsx</a>)` : "")).join(" · ")}. Satıra dokununca post açılır. Analiz: "Analytics analiz" sekmesi.</div>
+    <h3>Postlar</h3>
+    <div class="tw"><table><thead><tr><th>post</th><th>tarih</th><th class="l">tür</th><th>görüntülenme</th><th>kişi</th><th>× medyan</th><th>takipçi olmayan</th><th>beğeni</th><th>yorum</th><th>kayıt</th><th>paylaşım</th><th>yeniden paylaşım</th><th>profil ziyareti</th><th>link</th><th>takip</th></tr></thead><tbody>
+    ${ps.map(p => `<tr${row(p)}><td>${name(p)}</td><td>${esc(longDate(p.date))}</td><td class="l">${esc(TYPE[p.type] || p.type)}</td><td>${nm(p.views)}</td><td>${nm(p.viewers)}</td><td>${(p.views / median).toFixed(2).replace(".", ",")}</td><td>${pc(p.views_nonfollower)}</td><td>${nm(p.likes)}</td><td>${nm(p.comments)}</td><td>${nm(p.saves)}</td><td>${nm(p.sends)}</td><td>${nm(p.reposts)}</td><td>${nm(p.profile_visits)}</td><td>${nm(p.link_taps)}</td><td><b>${nm(p.follows)}</b></td></tr>`).join("")}
+    </tbody></table></div>
+    <h3>Reels</h3>
+    <div class="meta">Atlama: ilk 3 saniyede kaydıranlar. ↓ ↑ = Instagram'ın, hesabın tipik reel'ine göre karşılaştırması (atlamada ↓ iyi). Kalın: en iyi değer.</div>
+    <div class="tw"><table><thead><tr><th>reel</th><th>süre</th><th>atlama</th><th>ort. izleme</th><th>izlenen pay</th><th>paylaşım oranı</th><th>beğeni oranı</th><th>kayıt oranı</th><th>yorum oranı</th><th>yeniden paylaşım oranı</th>${SRC.map(k => `<th>${k === "Reels tab" ? "Reels sekmesi" : k === "Profile" ? "Profil" : k}</th>`).join("")}</tr></thead><tbody>
+    ${reels.map(p => { const r = p.rates || {}, w = p.avg_watch && p.duration ? p.avg_watch / p.duration : null;
+      const cell = (x, b) => `<td>${b ? "<b>" : ""}${pc(x && x.v)}${vs(x)}${b ? "</b>" : ""}</td>`;
+      return `<tr${row(p)}><td>${name(p)}</td><td>${nm(p.duration)} sn</td>${cell(r.skip, r.skip && r.skip.v === bSkip)}<td>${nm(p.avg_watch)} sn</td><td>${w === bWatch ? "<b>" : ""}${pc(w)}${w === bWatch ? "</b>" : ""}</td>${cell(r.share)}${cell(r.like)}${cell(r.save)}${cell(r.comment)}${cell(r.repost)}${SRC.map(k => `<td>${pc(p.sources && p.sources[k])}</td>`).join("")}</tr>`; }).join("")}
+    </tbody></table></div>
+    <h3>İzleyici tutma</h3>
+    <div class="rets">${reels.filter(p => p.retention_img).map(p => `<div><a href="${esc(p.retention_img)}" target="_blank" rel="noopener"><img loading="lazy" src="${esc(p.retention_img)}" alt=""></a><div><b>${esc(p.title)}</b> · ${nm(p.duration)} sn · atlama ${pc(p.rates && p.rates.skip.v)}</div></div>`).join("")}</div>
+    <h3>Gönderiler: nereden görüldü</h3>
+    <div class="tw"><table><thead><tr><th>post</th><th>Feed</th><th>Stories</th><th>Profil</th><th>kart başına beğeni</th></tr></thead><tbody>
+    ${ps.filter(p => p.type !== "reel").map(p => { const c = p.card_likes || [], mx = Math.max(1, ...c);
+      return `<tr${row(p)}><td>${name(p)}</td><td>${pc(p.sources && p.sources.Feed)}</td><td>${pc(p.sources && p.sources.Stories)}</td><td>${pc(p.sources && p.sources.Profile)}</td><td>${c.length ? `<div class="bars" title="${c.join(" · ")}">${c.map(x => `<span style="height:${Math.round(x / mx * 100)}%"></span>`).join("")}</div>` : "–"}</td></tr>`; }).join("")}
+    </tbody></table></div>
+    <h3>Kitle</h3>
+    <div class="tw"><table><thead><tr><th>post</th><th>Türkiye</th><th>Lüksemburg</th><th>Almanya</th><th>İtalya</th><th>İngiltere</th><th>25–34 yaş</th><th>35–44 yaş</th><th>erkek</th></tr></thead><tbody>
+    ${ps.filter(p => p.country).map(p => `<tr${row(p)}><td>${name(p)}</td><td>${pc(p.country["Türkiye"])}</td><td>${pc(p.country.Luxembourg)}</td><td>${pc(p.country.Germany)}</td><td>${pc(p.country.Italy)}</td><td>${pc(p.country["United Kingdom"])}</td><td>${pc(p.age && p.age["25–34"])}</td><td>${pc(p.age && p.age["35–44"])}</td><td>${pc(p.gender && p.gender.Men)}</td></tr>`).join("")}
+    </tbody></table></div>
+    <div class="meta">${ps.filter(p => p.note).map(p => `<div><b>${esc(p.title)}:</b> ${esc(p.note)}</div>`).join("")}</div>
+  </div>`;
+  $("#grid").className = "";
+  $("#grid").innerHTML = h;
+  $("#empty").hidden = true;
+  $("#grid").querySelectorAll("tr[data-id]").forEach(r => r.onclick = () => open(DATA.find(d => d.id === r.dataset.id)));
+}
+
 function grid() {
-  $("#q").style.display = group === "takvim" || group === "feed" ? "none" : "";
+  $("#q").style.display = SPECIAL.includes(group) ? "none" : "";
   if (group === "takvim") return calendar();
   if (group === "feed") return feed();
+  if (group === "analytics") return analyticsView();
+  if (group === "analiz") { $("#grid").className = ""; $("#grid").innerHTML = `<div class="md">${ANALIZ}</div>`; $("#empty").hidden = true; return; }
   $("#grid").className = "grid";
   const q = $("#q").value.trim().toLowerCase();
   let items = DATA.filter(d => inGroup(d, group) &&
@@ -406,6 +588,7 @@ function grid() {
   if (group === "takvim") items = items.slice().sort((a, b) => a.date.localeCompare(b.date));
   $("#grid").innerHTML = items.map(d => `
     <div class="card" data-id="${d.id}">
+      ${d.posted ? `<span class="ok" data-tip="paylaşıldı ${esc(longDate(d.posted.date))}" title="paylaşıldı ${esc(longDate(d.posted.date))}">${ICON_OK}</span>` : ""}
       <div class="thumb">${d.thumb ? `<img loading="lazy" src="${esc(d.thumb)}" alt="">` : ""}</div>
       ${d.date ? `<div class="d${d.date < today ? " past" : d.date === today ? " now" : ""}">${esc(short(d))}</div>` : ""}
       <div class="t">${esc(d.title)}</div>
@@ -464,7 +647,9 @@ function textBlock(label, text, id) {
 
 function open(it) {
   const cov = f => (it.covers && it.covers[f]) || it.cover;
-  const v = it.videos.map(f => `
+  const vids = it.cvideo && it.videos.includes(it.cvideo) ? [it.cvideo, ...it.videos.filter(f => f !== it.cvideo)] : it.videos;
+  const v = vids.map(f => `
+    ${vids.length > 1 ? `<div class="path" style="margin-top:12px"><b>${esc(f)}</b>${f === it.cvideo ? " · takvimde bu paylaşılır" : ""}${it.posted && f === it.posted.video ? " · paylaşılan" : ""}</div>` : ""}
     <video controls playsinline preload="none" poster="${cov(f) ? esc(url(it, cov(f))) : ""}" data-file="${esc(f)}"></video>
     <div class="btns">
       ${cov(f) ? `<button class="btn dark" data-share='${esc(JSON.stringify([f, cov(f)]))}'>Fotoğraflara kaydet (video + kapak)</button>` : ""}
@@ -480,7 +665,8 @@ function open(it) {
       </div>`).join("")}</div>` : "";
   $("#view").innerHTML = `
     <div class="top"><div><h2>${esc(it.title)}</h2><div class="path">${it.when ? esc(it.when) + " · " : ""}${esc(it.kind)} · ${esc(it.path)}</div>
-      ${it.note ? `<div class="path">${esc(it.note)}</div>` : ""}</div>
+      ${it.note ? `<div class="path">${esc(it.note)}</div>` : ""}
+      ${it.posted ? `<div class="path" style="color:#1a9b3c">✓ paylaşıldı ${esc(longDate(it.posted.date))}${it.posted.url ? ` · <a href="${esc(it.posted.url)}" target="_blank" rel="noopener">Instagram'da aç</a>` : ""}</div>` : ""}</div>
       <button class="close" id="x">Kapat</button></div>
     ${v}${s}
     ${textBlock("Caption", it.caption, "t-cap")}
@@ -518,7 +704,12 @@ if (location.hash) { const it = DATA.find(d => d.id === location.hash.slice(1));
 
 def main():
     data = collect()
+    an = analytics()
+    an.setdefault("sources", [])
     page = PAGE.replace("__DATA__", json.dumps(data, ensure_ascii=False)) \
+               .replace("__TASKS__", json.dumps(tasks(), ensure_ascii=False)) \
+               .replace("__ANALYTICS__", json.dumps(an, ensure_ascii=False)) \
+               .replace("__ANALIZ__", json.dumps(md(read(ANALIZ)), ensure_ascii=False)) \
                .replace("__GROUPS__", json.dumps(GROUPS, ensure_ascii=False)) \
                .replace("__MEDIA__", json.dumps(MEDIA_BASE)) \
                .replace("__LFS__", json.dumps(LFS_BASE))
