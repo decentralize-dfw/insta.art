@@ -1,0 +1,23 @@
+// Regression: an explicitly ready post must not expire just because its hour passed.
+const assert = require('node:assert/strict');
+const fs = require('node:fs');
+const path = require('node:path');
+const vm = require('node:vm');
+const root = path.resolve(__dirname, '..');
+const page = fs.readFileSync(path.join(root, 'index.html'), 'utf8');
+const builder = fs.readFileSync(path.join(root, 'tools/build_index.py'), 'utf8');
+const extract = text => text.replace(/\r\n/g, '\n').match(/function status\(d\) \{[\s\S]*?\n\}\nfunction calendar/)[0].replace(/\nfunction calendar$/, '');
+assert.equal(extract(page), extract(builder));
+new vm.Script(page.match(/<script>([\s\S]*?)<\/script>/)[1]);
+const ctx = { NOW: {date:'2026-11-23', hm:'20:30'}, dayDiff: (a,b)=>Math.round((Date.parse(b+'T12:00:00Z')-Date.parse(a+'T12:00:00Z'))/864e5) };
+vm.createContext(ctx);vm.runInContext(extract(page),ctx);
+const post={date:'2026-11-23',when:'2026-11-23 Pzt 19:00',publishStatus:'ready',posted:null};
+assert.equal(ctx.status(post)[1], 'bugün · hazır');
+ctx.NOW.hm='18:00';assert.equal(ctx.status(post)[1], 'bugün · hazır');
+ctx.NOW={date:'2026-11-24',hm:'00:30'};assert.equal(ctx.status(post)[1], 'hazır · paylaşım bekliyor');
+assert.equal(ctx.status({...post,posted:{date:'2026-11-23',other:false}})[0], 'past');
+assert.equal(ctx.status({...post,posted:{date:'2026-11-20',other:true}})[0], 'today');
+ctx.NOW={date:'2026-11-23',hm:'20:30'};
+assert.equal(ctx.status({...post,publishStatus:''})[0], 'past');
+assert.equal(ctx.status({...post,date:'2026-11-24',publishStatus:''})[1], 'yarın');
+console.log('Passed: ready before/after schedule and midnight; published precedence; other-file handling; unchanged normal dates; generated page syntax.');

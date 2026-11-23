@@ -252,6 +252,7 @@ def collect():
         it["week"] = c.get("week", 0) if c else 0
         it["ckind"] = c.get("kind", "") if c else ""
         it["cvideo"] = c.get("video", "") if c else ""
+        it["publishStatus"] = c.get("status", "") if c else ""
         p = posted.get(it["path"]) if it["group"] != "recordings" else None
         it["posted"] = {"date": p["date"], "url": p.get("url", ""), "video": p.get("video") or "",
                         "other": p.get("same_file") is False} if p else None
@@ -446,6 +447,8 @@ function status(d) {
   const now = NOW || parisParts(new Date());
   const diff = dayDiff(now.date, d.date);
   const time = (d.when.split(" ")[2] || "19:00");
+  if (d.publishStatus === "ready" && !(d.posted && !d.posted.other))
+    return ["today", diff === 0 ? "bugün · hazır" : "hazır · paylaşım bekliyor"];
   if (diff < 0 || (diff === 0 && now.hm >= time)) return ["past", "geçti"];
   if (diff === 0) return ["today", "bugün " + time];
   if (diff === 1) return ["", "yarın"];

@@ -16,7 +16,8 @@
   "posts/details/gxd-is-afk-we-banned-it",
   "posts/details/painstaking",
   "posts/kopstal/sept-neuf-footage",
-  "posts/kopstal/7-fam-board-game-footage"
+  "posts/kopstal/7-fam-board-game-footage",
+  "posts/kopstal/gary-grills-cooper-process"
  ],
  "posts": [
   {
@@ -94,10 +95,12 @@
    "day": "Pzt",
    "time": "19:00",
    "week": 3,
-   "kind": "reel-süreç",
-   "folder": "posts/kopstal/gary-grills-cooper-process",
-   "work": "gary-grills-cooper",
-   "note": "Bugün, 7 fam kaydının yerine (kalitesi düşük). 17 sn, aşama fotoğrafları: hızlı ileri, sonra geriye. Ana hesaptan Story (postu paylaş + bahsetme). İlk saat yorumlara cevap. Test: süreçle açılan kısa reel; atlama %69'un altına iner mi."
+   "kind": "reel-detay",
+   "folder": "posts/montage/virgil-barricade-studio",
+   "work": "virgil-on-virtual-cage-final-final-finalv9",
+   "note": "23 Kasım için seçilen son V4: 15.72 sn, Axwell — Barricade ile detaylar → karelerle tam resim → IMG_6830 stüdyo geçişi → tek vuruş/yankı ve 1 sn logo. Kapak, açıklama ve 5 hashtag hazır. Saat geçtiği için iptal/kaçırıldı sayılmaz; paylaşım bekliyor. Ana hesaptan Story; ilk saat yorumlara cevap.",
+   "video": "reel.mp4",
+   "status": "ready"
   },
   {
    "date": "2026-11-25",
@@ -533,8 +536,8 @@
  "tasks": [
   {
    "date": "2026-11-23",
-   "text": "Gary süreç reel'i + ana hesaptan Story, ilk saat yorumlara cevap",
-   "short": "Story, yorumlara cevap"
+   "text": "Virgil müzikli V4 reel: video, kapak ve caption hazır. Paylaştıktan sonra ana hesaptan Story; ilk saat yorumlara cevap.",
+   "short": "Virgil hazır · Story, yorumlar"
   },
   {
    "date": "2026-11-24",
@@ -549,7 +552,7 @@
   {
    "date": "2026-11-29",
    "short": "72. saat rakamları",
-   "text": "Pzt (gary süreç) ve Per (angora süreç) reel'lerinin 72. saat rakamları: atlama oranı, ortalama izleme, paylaşım, eklenen müzik → ajana"
+   "text": "Pzt (Virgil müzikli V4) ve Per (angora süreç) reel'lerinin gerçek paylaşım anından 72 saat sonraki rakamları: atlama oranı, ortalama izleme, paylaşım, eklenen müzik → ajana"
   },
   {
    "date": "2027-01-04",
@@ -559,6 +562,7 @@
  ],
  "spare_notes": {
   "posts/kopstal/7-fam-board-game-footage": "Kayıt kalitesi düşük (Yiğit, 23 Kasım). Yakında paylaşılmaz; profil oturunca belki.",
-  "posts/kopstal/sept-neuf-footage": "Kayıt kalitesi düşük (Yiğit)."
+  "posts/kopstal/sept-neuf-footage": "Kayıt kalitesi düşük (Yiğit).",
+  "posts/kopstal/gary-grills-cooper-process": "23 Kasım slotu kullanıcının seçtiği Virgil müzikli V4 montajına ayrıldı. Gary süreç videosu korunuyor; yeni tarih atanmadı."
  }
 }

@@ -52,3 +52,7 @@ Kitle: Türkiye %49–63, Lüksemburg %9–16, 25–34 yaş %56–69, erkek %65�
 Okuma (n=5 reel, zayıf): sorun ilk 3 saniye (atlama %69–80, ortalama izleme 4–9 sn). En iyi tutan
 boyama kaydı (viperella %69,2), en kötü başlık + ses (gxd B %79,8). Hızlı açılışsız 8 Kasım reel'i
 de %79,4: hızlı açılış ne kurtarıyor ne batırıyor. Story günlerinde görüntülemelerin %44–52'si Story'den.
+
+## 23 Kasım 2026 · hazır post güncellemesi
+
+Virgil on Virtual Cage (final_final-finalV9), sesli V4 stüdyo montajı 23 Kasım slotuna atandı. Kapak mevcut şablonda; caption, 5 hashtag, alt metin ve teknik/ses notları eklendi. Gary süreç videosu yedekte. Instagram yayını yapılmadı veya doğrulanmadı; durum hazır / paylaşım bekliyor. Dosya SHA-256: `3810875e2efb6a558822ad5e378b53d18705be6999a6862cd1479eb8fe2adb46`.

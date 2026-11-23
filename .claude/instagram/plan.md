@@ -103,7 +103,7 @@ kaçarsa ya da bir post sorun çıkarırsa yerine girer, takvimin kalanı kaymaz
 
 | gün | format | eser | klasör | not |
 | --- | --- | --- | --- | --- |
-| Pzt 23.11 | Reel · boyama kaydı | 7 fam board game (2026) | `posts/kopstal/7-fam-board-game-footage/` | Ana hesaptan Story (postu paylaş + bahsetme) |
+| Pzt 23.11 | Reel · müzikli detay / stüdyo | Virgil on Virtual Cage (final_final-finalV9) (2026) | `posts/montage/virgil-barricade-studio/` | Son V4; kapak, caption, 5 hashtag hazır. Saat geçse de paylaşım bekliyor. Ana hesaptan Story |
 | Çrş 25.11 | Carousel · süreç | Painstaking (2026) | `posts/process-carousel/painstaking/` | portfolyo / 2026 detay carousel slotu |
 | Per 26.11 | Reel · süreç | gary grills cooper (2026) | `posts/kopstal/gary-grills-cooper-process/` | 2026 Reel: süreç, kayıt ya da portfolyo |
 | Cmt 28.11 | Reel · detay | cute but unemployed cartoon figure (2020) | `posts/milan/cute-but-unemployed-cartoon-figure-details/` | arşiv günü: 2019–2020 |
@@ -197,3 +197,7 @@ kaçarsa ya da bir post sorun çıkarırsa yerine girer, takvimin kalanı kaymaz
 | Çrş 03.02 | Carousel · detay | 7 fam board game (2026) | `posts/details/7-fam-board-game/` | portfolyo / 2026 detay carousel slotu |
 | Per 04.02 | Reel · detay | How to materialize your loneliness by using an animal in somewhere concrete or technologic (2019) | `posts/milan/how-to-materialize-your-loneliness-by-using-an-animal-in-somewhere-concrete-or-technologic-details/` | yer tutucu: 2026 Reel'i bitti, yeni 2026 içeriği gelince değişir |
 | Cmt 06.02 | Reel · detay | amor cathedra (2019) | `posts/milan/amor-cathedra-details/` | arşiv günü: 2019–2020 |
+
+## 23 Kasım 2026 · son kullanıcı seçimi
+
+Takvimde 23 Kasım kaydı Virgil müzikli V4 montajıdır; Gary süreç videosu yedeğe alındı. Tarih ve 19:00 plan saati korunur, açık durum `ready` olduğu için saatten dolayı “geçti” sayılmaz. Paylaşılmış olarak işaretlenmedi. Diğer tarihler değiştirilmedi; güncel sıra için `calendar.json` esas alınır. Ses bu post için kullanıcının açık talebiyle gömülüdür. Kapak `tools/covers.py` şablonuyla, caption künye ve beş hashtag ile hazırlandı.
