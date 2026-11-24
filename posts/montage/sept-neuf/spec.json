@@ -1,291 +1,235 @@
 {
  "type": "reel",
- "reel_type": "music-locked montage (REELS_FORMULU.md)",
- "bpm": 128,
+ "reel_type": "montage in the Virgil V4 format (REELS_FORMULU.md, approved 23 Nov)",
  "fps": 60,
+ "music": "Axwell, Barricade (V4's audio, studio part left out)",
  "title": "sept neuf",
+ "works": [
+  "sept-neuf"
+ ],
  "fast": [
-  {
-   "kind": "whole",
-   "src": "details:sept-neuf/inverted-silvia--7-9.png"
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6643.JPG",
-   "pos": 0.15
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6644.JPG",
-   "pos": 0.15
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6647.JPG",
-   "pos": 0.15
-  },
-  {
-   "kind": "whole",
-   "src": "details:sept-neuf/inverted-silvia--7-9.png"
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6648.JPG",
-   "pos": 0.15
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6653.JPG",
-   "pos": 0.15
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6658.JPG",
-   "pos": 0.15
-  },
-  {
-   "kind": "whole",
-   "src": "details:sept-neuf/inverted-silvia--7-9.png"
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6691.JPG",
-   "pos": 0.15
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6643.JPG",
-   "pos": 0.5
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6644.JPG",
-   "pos": 0.5
-  },
-  {
-   "kind": "whole",
-   "src": "details:sept-neuf/inverted-silvia--7-9.png"
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6647.JPG",
-   "pos": 0.5
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6648.JPG",
-   "pos": 0.5
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6653.JPG",
-   "pos": 0.5
-  },
-  {
-   "kind": "whole",
-   "src": "details:sept-neuf/inverted-silvia--7-9.png"
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6658.JPG",
-   "pos": 0.5
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6691.JPG",
-   "pos": 0.5
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6643.JPG",
-   "pos": 0.85
-  },
-  {
-   "kind": "whole",
-   "src": "details:sept-neuf/inverted-silvia--7-9.png"
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6644.JPG",
-   "pos": 0.85
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6647.JPG",
-   "pos": 0.85
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6648.JPG",
-   "pos": 0.85
-  },
-  {
-   "kind": "whole",
-   "src": "details:sept-neuf/inverted-silvia--7-9.png"
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6653.JPG",
-   "pos": 0.85
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6658.JPG",
-   "pos": 0.85
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6691.JPG",
-   "pos": 0.85
-  },
-  {
-   "kind": "whole",
-   "src": "details:sept-neuf/inverted-silvia--7-9.png"
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6643.JPG",
-   "pos": 0.15
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6644.JPG",
-   "pos": 0.15
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6647.JPG",
-   "pos": 0.15
-  },
-  {
-   "kind": "whole",
-   "src": "details:sept-neuf/inverted-silvia--7-9.png"
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6648.JPG",
-   "pos": 0.15
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6653.JPG",
-   "pos": 0.15
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6658.JPG",
-   "pos": 0.15
-  },
-  {
-   "kind": "whole",
-   "src": "details:sept-neuf/inverted-silvia--7-9.png"
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6691.JPG",
-   "pos": 0.15
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6643.JPG",
-   "pos": 0.5
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6644.JPG",
-   "pos": 0.5
-  },
-  {
-   "kind": "whole",
-   "src": "details:sept-neuf/inverted-silvia--7-9.png"
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6647.JPG",
-   "pos": 0.5
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6648.JPG",
-   "pos": 0.5
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6653.JPG",
-   "pos": 0.5
-  },
-  {
-   "kind": "whole",
-   "src": "details:sept-neuf/inverted-silvia--7-9.png"
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6658.JPG",
-   "pos": 0.5
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6691.JPG",
-   "pos": 0.5
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6643.JPG",
-   "pos": 0.85
-  },
-  {
-   "kind": "whole",
-   "src": "details:sept-neuf/inverted-silvia--7-9.png"
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6644.JPG",
-   "pos": 0.85
-  }
- ],
- "slow": [
-  {
-   "kind": "whole",
-   "src": "details:sept-neuf/inverted-silvia--7-9.png"
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6647.JPG",
-   "pos": 0.5
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6653.JPG",
-   "pos": 0.5
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6691.JPG",
-   "pos": 0.5
-  }
- ],
- "grid": [
-  {
-   "kind": "whole",
-   "src": "details:sept-neuf/inverted-silvia--7-9.png"
-  },
   {
    "kind": "detail",
    "src": "details:sept-neuf/IMG_6643.JPG"
   },
   {
    "kind": "detail",
-   "src": "details:sept-neuf/IMG_6644.JPG"
+   "src": "details:sept-neuf/IMG_6644.JPG",
+   "pos": null
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6647.JPG",
+   "pos": null
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6648.JPG",
+   "pos": null
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6653.JPG",
+   "pos": null
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6658.JPG",
+   "pos": null
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6691.JPG",
+   "pos": null
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6644.JPG",
+   "pos": 0.0
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6658.JPG",
+   "pos": 0.0
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6691.JPG",
+   "pos": 0.0
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6643.JPG",
+   "pos": 1.0
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6647.JPG",
+   "pos": 1.0
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6653.JPG",
+   "pos": 1.0
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6658.JPG",
+   "pos": 1.0
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6691.JPG",
+   "pos": 1.0
   },
   {
    "kind": "detail",
    "src": "details:sept-neuf/inverted-silvia--7-9.png",
    "box": [
-    0.4,
-    0.17,
-    0.63,
-    0.44
+    0.0,
+    0.1,
+    0.55,
+    0.75
    ]
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6643.JPG",
+   "pos": null
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6644.JPG",
+   "pos": null
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6647.JPG",
+   "pos": null
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6648.JPG",
+   "pos": null
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6653.JPG",
+   "pos": null
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6658.JPG",
+   "pos": null
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6691.JPG",
+   "pos": null
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6644.JPG",
+   "pos": 0.0
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6658.JPG",
+   "pos": 0.0
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6691.JPG",
+   "pos": 0.0
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6643.JPG",
+   "pos": 1.0
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6647.JPG",
+   "pos": 1.0
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6653.JPG",
+   "pos": 1.0
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6658.JPG",
+   "pos": 1.0
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6691.JPG",
+   "pos": 1.0
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/inverted-silvia--7-9.png",
+   "box": [
+    0.0,
+    0.1,
+    0.55,
+    0.75
+   ]
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6643.JPG",
+   "pos": null
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6644.JPG",
+   "pos": null
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6647.JPG",
+   "pos": null
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6648.JPG",
+   "pos": null
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6653.JPG",
+   "pos": null
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6658.JPG",
+   "pos": null
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6691.JPG",
+   "pos": null
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6644.JPG",
+   "pos": 0.0
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6658.JPG",
+   "pos": 0.0
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6691.JPG",
+   "pos": 0.0
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6691.JPG"
   },
   {
    "kind": "detail",
@@ -297,21 +241,12 @@
   },
   {
    "kind": "detail",
-   "src": "details:sept-neuf/IMG_6658.JPG"
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/IMG_6691.JPG"
-  },
-  {
-   "kind": "detail",
-   "src": "details:sept-neuf/inverted-silvia--7-9.png",
-   "box": [
-    0.08,
-    0.47,
-    0.42,
-    0.72
-   ]
+   "src": "details:sept-neuf/IMG_6643.JPG",
+   "pos": 1.0
   }
- ]
+ ],
+ "assembly": {
+  "kind": "painting",
+  "src": "details:sept-neuf/inverted-silvia--7-9.png"
+ }
 }

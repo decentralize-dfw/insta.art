@@ -1,24 +1,19 @@
-"""Music-locked detail montage (REELS_FORMULU.md, after @studio_paresse's reel).
+"""Montage reels in the approved Virgil V4 format (posts/montage/virgil-barricade-studio).
 
     python3 tools/montage.py build <recipe> <folder>    # writes <folder>/spec.json, renders reel.mp4
-    python3 tools/montage.py render <folder>            # renders <folder>/spec.json
+    python3 tools/montage.py render <folder>
 
-Structure, on a fixed beat (B BPM, T = 60 / B):
-  1. N fast shots, each a sixteenth (T / 4), hard cuts, no blending: whole painting,
-     detail, detail, ...
-  2. four slowing shots: T/4, T/3, 5T/12, T/2 (1.5 beats)
-  3. the 3x3 build: one tile per beat on white, in the order centre, middle right,
-     middle left, top centre, bottom centre, bottom right, top left, top right, bottom left
-  4. the full grid held 2 beats; the video ends on beat 10 after the first tile
-
-Every start is computed from absolute beat time and rounded to a frame, so nothing
-drifts. With N = 50 the video is 24 beats: 11.25 s at 128 BPM. The first grid tile
-lands on beat L = N/4 + 1.5 (6.5625 s at 128 BPM): put a strong beat of the song there.
-The video is silent (the music is added in the Instagram app) and has no end card,
-so it loops.
-
-Whole paintings are never cropped (fit on white); details fill the frame (cover crop
-over the part with the most brushwork, or at a given position).
+The timing is V4's, frame for frame (60 fps), so V4's own Barricade audio fits:
+  0-5.800 s     46 full-bleed detail shots: the first 18 frames, then 7-frame cuts
+                (one of 8), then the slowing 7, 10, 11, 14 frames. No white, no small pictures.
+  5.800-9.550   the picture builds from a 4 x 5 grid of tiles, centre out, 2-3 tiles on
+                each of 9 beats (V4's order): one painting fit to the width, or a full-screen
+                mosaic of 20 details (works with several paintings: no white at all).
+  9.550-11.417  the finished picture
+  11.417-12.417 V4's last hit and the black bird-chair logo (V4's own end frame)
+Audio: V4's track 0-11.300 s, then 14.600 s to the end (the last hit and its echo), so the
+studio part (only Virgil has a studio photo) is left out and every beat still lands.
+Whole paintings are never cropped; details and mosaic tiles fill their frame.
 """
 import json, math, os, subprocess, sys
 
@@ -71,8 +66,10 @@ def window(im, aspect, pos=None):
     return (o, 0, o + win, ih) if n_axis == 0 else (0, o, iw, o + win)
 
 
-def detail(src, w, h, pos=None, box=None):
+def detail(src, w, h, pos=None, box=None, trim=False):
     im = load(src)
+    if trim:                                  # photographed with a white margin around the canvas
+        im = workposts.trim_margin(im)
     if box:                                   # a region of the image (fractions), then the cover crop inside it
         x0, y0, x1, y1 = box
         im = im.crop((round(x0 * im.width), round(y0 * im.height), round(x1 * im.width), round(y1 * im.height)))
@@ -93,7 +90,7 @@ def whole(src, w, h, pad, trim=False):
 def shot_image(s):
     if s["kind"] == "whole":
         return whole(s["src"], W, H, PAD, s.get("trim", False))
-    return detail(s["src"], W, H, s.get("pos"), s.get("box"))
+    return detail(s["src"], W, H, s.get("pos"), s.get("box"), s.get("trim", False))
 
 
 def cell_rect(r, c):
@@ -109,55 +106,112 @@ def tile_image(s, cw, ch):
     return detail(s["src"], cw, ch, s.get("pos"), s.get("box"))
 
 
-# ---------- timing ----------
+# ---------- timing (Virgil V4) ----------
 
-def plan(spec):
-    B, F, N = spec["bpm"], spec.get("fps", 60), len(spec["fast"])
-    T = 60.0 / B
-    L = N / 4 + 1.5
-    v = lambda b: (b + L) * T                       # video time of beat b (b = 0: first grid tile)
-    fr = lambda t: int(math.floor(t * F + 0.5))
-    events = [(fr(v(-L + i / 4)), ("shot", s)) for i, s in enumerate(spec["fast"])]
-    for b, s in zip((-1.5, -1.25, -11 / 12, -0.5), spec["slow"]):
-        events.append((fr(v(b)), ("shot", s)))
-    for j in range(9):
-        events.append((fr(v(j)), ("grid", j + 1)))
-    end = fr(v(10))
-    return sorted(events, key=lambda e: e[0]), end, F, T, L
+V4 = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "posts", "montage",
+                  "virgil-barricade-studio", "reel.mp4")
+FAST_CUTS = [0, 18, 25, 32, 39, 46, 53, 60, 67, 74, 81, 88, 95, 102, 109, 116, 123, 130, 137, 144, 151, 158,
+             165, 173, 180, 187, 194, 201, 208, 215, 222, 229, 236, 243, 250, 257, 264, 271, 278, 285, 292,
+             299, 306, 313, 323, 334]                       # 46 shots, the last ends at frame 348
+BUILD = [(348, [(2, 1), (2, 2)]), (376, [(1, 1), (1, 2)]), (405, [(3, 1), (3, 2)]), (433, [(2, 0), (2, 3)]),
+         (461, [(1, 0), (1, 3)]), (489, [(3, 0), (3, 3)]), (517, [(0, 1), (0, 2)]),
+         (545, [(0, 0), (4, 1), (4, 2)]), (573, [(0, 3), (4, 0), (4, 3)])]     # (frame, [(row, col)])
+LOGO_AT, END = 685, 745                                     # 11.417 s, 12.417 s
+XFADE = 0.015
+AUDIO = [(0.0, 11.300), (14.600 - XFADE, None)]             # seconds of V4's audio, joined (the crossfade
+                                                            # overlaps, so the last hit stays on 11.417 s)
+FPS = 60
+ROWS, COLS = 5, 4
+
+
+def v4_logo():
+    raw = subprocess.run(["ffmpeg", "-v", "error", "-ss", "15.3", "-i", V4, "-frames:v", "1", "-f", "image2pipe",
+                          "-vcodec", "png", "-"], capture_output=True, check=True).stdout
+    import io
+    return Image.open(io.BytesIO(raw)).convert("RGB")
+
+
+def build_final(spec):
+    """The finished picture (1080 x 1920) and the box of each of the 20 tiles."""
+    a = spec["assembly"]
+    out = Image.new("RGB", (W, H), "white")
+    if a["kind"] == "painting":
+        im = load(a["src"])
+        if a.get("trim"):
+            im = workposts.trim_margin(im)
+        k = min(W / im.width, H / im.height)
+        pw, ph = round(im.width * k), round(im.height * k)
+        x0, y0 = (W - pw) // 2, (H - ph) // 2
+        out.paste(im.resize((pw, ph), Image.LANCZOS), (x0, y0))
+    else:                                                       # mosaic: 20 details, full screen
+        x0, y0, pw, ph = 0, 0, W, H
+    boxes = {}
+    for r in range(ROWS):
+        for c in range(COLS):
+            bx = (x0 + round(c * pw / COLS), y0 + round(r * ph / ROWS),
+                  x0 + round((c + 1) * pw / COLS), y0 + round((r + 1) * ph / ROWS))
+            boxes[(r, c)] = bx
+            if a["kind"] == "mosaic":
+                t = a["tiles"][r * COLS + c]
+                out.paste(detail(t["src"], bx[2] - bx[0], bx[3] - bx[1], t.get("pos"), t.get("box"), t.get("trim", False)),
+                          bx[:2])
+    return out, boxes
+
+
+def audio(path):
+    import tempfile
+    tmp = tempfile.mkdtemp()
+    parts = []
+    for i, (a, b) in enumerate(AUDIO):
+        f = os.path.join(tmp, f"{i}.wav")
+        subprocess.run(["ffmpeg", "-v", "error", "-y", "-ss", str(a), *(["-to", str(b)] if b else []), "-i", V4,
+                        "-vn", "-ac", "2", "-ar", "48000", f], check=True)
+        parts.append(f)
+    out = os.path.join(tmp, "audio.wav")
+    subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", parts[0], "-i", parts[1], "-filter_complex",
+                    f"[0][1]acrossfade=d={XFADE}:c1=tri:c2=tri[a]", "-map", "[a]", out], check=True)
+    return out
 
 
 def render(folder):
     spec = json.load(open(os.path.join(folder, "spec.json"), encoding="utf-8"))
-    assert len(spec["slow"]) == 4 and len(spec["grid"]) == 9
-    events, end, F, T, L = plan(spec)
-    out = os.path.join(folder, spec.get("out", "reel.mp4"))
-    # the grid states 1..9
-    base = Image.new("RGB", (W, H), "white")
-    grids = []
-    for j, s in enumerate(spec["grid"]):
-        r, c = ORDER[j]
-        x, y, cw, ch = cell_rect(r, c)
-        base = base.copy()
-        base.paste(tile_image(s, cw, ch), (x, y))
-        grids.append(base)
+    assert len(spec["fast"]) == len(FAST_CUTS)
+    final, boxes = build_final(spec)
+    logo = v4_logo()
+    silent = os.path.join(folder, ".silent.mp4")
     enc = subprocess.Popen(["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24",
-                            "-s", f"{W}x{H}", "-r", str(F), "-i", "-", "-an", "-c:v", "libx264",
-                            "-preset", "slow", "-crf", "17", "-pix_fmt", "yuv420p", "-movflags", "+faststart", out],
-                           stdin=subprocess.PIPE)
+                            "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-", "-an", "-c:v", "libx264",
+                            "-preset", "slow", "-crf", "17", "-pix_fmt", "yuv420p", silent], stdin=subprocess.PIPE)
     log = []
-    for k, (f0, (kind, x)) in enumerate(events):
-        f1 = events[k + 1][0] if k + 1 < len(events) else end
-        frame = shot_image(x) if kind == "shot" else grids[x - 1]
-        data = frame.tobytes()
-        for _ in range(f1 - f0):
+
+    def put(img, n, what):
+        data = img.tobytes()
+        for _ in range(n):
             enc.stdin.write(data)
-        log.append({"frame": f0, "ms": round(1000 * f0 / F, 1), "frames": f1 - f0,
-                    "what": (x["kind"] + " " + os.path.basename(x["src"])) if kind == "shot" else f"grid {x}/9"})
+        log.append({"frames": n, "what": what})
+
+    cuts = FAST_CUTS + [BUILD[0][0]]
+    for k, s in enumerate(spec["fast"]):
+        put(shot_image(s), cuts[k + 1] - cuts[k], f"{s['kind']} {os.path.basename(s['src'])}")
+    state = Image.new("RGB", (W, H), "white")
+    marks = [f for f, _ in BUILD] + [LOGO_AT]
+    for i, (f, cells) in enumerate(BUILD):
+        state = state.copy()
+        for rc in cells:
+            state.paste(final.crop(boxes[rc]), boxes[rc][:2])
+        put(state, marks[i + 1] - f, f"build {i + 1}/9")
+    put(logo, END - LOGO_AT, "logo")
     enc.stdin.close()
     if enc.wait():
         sys.exit("ffmpeg failed")
+    out = os.path.join(folder, spec.get("out", "reel.mp4"))
+    subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", silent, "-i", audio(folder), "-map", "0:v", "-map", "1:a",
+                    "-c:v", "copy", "-af", "apad", "-c:a", "aac", "-b:a", "256k", "-t", f"{END / FPS:.4f}",
+                    "-movflags", "+faststart", out],
+                   check=True)
+    os.remove(silent)
     json.dump(log, open(os.path.join(folder, "timeline.json"), "w"), indent=1, ensure_ascii=False)
-    print(f"{out}  {end / F:.3f} s  ({len(events)} cuts, first grid tile at {L * T:.4f} s, {spec['bpm']} BPM)")
+    print(f"{out}  {END / FPS:.3f} s")
 
 
 # ---------- recipes ----------
@@ -185,24 +239,56 @@ def tall_enough(src):
     return w / h <= 1.3
 
 
+def busy(s):
+    """How much brushwork a shot's frame holds (mean gradient of its 9:16 crop)."""
+    im = load(s["src"])
+    if s.get("box"):
+        x0, y0, x1, y1 = s["box"]
+        im = im.crop((round(x0 * im.width), round(y0 * im.height), round(x1 * im.width), round(y1 * im.height)))
+    small = im.crop(window(im, W / H, s.get("pos"))).convert("L").resize((90, 160))
+    a = np.asarray(small).astype(float)
+    return float(np.abs(np.diff(a, axis=0)).mean() + np.abs(np.diff(a, axis=1)).mean())
+
+
+def keep_busy(shots, ratio=0.8):
+    """Drop crops that are mostly empty ground: under ratio x the median."""
+    e = [busy(x) for x in shots]
+    m = float(np.median(e))
+    return [x for x, v in zip(shots, e) if v >= ratio * m]
+
+
+def spread(groups, n, first=None):
+    """n shots, round robin over groups (lists of shots), never the same source twice in a row."""
+    out = [first] if first else []
+    idx = [0] * len(groups)
+    g = 0
+    while len(out) < n:
+        grp = groups[g % len(groups)]
+        shot = grp[idx[g % len(groups)] % len(grp)]
+        idx[g % len(groups)] += 1
+        g += 1
+        if out and shot["src"] == out[-1]["src"] and shot.get("pos") == out[-1].get("pos"):
+            continue
+        out.append(shot)
+    return out
+
+
+def by_name(files, name):
+    return next(f for f in files if os.path.basename(f).startswith(name))
+
+
 def recipe_sept_neuf():
     master, d = details_of("sept-neuf")
-    crops = [(f, p) for p in (0.15, 0.5, 0.85) for f in d]          # 21 different windows over 7 photos
-    fast, i = [], 0
-    for n in range(50):
-        if n % 4 == 0:
-            fast.append({"kind": "whole", "src": master})
-        else:
-            f, p = crops[i % len(crops)]
-            i += 1
-            fast.append({"kind": "detail", "src": f, "pos": p})
-    slow = [{"kind": "whole", "src": master}] + [{"kind": "detail", "src": d[k], "pos": 0.5} for k in (2, 4, 6)]
-    # the painting itself opens the grid (centre), its seven detail photos and the hand on the armrest around it
-    t = [{"kind": "detail", "src": f} for f in d]
-    t[2] = {"kind": "detail", "src": master, "box": [0.40, 0.17, 0.63, 0.44]}      # the hand with the cigarette
-    grid = [{"kind": "whole", "src": master}] + t + [
-        {"kind": "detail", "src": master, "box": [0.08, 0.47, 0.42, 0.72]}]
-    return {"title": "sept neuf", "fast": fast, "slow": slow, "grid": grid}
+    shots = [{"kind": "detail", "src": f, "pos": p} for p in (None, 0.0, 1.0) for f in d]
+    shots += [{"kind": "detail", "src": master, "box": b} for b in
+              ([0.0, 0.1, 0.55, 0.75], [0.5, 0.2, 1.0, 0.8], [0.2, 0.5, 0.8, 1.0])]   # tall regions: sharp at 9:16
+    # chosen by eye (23 Nov): these windows are mostly empty green ground
+    shots = [x for i, x in enumerate(shots) if i not in {7, 9, 10, 11, 15, 17}]
+    fast = spread([shots], len(FAST_CUTS) - 4, first={"kind": "detail", "src": d[0]})
+    fast += [{"kind": "detail", "src": d[6]}, {"kind": "detail", "src": d[3]},
+             {"kind": "detail", "src": d[4]}, {"kind": "detail", "src": d[0], "pos": 1.0}]
+    return {"title": "sept neuf", "works": ["sept-neuf"], "fast": fast,
+            "assembly": {"kind": "painting", "src": master}}
 
 
 KOPSTAL = ["angora-mergvs", "kreatine-klaude-kettlebell", "gxd-is-afk-we-banned-it", "virgil-on-virtual-cage-final-final-finalv9",
@@ -210,35 +296,40 @@ KOPSTAL = ["angora-mergvs", "kreatine-klaude-kettlebell", "gxd-is-afk-we-banned-
 
 
 def recipe_kopstal():
-    data = {s: details_of(s) for s in KOPSTAL}
-    fast, n, k = [], 0, {s: 0 for s in KOPSTAL}
-    while len(fast) < 50:
-        s = KOPSTAL[n % len(KOPSTAL)]
-        master, d = data[s]
-        if tall_enough(master):
-            fast.append({"kind": "whole", "src": master})
-        for _ in range(2):
-            if len(fast) < 50:
-                fast.append({"kind": "detail", "src": d[k[s] % len(d)]})
-                k[s] += 1
-        n += 1
-    m, d = data["angora-mergvs"]
-    slow = [{"kind": "whole", "src": m}] + [{"kind": "detail", "src": d[i]} for i in (5, 7, 9)]
-    order = ["angora-mergvs", "kreatine-klaude-kettlebell", "gxd-is-afk-we-banned-it", "virgil-on-virtual-cage-final-final-finalv9",
-             "gary-grills-cooper", "painstaking", "sept-neuf", "walls-of-perception", "kreatine-klaude-kettlebell"]
-    grid, used = [], {}
-    for s in order:
-        d = data[s][1]
-        i = used.get(s, len(d) // 2)
-        used[s] = i + 3
-        grid.append({"kind": "detail", "src": d[i % len(d)]})
-    return {"title": "Kopstal, 2026", "fast": fast, "slow": slow, "grid": grid}
+    data = {s: details_of(s)[1] for s in KOPSTAL}
+    groups = [[{"kind": "detail", "src": f} for f in data[s]] for s in KOPSTAL]
+    first = {"kind": "detail", "src": by_name(data["kreatine-klaude-kettlebell"], "kreatine-klaude-kettlebell-detail-01")}
+    fast = spread(groups, len(FAST_CUTS), first)
+    used = {x["src"] for x in fast}
+    tiles, looks = [], []
+
+    def look(f):                                             # the tile as it will be seen, small and grey
+        return np.asarray(detail(f, 270, 384).convert("L").resize((27, 38))).astype(float)
+
+    for s in KOPSTAL * 6:                                    # 20 tiles: unused in the fast part where possible,
+        spaced = data[s][1::3] + data[s][2::3] + data[s][::3]           # neighbours in a list look alike
+        for f in [f for f in spaced if f not in used] + spaced:       # and never two that look alike
+            lk = look(f)
+            if all(np.abs(lk - o).mean() > 20 for o in looks):
+                break
+        else:
+            continue
+        used.add(f)
+        looks.append(lk)
+        tiles.append({"kind": "detail", "src": f, "work": s})
+        if len(tiles) == 20:
+            break
+    grid, pool = [], tiles[:]                                # no work next to itself (left or above)
+    for i in range(20):
+        nb = {grid[i - 1]["work"] if i % COLS else None, grid[i - COLS]["work"] if i >= COLS else None}
+        t = next((x for x in pool if x["work"] not in nb), pool[0])
+        pool.remove(t)
+        grid.append(t)
+    tiles = grid
+    return {"title": "Kopstal, 2026", "works": KOPSTAL, "fast": fast, "assembly": {"kind": "mosaic", "tiles": tiles}}
 
 
 GENERAL_SKIP = {"the-assassination-of-the-crow"}          # Yiğit: not soon
-GENERAL_GRID = ["angora-mergvs", "penguin-is-not-a-friend-only-a-sinner", "gxd-is-afk-we-banned-it", "viperella",
-                "virgil-on-virtual-cage-final-final-finalv9", "cellular-spleens", "gary-grills-cooper",
-                "the-family-dinner-after-a-night-in-jail", "kreatine-klaude-kettlebell"]
 
 
 def recipe_general():
@@ -252,32 +343,37 @@ def recipe_general():
             continue
         hi = [x for x in d if min(Image.open(workposts.path_of(x)).size) >= 1700]
         pool.append((s, m, hi))
-    fast, i = [], 0
-    while len(fast) < 50:                                   # whole, then a detail of it when there is one
-        s, m, d = pool[i % len(pool)]
-        fast.append({"kind": "whole", "src": m, "trim": s in workposts.TRIM})
-        if d and len(fast) < 50:
-            fast.append({"kind": "detail", "src": d[(i // len(pool)) % len(d)]})
-        i += 1
-    m, d = details_of("kreatine-klaude-kettlebell")
-    slow = [{"kind": "whole", "src": m}] + [{"kind": "detail", "src": d[i]} for i in (0, 8, 4)]
-    grid = [{"kind": "whole", "src": details_of(s)[0], "trim": s in workposts.TRIM} for s in GENERAL_GRID]
-    return {"title": "paintings", "fast": fast, "slow": slow, "grid": grid}
+    groups = []
+    for s, m, d in pool:                                     # each work: the painting filling the frame, then its details
+        groups.append([{"kind": "detail", "src": m, "trim": s in workposts.TRIM, "work": s}] +
+                      [{"kind": "detail", "src": x, "work": s} for x in d[:2]])
+    flat = [g[i] for i in range(3) for g in groups if i < len(g)]
+    gxd = details_of("gxd-is-afk-we-banned-it")[1]
+    fast = spread([flat], len(FAST_CUTS), {"kind": "detail", "src": by_name(gxd, "IMG_6743")})
+    mosaic = [{"kind": "detail", "src": m, "trim": s in workposts.TRIM, "work": s} for s, m, d in pool[:20]]
+    centre = {"angora-mergvs": 5, "kreatine-klaude-kettlebell": 6, "penguin-is-not-a-friend-only-a-sinner": 9,
+              "gxd-is-afk-we-banned-it": 10}
+    for slug, cell in centre.items():                       # strong works in the first tiles to land
+        j = next((i for i, t in enumerate(mosaic) if t["work"] == slug), None)
+        if j is not None:
+            mosaic[cell], mosaic[j] = mosaic[j], mosaic[cell]
+    return {"title": "paintings", "works": [t["work"] for t in mosaic], "fast": fast,
+            "assembly": {"kind": "mosaic", "tiles": mosaic}}
 
 
 RECIPES = {"sept-neuf": recipe_sept_neuf, "kopstal": recipe_kopstal, "genel": recipe_general}
 
 
-def build(recipe, folder, bpm=128):
+def build(recipe, folder):
     os.makedirs(folder, exist_ok=True)
-    spec = {"type": "reel", "reel_type": "music-locked montage (REELS_FORMULU.md)", "bpm": bpm, "fps": 60,
-            **RECIPES[recipe]()}
+    spec = {"type": "reel", "reel_type": "montage in the Virgil V4 format (REELS_FORMULU.md, approved 23 Nov)",
+            "fps": FPS, "music": "Axwell, Barricade (V4's audio, studio part left out)", **RECIPES[recipe]()}
     json.dump(spec, open(os.path.join(folder, "spec.json"), "w", encoding="utf-8"), indent=1, ensure_ascii=False)
     render(folder)
 
 
 if __name__ == "__main__":
     if sys.argv[1] == "build":
-        build(sys.argv[2], sys.argv[3], int(sys.argv[4]) if len(sys.argv) > 4 else 128)
+        build(sys.argv[2], sys.argv[3])
     else:
         render(sys.argv[2])

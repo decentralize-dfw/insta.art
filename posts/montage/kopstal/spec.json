@@ -1,13 +1,23 @@
 {
  "type": "reel",
- "reel_type": "music-locked montage (REELS_FORMULU.md)",
- "bpm": 128,
+ "reel_type": "montage in the Virgil V4 format (REELS_FORMULU.md, approved 23 Nov)",
  "fps": 60,
+ "music": "Axwell, Barricade (V4's audio, studio part left out)",
  "title": "Kopstal, 2026",
+ "works": [
+  "angora-mergvs",
+  "kreatine-klaude-kettlebell",
+  "gxd-is-afk-we-banned-it",
+  "virgil-on-virtual-cage-final-final-finalv9",
+  "painstaking",
+  "gary-grills-cooper",
+  "sept-neuf",
+  "walls-of-perception"
+ ],
  "fast": [
   {
-   "kind": "whole",
-   "src": "details:angora-mergvs/angora-mergvs-10mb.jpg"
+   "kind": "detail",
+   "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-01.jpg"
   },
   {
    "kind": "detail",
@@ -15,23 +25,7 @@
   },
   {
    "kind": "detail",
-   "src": "details:angora-mergvs/angora-mergvs-detail-2.jpg"
-  },
-  {
-   "kind": "whole",
-   "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell.jpg"
-  },
-  {
-   "kind": "detail",
    "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-01.jpg"
-  },
-  {
-   "kind": "detail",
-   "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-02.jpg"
-  },
-  {
-   "kind": "whole",
-   "src": "details:gxdisbanned/gxd-is-banned2.png"
   },
   {
    "kind": "detail",
@@ -39,19 +33,7 @@
   },
   {
    "kind": "detail",
-   "src": "details:gxdisbanned/IMG_6728.jpg"
-  },
-  {
-   "kind": "whole",
-   "src": "details:masters/virgil-on-virtual-cage-RESOLUTION.png"
-  },
-  {
-   "kind": "detail",
    "src": "details:virgilonvirtualcage/virgilonvirtualcage_detail_1.png"
-  },
-  {
-   "kind": "detail",
-   "src": "details:virgilonvirtualcage/virgilonvirtualcage_detail_2.png"
   },
   {
    "kind": "detail",
@@ -59,23 +41,7 @@
   },
   {
    "kind": "detail",
-   "src": "details:painstaking/painstaking-detail-2.jpg"
-  },
-  {
-   "kind": "whole",
-   "src": "yigit:img/full/gary-grills-cooper.jpg"
-  },
-  {
-   "kind": "detail",
    "src": "details:garygrillscooper/garlgrillscooper_detail_1.png"
-  },
-  {
-   "kind": "detail",
-   "src": "details:garygrillscooper/garlgrillscooper_detail_2.png"
-  },
-  {
-   "kind": "whole",
-   "src": "details:sept-neuf/inverted-silvia--7-9.png"
   },
   {
    "kind": "detail",
@@ -83,23 +49,39 @@
   },
   {
    "kind": "detail",
-   "src": "details:sept-neuf/IMG_6644.JPG"
-  },
-  {
-   "kind": "whole",
-   "src": "yigit:img/full/walls-of-perception.jpg"
-  },
-  {
-   "kind": "detail",
    "src": "details:wallsofperception/wallofperception_detail_1.png"
   },
   {
    "kind": "detail",
-   "src": "details:wallsofperception/wallofperception_detail_2.png"
+   "src": "details:angora-mergvs/angora-mergvs-detail-2.jpg"
   },
   {
-   "kind": "whole",
-   "src": "details:angora-mergvs/angora-mergvs-10mb.jpg"
+   "kind": "detail",
+   "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-02.jpg"
+  },
+  {
+   "kind": "detail",
+   "src": "details:gxdisbanned/IMG_6728.jpg"
+  },
+  {
+   "kind": "detail",
+   "src": "details:virgilonvirtualcage/virgilonvirtualcage_detail_2.png"
+  },
+  {
+   "kind": "detail",
+   "src": "details:painstaking/painstaking-detail-2.jpg"
+  },
+  {
+   "kind": "detail",
+   "src": "details:garygrillscooper/garlgrillscooper_detail_2.png"
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6644.JPG"
+  },
+  {
+   "kind": "detail",
+   "src": "details:wallsofperception/wallofperception_detail_2.png"
   },
   {
    "kind": "detail",
@@ -107,23 +89,7 @@
   },
   {
    "kind": "detail",
-   "src": "details:angora-mergvs/angora-mergvs-detail-4.jpg"
-  },
-  {
-   "kind": "whole",
-   "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell.jpg"
-  },
-  {
-   "kind": "detail",
    "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-03.jpg"
-  },
-  {
-   "kind": "detail",
-   "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-04.jpg"
-  },
-  {
-   "kind": "whole",
-   "src": "details:gxdisbanned/gxd-is-banned2.png"
   },
   {
    "kind": "detail",
@@ -131,19 +97,7 @@
   },
   {
    "kind": "detail",
-   "src": "details:gxdisbanned/IMG_6730.jpg"
-  },
-  {
-   "kind": "whole",
-   "src": "details:masters/virgil-on-virtual-cage-RESOLUTION.png"
-  },
-  {
-   "kind": "detail",
    "src": "details:virgilonvirtualcage/virgilonvirtualcage_detail_3.png"
-  },
-  {
-   "kind": "detail",
-   "src": "details:virgilonvirtualcage/virgilonvirtualcage_detail_4.png"
   },
   {
    "kind": "detail",
@@ -151,23 +105,7 @@
   },
   {
    "kind": "detail",
-   "src": "details:painstaking/painstaking-detail-4.jpg"
-  },
-  {
-   "kind": "whole",
-   "src": "yigit:img/full/gary-grills-cooper.jpg"
-  },
-  {
-   "kind": "detail",
    "src": "details:garygrillscooper/garlgrillscooper_detail_3.png"
-  },
-  {
-   "kind": "detail",
-   "src": "details:garygrillscooper/garlgrillscooper_detail_4.png"
-  },
-  {
-   "kind": "whole",
-   "src": "details:sept-neuf/inverted-silvia--7-9.png"
   },
   {
    "kind": "detail",
@@ -175,23 +113,39 @@
   },
   {
    "kind": "detail",
-   "src": "details:sept-neuf/IMG_6648.JPG"
-  },
-  {
-   "kind": "whole",
-   "src": "yigit:img/full/walls-of-perception.jpg"
-  },
-  {
-   "kind": "detail",
    "src": "details:wallsofperception/wallofperception_detail_3.png"
   },
   {
    "kind": "detail",
-   "src": "details:wallsofperception/wallofperception_detail_4.png"
+   "src": "details:angora-mergvs/angora-mergvs-detail-4.jpg"
   },
   {
-   "kind": "whole",
-   "src": "details:angora-mergvs/angora-mergvs-10mb.jpg"
+   "kind": "detail",
+   "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-04.jpg"
+  },
+  {
+   "kind": "detail",
+   "src": "details:gxdisbanned/IMG_6730.jpg"
+  },
+  {
+   "kind": "detail",
+   "src": "details:virgilonvirtualcage/virgilonvirtualcage_detail_4.png"
+  },
+  {
+   "kind": "detail",
+   "src": "details:painstaking/painstaking-detail-4.jpg"
+  },
+  {
+   "kind": "detail",
+   "src": "details:garygrillscooper/garlgrillscooper_detail_4.png"
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6648.JPG"
+  },
+  {
+   "kind": "detail",
+   "src": "details:wallsofperception/wallofperception_detail_4.png"
   },
   {
    "kind": "detail",
@@ -199,47 +153,19 @@
   },
   {
    "kind": "detail",
-   "src": "details:angora-mergvs/angora-mergvs-detail-6.jpg"
-  },
-  {
-   "kind": "whole",
-   "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell.jpg"
-  }
- ],
- "slow": [
-  {
-   "kind": "whole",
-   "src": "details:angora-mergvs/angora-mergvs-10mb.jpg"
+   "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-05.jpg"
   },
   {
    "kind": "detail",
-   "src": "details:angora-mergvs/angora-mergvs-detail-6.jpg"
+   "src": "details:gxdisbanned/IMG_6731.jpg"
   },
   {
    "kind": "detail",
-   "src": "details:angora-mergvs/angora-mergvs-detail-8.jpg"
+   "src": "details:virgilonvirtualcage/virgilonvirtualcage_detail_5.png"
   },
   {
    "kind": "detail",
-   "src": "details:angora-mergvs/angora-mergvs-detail-10.jpg"
-  }
- ],
- "grid": [
-  {
-   "kind": "detail",
-   "src": "details:angora-mergvs/angora-mergvs-detail-6.jpg"
-  },
-  {
-   "kind": "detail",
-   "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-08.jpg"
-  },
-  {
-   "kind": "detail",
-   "src": "details:gxdisbanned/IMG_6737.jpg"
-  },
-  {
-   "kind": "detail",
-   "src": "details:virgilonvirtualcage/virgilonvirtualcage_detail_6.png"
+   "src": "details:painstaking/painstaking-detail-5.jpg"
   },
   {
    "kind": "detail",
@@ -247,19 +173,136 @@
   },
   {
    "kind": "detail",
-   "src": "details:painstaking/painstaking-detail-8.jpg"
+   "src": "details:sept-neuf/IMG_6653.JPG"
   },
   {
    "kind": "detail",
-   "src": "details:sept-neuf/IMG_6648.JPG"
+   "src": "details:wallsofperception/wallofperception_detail_1.png"
   },
   {
    "kind": "detail",
-   "src": "details:wallsofperception/wallofperception_detail_3.png"
+   "src": "details:angora-mergvs/angora-mergvs-detail-6.jpg"
   },
   {
    "kind": "detail",
-   "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-11.jpg"
+   "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-06.jpg"
+  },
+  {
+   "kind": "detail",
+   "src": "details:gxdisbanned/IMG_6733.jpg"
+  },
+  {
+   "kind": "detail",
+   "src": "details:virgilonvirtualcage/virgilonvirtualcage_detail_6.png"
+  },
+  {
+   "kind": "detail",
+   "src": "details:painstaking/painstaking-detail-6.jpg"
   }
- ]
+ ],
+ "assembly": {
+  "kind": "mosaic",
+  "tiles": [
+   {
+    "kind": "detail",
+    "src": "details:angora-mergvs/angora-mergvs-detail-8.jpg",
+    "work": "angora-mergvs"
+   },
+   {
+    "kind": "detail",
+    "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-08.jpg",
+    "work": "kreatine-klaude-kettlebell"
+   },
+   {
+    "kind": "detail",
+    "src": "details:gxdisbanned/IMG_6736.jpg",
+    "work": "gxd-is-afk-we-banned-it"
+   },
+   {
+    "kind": "detail",
+    "src": "details:virgilonvirtualcage/virgilonvirtualcage_detail_8.png",
+    "work": "virgil-on-virtual-cage-final-final-finalv9"
+   },
+   {
+    "kind": "detail",
+    "src": "details:painstaking/painstaking-detail-8.jpg",
+    "work": "painstaking"
+   },
+   {
+    "kind": "detail",
+    "src": "details:garygrillscooper/garlgrillscooper_detail_8.png",
+    "work": "gary-grills-cooper"
+   },
+   {
+    "kind": "detail",
+    "src": "details:sept-neuf/IMG_6658.JPG",
+    "work": "sept-neuf"
+   },
+   {
+    "kind": "detail",
+    "src": "details:wallsofperception/wallofperception_detail_2.png",
+    "work": "walls-of-perception"
+   },
+   {
+    "kind": "detail",
+    "src": "details:angora-mergvs/angora-mergvs-detail-11.jpg",
+    "work": "angora-mergvs"
+   },
+   {
+    "kind": "detail",
+    "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-11.jpg",
+    "work": "kreatine-klaude-kettlebell"
+   },
+   {
+    "kind": "detail",
+    "src": "details:gxdisbanned/IMG_6741.jpg",
+    "work": "gxd-is-afk-we-banned-it"
+   },
+   {
+    "kind": "detail",
+    "src": "details:virgilonvirtualcage/virgilonvirtualcage_detail_9.png",
+    "work": "virgil-on-virtual-cage-final-final-finalv9"
+   },
+   {
+    "kind": "detail",
+    "src": "details:painstaking/painstaking-detail-11.jpg",
+    "work": "painstaking"
+   },
+   {
+    "kind": "detail",
+    "src": "details:garygrillscooper/garlgrillscooper_detail_6.png",
+    "work": "gary-grills-cooper"
+   },
+   {
+    "kind": "detail",
+    "src": "details:sept-neuf/IMG_6691.JPG",
+    "work": "sept-neuf"
+   },
+   {
+    "kind": "detail",
+    "src": "details:wallsofperception/wallofperception_detail_3.png",
+    "work": "walls-of-perception"
+   },
+   {
+    "kind": "detail",
+    "src": "details:angora-mergvs/angora-mergvs-detail-9.jpg",
+    "work": "angora-mergvs"
+   },
+   {
+    "kind": "detail",
+    "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-14.jpg",
+    "work": "kreatine-klaude-kettlebell"
+   },
+   {
+    "kind": "detail",
+    "src": "details:gxdisbanned/IMG_6748.jpg",
+    "work": "gxd-is-afk-we-banned-it"
+   },
+   {
+    "kind": "detail",
+    "src": "details:virgilonvirtualcage/virgilonvirtualcage_detail_7.png",
+    "work": "virgil-on-virtual-cage-final-final-finalv9"
+   }
+  ]
+ }
 }

@@ -1,304 +1,418 @@
 {
  "type": "reel",
- "reel_type": "music-locked montage (REELS_FORMULU.md)",
- "bpm": 128,
+ "reel_type": "montage in the Virgil V4 format (REELS_FORMULU.md, approved 23 Nov)",
  "fps": 60,
+ "music": "Axwell, Barricade (V4's audio, studio part left out)",
  "title": "paintings",
+ "works": [
+  "walls-of-perception",
+  "virgil-on-virtual-cage-final-final-finalv9",
+  "sept-neuf",
+  "s-t-lop",
+  "gary-grills-cooper",
+  "angora-mergvs",
+  "kreatine-klaude-kettlebell",
+  "articulo-attack-on-mandarin",
+  "7-fam-board-game",
+  "penguin-is-not-a-friend-only-a-sinner",
+  "gxd-is-afk-we-banned-it",
+  "when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire",
+  "viperella",
+  "the-on-top-ruler",
+  "the-family-dinner-after-a-night-in-jail",
+  "portal-ticino",
+  "cute-but-unemployed-cartoon-figure",
+  "ciao-capo-sono-squalo",
+  "cellular-spleens",
+  "caprocorn-sister-war-plague-earthquake"
+ ],
  "fast": [
   {
-   "kind": "whole",
+   "kind": "detail",
+   "src": "details:gxdisbanned/IMG_6743.jpg"
+  },
+  {
+   "kind": "detail",
    "src": "yigit:img/full/walls-of-perception.jpg",
-   "trim": false
+   "trim": false,
+   "work": "walls-of-perception"
   },
   {
    "kind": "detail",
-   "src": "details:wallsofperception/wallofperception_detail_1.png"
-  },
-  {
-   "kind": "whole",
    "src": "details:masters/virgil-on-virtual-cage-RESOLUTION.png",
-   "trim": false
+   "trim": false,
+   "work": "virgil-on-virtual-cage-final-final-finalv9"
   },
   {
    "kind": "detail",
-   "src": "details:virgilonvirtualcage/virgilonvirtualcage_detail_1.png"
-  },
-  {
-   "kind": "whole",
    "src": "details:sept-neuf/inverted-silvia--7-9.png",
-   "trim": false
+   "trim": false,
+   "work": "sept-neuf"
   },
   {
    "kind": "detail",
-   "src": "details:sept-neuf/IMG_6643.JPG"
-  },
-  {
-   "kind": "whole",
    "src": "yigit:img/full/s-t-lop.jpg",
-   "trim": false
+   "trim": false,
+   "work": "s-t-lop"
   },
   {
-   "kind": "whole",
+   "kind": "detail",
    "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell.jpg",
-   "trim": false
+   "trim": false,
+   "work": "kreatine-klaude-kettlebell"
   },
   {
    "kind": "detail",
-   "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-01.jpg"
-  },
-  {
-   "kind": "whole",
    "src": "details:gxdisbanned/gxd-is-banned2.png",
-   "trim": false
+   "trim": false,
+   "work": "gxd-is-afk-we-banned-it"
   },
   {
    "kind": "detail",
-   "src": "details:gxdisbanned/IMG_6720.jpg"
-  },
-  {
-   "kind": "whole",
    "src": "yigit:img/full/gary-grills-cooper.jpg",
-   "trim": false
+   "trim": false,
+   "work": "gary-grills-cooper"
   },
   {
    "kind": "detail",
-   "src": "details:garygrillscooper/garlgrillscooper_detail_1.png"
-  },
-  {
-   "kind": "whole",
    "src": "yigit:img/full/articulo-attack-on-mandarin.jpg",
-   "trim": false
-  },
-  {
-   "kind": "whole",
-   "src": "details:angora-mergvs/angora-mergvs-10mb.jpg",
-   "trim": false
+   "trim": false,
+   "work": "articulo-attack-on-mandarin"
   },
   {
    "kind": "detail",
-   "src": "details:angora-mergvs/angora-mergvs-detail-1.jpg"
+   "src": "details:angora-mergvs/angora-mergvs-10mb.jpg",
+   "trim": false,
+   "work": "angora-mergvs"
   },
   {
-   "kind": "whole",
+   "kind": "detail",
    "src": "details:7famboardgame/7fam-board-game.png",
-   "trim": false
+   "trim": false,
+   "work": "7-fam-board-game"
   },
   {
-   "kind": "whole",
+   "kind": "detail",
    "src": "yigit:img/full/penguin-is-not-a-friend-only-a-sinner.jpg",
-   "trim": true
+   "trim": true,
+   "work": "penguin-is-not-a-friend-only-a-sinner"
   },
   {
-   "kind": "whole",
+   "kind": "detail",
    "src": "details2:when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire/when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire.png",
-   "trim": false
+   "trim": false,
+   "work": "when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire"
   },
   {
    "kind": "detail",
-   "src": "details2:when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire/when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire-detail-01.jpg"
-  },
-  {
-   "kind": "whole",
    "src": "details2:viperella/viperella.png",
-   "trim": false
+   "trim": false,
+   "work": "viperella"
   },
   {
    "kind": "detail",
-   "src": "details2:viperella/viperella-detail-01.jpg"
-  },
-  {
-   "kind": "whole",
    "src": "yigit:img/full/the-on-top-ruler.jpg",
-   "trim": true
-  },
-  {
-   "kind": "whole",
-   "src": "details2:the-family-dinner-after-a-night-in-jail/the-family-dinner-after-a-night-in-jail.png",
-   "trim": false
+   "trim": true,
+   "work": "the-on-top-ruler"
   },
   {
    "kind": "detail",
-   "src": "details2:the-family-dinner-after-a-night-in-jail/the-family-dinner-after-a-night-in-jail-detail-01.jpg"
+   "src": "details2:the-family-dinner-after-a-night-in-jail/the-family-dinner-after-a-night-in-jail.png",
+   "trim": false,
+   "work": "the-family-dinner-after-a-night-in-jail"
   },
   {
-   "kind": "whole",
+   "kind": "detail",
    "src": "details2:portal-ticino/portal-ticino.png",
-   "trim": false
+   "trim": false,
+   "work": "portal-ticino"
   },
   {
    "kind": "detail",
-   "src": "details2:portal-ticino/portal-ticino-detail-01.jpg"
-  },
-  {
-   "kind": "whole",
    "src": "details2:cute-but-unemployed-cartoon-figure/cute-but-unemployed-cartoon-figure.png",
-   "trim": false
+   "trim": false,
+   "work": "cute-but-unemployed-cartoon-figure"
   },
   {
    "kind": "detail",
-   "src": "details2:cute-but-unemployed-cartoon-figure/cute-but-unemployed-cartoon-figure-detail-01.jpg"
-  },
-  {
-   "kind": "whole",
    "src": "details2:ciao-capo-sono-squalo/ciao-capo-sono-squalo.png",
-   "trim": false
+   "trim": false,
+   "work": "ciao-capo-sono-squalo"
   },
   {
    "kind": "detail",
-   "src": "details2:ciao-capo-sono-squalo/ciao-capo-sono-squalo-detail-01.jpg"
-  },
-  {
-   "kind": "whole",
    "src": "details2:cellular-spleens/cellular-spleens.png",
-   "trim": false
+   "trim": false,
+   "work": "cellular-spleens"
   },
   {
    "kind": "detail",
-   "src": "details2:cellular-spleens/cellular-spleens-detail-01.jpg"
-  },
-  {
-   "kind": "whole",
    "src": "details2:caprocorn-sister-war-plague-earthquake/caprocorn-sister-war-plague-earthquake.png",
-   "trim": false
+   "trim": false,
+   "work": "caprocorn-sister-war-plague-earthquake"
   },
   {
    "kind": "detail",
-   "src": "details2:caprocorn-sister-war-plague-earthquake/caprocorn-sister-war-plague-earthquake-detail-01.jpg"
-  },
-  {
-   "kind": "whole",
    "src": "yigit:img/full/bacchus-2.jpg",
-   "trim": true
+   "trim": true,
+   "work": "bacchus-2"
   },
   {
-   "kind": "whole",
+   "kind": "detail",
    "src": "details2:wings-of-abyss/wings-of-abyss.png",
-   "trim": false
+   "trim": false,
+   "work": "wings-of-abyss"
   },
   {
    "kind": "detail",
-   "src": "details2:wings-of-abyss/wings-of-abyss-detail-01.jpg"
-  },
-  {
-   "kind": "whole",
    "src": "details2:untitled/untitled.png",
-   "trim": false
+   "trim": false,
+   "work": "untitled"
   },
   {
    "kind": "detail",
-   "src": "details2:untitled/untitled-detail-01.jpg"
-  },
-  {
-   "kind": "whole",
    "src": "yigit:img/full/society-screwing-balance.jpg",
-   "trim": true
+   "trim": true,
+   "work": "society-screwing-balance"
   },
   {
-   "kind": "whole",
+   "kind": "detail",
    "src": "yigit:img/full/see-u-in-the-other-side.jpg",
-   "trim": true
+   "trim": true,
+   "work": "see-u-in-the-other-side"
   },
   {
-   "kind": "whole",
+   "kind": "detail",
    "src": "yigit:img/full/remixed-execution-of-lucid-drowning.jpg",
-   "trim": true
+   "trim": true,
+   "work": "remixed-execution-of-lucid-drowning"
   },
   {
-   "kind": "whole",
+   "kind": "detail",
    "src": "details2:morbid-forebodings-triggered-by-childish-landscape/morbid-forebodings-triggered-by-childish-landscape.png",
-   "trim": false
+   "trim": false,
+   "work": "morbid-forebodings-triggered-by-childish-landscape"
   },
   {
    "kind": "detail",
-   "src": "details2:morbid-forebodings-triggered-by-childish-landscape/morbid-forebodings-triggered-by-childish-landscape-detail-01.jpg"
-  },
-  {
-   "kind": "whole",
    "src": "details2:il-sbagliato-di-rompipalle/il-sbagliato-di-rompipalle.png",
-   "trim": false
+   "trim": false,
+   "work": "il-sbagliato-di-rompipalle"
   },
   {
    "kind": "detail",
-   "src": "details2:il-sbagliato-di-rompipalle/il-sbagliato-di-rompipalle-detail-01.jpg"
-  },
-  {
-   "kind": "whole",
    "src": "details2:good-people-helping-bad-ones-thats-why-theyre-bad-too/good-people-helping-bad-ones-thats-why-theyre-bad-too.png",
-   "trim": false
+   "trim": false,
+   "work": "good-people-helping-bad-ones-thats-why-theyre-bad-too"
   },
   {
    "kind": "detail",
-   "src": "details2:good-people-helping-bad-ones-thats-why-theyre-bad-too/good-people-helping-bad-ones-thats-why-theyre-bad-too-detail-01.jpg"
-  },
-  {
-   "kind": "whole",
    "src": "details2:duality-of-the-angelic-summarization/duality-of-the-angelic-summarization.jpg",
-   "trim": false
+   "trim": false,
+   "work": "duality-of-the-angelic-summarization"
+  },
+  {
+   "kind": "detail",
+   "src": "yigit:img/full/despite-transgression.jpg",
+   "trim": true,
+   "work": "despite-transgression"
+  },
+  {
+   "kind": "detail",
+   "src": "yigit:img/full/burningman-fast.jpg",
+   "trim": true,
+   "work": "burningman-fast"
+  },
+  {
+   "kind": "detail",
+   "src": "details2:amor-cathedra/amor-cathedra.png",
+   "trim": false,
+   "work": "amor-cathedra"
+  },
+  {
+   "kind": "detail",
+   "src": "details:wallsofperception/wallofperception_detail_1.png",
+   "work": "walls-of-perception"
+  },
+  {
+   "kind": "detail",
+   "src": "details:virgilonvirtualcage/virgilonvirtualcage_detail_1.png",
+   "work": "virgil-on-virtual-cage-final-final-finalv9"
+  },
+  {
+   "kind": "detail",
+   "src": "details:sept-neuf/IMG_6643.JPG",
+   "work": "sept-neuf"
+  },
+  {
+   "kind": "detail",
+   "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-01.jpg",
+   "work": "kreatine-klaude-kettlebell"
+  },
+  {
+   "kind": "detail",
+   "src": "details:gxdisbanned/IMG_6720.jpg",
+   "work": "gxd-is-afk-we-banned-it"
+  },
+  {
+   "kind": "detail",
+   "src": "details:garygrillscooper/garlgrillscooper_detail_1.png",
+   "work": "gary-grills-cooper"
+  },
+  {
+   "kind": "detail",
+   "src": "details:angora-mergvs/angora-mergvs-detail-1.jpg",
+   "work": "angora-mergvs"
+  },
+  {
+   "kind": "detail",
+   "src": "details2:when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire/when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire-detail-01.jpg",
+   "work": "when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire"
+  },
+  {
+   "kind": "detail",
+   "src": "details2:viperella/viperella-detail-01.jpg",
+   "work": "viperella"
+  },
+  {
+   "kind": "detail",
+   "src": "details2:the-family-dinner-after-a-night-in-jail/the-family-dinner-after-a-night-in-jail-detail-01.jpg",
+   "work": "the-family-dinner-after-a-night-in-jail"
+  },
+  {
+   "kind": "detail",
+   "src": "details2:portal-ticino/portal-ticino-detail-01.jpg",
+   "work": "portal-ticino"
+  },
+  {
+   "kind": "detail",
+   "src": "details2:cute-but-unemployed-cartoon-figure/cute-but-unemployed-cartoon-figure-detail-01.jpg",
+   "work": "cute-but-unemployed-cartoon-figure"
   }
  ],
- "slow": [
-  {
-   "kind": "whole",
-   "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell.jpg"
-  },
-  {
-   "kind": "detail",
-   "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-01.jpg"
-  },
-  {
-   "kind": "detail",
-   "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-09.jpg"
-  },
-  {
-   "kind": "detail",
-   "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell-detail-05.jpg"
-  }
- ],
- "grid": [
-  {
-   "kind": "whole",
-   "src": "details:angora-mergvs/angora-mergvs-10mb.jpg",
-   "trim": false
-  },
-  {
-   "kind": "whole",
-   "src": "yigit:img/full/penguin-is-not-a-friend-only-a-sinner.jpg",
-   "trim": true
-  },
-  {
-   "kind": "whole",
-   "src": "details:gxdisbanned/gxd-is-banned2.png",
-   "trim": false
-  },
-  {
-   "kind": "whole",
-   "src": "details2:viperella/viperella.png",
-   "trim": false
-  },
-  {
-   "kind": "whole",
-   "src": "details:masters/virgil-on-virtual-cage-RESOLUTION.png",
-   "trim": false
-  },
-  {
-   "kind": "whole",
-   "src": "details2:cellular-spleens/cellular-spleens.png",
-   "trim": false
-  },
-  {
-   "kind": "whole",
-   "src": "yigit:img/full/gary-grills-cooper.jpg",
-   "trim": false
-  },
-  {
-   "kind": "whole",
-   "src": "details2:the-family-dinner-after-a-night-in-jail/the-family-dinner-after-a-night-in-jail.png",
-   "trim": false
-  },
-  {
-   "kind": "whole",
-   "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell.jpg",
-   "trim": false
-  }
- ]
+ "assembly": {
+  "kind": "mosaic",
+  "tiles": [
+   {
+    "kind": "detail",
+    "src": "yigit:img/full/walls-of-perception.jpg",
+    "trim": false,
+    "work": "walls-of-perception"
+   },
+   {
+    "kind": "detail",
+    "src": "details:masters/virgil-on-virtual-cage-RESOLUTION.png",
+    "trim": false,
+    "work": "virgil-on-virtual-cage-final-final-finalv9"
+   },
+   {
+    "kind": "detail",
+    "src": "details:sept-neuf/inverted-silvia--7-9.png",
+    "trim": false,
+    "work": "sept-neuf"
+   },
+   {
+    "kind": "detail",
+    "src": "yigit:img/full/s-t-lop.jpg",
+    "trim": false,
+    "work": "s-t-lop"
+   },
+   {
+    "kind": "detail",
+    "src": "yigit:img/full/gary-grills-cooper.jpg",
+    "trim": false,
+    "work": "gary-grills-cooper"
+   },
+   {
+    "kind": "detail",
+    "src": "details:angora-mergvs/angora-mergvs-10mb.jpg",
+    "trim": false,
+    "work": "angora-mergvs"
+   },
+   {
+    "kind": "detail",
+    "src": "details2:kreatine-klaude-kettlebell/kreatine-klaude-kettlebell.jpg",
+    "trim": false,
+    "work": "kreatine-klaude-kettlebell"
+   },
+   {
+    "kind": "detail",
+    "src": "yigit:img/full/articulo-attack-on-mandarin.jpg",
+    "trim": false,
+    "work": "articulo-attack-on-mandarin"
+   },
+   {
+    "kind": "detail",
+    "src": "details:7famboardgame/7fam-board-game.png",
+    "trim": false,
+    "work": "7-fam-board-game"
+   },
+   {
+    "kind": "detail",
+    "src": "yigit:img/full/penguin-is-not-a-friend-only-a-sinner.jpg",
+    "trim": true,
+    "work": "penguin-is-not-a-friend-only-a-sinner"
+   },
+   {
+    "kind": "detail",
+    "src": "details:gxdisbanned/gxd-is-banned2.png",
+    "trim": false,
+    "work": "gxd-is-afk-we-banned-it"
+   },
+   {
+    "kind": "detail",
+    "src": "details2:when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire/when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire.png",
+    "trim": false,
+    "work": "when-the-darkness-surrounds-be-among-those-who-burn-the-great-fire"
+   },
+   {
+    "kind": "detail",
+    "src": "details2:viperella/viperella.png",
+    "trim": false,
+    "work": "viperella"
+   },
+   {
+    "kind": "detail",
+    "src": "yigit:img/full/the-on-top-ruler.jpg",
+    "trim": true,
+    "work": "the-on-top-ruler"
+   },
+   {
+    "kind": "detail",
+    "src": "details2:the-family-dinner-after-a-night-in-jail/the-family-dinner-after-a-night-in-jail.png",
+    "trim": false,
+    "work": "the-family-dinner-after-a-night-in-jail"
+   },
+   {
+    "kind": "detail",
+    "src": "details2:portal-ticino/portal-ticino.png",
+    "trim": false,
+    "work": "portal-ticino"
+   },
+   {
+    "kind": "detail",
+    "src": "details2:cute-but-unemployed-cartoon-figure/cute-but-unemployed-cartoon-figure.png",
+    "trim": false,
+    "work": "cute-but-unemployed-cartoon-figure"
+   },
+   {
+    "kind": "detail",
+    "src": "details2:ciao-capo-sono-squalo/ciao-capo-sono-squalo.png",
+    "trim": false,
+    "work": "ciao-capo-sono-squalo"
+   },
+   {
+    "kind": "detail",
+    "src": "details2:cellular-spleens/cellular-spleens.png",
+    "trim": false,
+    "work": "cellular-spleens"
+   },
+   {
+    "kind": "detail",
+    "src": "details2:caprocorn-sister-war-plague-earthquake/caprocorn-sister-war-plague-earthquake.png",
+    "trim": false,
+    "work": "caprocorn-sister-war-plague-earthquake"
+   }
+  ]
+ }
 }
